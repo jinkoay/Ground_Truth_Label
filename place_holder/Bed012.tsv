@@ -1,0 +1,1008 @@
+So I guess this is  more  or less now just to get  you  up to date, Johno.	0
+This is what, uh,	0
+This  is a meeting for  me.	0
+um,	0
+Eva,	0
+Bhaskara, and I did.	0
+Did you add more stuff to it?  later?	0
+Um. Why?	0
+Um.	0
+I  don't know.	0
+There were, like, the - you know,  @@  and all that stuff. But.	0
+I thought you - you said you were adding stuff but  I don't know.	0
+Uh, no. This is -	0
+Um,	0
+Ha!	0
+Very nice.	0
+Um, so we thought that,	0
+We can write up	0
+uh,	0
+an element,	0
+and - for each of the situation	0
+nodes that we observed in [MASK]	0
+So.	0
+What's the  situation   like at the entity that is mentioned? if we know anything about it? Is it under construction?	0
+Or is it	0
+on fire or something  happening to it? Or is it stable?	0
+and so forth, going all the way	0
+um,	0
+f-	0
+through Parking,	0
+Location, Hotel, Car, Restroom,	0
+@@	0
+Riots, Fairs, Strikes, or	0
+Disasters.	0
+So is - This is - A situation are - is all the things which can be happening right  now?	0
+Or,  what  is the situation	0
+type?	0
+That's basically  just specifying the - the input for the - w- what's	0
+Oh,  I  see y- Why are you specifying it in X_M_L?	0
+Um.	0
+Just because it forces us to be specific about the values	0
+here?	0
+O_K.	0
+And, also, I mean, this is a - what the input is going to be. Right?	0
+So, we will, uh -	0
+This is a  schema.  This is -	0
+Well, yeah. I just don't know if this is th- l- what the - Does - This is what [MASK] takes? as a	0
+No, because I mean if we -	0
+[MASK]	0
+I mean we're  sure  gonna interface to -	0
+We're gonna get an X_M_L document from  somewhere.	0
+Right? And that X_M_L document will say	0
+"We  are  able to - We  were  able to observe that w- the element,	0
+um,  @@   of the Location that the  car  is  near. "	0
+So that's gonna be -	0
+Um.	0
+So this is the situational context, everything in it. Is that what Situation is short for, shi- situational context?	0
+Yep.	0
+O_K.	0
+So this is just,	0
+again, a- an X_M_L schemata which defines a set of possible, uh, permissible X_M_L	0
+structures,	0
+which we view as [MASK]	0
+Right?	0
+And then we can r-  uh	0
+possibly run one of them uh	0
+transformations?	0
+That put it into the format that [MASK] or whatever wants?	0
+Yea- Are you talking - are you talking about the - the  structure?	0
+Well it -	0
+I mean when you  observe  a node.	0
+When you - when you say	0
+[MASK]	0
+Um-hmm.	0
+it takes a certain format, right?	0
+Which I don't think is  this.	0
+Although I don't know.	0
+No, it's  certainly  not this.	0
+Nuh.	0
+So you could just - Couldn't you just run a -	0
+[MASK] .  Yeah.	0
+Yeah.	0
+To convert it into [MASK]	0
+Yep.	0
+O_K.	0
+That's -	0
+That's no problem, but	0
+I even think that, um -	0
+I mean,  once   - Once you have this sort of as - running as a module -	0
+Right? What you  want  is -	0
+You wanna say, "O_K, give me [MASK]	0
+when  this  is happening."	0
+Right? When the person said  this,  the car is  there,  it's  raining,  and this is happening.	0
+And with  this  you can specify the - what's happening in the situation, and what's happening	0
+with the  user.	0
+So we get -	0
+After we are done, through the Situation we get [MASK]	0
+So, this is a -	0
+So this is just a specification of all the possible inputs?	1
+Yep.	0
+And,	0
+all the possible  outputs,   too.	0
+O_K.	0
+So, we have, um,	0
+for example, the, uh, [MASK]	0
+which has two	0
+elements, going-there	0
+and [MASK]	0
+and  not-going-there  and [MASK]	0
+because the output is always gonna be	0
+[MASK] and all the - the - a-	0
+And then we would just look at [MASK] that we wanna look at in terms of if - if we're only asking about one of the -	0
+So like, if I'm just interested in [MASK]	0
+I would just pull that [MASK]	0
+that gets return- that would - [MASK] would output?	0
+Um,	0
+pretty much, yes, but	0
+I think it's a little bit more complex.	0
+As, if I understand it correctly, it  always  gives you  all  [MASK] for	0
+So, when we	0
+input   something,	0
+we always get the, uh, [MASK] for all of these. Right?	0
+O_K.	0
+So there is no way of telling it t-	0
+not  to tell us about [MASK]	0
+Yeah,  wait  I agree, that's - yeah,  use - oh, uh   Yeah, O_K.	0
+So - so we get this whole	0
+list  of - of, um,	0
+things, and the question is	1
+what to  do  with it,	1
+what to hand on,	0
+how to  interpret  it,	1
+in a sense.	0
+So y- you said if you - "I'm only interested in whether he wants to  go  there or not", then I just  look  at that  node,	0
+look which one -	0
+Look at [MASK] right?	0
+Yep.	0
+Look at [MASK] even though	0
+I wouldn't call it [MASK] But.	0
+Well i- well, it's an X_M_L Structure that's being res- returned, right?	0
+Oh. Mm-hmm.	0
+So every part of a structure is a "Struct".	0
+Yeah.	0
+Yeah, I just uh - I just was - abbreviated it	0
+to [MASK] in my head, and	0
+started going with that.	0
+That  element or object,	0
+I would say.	0
+Not [MASK] That's not what I was trying to k-  though  yeah.	0
+Yeah.	0
+O_K.	0
+And, um,	0
+the reason is -	0
+why I think it's a little bit more complex or why - why we can even think about it as an interesting problem in and of itself is -	0
+Um.	0
+So.	0
+The, uh -	0
+Let's look at an  example.	0
+Well, w- wouldn't we just take the structure that's outputted	0
+and then run another transformation on it, that would just dump the one that we wanted out?	0
+Yeah. w- We'd need to  prune.	0
+Right?	0
+Throw things away.	0
+Well, actually, you don't even need to  do  that with X_M_L. D- Can't you just look at one specific -	0
+No-	0
+Yeah,  exactly.  The -  @@	0
+[MASK]	0
+allows you to say, u- "Just give me the value of that, and that, and that."	0
+But, we don't really  know  what we're interested in  before we look at the  complete  - at - at the  overall  result.	0
+So the person said,	1
+um,	0
+"Where is X_?" and so,	1
+we  want to know,	1
+um,	0
+is - Does he want	0
+info?	1
+o- on this? or know the  location?	1
+Or does he want to  go  there?	1
+Let's assume this is our - our question.	0
+Sure.	0
+Nuh?	0
+So.	0
+Um.	0
+@@	0
+Do this in Perl.	0
+So we get -	0
+O_K .	0
+Let's assume this is the output.	0
+So.	0
+We should con- be able to conclude from that that -	0
+I mean. It's  always  gonna give us a value of	1
+how likely we think i- it is that he  wants  to go there and  doesn't  want to go there,	1
+or how likely it is that he  wants  to	1
+get  information.	1
+But, maybe w- we should just  reverse  this to make it a  little  bit more  delicate.	0
+So, does he wanna know where it  is?  or does he wanna  go  there?	0
+He wants to know where it is.	0
+Right.	0
+I - I - I tend to agree. And if it's -	0
+If -	0
+Well now, y- I mean, you could -	0
+And i- if there's sort of a clear winner  here,	0
+and, um -	0
+and this is pretty, uh -	0
+indifferent,	0
+then we - then we might conclude that he actually wants to	0
+just know where, uh t- uh, he  does  want to go there.	0
+Uh, out of curiosity, is there a reason why we wouldn't	0
+combine	0
+these three nodes?	0
+into [MASK]	0
+that would just	0
+basically be	0
+the question for - We have "where is X_?" is the question, right? That would just be [MASK]	0
+Based upon -	0
+Or [MASK] A lot of people ask that, if they actually just wanna  go  there.	0
+People come up to you on campus and say, "Where's the library?"	0
+You're gonna say - y- you're gonna say, g- "Go down  that  way."	0
+You're not gonna say "It's - It's five hundred yards away from you" or "It's north of you", or -	0
+"it's located -"	0
+Well, I mean - But the - there's - So you just have three	0
+decisions for the final node, that would link thes- [MASK] together.	0
+Um.	0
+I don't know whether I  understand  what you mean. But.  Again,  in  this  -	0
+Given this input, we, also in some situations, may wanna	0
+postulate an opinion whether	0
+that person wants to go there  now	0
+the  nicest  way, use a  cab,  or so s-	0
+wants to know it - wants to know where it is because he wants something  fixed  there, because he wants to	0
+visit t- it or whatever.	0
+So, it - n- I mean - a-  All  I'm saying is,	1
+whatever our input  is,  we're always gonna get the full	0
+output.	1
+And some -	1
+some  things	0
+will always be sort of	0
+too - not significant enough.	1
+Wha-	0
+Or i- or i- it'll be tight. You won't - it'll be hard to decide. But I mean, I guess - I guess the thing is,	1
+Yep.	0
+uh,	0
+this is another, smaller, case of reasoning in the case of an  uncertainty,  which makes me think [MASK] should be	0
+the way to  solve	0
+these things. So if you had - If for every construction, right?	0
+Oh!	0
+you could say, "Well, there - Here's [MASK]"	1
+And for [MASK] we know we need to l- look at this node,	1
+that merges these three things together	1
+Mm-hmm.	1
+as for th- to decide the response. And since we have a finite number of constructions that we can deal with, we could have a finite number of nodes.	0
+O_K.	0
+Say, if we had to y- deal with arbitrary language, it wouldn't make any sense to do that, because	0
+Mm-hmm.	0
+there'd be no way to generate the nodes for every possible sentence.	0
+Mm-hmm.	0
+But since we can only deal with a finite amount of stuff -	0
+So, basically, the idea is to f-	1
+to feed the output of that	0
+[MASK] into [MASK]	1
+Yeah, so basically take these three things and then put  them   into [MASK]	0
+But, why - why - why only those  three?  Why not the whol-	0
+Well, I mean, d- For [MASK]	0
+So we'd have a node for [MASK]	0
+Yeah. But we believe that [MASK] are - can be relevant	0
+and [MASK]	0
+Is food not allowed in here?	0
+You can come in if you want.	0
+Yes, it  is  allowed.	0
+As long as y- you're not wearing your h- your h-  headphones.	0
+Alright. Just a second. I'll be back.	0
+Well, I do- I - See, I don't know if this is a  good idea or not. I'm just throwing it out.	0
+But uh, it seems like we could have - I mea- or uh we could put all of the- all of the r- information that could also be relevant	0
+into [MASK]	0
+Mm-hmm.	0
+Yep.	0
+node	0
+thing	0
+stuff.	0
+And uh -	0
+O_K.	0
+I mean -	0
+Let's not forget we're gonna get some very strong  input from  these sub- dis- from [MASK] right?	0
+So.	0
+"Tell me the location of X_."	0
+Nuh?	0
+Or "Where is X_ located	0
+We u-	0
+at?" Nuh?	0
+Yeah, I know, but t[MASK] would be able to - The weights on the -	0
+on [MASK] would be able to do all that, wouldn't it?	0
+Mm-hmm.	0
+Here's a k-	0
+Oh!	0
+Oh, I'll wait until you're  plugged in.	0
+Oh,  don't  sit there. Sit  here.	0
+You know how you don't like  that  one. It's O_K.	0
+Oh, do I not?	0
+That's  the  weird  one.	0
+That's the one that's painful. That hurts. It hurts  so  bad.	0
+I'm h- I'm happy that they're recording that.	0
+That headphone. The headphone  that you have to put on backwards, with the little - little thing - and the little - little foam block on it?	0
+It's a painful, painful microphone.	0
+I think it's th- called [MASK]	0
+The crown?	0
+What?	0
+Yeah, versus "the Sony".	0
+[MASK]	0
+Is that the actual name?	0
+Mm-hmm.	0
+O_K.	0
+The manufacturer.	0
+I don't see a manufacturer on it.	0
+You w-	0
+Oh, wait, here it is. h-  This  thingy.	0
+Yeah, it's [MASK]	0
+The crown of pain!	0
+Yes.	0
+You're on-line?	0
+Are you - are your mike o- Is your mike on? O_K.	0
+Indeed.	0
+So you've been working with these guys? You know what's going on?	0
+Yes, I have.	0
+And, I do.	0
+Yeah, alright. s- So where are we?	0
+Excellent!	0
+We're  discussing  this.	0
+I don't think it can handle French, but anyway.	0
+So.	0
+Assume we have  something  coming in. A person says, "Where is X_?", and we get a certain - We have [MASK] and  everything  is  fine?	1
+An- an- and - and our - and our -	0
+Did you just sti- Did you just stick the m- the - the - the  microphone  actually in the  tea?	0
+No.	0
+And, um,	0
+I'm not drinking tea. What are you talking about?	0
+Oh, yeah. Sorry.	0
+let's just assume [MASK] just h	0
+These three, he wants to know something  about  it, he wants to know  where  it  is,  he wants to go there.	0
+In terms of, these would be wha- how we would answer [MASK] right?	0
+We u-	0
+This is - i- That's what you s- it  seemed  like, explained it to me earlier w-	1
+We - we're - we wanna know how to answer the question "Where is X_?"	1
+Yeah, but, mmm.	0
+Yeah.  @@	0
+No, I can - I can do the Timing node in here,  too,  and say "O_K."	0
+Well, yeah, but in the s- uh, let's just deal with the s- the  simple  case of we're not worrying about timing or anything.	0
+We just want to know how we should answer "Where is X_?"	0
+O_K.	0
+And, um,	0
+O_K, and,	0
+[MASK] has two values, right?,	0
+Mm-hmm.	0
+[MASK] has True or False and Location. So, he wants to know something about it, and he wants to know something - he wants to know Where-it-is,	0
+Excuse me.	0
+has  these  values.	0
+And, um,	0
+Oh,  I  see why we can't do that.	0
+And, um, in  this  case we would probably all agree that	0
+he  wants  to  go  there. [MASK] thinks he wants to go there, right? In the, uh, whatever, if we have something like	0
+Yeah.	0
+Mm-hmm.	0
+this here,	0
+and	0
+this like  that  and maybe here also some -	1
+You should probably	0
+make them out of -  Yeah.	0
+Well, it-	0
+something like  that,	0
+then we would guess, "Aha! He,  [MASK]	0
+has s- stronger beliefs that he wants to know where it is, than actually wants to go  there."	0
+Right?	0
+That it - Doesn't this assume, though, that they're evenly weighted?	0
+True.	0
+Like -	0
+I guess they  are  evenly weighted.	1
+The different decision nodes, you mean?	1
+Yeah, [MASK]	0
+Well, d-  yeah,  this is making the assumption.	0
+Yes.	0
+Like -	0
+What do you  mean  by "differently weighted"? They don't feed into anything  really   anymore.	0
+Or I jus-	0
+But I mean, why do we -	0
+@@	0
+Le-	0
+If we trusted [MASK] more th- much more than we trusted the  other  ones, then we would conclude, even in this situation, that he wanted to go there.	1
+So, in that sense, we weight them equally	0
+O_K. Makes sense. Yeah.	0
+right now.	0
+So the- But I guess the- k- the question -	0
+But -	0
+that I was as- er- wondering or maybe Robert was proposing to me	0
+is -	0
+How do we d- make the decision on - as to - which one to listen to?	0
+Yeah, so, the final d- decision is the combination of these three. So again, it's - it's some kind of, uh -	0
+[MASK]	0
+Yeah, sure.	0
+O_K so, then, the question i- So then my question is t- to you then, would be -	0
+So is the only r- reason we can  make  [MASK] because we know we can only deal with	0
+Cuz oth- If we're just taking arbitrary language in, we couldn't have a node for every possible question, you know?	0
+[MASK] you mean?	0
+Well, I - like, in the case of - Yeah.	0
+In the ca- Any piece of language, we wouldn't be able to answer it with this system, b- if we just h-	0
+Cuz we wouldn't have the correct node. Basically, w- what you're s- proposing is [MASK] right?	0
+Yeah.	0
+And - and if we - And if someone - says, you know, uh, something in Mandarin	0
+So is -	0
+Yeah.	0
+to the system, we'd- wouldn't know which node to look at to answer that question, right?	0
+Yeah.	0
+Mmm?	0
+So, but - but if we have a finite - What?	0
+I don't see your point. What - what - what  I  am thinking, or what	1
+we're about to propose here is	0
+we're always gonna get the whole list of	0
+values and their posterior probabilities.	1
+And now we need an expert system or belief-net or something that  interprets  that,	1
+that looks at all the	0
+values and says,	0
+"The winner is	0
+Timing. Now, go there."	0
+"Uh, go there, Timing, now."	0
+Or, "The winner is [MASK]	0
+[MASK]"	0
+So, he wants to know  something about it, and what it does.	0
+Nuh?	0
+Uh, regardless of - of - of the input. Wh- Regardle-	0
+Yeah, but-	0
+But how does the expert - but how does the expert system	0
+know - how- who- which one to declare the winner, if it doesn't know the question it is, and how that question should be answered?	0
+Based on the k- what the  question   was,  so what [MASK] the situat	0
+Yeah I know. But how do we weight what we get out?	1
+As, which one i- Which ones are important?	1
+So my i- So, if we were to it with [MASK] we'd have to have a node -	1
+for every question that we knew how to deal with,	1
+that would take  all   of the inputs and weight them appropriately for that question.	1
+Mm-hmm.	0
+Does that make sense?	0
+Yay, nay?	0
+Um, I mean, are you saying that, what happens if you try to scale this up to the situation, or are we just dealing with arbitrary language?	0
+We -	0
+Is that your point?	0
+Well, no. I - I guess my question is,	0
+Is the reason that we can make a node f- or - O_K. So, lemme	0
+see if I'm confused. Are we going to make a node for every question? Does that make sense? - Or not.	1
+For every question? Like -	0
+Every construction.	1
+Hmm.	0
+I don't - Not  necessarily,  I would think. I mean, it's not based on constructions, it's based on things like, uh, there's gonna be [MASK] or not, and there's gonna b	1
+Wel-	0
+W- O_K.	0
+So, someone asked a question.	0
+Yeah.	0
+How do we decide	0
+how to answer it?	0
+@@	0
+Well, look at -	0
+look -	0
+Face yourself with this pr- question. You get this -	0
+You'll have - y- This is what you get.	0
+And now you have to make a decision. What do we think?	0
+What does this tell us?	0
+@@	0
+And  not  knowing what was asked, and what happened, and whether the person  was  a tourist or a  local,  because all of these factors have presumably already gone into making these	0
+[MASK]	0
+Yeah.	0
+What - what we need is a - just a mechanism that says,	0
+"Aha!	0
+There is -"	0
+I just don't think a "winner-take-all" type of thing is the -	0
+I mean, in general, like, we won't just have those three, right? We'll have, uh, like, many, many nodes.	1
+Yep.	0
+So we have to, like - So that it's no longer possible to just look at the nodes themselves and figure out what the person is trying to say.	1
+Because there are  interdependencies,  right?	1
+The uh -	0
+Uh, no. So if - if	0
+for example, [MASK] is  so  high, um,	0
+uh, w- if it's - if it has reached -  reached  a certain height, then	0
+all of this becomes irrelevant. So. If - even if - if the function or the history or something is	0
+scoring pretty good on the  true  node,  true  value -	0
+Wel-	0
+I don't know about that, cuz that would suggest that - I mean -	0
+He wants to go there  and  know something about it?	0
+Do they have to be mutual-	0
+Yeah. Do they have to be mutually exclusive?	0
+I think to  some  extent they  are.	0
+Or maybe they're  not.	0
+Cuz I, uh - The way you describe what they meant, they weren't mutu- uh, they didn't seem mutually exclusive to me.	0
+Well, if he  doesn't  want to  go  there,	0
+even if the  Enter	0
+posterior proba- So.	0
+Wel-	0
+[MASK] is No.	0
+Enter  is High, and  [MASK]  is High.	0
+Well, yeah, just out of the other three, though, that you had in the -	0
+Hmm?	0
+those three nodes. The- d- They didn't seem like they were mutually exclusive.	0
+No, there's - No. But -	0
+It's through the -	0
+So th- s- so, yeah, but some - So, some things would drop out, and some things would still be important.	0
+Mm-hmm.	0
+But I guess what's confusing me is, if we have [MASK] to deal w- [MASK] to deal with this stuff,	0
+Mm-hmm.	0
+you know,	0
+uh,	0
+is the only reason - O_K, so,	0
+I guess,	0
+if we have a Ba- [MASK] to deal with this stuff, the only r- reason	0
+we can design it is cuz we know	0
+what each question is asking?	0
+Yeah.	0
+I think that's true.	0
+And then, so, the only reason - way we would know what question he's asking is based upon - Oh, so if - Let's say I had [MASK] and I plug this in, I would know what each construction - the communicative	1
+intent of the construction was	1
+Mm-hmm.	0
+and so then I would know how to weight the nodes appropriately, in response.	1
+So no matter what they said, if I could map it onto a Where-Is construction,	0
+Ge-	0
+Mm-hmm.	0
+I could say, "ah!	0
+well the- the intent, here, was [MASK]	0
+O_K, right.	0
+and I could look at those.	0
+Yeah.	0
+Yes, I mean. Sure. You  do  need to know - I mean, to have that kind of information.	0
+Hmm.	0
+Yeah, I'm also agreeing that  a simple	0
+pru-	0
+Take the ones where we  have  a clear winner.	0
+Forget about the ones where it's all sort of	0
+middle ground.	0
+Prune those out and just hand over the ones where we have a  winner.	0
+Yeah, because that would be the  easiest   way.	0
+We just compose as an output an X_M_L mes-  message that says.	0
+"Go there  now."	0
+"Enter	0
+historical information."	0
+And not care whether that's consistent with anything.	0
+Right?	0
+But in  this  case if we say, " definitely  he  doesn't  want to go there. He just wants to know	0
+where  it is."	0
+or let's call this - this "Look-At-H-"	0
+He wants to know something about the history of. So he said,	0
+"Tell me something about the history of that."	0
+Now, the e- But for some reason [MASK]	0
+gets a really high score,  too.	0
+We can't expect this to be sort of at [MASK]	0
+three, three, three, [MASK] three, three, three, [MASK] three, three, three. Right?	0
+Somebody needs to  zap  that.	0
+You know?	0
+Or	0
+know -	0
+There needs to be  some  knowledge that -	0
+We -	0
+Yeah, but, [MASK] that would merge -	0
+I  just   realized that I had my hand in between my mouth and my micr- er, my- and my microphone.	0
+So  then,	1
+[MASK] that would merge	0
+there, that would make [MASK]	0
+would have a node to tell you which one of those three you wanted, and based upon that node, then you would  look  at the other stuff.	1
+Yep.	0
+I mean, it- i-	0
+Yep.	0
+Does  that  make sense?	0
+Yep. It's sort of one of those, that's - It's more like [MASK]	0
+if - if you want.	0
+You first look o- at the  lowball  ones, and then -	0
+Yeah, i-	0
+Yeah, I didn't intend to say that every possible - O_K.	0
+There was  a  confusion there, k- I didn't intend to say every possible thing should go into [MASK] because some of the things aren't relevant in [MASK]	0
+for a specific question.	0
+Like the  Endpoint	0
+is not necessarily relevant in [MASK]  until after you've decided whether you wanna  go  there or not.	0
+Mm-hmm.	0
+Right.	0
+Show us the way, Bhaskara.	0
+I guess the other thing is that um, yeah. I mean, when you're asked a specific question and you don't even -	0
+Like, if you're asked [MASK] you may not even look - like,  ask	1
+Cuz, that's what - I mean, in the Bayes-net you always ask for [MASK] So, I mean,	1
+you may not even bother to compute things you don't need.	1
+Um.	0
+Aren't we  always  computing  all?	0
+No.	0
+You can compute, uh, [MASK] given	0
+some other nodes, but	0
+totally ignore some other nodes, also.	0
+Basically, things you ignore get marginalized over.	0
+Yeah, but that's - that's just shifting the problem.	1
+Then you would have to make a decision, "O_K, if it's [MASK] which	1
+Yeah. So you have to make -	0
+Yeah.	0
+[MASK] do I query?"	1
+Yes.	0
+That's un-	0
+But I would think that's what you want to do. Right?	0
+Mmm.	0
+Well, eventually, you still have to pick out which ones you look at. So it's pretty much the same problem, isn't it?	1
+Yeah.	0
+Yeah - it's - it's - it's apples and oranges. Nuh?	0
+I mean, maybe it does make a difference in terms of performance,	1
+computational  time. So either you	1
+Mm-hmm.	0
+always have it compute  [MASK] and then prune	0
+Mmm.	0
+the ones you think that are	0
+irrelevant,	0
+or you just make a p-	0
+@@	0
+a  priori	0
+estimate of what you think might be relevant and query those.	0
+Yeah.	0
+So basically, you'd have [MASK]	1
+If k- if that's false, query this one. If that's true, query that one. And just basically do a binary search through the - ?	1
+I don't know if it would necessarily be that, uh, complicated. But, uh -	0
+I mean, it w-	0
+Well, in the case of [MASK] it  would  be. In the case - Cuz if you needed an- If y- If [MASK] was  true,  you'd wanna know what endpoint	0
+was. And if it was  false,  you'd wanna d- look at	0
+either Lo-  [MASK]	0
+Yeah.	0
+That's true, I guess. Yeah,  so, in a way you  would  have that.	0
+Also, I'm somewhat boggled by [MASK]	1
+O_K, why's that?	0
+I can't figure out how to get the	1
+probabilities into it.	1
+Like, I'd look at -	0
+Mm-hmm.	0
+It's somewha- It's boggling me.	0
+O_K.	0
+Alright.	0
+Well, hopefully it's  fixable.	0
+Ju-	0
+Oh yeah, yeah. I d- I just think I haven't	0
+It's - there's a -	0
+figured out what - the terms in Hugin mean, versus [MASK]	0
+O_K.	0
+Um, by the way, are - Do we know whether Jerry and Nancy  are  coming? Or - ?	0
+So we can figure this out.	0
+They should come when they're  done  their  stuff,  basically, whenever that is.	0
+So.	0
+What d- what do they need to do left?	0
+Um,	0
+I guess,	0
+Jerry needs to enter marks,  but I don't know if he's gonna do that now or later.	0
+But, uh, if he's gonna enter marks, it's gonna take him awhile, I guess, and he won't be here.	0
+And what's Nancy doing?	0
+Nancy? Um, she was sorta finishing up the, uh,	0
+calculation of marks and assigning of grades, but I don't know if she should be here.	0
+Well - or, she should be free after that, so -	0
+assuming she's coming to this meeting.	0
+I don't know if she knows about it.	0
+She's on the  email  list, right?	0
+Is she? O_K.	0
+Mm-hmm.	0
+O_K.	0
+Because	0
+basically, what -	1
+where we  also  have decided, prior to	0
+this meeting is that	0
+we would have a  rerun  of the  three  of us sitting together	1
+O_K.	0
+sometime  this week  again	1
+O_K.	0
+and finish up the, uh, values	1
+of	0
+this.	1
+So we have,	1
+uh -	0
+Believe it or not, we have  all  the  bottom  ones here.	1
+Well, I -	0
+You added a bunch of  nodes, for - ?	0
+Yep.	0
+O_K.	0
+We - we - we have - Actually what we have is  this  line.	0
+Uh, what do the, uh,	0
+Right?	0
+structures	0
+Hmm?	0
+do? So the - the - the -	0
+For instance, this Location node's got two inputs,	0
+that one you -	0
+Four  inputs.	0
+Hmm.	0
+Four.	0
+Those are - The bottom things are inputs, also.	0
+Oh,  I  see.	0
+Yeah.	0
+O_K, that was-	0
+O_K.	0
+That makes a lot more sense to me now.	0
+Yep.	0
+Cuz I thought it was like, that	0
+one in	0
+Stuart's book about,	0
+you know, the -	0
+Alarm in the dog?	0
+U- Yeah.	0
+Yeah.	0
+Or the earthquake and the alarm.	0
+Sorry. Yeah, I'm confusing  two.	0
+Yeah, there's a dog one, too, but that's [MASK] isn't it?	0
+Right.	0
+Maybe.	0
+But there's something about	0
+bowel problems or something with the dog.	0
+Yeah.	0
+And we have all the	0
+top ones,	0
+all the ones to which  no  arrows are pointing.	0
+What we're missing are the -	0
+these, where arrows are pointing, where we're combining	0
+top ones.	0
+So, we have to come up with values for this, and	1
+this, this, this, and so forth.	1
+And maybe	1
+just fiddle around with it a little bit more.	1
+And, um.	0
+And then it's just, uh,	0
+edges,	0
+many of	0
+edges.	0
+And, um, we  won't   meet next Monday.	1
+So.	0
+Cuz of Memorial Day?	0
+Yep.	0
+We'll meet next Tuesday, I guess.	1
+Yeah.	0
+When's Jerry leaving for -	0
+Italia?	0
+On - on  Friday.	0
+Which Friday?	0
+This -  this  Friday.	0
+O_K.	0
+Oh.  This  Friday?	0
+Ugh.	0
+This  Friday.	0
+As in, four days?	0
+Yep.	0
+Or, three days?	0
+Is he - How long is he gone for?	0
+Two weeks.	0
+Italy, huh?	0
+What's, uh - what's there?	0
+Well, it's a country.	0
+Buildings.	0
+People.	0
+But it's not a conference or anything. He's just visiting.	0
+Pasta.	0
+Hmm?	0
+Right.	0
+Just visiting.	0
+Vacation.	0
+It's a pretty nice place,	0
+in my brief, uh, encounter with it.	0
+Do you guys - Oh, yeah. So.  Part  of what we actually  want  to do is sort of schedule out what we want to  surprise  him with when - when he comes  back.	0
+Um, so -	0
+Oh, I think we should disappoint him.	0
+Yeah? You - or have [MASK]	1
+That  wouldn't be  disappointing.	0
+I think w- we should do absolutely no work	0
+for the two weeks that he's gone.	0
+Well, that's actually what  I  had planned,  personally.  I had - I - I had sort of scheduled out in my mind that  you  guys do a  lot  of work, and  I  do  nothing.	0
+And then, I sort of -	0
+Oh, yeah, that sounds good, too.	0
+sort of bask in - in your glory.	0
+But, uh, i- do you guys have any vacation plans, because I  myself  am going to be,	0
+um,	0
+gone, but	0
+this is actually  not   really important. Just this  weekend  we're going camping.	0
+Yeah, I'm wanna be this - gone this weekend, too.	0
+Ah.	0
+But we're  all  going to be here on  Tuesday  again?	0
+Looks like it?	0
+Yeah.	0
+O_K, then. Let's meet - meet again next Tuesday.	1
+And, um,	1
+finish up [MASK]	1
+And once we have  finished  it,	1
+I guess we can,	0
+um -	1
+and that's going to be more just you and  me,	0
+because Bhaskara is doing probabilistic,	0
+recursive,	0
+structured,	0
+object-oriented,	0
+uh,	0
+Killing machines!	0
+[MASK]	0
+Yes.	0
+And, um -	0
+Killing, reasoning. What's the difference?	0
+Wait. So you're saying, next Tuesday, is it the whole group meeting, or just	0
+Uh.	0
+us three working on it, or - or - ?	0
+The whole group.	0
+And we present our results,	1
+our  final,	0
+O_K.	0
+definite  -	0
+So, when you were saying we  need to do a re-run	0
+of, like -	0
+h- What?	0
+What - Like, just working out the rest of the -	0
+Yeah. We should do this th- the upcoming days.	0
+This  week?	0
+So,  this  week, yeah.	0
+O_K.	0
+When you say, "the whole group", you mean	0
+the four of us, and Keith?	0
+And,  Ami  might.	0
+Ami might be here, and it's possible that Nancy'll be here?	0
+Yep.	0
+So,	0
+yeah.	0
+Because, th- you know,	0
+once we have [MASK] done -	0
+You're just gonna have to	0
+explain it to me, then, on Tuesday, how it's all gonna work out.	0
+You  know.	0
+We  will.	1
+O_K. Because then, once we have it sort of up and running, then we can  start   you know,	0
+defining the interfaces and then feed stuff into it and get stuff out of it, and then	1
+hook it up to some	0
+[MASK]	0
+[MASK] and -	1
+That you will have in about	0
+nine months or so. Yeah.	0
+Yeah.	0
+And, um,	0
+The first bad version'll be done in nine months.	0
+Yeah, I can worry about the ontology interface and you can - Keith can worry about the discourse. I mean, this is pretty - Um, I mean, I - I - I hope everybody uh  knows  that	1
+these are just going to be uh  dummy  values, right?	0
+Which -	0
+where the -	0
+Which ones?	0
+S- so - so if the  endpoint  - if [MASK]  is Yes and No, th	0
+Right?	0
+Um, what do you mean?  If  [MASK] says No, then [MASK] is -	0
+I don't get it.	0
+I don't u- understand.	0
+Um.	0
+Like, [MASK] depends on all those four things.	0
+Yep.	0
+Yeah.	0
+But, what are [MASK]	0
+Well, it depends on the situation. If the discourse is  strongly  indicating that -	0
+Yeah, but, uh, we  have  no discourse input.	1
+Oh,  I  see. The d- See, uh, specifically in our situation, D_ and O_ are gonna be, uh - Yeah. Sure. So, whatever.	0
+So, so far we have -	0
+Is that what [MASK] is?	0
+Yep.	0
+O_K. And you're taking it out?  for now? Or - ?	0
+Well, this is	0
+D_ -	0
+O_K, this, I can - I can get it in here.	0
+All the  D_ 's are -	0
+I can get it in here, so th- We have the, uh,	0
+um,	0
+sk-  let's - let's call it "Keith-Johno	0
+node".	0
+Johno?	0
+There is	0
+an H_	0
+somewhere  printed .	0
+There  you go.	0
+Yeah. People have the same problem with my name.	0
+Yeah.	0
+Oops.	0
+And, um,	0
+Does th- th- does the H_ go b-  before  the A_ or  after  the A_?	0
+Oh, in  my  name?  Before  the A_.	0
+Yeah.	0
+O_K,  good.	0
+Cuz you kn- When you said people have the same  problem,  I thought - Cuz  my  H_ goes  after  the uh e- e- e- the v-	0
+People have the inverse problem with my name.	0
+O_K.	0
+I always have to  check,	0
+every time y- I send you an email,	0
+a past email of  yours,   to make sure I'm spelling your name correctly.	0
+Yeah.	0
+That's good.	0
+I  worry  about you.	0
+I appreciate that.	0
+But, when you  abbreviate  yourself as the   "Basman"  , you don't use  any  H_'s.	0
+"Basman"?  Yeah, it's because of the chessplayer named Michael Basman, who is my hero.	0
+O_K.	0
+You're  a  geek.	0
+It's  O_ K.  I-	0
+How do you pronou-	0
+O_K.	0
+How do you pronounce  your  name?	0
+Eva.	0
+Eva?	0
+Yeah.	0
+Not  Eva?	0
+What if I were - What if I were to call you  Eva?	0
+I'd  probably  still respond to it.	0
+@@	0
+I've had people call me  Eva,   but I don't know.	0
+No, not just  Eva,    Eva.   Like if I u-	0
+take the  V_  and s- pronounce it like it was a  German   V_ ?	0
+Which is F_.	0
+Yeah.	0
+Um, no  idea  then.	0
+Voiced.	0
+What?	0
+It sounds like an F_. There's also an F_ in German, which is why I -	0
+I -	0
+O_K.	0
+Well, it's just the difference between voiced and unvoiced.	0
+O_K.	0
+Yeah.	0
+As  long  as that's O_ K.  I mean, I might slip out and say it accidentally. That's all I'm saying.	0
+Um.	0
+That's  fine.	0
+Yeah. It doesn't matter what those nodes are, anyway, because we'll just make the weights "zero" for now.	0
+Yep.	0
+We'll make them zero for now,	0
+because it - who - who knows what they come up with,	0
+what's gonna come in there.	0
+O_K.	0
+And, um,	0
+then	0
+should we start on Thursday?	0
+O_K.	0
+And not meet tomorrow?	0
+Sure.	0
+O_K.	0
+I'll send an email,	0
+make a time suggestion.	0
+Wait, maybe it's O_K, so that -	1
+that - that we can - that we have one node per construction.	1
+Cuz even in  people,  like, they don't know what you're  talking  about if you're using some sort of strange  construction.	1
+Yeah, they would still c- sort of get the closest, best fit.	1
+Well, yeah, but I mean, the - uh, I mean, that's what [MASK] would do. Uh, I mean, if you said something completely arbitrary, it would f- find the	0
+Mm-hmm.	0
+closest construction, right? But if you said something that was completel- er - h- theoretically [MASK] would do that -	0
+O_K.	0
+But if you said something for which there was no construction whatsoever,	0
+n- people wouldn't have any idea what you were talking about.	0
+Mm-hmm.	0
+Like "Bus dog fried egg." I mean.	0
+You know.	0
+Or, if  even  something Chinese, for example.	0
+Or, something in Mandarin, yeah.	0
+Or Cantonese, as the case may be.	0
+What do you think about  that,  Bhaskara?	0
+I mean -	0
+Well -	0
+But how many constructions do - could we possibly have	1
+nodes for?	1
+In  this  system, or in r-	0
+No,  we.  Like, when people do this kind of thing.	0
+Oh, when p- How many constructions do  people  have?	0
+Yeah.	0
+I have not  the slightest idea.	0
+Is it considered to be like in - are they considered to be like very, uh, sort of s- abstract things?	0
+Every noun is a construction.	0
+O_K, so it's like in the  thousands.	0
+The - Yeah.	0
+Any - any form- meaning  pair, to my understanding, is a construction.	1
+O_K.	0
+So.	0
+And form u- starts at the level of noun - Or actually, maybe even  sounds.  Yeah.	0
+Phoneme.  Yep.	0
+And goes upwards	0
+until you get	0
+[MASK]	0
+And then, of course, the c- I guess, maybe there can be the -	0
+S-	0
+Can there be [MASK]	0
+[MASK]	0
+Yeah.	0
+constructions.	0
+The "giving a speech" construction,	0
+[MASK] Yeah.	0
+Yes.	0
+But, I mean,	1
+you know, you can  probably  count -	0
+count the ways.	1
+I mean.	1
+It's probab- Yeah, I would s- definitely say it's finite.	0
+Yeah.	0
+And at least in compilers, that's all that really matters, as long as your analysis is finite.	1
+How's that?  How it can be finite, again?	0
+Nah, I can't think of a way it would be  infinite.	0
+Well, you can come up with  new  constructions.	0
+Yeah.	0
+If the - if your - if your brain was totally non-deterministic,	0
+then perhaps there's a way to get, uh,	0
+infin- an infinite number of constructions that you'd have to worry about.	0
+But, I mean, in the  practical sense, it's impossible.	0
+Right. Cuz if we have a fixed number of neurons - ?	0
+Yeah.	0
+So the best-case scenario would be the number of constructions - or, the  worst-case  scenario is the number of constructions equals the number of neurons.	0
+Well, two to the power of the number of neurons.	0
+Right.	0
+But  still	0
+finite.	0
+O_K.	0
+No, wait. Not  necessarily,  is it?	0
+We can end the  meeting. I just -	0
+Can't you use different var- different levels of activation?	0
+across, uh -	0
+Mm-hmm.	0
+lots of different neurons, to specify different values?	0
+Um, yeah, but there's, like, a certain level of -	0
+There's a bandwidth issue, right? Yeah.	0
+Bandw- Yeah, so you can't do better than something.	0
+Turn off the mikes. Otherwise it gets really tough for the tr-	0

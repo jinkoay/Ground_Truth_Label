@@ -1,0 +1,2009 @@
+st-	0
+Yeah.	0
+So we're on.	0
+That's better.	0
+And,  somewhere is my agenda.	0
+I think the most important thing is Morgan wanted to talk about, uh,	0
+[MASK]	0
+Well, so,	0
+here's the thing.	0
+Um,	0
+why don't we s- again start off with - with, uh,	0
+-n-	0
+Yeah, I'll get it.	0
+I'll get the door.	0
+Um,	0
+I think we want to start off with the  agenda.	0
+And then, given that,	0
+uh, Liz and Andreas are gonna be  ten, fifteen minutes late,	0
+we can try to figure out what we can	0
+do most effectively without them here. So -	0
+O_K. So, uh -	0
+So - so, one thing is, yeah, talk about demo,	0
+uh, I_B_M transcription status,	0
+I_B_M transcription.	0
+Uh, what else?	0
+[MASK]	0
+[MASK]	0
+[MASK]	0
+What's [MASK]	0
+Uh, we wanna talk about	0
+if w-  if  we wanna add the data to the mar- Meeting Recorder corpus.	0
+The data.	0
+The data which we are collecting here.	0
+What - what - what are we collecting here?	0
+Data?	0
+So why don't we have that on the agenda and we'll - we'll get to it and talk about it?	0
+[MASK]	0
+Yeah, right.	0
+Yeah.	0
+Uh,	0
+right.	0
+Uh.	0
+Uh, reorganization status.	0
+Reorganization	0
+status.	0
+Oh.	0
+Files and directories?	0
+Files and directories.	0
+Yep.	0
+Uh-huh.	0
+Absinthe,	0
+which is the multiprocessor UNIX -	0
+Linux.	0
+I think it was  Andreas wanted to talk about segmentation and recognition,	0
+and update on [MASK] experiments.	0
+Um -	0
+And then if ti- if there's  time  I wanted to talk about digits, but it looked like we were pretty full, so I can wait till next week.	0
+Right.	0
+O_K.	0
+Well, let's see.	0
+I think the a- certainly the segmentation and recognition we wanna maybe focus on when An- Andreas is here since that was particularly his	0
+And also [MASK]	0
+thing.	0
+thing	0
+[MASK] also,	0
+should	0
+b-	0
+Andreas.	0
+Absinthe, I think also he	0
+has sort of been involved in a lot of those things. Yeah.	0
+At least,  yeah , he'll t- he'll probably be interested.	0
+But.	0
+Yeah.	0
+Um	0
+So, I mean, I think they'll be inter- I'll be interested in all this, but -	0
+but, uh, probably,	0
+if we had to pick  something   that we would talk on for	0
+ten minutes or so while they're coming here. Or I guess it would be,	0
+you think, reorganization status, or - ?	0
+Yeah. I mean, I think,	0
+Chuck was the one who	0
+added out the agenda item. I don't really have anything to  say  other than that we still haven't  done  it.	0
+So.	0
+Well, I mean, I uh -	0
+just basically that -	0
+maybe I said - maybe we said this before - just that we met and we talked about it and	0
+we	0
+sort of have a plan for	0
+getting things organized and -	0
+And I - and I think a crucial part of that is the idea of - of not wanting to do it until right before the next level zero back-up	1
+so that there won't be huge number of -	0
+Right.	0
+of added, uh -	1
+Right.	0
+That - that was basically it. Not - not much  @@  -	0
+Although Dave basically said	0
+Yeah.	0
+that	0
+if we wanna  do  it,	0
+Uh-huh.	0
+just  tell  him and he'll	0
+do a d- level zero then.	0
+Oh, excellent.	0
+So.	0
+Oh, so maybe we  should   just go ahead and get everything ready, and -	0
+Oh, good.	0
+Yep.	0
+So, I think we  do  need to talk a little bit about -	0
+Well, we don't need to do it during this meeting. We have a  little  more to discuss.	0
+Yeah.	0
+But, uh,	0
+we're - we're basically ready to do it.	0
+And, uh, I have some web pages on	0
+ts-	0
+more of the background.	0
+So, naming conventions and things like that, that I've been trying to keep actually up to date.	0
+So.	0
+And I've been  sharing   them with U_d- [MASK] also.	0
+O_K.	0
+I'm sorry, you've been what? Showing them?  Sharing  them. O_K.	0
+Sharing  them with [MASK]	0
+O_K.	0
+O_K.	0
+Well, maybe uh,	0
+since that - that was a pretty short one, maybe we should talk about the I_B_M transcription status. Someone can	0
+fill in Liz and Andreas later. Uh	0
+O_K. So, we, uh -	0
+we did another version of the beeps, where we separated each beeps with a spoken digit.	0
+Chuck came up here and recorded some di- himself speaking some digits,	0
+and so it just	0
+goes "beep one beep" and then the phrase, and then "beep two beep" and then the phrase.	0
+And that seems pretty good.	0
+Um,	0
+I think	0
+they'll have a b- easier time keeping track of where they are in the file.	0
+And we have done that on the  automatic	1
+segmentations.	1
+And we did it with the automatic segmentation, and I don't think - We ne- we didn't look at it in detail.	0
+We just sent it to I_B_M. We - we sorta  spot-checked  it.	0
+I listened to  probably,	0
+Yeah.	0
+uh, five or ten minutes of it from the beginning.	0
+Oh, really? O_K.	0
+Yeah.	0
+And -	0
+I sorta spot-checked here and there and it sounded pretty good.	0
+So.	0
+O_K.	0
+I think it'll work.	0
+And, uh, we'll just hafta	0
+see what we get back from them.	0
+Uh -	0
+And the main thing will be	1
+if we can	0
+align  what they give us	0
+with what we sent them.	1
+I mean, that's the crucial	0
+part.	0
+Right.	0
+And I think	0
+we'll be able to do that at - with this new	0
+beep	0
+format.	0
+Yep.	0
+Well, I think	0
+it's also	0
+they are	0
+much less likely to d- have errors.	0
+Mm-hmm.	0
+I mean, so the problem wi- last time is that there were errors in the transcripts where they  put  beeps where there weren't any,	0
+Right.	0
+or - and they put in extraneous beeps.	0
+Yeah.	0
+And with the numbers there, it's much less likely.	0
+Yeah, one	0
+interesting note is -	0
+uh, or problem - I dunno if this was just	0
+because of how  I  play it back, I say, uh, [MASK] and then the file,	0
+every once in a while,	0
+@@   uh, like a beep sounds like it's  cut  into two beeps.	0
+Yeah. Into two pieces. Yeah.	0
+Yeah, and	0
+Yep.	0
+I - I dunno if that's an, uh, artifact of playback -	0
+bu- uh, I don't think it's probably in the original file.	0
+Um,	0
+I recognize that, too.	0
+Yeah.	0
+but, uh -	0
+Ha. That's interesting. I didn't hear that.	0
+Yeah.	0
+But with this new format,	0
+um,	0
+that	0
+hopefully  they're  not hearing that, and if they are, it shouldn't throw them.	0
+Yep.	0
+So.	0
+Well, maybe we better listen to it again, make sure, but,	0
+I mean, certainly the software shouldn't	0
+do that, so.	0
+Yeah. That's what I thought. I- it's probably just,	0
+Mm-hmm.	0
+you know,	0
+mmm, somehow the	0
+audio  device	0
+gets	0
+Yeah. Some latency or something. Yeah?	0
+Hiccups.	0
+hung for a second, or -	0
+Yeah.	0
+As long as they have one number,	0
+and they know that there's only one beep maximum	0
+Yeah.	0
+Yeah.	0
+that goes with that number.	0
+Yeah. The only - the only part that might be confusing is when Chuck is reading digits.	0
+Right.	0
+Yep.	0
+Right.	0
+So  th-	0
+Well, you know,  actually,	0
+"Seven four eight  beep  seven  beep   eight three two".	0
+are we having them -	0
+Yeah, but are we having them do digits?	0
+Yes.	0
+Because, uh, we don't -	0
+We - we didn't cut those out.	0
+Yeah.	0
+we didn't -	0
+They are not transcribed yet. So. Yeah.	0
+In order to cut them out we'd have to listen to it.	0
+Yeah.	0
+And we wanted to avoid doing that, so we - they are transcribing the digits.	0
+O_K.	0
+O_K.	0
+O_K.	0
+Although we  could  tell them -	0
+We can - we can ignore it	0
+when we get it back, huh.	0
+we could tell them,	0
+if you hear someone reading a digits string just say	0
+"bracket digit bracket" and don't bother actually	0
+computing the di-	0
+writing down the digits.	0
+Yeah.	0
+That'd be great. That'd be what I'm having	0
+the transcribers here do, cuz it can be	0
+extracted later.	0
+Yep.	0
+And then I wanted to  talk  about -	0
+but as I said I - we may not have  time  -	0
+what we should  do  about digits. We have a whole pile of digits that haven't been transcribed.	0
+Le- let's talk about it, because	0
+that's - that's something that I - I know Andreas is less interested in than Liz is, so,	0
+O_K.	0
+you know.	0
+Do we have anything else to say about transcription?	0
+It's good -	0
+About I_B_M stuff?	0
+Uh, Brian - I -	0
+I  sent  bresset   -   sent  Brian  a  message  about   the meeting	0
+and I haven't heard back yet.	0
+So.	0
+O_K.	0
+I g- hope he got it and hopefully he's -	0
+Hmm.	0
+maybe he's gone, I dunno. He didn't	0
+even reply to my message. So.	0
+I should probably ping him just to make sure that	0
+he got it.	0
+Alright.	0
+@@	0
+So, we have a whole bunch of digits,	0
+if we wanna move on to digits.	0
+Actually, maybe I - One - one relate- more related thing in transcription. So that's the I_B_M stuff. We've got that sorted out.	0
+Um, how're we doing on the - on the rest of it?	0
+We're doing well.	1
+I - I hire - I've hired  two  extra people already, expect to hire two more.	1
+Hmm.	0
+And, um,	0
+I've prepared,	0
+um,	0
+uh, a set of  five  which I'm - which I'm calling set two,	0
+which are now being edited by my head transcriber,	1
+in terms of spelling errors and all that. She's also checking through and mar- and -	1
+and monitoring, um,	0
+the transcription of	0
+another transcriber.	1
+You know, I mean, she's going through and doing these kinds of checks.	0
+Uh-huh.	0
+And,	1
+I've moved on now to what I'm calling set three. I sort of thought if I do it in sets - groups of five,	1
+then I can have, like, sort of a -	0
+a parallel processing through - through the -	0
+Uh-huh.	0
+the current.	1
+And -	1
+and you indicated to me that we have a g- a  goal  now,	0
+for the -	0
+for the,	0
+um,	0
+the, uh, [MASK]	0
+of twenty hours.	1
+So, I'm gonna go up to twenty hours,	1
+be sure that everything gets processed,	0
+and released,	0
+and -	0
+and that's -	0
+that's what my goal is. Package of twenty hours right now,	1
+and then once that's done, move on to the next.	0
+Yeah, uh,	0
+so twenty hours. But I guess the other thing is that,	1
+um,	0
+that - that's kinda twenty hours A_SAP because	0
+the longer	0
+before  the demo we actually have the twenty hours, the more time it'll be for people to actually do	0
+cool things with it.	1
+Mm-hmm.	0
+So.	0
+Good.	0
+I'm - I'm hiring people who,	0
+O_K.	0
+uh,  really  are -	0
+They would like to do it full-time, several of these people.	0
+Mm-hmm.	0
+And - and I don't think it's	0
+possible, really, to do this full-time, but,	0
+that - what it shows is motivation to do as many hours as possible.	0
+It'll keep your accuracy up.	0
+Yep.	0
+Yeah.	0
+Yeah.	0
+And they're really excellent.	0
+Well, that's good.	0
+Yeah.	0
+Yeah, I mean, I guess the -	1
+Got a good core group now.	0
+So the difference if - if, um,	0
+if the I_B_M stuff works out,	0
+Again.	0
+the difference in the job would be that they p- primarily would be	0
+checking through things that were	0
+Mm-hmm.	0
+already done by someone else? Is that most of what it - ?	1
+And correcting.	0
+I mean -	0
+Correcting.	0
+Correcting. We'll - we'll expect that they'll have to move some time bins and do some corrections.	0
+And I - you know, I've also d- uh, discovered -	0
+So with the new transcriber I'm -	0
+um -	0
+So -	0
+Uh, lemme say that	0
+my,	0
+uh -	0
+So,	0
+um -	0
+At present, um, the people have been doing these transcriptions a channel at a time.	0
+And, that sort of, um,  is useful, and t- you know, and then once in a while they'll have to refer to the other channels to clear something up.	0
+O_K. Well,	1
+I realize that, um,	0
+w- i- we- we're using the pre-segmented version,	1
+and, um,	1
+the pre-segmented version is extremely useful,	1
+and wouldn't it be,	1
+useful also to have the  visual  representation of those segments?	1
+And so I've -	1
+uh,  I,	0
+uh, uh, I've   trained  the new one -	0
+uh, the new- the newest one,	0
+to, um,	0
+use the	0
+visual from	0
+the channel that is gonna be transcribed at any given time.	1
+And that's just  amazingly  helpful.	0
+Because what happens  then,  is you scan across the signal and once in a while you'll find a blip that didn't show up in the pre-segmentation.	1
+Oh, right. I see what you mean.	0
+And that'll be something like -	0
+I- it's  ver-  - it's interesting.	0
+A backchannel, or -	0
+Once in a while it's a backchannel. Sometimes it seems to be,	0
+Yep.	0
+um,	0
+similar  to the ones that are being picked up.	0
+Mm-hmm.	0
+And they're rare events, but you can  really  go through a meeting  very  quickly. You just - you just,	0
+you know,	0
+yo- you s-	0
+you  scroll   from screen to screen, looking for blips.	0
+And,	1
+Yeah.	0
+I think that we're gonna end up with, uh  better coverage of the backchannels,	1
+but at the same time we're benefitting	1
+tremendously from the pre-segmentation because	1
+there are  huge  places where there is just absolutely	0
+no	0
+activity at all.	0
+Mm-hmm.	0
+And, uh, the audio quality is  so  good -	0
+So they can - they can, um,	0
+scroll through that pretty quick?	0
+Yeah.	0
+Mm-hmm.	0
+That's great.	0
+Yeah.	0
+So I think that that's gonna,	0
+also  eh,  you know, speed the efficiency of this	0
+part of the process.	0
+Hmm. O_K.	0
+Uh, yeah.	0
+So, uh -	0
+Yeah. So let's talk about the digits, since they're not here yet.	0
+Uh, so,	0
+we have a whole bunch of digits that we've read and we have the forms and so on,	0
+um, but only a small number of that ha-	0
+well, not a  small  number -	0
+only	0
+a  subset  of that has been transcribed. And so we need to decide	0
+what we wanna  do.	0
+And, uh,	0
+Liz and Andreas - actually they're not here, but,	0
+they did say at one point that they thought they could do a pretty good job of just doing a forced alignment.	0
+And,	0
+again, I don't think we'll be able to do with that  alone,	0
+because, um, sometimes people correct themselves and things like that.	0
+But - so, I was just wondering what people thought about	1
+how automated can we make the  process  of finding where the people read the digits,	0
+doing a forced alignment, and doing the timing.	1
+Well, forced alignment would be one thing. What about just actually doing recognition?	1
+Well, we - we  know  what they read, because we have the forms.	0
+No, they make mistakes.	0
+Right.	0
+But,	0
+the  point  is that we wanna  get  a set of clean	0
+digits.	0
+Right.	0
+You're talking about as a  pre-processing  step. Right, Morgan?	0
+Um -	0
+Is that what you're - ?	0
+Yeah, I'm - I'm not quite sure what I'm talking about. I mean -	0
+I -	0
+I mean,	0
+uh, we're talking about digits now. And - and so,	0
+um,	0
+there's a bunch of stuff that hasn't been	0
+marked yet.	0
+Uh.	0
+And,	0
+um,	0
+I mean, so one option i-	0
+there's the issue that -	0
+that they - we know what -	0
+what was said,	0
+but do we? Because people	0
+make mistakes and stuff.	0
+I was just  asking,  just out of curiosity, if - if with, uh -	1
+uh, [MASK] getting one percent word error,	1
+uh,	1
+would we -	0
+would we do   better  - ?	1
+So, if you do a forced alignment but the force- but the - but the transcription you have is wrong because they actually made mistakes, uh, or	1
+But that's pretty uncommon.	0
+false starts,	0
+it's - it's much less c-	0
+it's  much less common than one percent?	1
+Um,	0
+if we could really get one percent on -	0
+Well,	1
+We should be able to. Right?	0
+I guess - yeah, I guess if we  segmented  it,	0
+Yeah.	0
+we could get one percent on digits.	1
+Yeah.	0
+So that's just my question. I'm not saying it should be one way or the other, but it's - If -	1
+But,	0
+Well, there - there're a couple different of doing it. We could	0
+use the tools I've already developed and transcribe it. Hire some people,	1
+or use the transcribers to do it. We could let I_B_M transcribe it.	1
+You know, they're doing it anyway, and unless we tell them  different,  they're gonna transcribe it.	0
+Um, or we could try some automated methods.	1
+And  my  - my tendency right  now  is, well, if I_B_M	1
+Well -	0
+comes back with this meeting and the transcript is  good,	0
+just let  them  do it.	1
+Yeah, it's - Y- you raised a point, kind of,	0
+uh, euphemistically - but, I mean, m- maybe it is a serious problem. Ho- what will they do when they go - hear	0
+"beep  seven  beep  seven three five two" - I mean,	0
+you think they'll - we'll get - ?	0
+It's pretty distinct.	0
+The beeps are  pre-recorded.	0
+Yeah?	0
+It'll  only be a problem for m- for mine.	0
+Yeah.	0
+Well it -	0
+it - well, it'd be preceded by "I'm reading transcript	0
+so-and-so"?	0
+Yeah.	0
+Yes.	0
+So,	0
+I	0
+think if they're processing it at -	0
+I mean, it'll be - it will be in the midst of a digit string.	0
+So -	0
+Yeah.	0
+I mean it - sure, there - there might be a place where it's	0
+"beep seven  beep eight	0
+beep	0
+eight  beep".	0
+But, you know, they - they're - they're gonna macros for inserting the beep marks.	0
+And so, I - I don't think it'll be a problem. We'll have to see, but I don't think it's gonna be a problem.	0
+O_K.	0
+Well, I - I - I dunno, I - I think that that's - if they are in fact going to transcribe these things,	0
+uh,	0
+certainly any process that we'd have to	0
+correct them, or whatever is - needs to be much less elaborate for digits than	0
+Right.	0
+for other stuff. So, why not?	0
+Sure.	0
+That was it?	0
+That was it.	0
+Just,	0
+what do we do with digits? We have so many of them,	0
+O_K.	0
+Well, we - we -	0
+and it'd be nice to  actually do something with them.	0
+we wanna have  them.	0
+You mean there're more than ten?	0
+Yeah, I -	0
+Anything else?	0
+Your mike is a little low there.	0
+I- in Berkeley, yeah.	0
+So,	0
+uh	0
+You - you have to go a  little   early, right?	0
+Well, I can stay till about, uh,	0
+At twenty -	0
+three forty.	0
+Alright. So le- let's make sure we do the ones that -	0
+Yeah.	0
+Mm-hmm.	0
+that, uh,	0
+saved you. So there was some -	0
+Uh	0
+In -	0
+in -	0
+Adam's agenda list, he had something from you about segmentation this last recognition?	0
+Well, yeah. So this is just	0
+partly to inform everybody,	0
+Oops.	0
+um,	0
+and - and of course to get,	0
+um,	0
+input.	0
+Um,	0
+so,	0
+uh, we had a discussion -	0
+Don and	0
+Liz and I had discussion last week about	0
+how to proceed with, uh,	0
+Ch-	0
+you know, with  Don's  work, and -	1
+and - and, uh, one of	0
+the obvious	0
+things that	0
+occur to us was that	0
+we're - since we now have Thilo's	0
+segmenter and it works,	0
+you know, amazingly well,	0
+um,	0
+we should actually	0
+basically re-evaluate the recognition,	0
+um,	0
+results	0
+using - you know, without cheating on the segmentations.	1
+And, that should be fairly -	0
+So -	0
+And how do we find the transcripts for  those   so that - ?	0
+Yeah.	0
+Oh, O_K.	0
+The references for - for  those segments?	1
+So, there's actually -	0
+It's not that -	0
+Why do you ask?	0
+No, actually, um,	1
+I could -	0
+Well -	0
+Hand ones.	0
+[MASK]	0
+has,	0
+um	0
+m-	0
+a fairly sophisticated scoring program	0
+O_K.	0
+that you can give a, um -	0
+a time,	1
+uh -	1
+You know, you basically just give two  time-marked sequences of words,	0
+and it	0
+computes	0
+the	0
+um -	0
+the,	0
+uh -	0
+you know,	0
+It does all the work for you.	0
+the - the - th- it does all the work for you.	1
+Yeah.	0
+O_K.	0
+So, it - we just - and we use that actually in Hub-five	1
+to do the scoring.	1
+Um. So what we've been using so far was sort of a  simplified version of the scoring.	1
+And we can -	0
+we can handle the -	0
+the - the	0
+type of problem we have here.	0
+So, we ha-	0
+So, basically you give some time constraints for - for the references and for - for the hypothesis, and - Yeah, O_K.	0
+Yeah.	0
+Right.	0
+Right.	0
+Yeah. Maybe the  start of your speech and the end of it, or stuff like that.	0
+So do-	0
+O_K.	0
+Right.	0
+It does time-constrained word-alignment.	1
+O_K.	0
+So.	0
+So that	0
+should be possible.	0
+I mean that shouldn't be a	0
+problem.	0
+Uh, so that was the one thing, and the other was that, um -	0
+What was the other problem? Oh!	0
+That	1
+Thilo wanted to use  the recognizer alignments to train up his, um, speech detector.	1
+Yeah.	0
+Um,	1
+so that	0
+we could use,	0
+uh - you know there wouldn't be so much hand	0
+labeling needed	0
+to, uh -	0
+to generate training data for - for the speech detector.	1
+Yeah. I'm just in progress of - of doing that. So.	0
+And I think you're in the  process   of doing that. So,	0
+Yeah.	0
+you can -	0
+It'll give you a lot more data, too. Won't it?	0
+you can -	0
+Yeah.	0
+So, it's basically -	0
+s-	0
+I think, eight meetings or something which - which I'm using, and,	0
+Mm-hmm.	0
+it's -	0
+before it was twenty minutes of one meeting. So -	0
+Right.	0
+should  be a little bit better.	0
+That won't be perfect - the alignments aren't perfect,	0
+Great.	0
+Yeah. But -	0
+but,	0
+um,	0
+Yeah.	0
+it's probably still  better  to have all this extra data,	0
+Yeah.	0
+Yep.	0
+than - Yeah.	0
+We'll see that.	0
+Yeah.	0
+O_K.	0
+Actually, I had a question about that. If you find that you can	0
+lower the false alarms	0
+that you get	0
+where there's no speech, that would be	0
+useful  for us to know. So,	0
+um -	0
+There were the false alarms.	0
+Yeah. So,	0
+r- right now you get f-	0
+O_K.	0
+fal- you know, false - false, uh, speech regions when it's just like, um,	0
+Yeah.	0
+breath or something like that, and I'd be interested to know the -	0
+Yep.	0
+wha- if you retrain	0
+um,	0
+Yeah.	0
+do those actually go down or not? Because   of  -	0
+Yeah. I'll - can make - an-	0
+can, like, make a c- comparison of - of the old system to the - to the new one, and  then - Yeah.	0
+Yeah, just to see if by doing nothing in the modeling of - just having that training data wh- what happens.	0
+Yeah.	0
+Yep.	0
+Um  another   one that we had on	0
+Adam's agenda  that	0
+definitely involved you was s- something about [MASK]	0
+Right. So,	0
+Rob  Porzel   - eh,  Porzel?	0
+and the, uh -	1
+Porzel.	0
+Porzel   -	0
+Porzel.	0
+and the, uh,	0
+SmartKom group are collecting some dialogues. Basically they have one person sitting in here,	1
+looking at a picture, and a wizard sitting in another room somewhere.	1
+And, uh, they're doing a travel task.	1
+And, uh,	0
+it involves starting - I believe starting with a -	0
+It's - it's always the wizard, but it starts where the wizard is pretending to be a computer and it goes through a, uh,	1
+speech generation system.	1
+Yeah. Actually, it's changed to a synthesis for - for the first part now. Yeah.	0
+[MASK]	0
+Um, and then,	0
+it goes to a real wizard and they're	0
+evaluating  that. And they wanted to use this equipment,	0
+and so the w-  question  came up, is - well, here's some more data. Should this be part of the  corpus  or not?	1
+And  my  attitude was  yes,  because there might be people	1
+who are using this corpus for  acoustics, as opposed to just for language.	1
+Um, or also for  dialogue  of various sorts.	0
+Um, so it's not	0
+a  meeting.  Right? Because it's	0
+two people and they're not face to face.	0
+Wait a minute.  So,	0
+Yeah.	0
+I just wanted to understand it, cuz I -	0
+I'm -	0
+uh, hadn't quite followed this	0
+process. Um.	0
+So,	0
+it's wizard in the sen- usual sense that the person who is	0
+asking the questions doesn't know that it's, uh, a machi- not a machine?	0
+Right.	0
+Actually - actually,	0
+At the beginning.	0
+w- w-	0
+the - the - We do this - I dunno who came up with it, but I think it's a really clever idea.	0
+We simulate a computer breakdown	1
+Yeah.	0
+halfway through the session,	0
+and so then after that,	0
+the person's told that they're now talking to a,	0
+uh -	0
+It's a human operator.	0
+to a human.	1
+Yeah.	0
+Yeah.	0
+But of course they don't know that it's the same person both times.	1
+So, we - we collect - we collect both human-computer and human-human data,	0
+essentially, in the same	0
+session.	0
+You   might wanna try	0
+collecting it the other way around sometime, saying that th- the computer isn't up yet and then - so then you can separate it out whether it's the beginning or end kind of effects. But, yeah.	0
+Hmm.	0
+That's an idea.	0
+Yep.	0
+Yeah.	0
+That's   a good idea.	0
+"I have to go now. You can talk to the computer."	0
+"No!"	0
+It's a lot more believable, too, if you tell  them   that they're -	0
+the computer part is running on a Windows machine.	0
+And the whole breakdown thing kinda makes sense.	0
+O-	0
+Just -	0
+just reboot it.	0
+Abort -	0
+abort, retry, fail?	0
+So did they actually save the far-field  data? Cuz at first they weren't -	0
+Well, this was - this was the question. So - so they were saying they were not going to, and I said, "well that's silly, if - if we're gonna try to do it for a corpus,	1
+Yes.	0
+Yeah.	0
+they weren't sa- O_K.	0
+Yeah.	0
+Yeah.	0
+Wow.	0
+No.	0
+there might be people who are interested in acoustics."	1
+Or -	0
+projector	0
+Yeah.	0
+S-	0
+We were not saying we are  not   doing it. We wer- we  just  wanted to do -	0
+No, the - the  question  is do we save one or two far-field channels or  all  of them?	0
+Right.	0
+Yeah.	0
+Yeah.	0
+I - I see no reason not to do all of them.	0
+That -	0
+Um -	0
+Nnn.	0
+that if we  have  someone who is doing  acoustic  studies,	0
+Hmm.	0
+Yeah.	0
+uh, it's nice to have	0
+the  same  for every recording.	0
+So, what is the purpose of this recording?	0
+Mm-hmm.	0
+This is to	0
+It's to be traini- to b- training data and development data for [MASK]	0
+The English system?	0
+get	0
+acoustic   and language model	0
+Yeah.	0
+Yeah.	0
+training data for [MASK]	0
+Right.	0
+Right.	0
+O_K.	0
+Where does this - ?	0
+Maybe we can have him vary the microphones, too, or they're different s- speakers.	0
+Well,	0
+B-	0
+Right. So - so - so for  their  usage, they don't need anything.	0
+so why not - ?	1
+Yeah. But - but I'm not sure about the legal aspect of - of that. Is - is there some contract with [MASK] or something about the data? What	0
+Right?	0
+Yeah.	0
+they - or, is - is that  our  data which we are collecting here, or - ?	0
+We've never signed anything that said that	0
+O_K.	0
+we couldn't use anything that we did.	0
+O_K.	0
+We weren't supposed to collect any data.	0
+So.	0
+O_K.	0
+This was all -	0
+Yeah.	0
+So. Yeah, th- th- that was the question. If - if - ? Yeah.	0
+Yeah.	0
+Basically.	0
+No  that's  not a problem. I - L- look, it seems to me that if we're doing it anyway and we're doing it for these - these purposes that we have,	0
+Mm-hmm.	0
+and we have these distant mikes, we definitely should re-	0
+should	0
+save it all as long as we've got disk space, and disk is pretty cheap. So should we  save  it?	0
+O_K.	0
+And then -	0
+Now th- Yeah.	0
+So we save it because it's - it - it's potentially useful.	0
+Right.	1
+And now,	0
+what do we do with it is - is a s- separate question.	0
+I mean, anybody who's training something up could	0
+choose	0
+to put it -	0
+Right.	0
+eh, to u- include this or not. I - I would not say it was part of the meetings corpus. It isn't.	1
+But it's some other data we have, and if somebody	0
+doing experiment wants to train up including that then they can. Right?	0
+Mm-hmm.	0
+So it's -	1
+It -	0
+it -	0
+I guess it - the -	0
+begs the question of what is the meeting corpus. So if,	1
+at [MASK] they start recording	0
+two-person	0
+I think it's - I -	1
+hallway conversations is that	0
+part of the meeting corpus?	0
+I think - I th- think the idea of two or more people conversing with one another is key.	1
+Well, this has two or more people conversing with each other. They're just not face to face.	1
+Nnn, well	0
+Yeah.	0
+What if we just give it a -	0
+Well this -	0
+No, it doesn't. Right? It has -	0
+a name like we give these meetings a name?	0
+I mean, that was my intention.	0
+And then later on some people will consider it a meeting and some people won't, and -	0
+Yeah.	0
+That was my intention. So - so - s-	0
+Well this -	0
+Just give it a	0
+so  part  of the reason that I wanted to bring this up is,	0
+title.	0
+do we wanna  handle  it as a special case or do we wanna  fold  it in,	0
+Oh.	0
+I think it is a s-	0
+we- give everyone who's involved as	1
+their own user I_D, give it session I_Ds,	0
+let all the tools that handle Meeting Recorder handle it,	0
+or do we wanna special case it? And if we were gonna special case it,	1
+Well,	1
+So. It - it - it -	0
+it -	0
+who's gonna do that?	0
+it makes sense to handle it	0
+I think -	0
+with the same infrastructure, since we don't want to duplicate things unnecessarily. But as far as	1
+distributing it, we shouldn't label it as part of this	0
+meeting corpus. We should	1
+Yeah.	0
+let it be its own corp-	0
+I don't see why not. It's just a different topic.	0
+Well it's - it - well, because -	0
+I ha- I have an extra point, which is the naturalness issue.	0
+Because we have, like, meetings that have a reason. That's one of the reasons that we were	1
+talking about this. And - and those -	1
+Yeah.	0
+and this sounds like it's more of an experimental setup. It's got a different purpose.	1
+It's scenario-based, it's - it's human-computer interface -	1
+it's really	0
+pretty different. But I- I - I have no problem with somebody folding it in	1
+Yeah.	0
+for some experiment they're gonna do, but I don't think	0
+i- it - it doesn't match anything that we've described about meetings.	0
+Mm-hmm.	0
+Whereas everything that we talked about them doing at - at [MASK] and so forth really  does.  They're actually talking -	0
+O_K. So w- so what does that  mean  for how we are gonna organize things?	0
+Hmm.	0
+Yeah.	0
+You can - you can - Again, as - as I think Andreas was saying,	0
+if you wanna use the same	0
+tools  and the same conventions, there's no problem with that. It's just that it's, you know, different directory, it's called something different, it's - you know.	1
+It is  different.	0
+You can't just fold it in as if it's - I mean,  digits  are different, too. Right?	0
+It might also be potentially confusing.	0
+Yeah, but those are folded in, and it's just -	0
+you just mark the transcripts differently. So - so one option is you fold it in,	0
+Right.	0
+and just simply in the file you mark somewhere that this is this type of	1
+Yeah, I th-	0
+interaction,  rather than  another  type of interaction.	1
+Well, I don- I wouldn't call	1
+reading digits "meetings".	1
+Right? I mean, we - we - we were doing -	0
+Well, but -	1
+but,	0
+I put it under the same directory tree. You know, it's in "user doctor speech data M_R".	1
+Well -	0
+Can we just have a directory called, like, "other stuff"?	0
+And -	0
+Other.	0
+Well - or, I dunno.	0
+I mean, I don't care what directory tree you have it under.  Right? I mean that's just a -	1
+And -	0
+and just,	0
+um, store it there. I mean -	0
+O_K. My preference	0
+Yes.	0
+is to have a single procedure so that I don't have to  think  too much about things.	0
+And,	0
+Yeah.	0
+just have a marking.	0
+If we do it any  other  way that means that we need a separate procedure,	0
+O_-	0
+You - you can use whatever procedure you want	0
+and someone has to  do  that.	0
+that's p- convenient for you. All I'm saying is that there's no way that we're gonna tell people that reading digits is meetings.	0
+Right.	0
+And similarly we're not gonna tell them that someone talking to a computer to get travel information is meetings.	0
+Those aren't meetings.	0
+But if it makes it easier for you to pu- fold them in the same procedures and have them under the same directory tree, knock yourself out. You know?	0
+There's a	0
+couple other questions that I have too, and -	0
+and  one of  them   is, what about, uh,	0
+consent issues?	0
+And the other one is, what about transcription?	0
+Transcription is done in Munich.	0
+Are - ?	0
+O_K. So  we  don't have to worry about transcribing it?	0
+Yeah.	0
+Alright.	0
+So, w- we will hafta worry about	0
+That's a - that's another argument to keep it separate, because it's gonna follow [MASK] transcription conventions and not the	0
+format.	0
+Oh, O_K.	0
+Yeah.	0
+ICSI meeting transcription  conventions.	0
+Ah.	0
+O_K. Well, I didn't realize that. That's - that's a -	0
+Good point.	0
+Good point.	0
+But I'm sure no one would have a problem with our folding it in for some acoustic modeling or - or some things.	0
+Um.	0
+Do we h- do we have, uh,	0
+um,	0
+American-born folk, uh, reading German -	0
+German, uh, pla- uh,	0
+place names and so forth? Is that - ?	0
+Yeah.	0
+Exactly.	0
+Yeah.	0
+Yep.	0
+Yeah, great.	0
+Yeah.	0
+They - they even have a reading list. It's pretty funny.	0
+I bet that sounds good, huh?	0
+Yeah.	0
+Yeah.	0
+You can do that if you want.	0
+O_K.	0
+Yeah.	0
+I dunno if you want that.	0
+Yeah.	0
+Right.	0
+So -	0
+Hmm.	0
+Heidelberg	0
+Exactly	0
+Disk might eventually be an issue so we might -	0
+Do you wanna be a subject?	0
+Yeah, I be pretty good.	0
+we -	0
+we might need to, uh,	0
+get some more disk pretty soon. We're about -	1
+We -	0
+Yeah.	0
+That was one of our concerns.	0
+Yeah.	0
+we're about half -	0
+halfway through our disk right now.	1
+Are we only half? I thought we were more than that.	0
+We're probably a little more than that because we're using up some space that we shouldn't be on.	0
+So,	1
+once everything gets converted over to the disks we're  supposed  to be using we'll be probably,	0
+uh, seventy-five percent.	1
+Well, when I was looking for space for Thilo, I found one disk that had,	0
+uh,	0
+I think it was nine gigs and another one had seventeen.	0
+Yep.	0
+And everything else was sorta committed.	0
+Uh -	0
+Were those	0
+backed-up or non-backed-up?	0
+Those were  non-backed-up.	0
+Non-back-up.	0
+Right. So that's different.	0
+S- oh, you're talking about backed-up.	0
+I'm much more concerned about	1
+the backed-up.	0
+@@	1
+The non-backed-up,  yeah, i-	0
+I haven't looked to see how much of that we have.	0
+is cheap. I mean, if we need to we can	0
+buy a disk, hang it off a s- uh, workstation. If it's not backed-up the sysadmins don't care too much.	0
+Yeah. So, I mean,	0
+pretty much anytime we need a disk, we can get it at the rate that we're -	0
+You can -	0
+I shouldn't be saying this, but,	0
+you can just -	0
+you know,	0
+since	0
+the back-ups are every night,	0
+you can recycle the backed-up diskspace.	0
+Yeah. But that's - that's -  that's risky.	0
+Yeah. You really shouldn't be saying -	0
+Mmm. Mmm.  @@	0
+I didn't say that. I didn't say that.	0
+Yeah, that's right. Beep that out.	0
+Da- we had allowed Dave to listen to these -  these,	0
+Right.	0
+uh, recordings.  Um  -	0
+Yeah, I me- and	0
+there's been this	0
+conversation going on about getting another file server, and -	0
+Mm-hmm.	0
+and	0
+we  can   do that.	0
+We'll	0
+take the opportunity and get another big raft of -	0
+Yeah.	0
+of disk, I guess.	0
+Well,	0
+It's really the back-up issue rather than the file server issue.	0
+I think -	0
+I think there's an argument for having - you know, you could use our old file server for - for disks that have data that  is very	0
+rarely accessed, and then have a fast	0
+new file server	0
+for	0
+data that is, um,	0
+Yeah.	0
+heavily	0
+accessed.	0
+My understanding is, the issue isn't really the file server. We could  always  put more disks on. It's the back-up system.	0
+Yeah.	0
+Yeah.	0
+It's the back- it's the back-up capaci- Yeah.	0
+So - which is near saturation,	0
+apparently.	0
+So.	0
+Soon.	0
+I think - I think the file server  could  become an issue as	0
+we get	0
+a whole bunch more	0
+new compute machines. And we've got,	0
+you know,	0
+fifty	0
+machines trying to access	0
+data off of [MASK] at once.	0
+Well, we're alright for now because the network's so slow.	0
+I mean, I think - I think we've raised this before and someone said this is not a reliable	0
+way to do it, but the -	0
+What about putting the stuff on,	1
+like, C_- C_D-ROM or D_V_D or something?	1
+Yeah. That was me.	0
+I was the one who said it was not reliable. The- they -	0
+O_K.	0
+they wear out.	0
+Oh, O_K.	0
+Yeah. The - the - th-	0
+But they wear out just from sitting on the shelf?	0
+Yep.	0
+Absolutely.	0
+Or from being   read   and  read?	0
+No.	0
+Read and write don't hurt  them   too much unless you scratch  them.	0
+Oh, O_K.	0
+But the r-	0
+the write once, and the read-writes, don't last.	0
+So you don't wa- you don't wanna put ir-  un-	0
+reproduceable data  on them.	0
+Uh-huh.	0
+Wear out after what amount of time?	0
+Year or two.	0
+Would it be - ?	0
+Year  or two?	0
+Yep.	0
+Wow.	0
+Hmm.	0
+But if that -	0
+then you would	0
+think you'd  hear much more	0
+clamoring about	0
+Yeah.	0
+data loss and -	0
+I mean, yeah, all the L_-	0
+I - I don't know many people who do it on C_D.	0
+I mean, they're - the most -	0
+[MASK]-	0
+fo-	0
+Yeah.	0
+They're on C_D, but they're not -	0
+Like -	0
+tha- that's not the only source. They have  them   on disk.	0
+And they burn new ones every once in a while. But if you go -	0
+But, you know, we have -	0
+But we have like thirty  you know, from  ten years ago? No.	0
+if you go k-	0
+We have all sorts of C_D-ROMs from a long time ago.	0
+Yeah! Ten years ago. Ninety-one, and they're still all fine.	0
+Right.	0
+Yeah.	0
+Well, th-	0
+th-	0
+Were they burned or were they pressed?	0
+Yeah.	0
+Uh, both. I've burned them and they're still O_K. I mean,  usually  they're -	0
+Yeah.	0
+O_K. The - the  pressed  ones last for- well, not forever, they've been finding even those degrade.	0
+Oh, I see.	0
+But, uh,	0
+the  burned  ones - I mean,	1
+when I say two or three years what I'm saying is that	0
+That's what I -	0
+I have had disks which are  gone  in a year.	1
+On the  average,  it'll probably be three or  four  years.	0
+But, uh - I - I - you don't want to per-	1
+p- have your only copy on a media that	0
+fails.	1
+Mmm.	0
+And they do.	0
+So how  about   - ?	0
+Um,	0
+if you have  them   professionally  pressed,	0
+y- you know, they're good for decades.	0
+So -	1
+so how about putting them on that	0
+plus,	0
+like on a - on -	0
+on [MASK] or some other	0
+medium that isn't	0
+I think th- um,	0
+risky ?	1
+we can already put them on tape.	0
+O_K.	0
+And the tape is hi- is  very  reliable.	0
+Mm-hmm.	0
+So the - the only issue is then  if we need access to them.	0
+Right.	0
+So that's fine f- if we don't need access to  them.	1
+Well, if - if - if you - if they last -	0
+Say, they actually last, like, five years, huh,	0
+in - in the typical case,	0
+and -	0
+and occasionally you might need to recreate one,	0
+and then you get your tape out, but otherwise you don't.	0
+Can't you just - you just put them on - ?	0
+So you just archive it on the	0
+tape, and then	0
+Yeah.	0
+put it on C_D as well?	0
+Right.	0
+Oh. So you're just saying put  them   on C_Ds	0
+for normal access.	0
+Right.	0
+Yeah.	0
+Yeah.	0
+I mean, you can do that but that's pretty annoying, because the C_Ds are so slow.	0
+What you -	0
+See -	0
+Yeah.	0
+Mmm.	0
+Yeah.	0
+What'd be nice is a system that re-burned the C_Ds every	0
+year.	0
+H- everytime it was a "gonna" - "gonna die".	0
+Yeah.	0
+Well, I mean, the C_Ds are -	0
+Well -	0
+It's like - like dynamic ra- [MASK]	0
+are	0
+an op-	0
+Just before.	0
+Just before they- be- before it goes bad, it burns them in.	0
+Yeah.	0
+The -	0
+the C_D is an  alternative  to tape. ICSI already has a perfectly good tape system and it's more reliable.	1
+Yeah.	0
+You know -	0
+So for archiving, we'll just use tape.	1
+One - one thing I don't understand is, if you have the data -	0
+I  would think -	0
+if - if you- if the meeting data	0
+is put on disk exactly once,	0
+then it's backed-up once and the back-up system should never have to	0
+Well,	0
+bother with it,  uh,   more than once.	0
+regardless - Well, first of all there was,	0
+um, a problem with the	0
+archive in that I was every once in a while doing a [MASK] on all the directories an-	0
+Mm-hmm.	0
+they weren't getting  set  correctly every once in a while, and I was just,	0
+doing a	0
+[MASK]	0
+Mm-hmm.	0
+not realizing that that	0
+Ah.	0
+caused  it to be re-backed-up.	0
+But  normally  you're correct.	0
+But even without that, the back-up system is becoming saturated.	1
+But - but this back-up system is smart enough to figure out that something hasn't changed and doesn't need to be  backed-up again.	1
+Sure, but we still have enough changed	0
+The b-	0
+that the nightly back-ups are starting to take too long.	0
+I think th- the - at least the once tha- that you put it on, it would -	0
+it would	0
+O_K. So - so then, if - So - so then, let's - Right.	0
+It has nothing to do with the meeting. It's just the general ICSI back-up system is becoming saturated.	0
+kill that. So.	0
+O_K.	0
+Right.	0
+So, what if we buy,	0
+uh -	0
+uh, what - what do they call these, um  high density - ?	0
+Well, why don't you have this -	0
+have a -	0
+this conversation with Dave Johnson tha- rather than with me?	0
+No, no. Because this is  maybe something that we can do without involving Dave, and -	0
+and,	0
+putting more burden on him.	0
+How  about   we buy,	0
+uh - uh - uh, one of these high density tape drives?	0
+And we put the data actually on non-backed-up	0
+disks.	0
+And we do our own back-up once and for  all   - all, and then - and we don't have to bother this  @@  up?	0
+Actually, you know, we could do that just with the tape - with the current tape.	0
+I dunno what the- these tapes - uh, at some point these -	0
+I dunno. What kind of tape drive is it? Is it - is - ?	0
+I dunno but it's an automatic robot so it's very convenient.	0
+Wh-	0
+Right.	0
+You just run a program to restore them.	0
+The o-	0
+the one that we have?	0
+Yeah.	0
+But it might interfere with their back-up schedule, eh.	0
+The - I mean -	0
+But -	0
+No, we have s- we - Don't we have our own? Something wi- th- that doesn't -	0
+that isn't used by the back-up gang?	0
+Don't we have something	0
+Well they -	0
+downstairs?	0
+What   kinda tape drive?	0
+Just in - ?	0
+Well -	0
+Yeah.	1
+but - no, but Andreas's point is a good one. And we don't  have  to do anything  ourselves  to do that. They're already right now on tape.	0
+Right.	0
+Right. So your - your  point  is, and I think it's a  good  one, that we could just get more disk and put it there.	0
+Mmm.	0
+On an X_H - uh, X_ - X_ whatever partition.  Yeah.	0
+Yeah.	0
+That's not a bad idea.	0
+Yeah, that's basically what I was gonna say, is that a disk is - is so cheap it's es- essentially, you know, close to free.	0
+So once it's on tape -	0
+Right.	0
+And the only thing that costs is the back-up  issue,	0
+Right.	0
+eh, to first order. And we can take care of that by putting it on non-back-  up drives and just	0
+Mm-hmm.	0
+backing it up once onto this tape.	0
+I think that's a good idea.	0
+Right.	0
+Oh.   Yeah.	0
+O_K.	0
+Good.	0
+It's good.	0
+So,	0
+who's gonna do these back-ups? The people that collect it?	0
+Uh	0
+Well, I'll talk to Dave,	0
+and - and see what th- how -	0
+what the best way of doing that is.	0
+It's probably gonna n-	0
+There's a little utility	0
+that	0
+will manually burn a tape for you, and that's probably the right way to do it.	0
+Yeah, and we should probably make that part of the procedure for recording the meetings.	0
+Well, s-	0
+Yep.	0
+Yeah. That's what I'm wondering, if -	0
+Well  we're g- we're gonna automate that. My intention is to  do a script that'll do everything.	1
+O_K.	0
+I mean, you don't have to physically	0
+put a tape in the drive? Or s- ?	0
+No.	0
+Oh, O_K.	0
+It's all tape robot, so you just sit down at your computer and you type a command.	1
+So it's just -	0
+Oh, O_K.	0
+Yeah, but then you're effectively using the resources of the back-up system.	0
+Or is that a different tape robot?	0
+But not at the same time.	0
+Yeah. But y- but you would be anyway.	0
+No, no. See -	0
+Right? Because -	0
+No, no, no.  He's  saying get a  whole  different drive.	0
+Yeah, just give a dedi-	0
+But there's no reason to do that.	0
+Well, I'm saying is  @@	0
+It - we already have it there and it - it's -	0
+i- if you go to Dave, and - and -	0
+and ask him "can I use your tape robot?",	0
+he will say,	0
+"well  that's gonna screw up our back-up operation."	0
+No, we won't.	0
+He'll say	0
+"if - if that means  that it's not gonna be backed-up	0
+standardly,  great."	0
+He- I -	0
+Dave has - has promoted this in the past. So I don't think he's actually against it. Yeah.	0
+Yeah. It's - it's definitely no problem.	0
+Oh, O_K. Alright.	0
+Alright.	0
+Good.	0
+O_K.	0
+What about if the times overlap	0
+with the normal back-up	0
+time?	0
+Um, it's - it's just - it's just a utility which queues up.	0
+O_K.	0
+It just queues it up and - and when it's available, it will copy it.	0
+Yeah.	0
+And then	0
+you can tell it to then remove it from the disk or you can, you know, do it a-	0
+a few days later or whatever you wanna do,	0
+after you confirm that it's really backed-up.	0
+O_K.	0
+[MASK]	0
+You saying [MASK]	0
+[MASK] That's what it is.	0
+Yep	0
+O_K.	0
+And if you did that during the day it would never make it to the nightly back-ups.	0
+Right.	1
+And then there wouldn't be this extra load.	0
+Well, it - if he - you have to put the data on a - on a non-backed-up disk to begin with.	0
+So that - so that -	0
+Right.	0
+Well,	1
+but you can have it [MASK] to - you can have,	0
+otherwise you don't - you -	0
+uh, a non-backed-up disk [MASK]	1
+Right.	0
+and it'll never show up on the nightly back-ups.	0
+And then it never -	0
+Right.	0
+Right.	0
+Right.	0
+Which I'm sure would make ever- [MASK] very happy.	0
+Right.	0
+Yeah.	0
+So, I think that's a good idea.	0
+O_K.	0
+That's what we should do.	0
+O_K.	0
+So, that means we'll probably wanna convert all -	0
+all those files -	0
+filesystems to non-backed-up media.	0
+That sounds good.	0
+Yep.	0
+Yeah.	0
+Um,	0
+another,	0
+thing on the agenda said	0
+[MASK] experiments?	0
+What's that?	0
+[MASK]  Oh.	0
+That wasn't me.	0
+Um.	0
+Uh. Who's that?	0
+well,	0
+we have lots of them.	0
+Uh,	0
+I dunno. Chuck, do you have any -	0
+any updates?	0
+N- I'm	1
+successfully, uh, increasing the error rate.	1
+Uh -	0
+That's good.	1
+Oh.	0
+Mmm.	0
+Lift the Herve approach.	0
+Yeah.	0
+So, I mean I'm just playing with, um,	1
+the number of [MASK] that we use in the - the recognizer, and -	1
+Well, you have to sa- you have to  tell people that you're - you're doing - you're trying the  tandem  features.	1
+Yes, I'm using tandem features.	0
+Oh you are? Cool.	0
+A- and I'm still	1
+And -	0
+@@	0
+tinkering with the [MASK]	1
+Yeah, I got confused by the results. It sai- because - uh, the  meeting before,	0
+you said "O_K, we got it down to where they're - they're within a tenth of a percent".	0
+That was on  males.	0
+Right.	0
+That was - that was before I tried it on the females.	1
+Oh.	0
+See, women are nothi- are,	0
+It's the  women  are the problem. O_K.	0
+trouble. Right? As we all know. So.	0
+Well, let's just say that men are simple.	0
+So -	0
+so, when -	0
+So I - I had -	0
+That was a quick response.	0
+I ha-	0
+So, we had reached the point where -	0
+I'm well rehearsed.	0
+Yeah.	0
+we had reached the point where,	1
+um,	0
+on the male portion of the  development set,	0
+the,	0
+um -	0
+or one of the development sets, I should say -	0
+the, um -	0
+the male error rate with, uh, ICSI [MASK]	0
+was	0
+pretty much identical	0
+with, uh, [MASK]	0
+features.	1
+which are  [MASK] So,	0
+um,	0
+then I thought, "Oh, great.	0
+I'll j- I'll -	0
+just let's make sure everything works on the females." And	0
+the error rate -	0
+Oh.	0
+you know, there was a three percent difference.	0
+Uh-huh.	0
+So,	0
+Is there less training data?	0
+uh -	0
+No, actually there's more training data.	0
+I mean, we don-	0
+This is on just digits?	0
+No, no.	0
+Oh, sorry. O_K. This is on - Oh, O_K.	0
+No.	0
+No. It's, uh, Swi-	0
+[MASK]	0
+This is [MASK]	0
+[MASK] Yeah.	0
+Yeah.	0
+Um, and the test data is [MASK]	1
+So,	0
+uh - so then  um -	0
+Oh, and plus the -	1
+[MASK]	0
+didn't -	0
+actually made things  worse.	1
+So something's really seriously wrong. So -	1
+Um -	0
+Aha!	0
+Hhh.	0
+So -	0
+O_K.	0
+So -	0
+So - but you see, now, between - between the males	1
+and the females, there's certainly a much bigger	0
+difference in the scaling	0
+range,	0
+than there is, say, just within the males.	1
+And what you were using before was scaling factors that were just from the - the m- the  [MASK]	0
+And that worked - that worked fine.	0
+That's true.	0
+Yeah.	0
+Uh,	0
+but now you're looking over a larger range and it may not be so fine.	0
+Well, um -	0
+So -	0
+I just -	0
+d- so the one thing that I then tried was to	1
+put in the low-pass filter,	0
+which we have in the -	1
+So, most -	1
+most	0
+[MASK] actually	0
+band-limit the -	0
+uh, at about,	0
+uh, thirty-seven hundred,	0
+Uh-huh.	0
+um,	0
+hertz.	1
+Although, you know, normally, I mean, the channel goes to	0
+four -	0
+four thousand. Right? So,	1
+um -	0
+And that actually helped,	0
+uh -	0
+Uh-huh.	0
+uh,	0
+a little bit.	0
+Um  and it didn't hurt on the males either. So,	1
+um -	0
+And I'm now,	0
+uh,	0
+trying	0
+the -	0
+Oh, and suddenly, also the v- [MASK] only in the  test  se- on the  test  data.	1
+So, you can do [MASK]	0
+Yeah.	0
+on the test data only or on both the training and the test.	0
+And	0
+you expect it to help a  little  bit if you do it only on the  test,  and s- more if you do it on both training and test.	0
+Yeah.	0
+And	0
+so the -	0
+It now helps,	0
+if you do it only on the test, and	0
+I'm currently retraining  another  set of models where it's both in the training and the test, and then	0
+we'll -	0
+we'll have,	0
+hopefully, even better results. So -	0
+But there's -	0
+It looks like there will still be some difference,	0
+maybe	1
+between one and two percent,	0
+um,	0
+Huh.	0
+for the females. And so,	1
+um,	0
+you know, I'm open to suggestions.	0
+And it  is  true that the, uh - that the -	0
+Mm-hmm.	0
+you know, we  are  using the -	0
+But -	0
+it  can't  be just the	0
+[MASK]	0
+Uh-huh.	0
+because	0
+if you  don't  do [MASK] in both systems,	0
+No - no. I - I  remember   that.	0
+It's much worse.	0
+uh, you know, the -	0
+Yeah.	0
+the females are considerably worse	0
+in the -	0
+with [MASK]	0
+So there must be some -	0
+something else going on.	0
+Well, what's the standard - ?	0
+Yeah,   so I thought the performance was actually a little  better  on females than males.	0
+That's what I thought, too.	0
+Um,	0
+that  ye-  overall, yes, but on this particular development test set,	0
+they're actually a little worse.	0
+But that's beside the point. We're looking at the discrepancy between	1
+[MASK]	0
+system and the	0
+[MASK] when trained with ICSI features.	1
+Right. I'm just wondering if that -	0
+What's - Are the freq- ?	0
+if - if you have any indication of your standard features, you know, if that's also different  or in the same direction or not.	0
+You're -	0
+This is - lemme ask a q-	0
+Cuz -	0
+more basic que- I mean, is this, uh - uh,	0
+Mm-hmm.	0
+iterative,	0
+[MASK] Or	0
+It's Baum-Welch training.	0
+Baum-Welch training.	0
+And how do you determine when to - to stop iterating?	0
+Um -	0
+Well, actually,	0
+we - we just basically do a s-	0
+a fixed number of iterations.	0
+Hmm.	0
+Uh, in this case four.	0
+Um,	0
+which -	0
+Eh, we used to do only three, and then we	0
+found out we can squeeze -	0
+And it was	0
+basically,	0
+we're s- we're keeping it on the safe side. But you're d- Right. It might be that one more iteration	0
+would - would help, but it's sort of  you know.	0
+Or maybe - or maybe you're doing one too  many.  I mean it's - it's -	1
+No, but with [MASK]	1
+there shouldn't be an over-fitting issue, really.	1
+@@	0
+Uh.  Well, there can be. Sure.	0
+Um.	0
+Well, you can try each one on a [MASK] can't you?	1
+It d- if you - if you remember some years ago Bill Byrne did a thing where he was - he was looking at that, and he showed that you  could  get it. So.	0
+Yeah.	0
+But -	0
+Well, yeah. We can -	0
+but -	0
+but, um -	0
+Well, that's - that's the easy one to check, because	0
+Yeah.	0
+Do you - ?	0
+we save all the intermediate models and we can -	0
+And in each case, ho-	0
+What - ?	0
+um, I'm sorry - in each case how do you determine,	0
+you know, the - the usual  fudge factors? The, uh -	0
+the, uh, language, uh, scaling, acoustic scaling, uh,	0
+Um  I uh -	0
+uh -	0
+I'm actually re-optimizing them.	0
+Although that hasn't shown to make  a big difference.	0
+O_K. And the pru- the question he was asking at one point about pruning,	0
+uh -	0
+Pruning - ?	0
+Remember that one?	0
+Pruning in the - ?	0
+Well, he was - he's - it looked like the probabil- at one point he was looking at the probabilities he was getting out - at the likelihoods he was getting out of P_L_P versus mel cepstrum, and they looked pretty different,	1
+Yeah, the likelihoods were  lower	0
+as I recall.	0
+Oh.	0
+And so, uh, there's the question -	0
+for the [MASK]	0
+I- you mean -	0
+did you see this in the [MASK]	0
+Mm-hmm.	0
+Um.	0
+Was just looking through the log files, and -	0
+Well, the likelihoods are -	0
+You can't directly compare them,	0
+because, for every set of models you compute a new normalization.	0
+And so these	0
+log probabilities, they aren't	0
+directly  comparable   because you have a different normalization constants for each model you train. So -	0
+Oh.	0
+Hmm.	0
+But, still it's a question - if you have some threshold somewhere in terms of beam search or something, or - ?	0
+Well, yeah. That's what I was wondering.	0
+W- yeah. I mean -	0
+Uh -	0
+I mean, if you have one threshold that works well	0
+because	0
+the range of your likelihoods is in	0
+this area -	0
+We prune very conservatively. I mean,	0
+as we saw with the meeting data,	0
+um  we could probably	0
+tighten the pruning without really -	0
+So we- we basically we have a very open beam.	0
+But, you're only talking about a percent or two. Right? Here we're- we're saying that we- there - gee, there's this b- eh, there's this difference here.	1
+Yeah.	0
+And  it -	0
+See cuz, i- i-	0
+there could be lots of things. Right? But - but - but - but,	0
+Right.	0
+Course.	0
+um,	0
+let's suppose just for a second that, uh, we've sort of	0
+taken out a lot of the - the major differences, uh, between the two. I mean, we're already sort of using [MASK] and we're using the same style filter integration, and	0
+Mm-hmm.	0
+Right.	0
+and, well, we're making sure that low and high -	0
+Actually, there is - the difference in that. So, for [MASK] we use the triangular	1
+filter shapes. And for the -	1
+in [MASK] we use the trapezoidal one.	1
+And what's the top frequency of each?	0
+Well, now it's the same.	0
+It's thirty -	0
+thirty to seven hundred and sixty hertz.	0
+Yeah. Exp- one's triangular, one's trapezoidal. So -	0
+No, no. But -	0
+Before we - i- i- th- with [MASK] it's trapezoidal also. But then we had a slight difference in the - in the scale.	0
+Well -	0
+But -	0
+Uh, so.	0
+Since	0
+currently [MASK] doesn't allow me to change  the filter shape independently of the scale.	0
+Uh-huh.	0
+And,	0
+I did the experiment on [MASK] where I tried the -	0
+y- where the standard used to be	0
+to use trapezoidal filters.	0
+You can actually continuously vary it between the two. And so I	0
+wen-	0
+I swi- I tried the trap- eh, triangular ones.	0
+And it did  slightly  worse, but it's really a small difference.	0
+Hmm.	0
+So -	0
+Coup-	0
+Couple tenths of a percent or something.  Right.	0
+O_K. So it's  not  just	0
+Yeah, exactly. So, it's not - I don't think the filter shape by itself will make	0
+losing some	0
+frequency range.	0
+Yeah.	0
+a huge	0
+Right. So the oth-	0
+difference.	0
+Yeah.	0
+the other	0
+thing that - So, f-	0
+i-	0
+We've always viewed it, anyway, as the  major  difference between the two,	1
+is actually in the smoothing,	1
+Mm-hmm.	0
+that the - that the, um,	1
+[MASK] and -	0
+and the reason [MASK] has been	0
+advantageous in, uh, slightly noisy situations is because,	0
+Mm-hmm.	0
+[MASK] does the smoothing at the end by	1
+and [MASK] does it by just computing the lower	0
+[MASK]	0
+Mm-hmm.	0
+Um.	0
+So,	0
+um -	0
+O_K. So  one thing I haven't done yet is to actually do all of this with	0
+a much larger -	0
+with our full training set.	0
+So right now, we're using a -	0
+I don't know, forty?	0
+I- i- it's - it's -  eh	0
+it's a f- training set that's about,	0
+um,	0
+you know, by a factor of four smaller than what we use when we train the full system. So,	0
+Mm-hmm.	0
+some of these smoothing issues are over-fitting for that matter. And [MASK]	0
+Mm-hmm.	0
+should	0
+be much less of a factor, if you go	0
+full -	0
+Could be. Yeah.	0
+whole hog. And so,	0
+w- so, just um -	0
+so the strategy is to first sort of treat things  with fast turn-around on a smaller training set and then,	0
+when you've sort of,	0
+narrowed it down, you try it on a	0
+Yeah.	0
+larger training set. And so, we haven't done that yet.	0
+Now the other que- related question, though, is - is,	0
+uh, what's the boot models	0
+for these things?	0
+Th- th- the boot models  are  trained from scratch. So we compute, um -	0
+So, we start with a,	0
+um,	0
+alil- alignment	0
+that we computed with the b- sort of the best system we have.	0
+And -	0
+and then we train from scratch. So we com- we do a,	0
+you know, w- um -	0
+We collect the -	0
+uh,	0
+the observations	0
+from those alignments under each of the feature	0
+sets that - that we  train.	0
+And then,	0
+from there we do,	0
+um -	0
+There's a lot of, actually -	0
+The way it works, you first train a phonetically-tied	0
+mixture model.	0
+Um.	0
+You do a total of -	0
+First you do a context-independent	0
+[MASK] Then you switch to a context -	0
+You do two iterations of that.	0
+Then you do two iterations of - of - of context- dependent	0
+phonetically-tied mixtures.	0
+And then from that you - you do the -	0
+you - you go to a state-clustered model,	0
+Yeah.	0
+and you do four iterations of that. So there's a  lot  of iterations overall between your	0
+original boot models and the final models. I don't think that -	0
+Hmm.	0
+We have never seen big	0
+differences. Once I thought "oh, I can -	0
+Now I have these  much  better models. I'll re-generate my initial alignments. Then I'll get much better models at the end."	0
+Made no difference whatsoever. It's -	0
+Right.	0
+I think it's - eh, i-	0
+the boot models are  recur-	0
+Well, mis- for making things  better.  Yeah. But,	0
+this for making things  worse.  This it migh-  Th- the thought is - is - is  possible  - another possible  partial cause is if the boot models	0
+Mm-hmm.	0
+used a comple- used a different feature set,	0
+Mm-hmm.	0
+that -	0
+But there  are  no boot models, in fact.	0
+You - you're not booting from initial models. You're booting from initial alignments.	0
+Which you got from a different feature set.	0
+@@	0
+That's correct.	0
+So, those features  look  at the data differently, actually.	0
+Yeah, but -	0
+I mean, you know, they - they will find boundaries a little differently, though - You know, all th- all that sort of thing is actually slightly different.	0
+I'd expect it to be a minor effect, but -	0
+But - but - but, what I'm - what I'm saying is -	0
+So,	0
+we e-	0
+w- f- w-	0
+For a long time we had used boot alignments	0
+that	0
+had been trained with a -	0
+with the same  front-end  but with acoustic models that were,	0
+like, fifteen percent worse than what we use now.	0
+Mm-hmm.	0
+And with a dict- different dictionary - with a  considerably  different dictionary, which was much less detailed and much less well-suited.	0
+Mm-hmm.	0
+Yeah.	0
+And so,	0
+then we switched to new boot alignments, which - which now had the benefit of all these	0
+improvements that we've made over two years in the system.	0
+Right.	0
+And,	0
+the result in the end was no different.	0
+Right.	0
+So, what I'm saying is, the exact nature of these boot alignments is	0
+probably not  a big factor in the quality of the final models.	0
+Yeah, maybe not.	0
+But  it - it - I st- still see it as - I mean,	0
+Yeah.	0
+there's - there's a history to this, too, but I - uh, I don't wanna go into, but -	0
+Mm-hmm.	0
+but I - I - I th- I think it  could  be	0
+Yeah.	0
+the things  that it -	0
+the  data  is being viewed in a certain way,	0
+Right.	0
+uh, that	0
+a beginning	0
+is  here  rather than  there  and so forth, because the actual signal-processing you're doing is slightly different.	0
+Right.	0
+But,	0
+Yeah.	0
+it's - it's - that's probably not it.	0
+Anyway, I - I - I should really reserve,	0
+uh,	0
+any conclusions until we've done it on the	0
+large training set,	0
+um, and until we've seen the results with the - with [MASK] in training.	0
+So.	0
+Yeah. At  some  point you also might wanna  take  the same thing and try it on,	0
+Yeah.	0
+uh, some Broadcast News data or something else that actually has - has some noisy -	0
+noisy components, so we can see	0
+if any conclusions we come to holds	0
+across  different data.	0
+Right.	0
+Uh -	0
+And, uh, with  this,  I have to leave.	0
+Hmm!	0
+O_K.	0
+With this said.	0
+So, is there something quick about [MASK]  that you - ?	1
+Uh. Just what we were talking about before, which is that I	0
+ported a [MASK]	0
+and then got -	0
+got it working with fast-forward,	0
+and got	1
+Oh.	0
+a speedup roughly proportional to the number of processors times the clock cycle. So, that's pretty good.	1
+Oh!	0
+Cool.	0
+Um, I'm in the process of doing it for [MASK] but there's something going wrong and it's about half the speed that	0
+I was estimating it  should  be, and I'm not sure why.	0
+Mm-hmm.	0
+But I'll keep working on it. But the -	1
+what it means is that it's likely that for net training and forward passes,	0
+we'll -	0
+[MASK] will be a good machine.	1
+Especially if we get a few more processors and upgrade the processors.	1
+A few more processors? How many are you shooting for?	0
+There're five now. It can hold eight.	0
+Oh, O_K.	0
+Yeah, we'll just go buy  them,    I guess .	0
+And it's also five-fifty megahertz and you can get a  gigahertz.	0
+Yeah.	0
+So.	0
+Can you mix  t- uh, processors of different	0
+I  don't  think so. I think we'd have to do all -	0
+speed?	0
+O_K.	0
+Probably just throw away the old ones, and -	0
+Yep.	0
+Thank you  for the box, and -	0
+Oh, O_K.	0
+I'll just go buy their process.	0
+Hmm!	0
+Maybe we can stick them in another system. I dunno.	0
+We'd have to get a -	0
+almost certainly have to get a, uh, [MASK]	0
+I see.	0
+They're	0
+pretty -	0
+pretty specialized.	0
+Yeah.	0
+O_K.	0
+O_K.	0
+Is - is Liz coming back, do you know, or - ?	0
+I don't know.	0
+I dunno.	0
+Yeah. Oh, you don't. O_K.	0
+Uh, I - I will.	0
+Alright.	0
+I - I actually have to run this stuff.	0
+Alright.	0
+O_K.	0
+See you.	0
+Um.	0
+Alright. So -	0
+Uh, they're having tea out there. So I guess the other thing that we were gonna talk about is - is, uh, demo.	1
+And, um, so, these are the demos for the  uh, July,	1
+uh, meeting  and,	0
+um -	0
+July what?	0
+DARPA mee-	1
+Early July? Late July?	0
+Oh, I think it's July fifteenth. Is that it?	0
+Sixteen to eighteen, I think.	0
+Yeah, sixteenth, eighteenth.	0
+Roughly.	0
+Yeah. So, we talked about getting something together for that, but maybe, uh -	1
+maybe we'll just put that off for now, given that -	1
+But I think maybe we should have a -	1
+a sub-meeting,	1
+I think,	0
+uh,	0
+probably, uh,	0
+Adam and -	0
+and, uh, Chuck and me	0
+should talk about -	0
+should get together and talk about that sometime soon.	1
+Over a cappuccino tomorrow?	0
+Yeah  something like that. Um,	0
+uh, you know, maybe -	0
+maybe we'll involve Dan Ellis at some -	0
+Mm-hmm.	0
+some level as well.	0
+Um.	0
+O_K. The -	0
+the tea is - is going, so, uh, I suggest we do, uh -	0
+uh, a unison.	0
+A unison digits?	0
+O_K.	0
+Yeah.	0
+Which is gonna be a little hard for a couple people because we have different digits forms.	0
+Gets  our  -	0
+Oops.	0
+We have a -	0
+I found a couple of old ones.	0
+Hmm.	0
+Oh.	0
+Well,	0
+that'll be interesting. So, uh -	0
+Have you done digits before?	0
+No.	0
+I haven't done it.	0
+O_K. So, uh,	0
+the idea is just to read each line  with a short pause	0
+Alright.	0
+between lines, not between -	0
+And, uh, since we're in a hurry, we were just gonna read everyone all at once. So, if you sorta plug your ears and read -	0
+O_K.	0
+So first read the transcript number,	0
+and then start reading the  digits.	0
+Sure.	0
+O_K?	0
+One, two, three.	0
+O_K   we're done.	0
+And -	0
