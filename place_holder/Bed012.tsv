@@ -19,9 +19,9 @@ We can write up	0
 uh,	0
 an element,	0
 and - for each of the situation	0
-nodes that we observed in [MASK]	0
+nodes that we observed in the Bayes-net?	0
 So.	0
-What's the  situation   like at the entity that is mentioned? if we know anything about it? Is it under construction?	0
+What's the  situation   like at the entity that is mentioned? if we know anything about it? Is it under construction?	1
 Or is it	0
 on fire or something  happening to it? Or is it stable?	0
 and so forth, going all the way	0
@@ -35,18 +35,18 @@ Disasters.	0
 So is - This is - A situation are - is all the things which can be happening right  now?	0
 Or,  what  is the situation	0
 type?	0
-That's basically  just specifying the - the input for the - w- what's	0
-Oh,  I  see y- Why are you specifying it in X_M_L?	0
+That's basically  just specifying the - the input for the - w- what's	1
+Oh,  I  see y- Why are you specifying it in X_M_L?	1
 Um.	0
 Just because it forces us to be specific about the values	0
 here?	0
 O_K.	0
-And, also, I mean, this is a - what the input is going to be. Right?	0
+And, also, I mean, this is a - what the input is going to be. Right?	1
 So, we will, uh -	0
 This is a  schema.  This is -	0
-Well, yeah. I just don't know if this is th- l- what the - Does - This is what [MASK] takes? as a	0
+Well, yeah. I just don't know if this is th- l- what the - Does - This is what Java Bayes takes? as a	0
 No, because I mean if we -	0
-[MASK]	0
+Bayes-net spec?	0
 I mean we're  sure  gonna interface to -	0
 We're gonna get an X_M_L document from  somewhere.	0
 Right? And that X_M_L document will say	0
@@ -60,17 +60,17 @@ O_K.	0
 So this is just,	0
 again, a- an X_M_L schemata which defines a set of possible, uh, permissible X_M_L	0
 structures,	0
-which we view as [MASK]	0
+which we view as input into the Bayes-net.	0
 Right?	0
 And then we can r-  uh	0
 possibly run one of them uh	0
 transformations?	0
-That put it into the format that [MASK] or whatever wants?	0
+That put it into the format that the Bayes n- or Java Bayes or whatever wants?	0
 Yea- Are you talking - are you talking about the - the  structure?	0
 Well it -	0
 I mean when you  observe  a node.	0
 When you - when you say	0
-[MASK]	0
+the input to the  v- Java Bayes,	0
 Um-hmm.	0
 it takes a certain format, right?	0
 Which I don't think is  this.	0
@@ -78,75 +78,75 @@ Although I don't know.	0
 No, it's  certainly  not this.	0
 Nuh.	0
 So you could just - Couldn't you just run a -	0
-[MASK] .  Yeah.	0
+X_S_L .  Yeah.	0
 Yeah.	0
-To convert it into [MASK]	0
+To convert it into the Java Bayes for- format?	0
 Yep.	0
 O_K.	0
 That's -	0
 That's no problem, but	0
 I even think that, um -	0
-I mean,  once   - Once you have this sort of as - running as a module -	0
-Right? What you  want  is -	0
-You wanna say, "O_K, give me [MASK]	0
-when  this  is happening."	0
+I mean,  once   - Once you have this sort of as - running as a module -	1
+Right? What you  want  is -	1
+You wanna say, "O_K, give me the posterior probabilities of the Go-there  node,	1
+when  this  is happening."	1
 Right? When the person said  this,  the car is  there,  it's  raining,  and this is happening.	0
 And with  this  you can specify the - what's happening in the situation, and what's happening	0
 with the  user.	0
 So we get -	0
-After we are done, through the Situation we get [MASK]	0
+After we are done, through the Situation we get the User Vector.	0
 So, this is a -	0
 So this is just a specification of all the possible inputs?	1
-Yep.	0
+Yep.	1
 And,	0
 all the possible  outputs,   too.	0
 O_K.	0
 So, we have, um,	0
-for example, the, uh, [MASK]	0
+for example, the, uh, Go-there decision node	0
 which has two	0
 elements, going-there	0
-and [MASK]	0
-and  not-going-there  and [MASK]	0
+and its posterior probability,	0
+and  not-going-there  and its  posterior   probability,	0
 because the output is always gonna be	0
-[MASK] and all the - the - a-	0
-And then we would just look at [MASK] that we wanna look at in terms of if - if we're only asking about one of the -	0
-So like, if I'm just interested in [MASK]	0
-I would just pull that [MASK]	0
-that gets return- that would - [MASK] would output?	0
+all the decision nodes and all the - the - a- all the posterior probabilities for all the values.	0
+And then we would just look at the, eh, Struct that we wanna look at in terms of if - if we're only asking about one of the -	0
+So like, if I'm just interested in the going-there node,	0
+I would just pull that information out of the Struct	0
+that gets return- that would - that Java Bayes would output?	0
 Um,	0
 pretty much, yes, but	0
 I think it's a little bit more complex.	0
-As, if I understand it correctly, it  always  gives you  all  [MASK] for	0
+As, if I understand it correctly, it  always  gives you  all  the posterior probabilities for  all  the values of  all  decision nodes.	1
 So, when we	0
 input   something,	0
-we always get the, uh, [MASK] for all of these. Right?	0
+we always get the, uh, posterior probabilities for all of these. Right?	0
 O_K.	0
 So there is no way of telling it t-	0
-not  to tell us about [MASK]	0
+not  to tell us about the  EVA   values.	0
 Yeah,  wait  I agree, that's - yeah,  use - oh, uh   Yeah, O_K.	0
 So - so we get this whole	0
 list  of - of, um,	0
 things, and the question is	1
 what to  do  with it,	1
-what to hand on,	0
+what to hand on,	1
 how to  interpret  it,	1
 in a sense.	0
 So y- you said if you - "I'm only interested in whether he wants to  go  there or not", then I just  look  at that  node,	0
 look which one -	0
-Look at [MASK] right?	0
+Look at that Struct in the output, right?	0
 Yep.	0
-Look at [MASK] even though	0
-I wouldn't call it [MASK] But.	0
+Look at that Struct in the - the output, even though	0
+I wouldn't call it a "Struct". But.	0
 Well i- well, it's an X_M_L Structure that's being res- returned, right?	0
 Oh. Mm-hmm.	0
 So every part of a structure is a "Struct".	0
 Yeah.	0
 Yeah, I just uh - I just was - abbreviated it	0
-to [MASK] in my head, and	0
+to Struct in my head, and	0
 started going with that.	0
 That  element or object,	0
 I would say.	0
-Not [MASK] That's not what I was trying to k-  though  yeah.	0
+Not a C_Struct. That's not what I was trying to k-  though  yeah.	0
 Yeah.	0
 O_K.	0
 And, um,	0
@@ -164,15 +164,15 @@ Throw things away.	0
 Well, actually, you don't even need to  do  that with X_M_L. D- Can't you just look at one specific -	0
 No-	0
 Yeah,  exactly.  The -  @@	0
-[MASK]	0
+Xerxes	0
 allows you to say, u- "Just give me the value of that, and that, and that."	0
 But, we don't really  know  what we're interested in  before we look at the  complete  - at - at the  overall  result.	0
 So the person said,	1
-um,	0
+um,	1
 "Where is X_?" and so,	1
 we  want to know,	1
-um,	0
-is - Does he want	0
+um,	1
+is - Does he want	1
 info?	1
 o- on this? or know the  location?	1
 Or does he want to  go  there?	1
@@ -208,18 +208,18 @@ just know where, uh t- uh, he  does  want to go there.	0
 Uh, out of curiosity, is there a reason why we wouldn't	0
 combine	0
 these three nodes?	0
-into [MASK]	0
+into one smaller subnet?	0
 that would just	0
 basically be	0
-the question for - We have "where is X_?" is the question, right? That would just be [MASK]	0
+the question for - We have "where is X_?" is the question, right? That would just be Info-on or Location?	0
 Based upon -	0
-Or [MASK] A lot of people ask that, if they actually just wanna  go  there.	0
+Or Go-there. A lot of people ask that, if they actually just wanna  go  there.	0
 People come up to you on campus and say, "Where's the library?"	0
 You're gonna say - y- you're gonna say, g- "Go down  that  way."	0
 You're not gonna say "It's - It's five hundred yards away from you" or "It's north of you", or -	0
 "it's located -"	0
 Well, I mean - But the - there's - So you just have three	0
-decisions for the final node, that would link thes- [MASK] together.	0
+decisions for the final node, that would link thes- these three nodes in the net together.	0
 Um.	0
 I don't know whether I  understand  what you mean. But.  Again,  in  this  -	0
 Given this input, we, also in some situations, may wanna	0
@@ -229,24 +229,24 @@ the  nicest  way, use a  cab,  or so s-	0
 wants to know it - wants to know where it is because he wants something  fixed  there, because he wants to	0
 visit t- it or whatever.	0
 So, it - n- I mean - a-  All  I'm saying is,	1
-whatever our input  is,  we're always gonna get the full	0
+whatever our input  is,  we're always gonna get the full	1
 output.	1
 And some -	1
-some  things	0
-will always be sort of	0
+some  things	1
+will always be sort of	1
 too - not significant enough.	1
 Wha-	0
 Or i- or i- it'll be tight. You won't - it'll be hard to decide. But I mean, I guess - I guess the thing is,	1
 Yep.	0
 uh,	0
-this is another, smaller, case of reasoning in the case of an  uncertainty,  which makes me think [MASK] should be	0
+this is another, smaller, case of reasoning in the case of an  uncertainty,  which makes me think Bayes-net should be	0
 the way to  solve	0
 these things. So if you had - If for every construction, right?	0
 Oh!	0
-you could say, "Well, there - Here's [MASK]"	1
-And for [MASK] we know we need to l- look at this node,	1
+you could say, "Well, there - Here's the Where-Is construction."	1
+And for the Where-Is construction, we know we need to l- look at this node,	1
 that merges these three things together	1
-Mm-hmm.	1
+Mm-hmm.	0
 as for th- to decide the response. And since we have a finite number of constructions that we can deal with, we could have a finite number of nodes.	0
 O_K.	0
 Say, if we had to y- deal with arbitrary language, it wouldn't make any sense to do that, because	0
@@ -254,15 +254,15 @@ Mm-hmm.	0
 there'd be no way to generate the nodes for every possible sentence.	0
 Mm-hmm.	0
 But since we can only deal with a finite amount of stuff -	0
-So, basically, the idea is to f-	1
+So, basically, the idea is to f-	0
 to feed the output of that	0
-[MASK] into [MASK]	1
-Yeah, so basically take these three things and then put  them   into [MASK]	0
+belief-net into another belief-net.	0
+Yeah, so basically take these three things and then put  them   into another belief-net.	0
 But, why - why - why only those  three?  Why not the whol-	0
-Well, I mean, d- For [MASK]	0
-So we'd have a node for [MASK]	0
-Yeah. But we believe that [MASK] are - can be relevant	0
-and [MASK]	0
+Well, I mean, d- For the Where-Is question.	0
+So we'd have a node for the Where-Is question.	0
+Yeah. But we believe that all the decision nodes are - can be relevant for the Where-Is,	0
+and the Where - How-do-I-get-to or the Tell-me-something-about.	0
 Is food not allowed in here?	0
 You can come in if you want.	0
 Yes, it  is  allowed.	0
@@ -270,7 +270,7 @@ As long as y- you're not wearing your h- your h-  headphones.	0
 Alright. Just a second. I'll be back.	0
 Well, I do- I - See, I don't know if this is a  good idea or not. I'm just throwing it out.	0
 But uh, it seems like we could have - I mea- or uh we could put all of the- all of the r- information that could also be relevant	0
-into [MASK]	0
+into the Where-Is node answer	0
 Mm-hmm.	0
 Yep.	0
 node	0
@@ -279,15 +279,15 @@ stuff.	0
 And uh -	0
 O_K.	0
 I mean -	0
-Let's not forget we're gonna get some very strong  input from  these sub- dis- from [MASK] right?	0
+Let's not forget we're gonna get some very strong  input from  these sub- dis- from these  discourse  things, right?	0
 So.	0
 "Tell me the location of X_."	0
 Nuh?	0
 Or "Where is X_ located	0
 We u-	0
 at?" Nuh?	0
-Yeah, I know, but t[MASK] would be able to - The weights on the -	0
-on [MASK] would be able to do all that, wouldn't it?	0
+Yeah, I know, but the Bayes-net would be able to - The weights on the -	0
+on the nodes in the Bayes-net would be able to do all that, wouldn't it?	0
 Mm-hmm.	0
 Here's a k-	0
 Oh!	0
@@ -300,11 +300,11 @@ That's the one that's painful. That hurts. It hurts  so  bad.	0
 I'm h- I'm happy that they're recording that.	0
 That headphone. The headphone  that you have to put on backwards, with the little - little thing - and the little - little foam block on it?	0
 It's a painful, painful microphone.	0
-I think it's th- called [MASK]	0
+I think it's th- called "the Crown".	0
 The crown?	0
 What?	0
 Yeah, versus "the Sony".	0
-[MASK]	0
+The Crown?	0
 Is that the actual name?	0
 Mm-hmm.	0
 O_K.	0
@@ -312,7 +312,7 @@ The manufacturer.	0
 I don't see a manufacturer on it.	0
 You w-	0
 Oh, wait, here it is. h-  This  thingy.	0
-Yeah, it's [MASK]	0
+Yeah, it's "The Crown".	0
 The crown of pain!	0
 Yes.	0
 You're on-line?	0
@@ -326,19 +326,19 @@ Excellent!	0
 We're  discussing  this.	0
 I don't think it can handle French, but anyway.	0
 So.	0
-Assume we have  something  coming in. A person says, "Where is X_?", and we get a certain - We have [MASK] and  everything  is  fine?	1
+Assume we have  something  coming in. A person says, "Where is X_?", and we get a certain - We have a Situation vector and a User vector and  everything  is  fine?	0
 An- an- and - and our - and our -	0
 Did you just sti- Did you just stick the m- the - the - the  microphone  actually in the  tea?	0
 No.	0
 And, um,	0
 I'm not drinking tea. What are you talking about?	0
 Oh, yeah. Sorry.	0
-let's just assume [MASK] just h	0
+let's just assume our Bayes-net just has  three  decision nodes for the time being.	0
 These three, he wants to know something  about  it, he wants to know  where  it  is,  he wants to go there.	0
-In terms of, these would be wha- how we would answer [MASK] right?	0
+In terms of, these would be wha- how we would answer the question Where-Is, right?	0
 We u-	0
-This is - i- That's what you s- it  seemed  like, explained it to me earlier w-	1
-We - we're - we wanna know how to answer the question "Where is X_?"	1
+This is - i- That's what you s- it  seemed  like, explained it to me earlier w-	0
+We - we're - we wanna know how to answer the question "Where is X_?"	0
 Yeah, but, mmm.	0
 Yeah.  @@	0
 No, I can - I can do the Timing node in here,  too,  and say "O_K."	0
@@ -347,25 +347,25 @@ We just want to know how we should answer "Where is X_?"	0
 O_K.	0
 And, um,	0
 O_K, and,	0
-[MASK] has two values, right?,	0
+Go-there has two values, right?, Go-there and  not-Go-there.  Let's assume those are the posterior probabilities of  that.	0
 Mm-hmm.	0
-[MASK] has True or False and Location. So, he wants to know something about it, and he wants to know something - he wants to know Where-it-is,	0
+Info-on has True or False and Location. So, he wants to know something about it, and he wants to know something - he wants to know Where-it-is,	0
 Excuse me.	0
 has  these  values.	0
 And, um,	0
 Oh,  I  see why we can't do that.	0
 And, um, in  this  case we would probably all agree that	0
-he  wants  to  go  there. [MASK] thinks he wants to go there, right? In the, uh, whatever, if we have something like	0
+he  wants  to  go  there. Our belief-net thinks he wants to go there, right? In the, uh, whatever, if we have something like	0
 Yeah.	0
 Mm-hmm.	0
 this here,	0
 and	0
-this like  that  and maybe here also some -	1
+this like  that  and maybe here also some -	0
 You should probably	0
 make them out of -  Yeah.	0
 Well, it-	0
 something like  that,	0
-then we would guess, "Aha! He,  [MASK]	0
+then we would guess, "Aha! He,  our  belief-net,	0
 has s- stronger beliefs that he wants to know where it is, than actually wants to go  there."	0
 Right?	0
 That it - Doesn't this assume, though, that they're evenly weighted?	0
@@ -373,16 +373,16 @@ True.	0
 Like -	0
 I guess they  are  evenly weighted.	1
 The different decision nodes, you mean?	1
-Yeah, [MASK]	0
+Yeah, the Go-there, the Info-on, and the Location?	0
 Well, d-  yeah,  this is making the assumption.	0
 Yes.	0
 Like -	0
 What do you  mean  by "differently weighted"? They don't feed into anything  really   anymore.	0
 Or I jus-	0
 But I mean, why do we -	0
-@@	0
+@@	1
 Le-	0
-If we trusted [MASK] more th- much more than we trusted the  other  ones, then we would conclude, even in this situation, that he wanted to go there.	1
+If we trusted the Go-there node more th- much more than we trusted the  other  ones, then we would conclude, even in this situation, that he wanted to go there.	1
 So, in that sense, we weight them equally	0
 O_K. Makes sense. Yeah.	0
 right now.	0
@@ -392,15 +392,15 @@ that I was as- er- wondering or maybe Robert was proposing to me	0
 is -	0
 How do we d- make the decision on - as to - which one to listen to?	0
 Yeah, so, the final d- decision is the combination of these three. So again, it's - it's some kind of, uh -	0
-[MASK]	0
+Bayes-net.	0
 Yeah, sure.	0
 O_K so, then, the question i- So then my question is t- to you then, would be -	0
-So is the only r- reason we can  make  [MASK] because we know we can only deal with	0
+So is the only r- reason we can  make  all these smaller Bayes-nets, because we know we can only deal with a finite set of constructions?	0
 Cuz oth- If we're just taking arbitrary language in, we couldn't have a node for every possible question, you know?	0
-[MASK] you mean?	0
+A decision node for every possible question, you mean?	0
 Well, I - like, in the case of - Yeah.	0
 In the ca- Any piece of language, we wouldn't be able to answer it with this system, b- if we just h-	0
-Cuz we wouldn't have the correct node. Basically, w- what you're s- proposing is [MASK] right?	0
+Cuz we wouldn't have the correct node. Basically, w- what you're s- proposing is a n- Where-Is node, right?	0
 Yeah.	0
 And - and if we - And if someone - says, you know, uh, something in Mandarin	0
 So is -	0
@@ -410,8 +410,8 @@ Yeah.	0
 Mmm?	0
 So, but - but if we have a finite - What?	0
 I don't see your point. What - what - what  I  am thinking, or what	1
-we're about to propose here is	0
-we're always gonna get the whole list of	0
+we're about to propose here is	1
+we're always gonna get the whole list of	1
 values and their posterior probabilities.	1
 And now we need an expert system or belief-net or something that  interprets  that,	1
 that looks at all the	0
@@ -419,18 +419,18 @@ values and says,	0
 "The winner is	0
 Timing. Now, go there."	0
 "Uh, go there, Timing, now."	0
-Or, "The winner is [MASK]	0
-[MASK]"	0
+Or, "The winner is Info-on,	0
+Function-Off."	0
 So, he wants to know  something about it, and what it does.	0
 Nuh?	0
 Uh, regardless of - of - of the input. Wh- Regardle-	0
 Yeah, but-	0
 But how does the expert - but how does the expert system	0
 know - how- who- which one to declare the winner, if it doesn't know the question it is, and how that question should be answered?	0
-Based on the k- what the  question   was,  so what [MASK] the situat	0
+Based on the k- what the  question   was,  so what the discourse, the ontology, the situation and the user model gave us, we came up with these values for these decisions.	0
 Yeah I know. But how do we weight what we get out?	1
 As, which one i- Which ones are important?	1
-So my i- So, if we were to it with [MASK] we'd have to have a node -	1
+So my i- So, if we were to it with a Bayes-net, we'd have to have a node -	1
 for every question that we knew how to deal with,	1
 that would take  all   of the inputs and weight them appropriately for that question.	1
 Mm-hmm.	0
@@ -445,7 +445,7 @@ see if I'm confused. Are we going to make a node for every question? Does that m
 For every question? Like -	0
 Every construction.	1
 Hmm.	0
-I don't - Not  necessarily,  I would think. I mean, it's not based on constructions, it's based on things like, uh, there's gonna be [MASK] or not, and there's gonna b	1
+I don't - Not  necessarily,  I would think. I mean, it's not based on constructions, it's based on things like, uh, there's gonna be a node for Go-there or not, and there's gonna be a node for Enter, View, Approach.	1
 Wel-	0
 W- O_K.	0
 So, someone asked a question.	0
@@ -461,7 +461,7 @@ And now you have to make a decision. What do we think?	0
 What does this tell us?	0
 @@	0
 And  not  knowing what was asked, and what happened, and whether the person  was  a tourist or a  local,  because all of these factors have presumably already gone into making these	0
-[MASK]	0
+posterior probabilities.	0
 Yeah.	0
 What - what we need is a - just a mechanism that says,	0
 "Aha!	0
@@ -473,7 +473,7 @@ So we have to, like - So that it's no longer possible to just look at the nodes 
 Because there are  interdependencies,  right?	1
 The uh -	0
 Uh, no. So if - if	0
-for example, [MASK] is  so  high, um,	0
+for example, the  Go-there  posterior possibility is  so  high, um,	0
 uh, w- if it's - if it has reached -  reached  a certain height, then	0
 all of this becomes irrelevant. So. If - even if - if the function or the history or something is	0
 scoring pretty good on the  true  node,  true  value -	0
@@ -489,8 +489,8 @@ Well, if he  doesn't  want to  go  there,	0
 even if the  Enter	0
 posterior proba- So.	0
 Wel-	0
-[MASK] is No.	0
-Enter  is High, and  [MASK]  is High.	0
+Go-there is No.	0
+Enter  is High, and  Info-on  is High.	0
 Well, yeah, just out of the other three, though, that you had in the -	0
 Hmm?	0
 those three nodes. The- d- They didn't seem like they were mutually exclusive.	0
@@ -498,18 +498,18 @@ No, there's - No. But -	0
 It's through the -	0
 So th- s- so, yeah, but some - So, some things would drop out, and some things would still be important.	0
 Mm-hmm.	0
-But I guess what's confusing me is, if we have [MASK] to deal w- [MASK] to deal with this stuff,	0
+But I guess what's confusing me is, if we have a Bayes-net to deal w- another Bayes-net to deal with this stuff,	0
 Mm-hmm.	0
 you know,	0
 uh,	0
 is the only reason - O_K, so,	0
 I guess,	0
-if we have a Ba- [MASK] to deal with this stuff, the only r- reason	0
+if we have a Ba- another Bayes-net to deal with this stuff, the only r- reason	0
 we can design it is cuz we know	0
 what each question is asking?	0
 Yeah.	0
 I think that's true.	0
-And then, so, the only reason - way we would know what question he's asking is based upon - Oh, so if - Let's say I had [MASK] and I plug this in, I would know what each construction - the communicative	1
+And then, so, the only reason - way we would know what question he's asking is based upon - Oh, so if - Let's say I had a construction parser, and I plug this in, I would know what each construction - the communicative	1
 intent of the construction was	1
 Mm-hmm.	0
 and so then I would know how to weight the nodes appropriately, in response.	1
@@ -517,7 +517,7 @@ So no matter what they said, if I could map it onto a Where-Is construction,	0
 Ge-	0
 Mm-hmm.	0
 I could say, "ah!	0
-well the- the intent, here, was [MASK]	0
+well the- the intent, here, was Where-Is",	0
 O_K, right.	0
 and I could look at those.	0
 Yeah.	0
@@ -541,54 +541,54 @@ where  it is."	0
 or let's call this - this "Look-At-H-"	0
 He wants to know something about the history of. So he said,	0
 "Tell me something about the history of that."	0
-Now, the e- But for some reason [MASK]	0
+Now, the e- But for some reason the Endpoint-Approach	0
 gets a really high score,  too.	0
-We can't expect this to be sort of at [MASK]	0
-three, three, three, [MASK] three, three, three, [MASK] three, three, three. Right?	0
+We can't expect this to be sort of at O_ point	0
+three, three, three, O_ point, three, three, three, O_ point, three, three, three. Right?	0
 Somebody needs to  zap  that.	0
 You know?	0
 Or	0
 know -	0
 There needs to be  some  knowledge that -	0
 We -	0
-Yeah, but, [MASK] that would merge -	0
+Yeah, but, the Bayes-net that would merge -	0
 I  just   realized that I had my hand in between my mouth and my micr- er, my- and my microphone.	0
 So  then,	1
-[MASK] that would merge	0
-there, that would make [MASK]	0
+the Bayes-net that would merge	1
+there, that would make the decision between Go-there, Info-on, and Location,	1
 would have a node to tell you which one of those three you wanted, and based upon that node, then you would  look  at the other stuff.	1
 Yep.	0
 I mean, it- i-	0
 Yep.	0
 Does  that  make sense?	0
-Yep. It's sort of one of those, that's - It's more like [MASK]	0
+Yep. It's sort of one of those, that's - It's more like a decision tree,	0
 if - if you want.	0
 You first look o- at the  lowball  ones, and then -	0
 Yeah, i-	0
 Yeah, I didn't intend to say that every possible - O_K.	0
-There was  a  confusion there, k- I didn't intend to say every possible thing should go into [MASK] because some of the things aren't relevant in [MASK]	0
+There was  a  confusion there, k- I didn't intend to say every possible thing should go into the Bayes-net, because some of the things aren't relevant in the Bayes-net	0
 for a specific question.	0
 Like the  Endpoint	0
-is not necessarily relevant in [MASK]  until after you've decided whether you wanna  go  there or not.	0
+is not necessarily relevant in the Bayes-net for  Where-Is  until after you've decided whether you wanna  go  there or not.	0
 Mm-hmm.	0
 Right.	0
 Show us the way, Bhaskara.	0
 I guess the other thing is that um, yeah. I mean, when you're asked a specific question and you don't even -	0
-Like, if you're asked [MASK] you may not even look - like,  ask	1
-Cuz, that's what - I mean, in the Bayes-net you always ask for [MASK] So, I mean,	1
+Like, if you're asked a Where-Is question, you may not even look - like,  ask  for the posterior probability of the, uh, E_V_A node, right?	1
+Cuz, that's what - I mean, in the Bayes-net you always ask for the posterior probability of a specific node. So, I mean,	1
 you may not even bother to compute things you don't need.	1
 Um.	0
 Aren't we  always  computing  all?	0
 No.	0
-You can compute, uh, [MASK] given	0
+You can compute, uh, the posterior probability of one subset of the nodes, given	0
 some other nodes, but	0
 totally ignore some other nodes, also.	0
 Basically, things you ignore get marginalized over.	0
 Yeah, but that's - that's just shifting the problem.	1
-Then you would have to make a decision, "O_K, if it's [MASK] which	1
+Then you would have to make a decision, "O_K, if it's a Where-Is question, which	1
 Yeah. So you have to make -	0
 Yeah.	0
-[MASK] do I query?"	1
+decision nodes do I query?"	1
 Yes.	0
 That's un-	0
 But I would think that's what you want to do. Right?	0
@@ -599,7 +599,7 @@ Yeah - it's - it's - it's apples and oranges. Nuh?	0
 I mean, maybe it does make a difference in terms of performance,	1
 computational  time. So either you	1
 Mm-hmm.	0
-always have it compute  [MASK] and then prune	0
+always have it compute  all  the posterior possibilities for  all  the values for  all  nodes, and then prune	0
 Mmm.	0
 the ones you think that are	0
 irrelevant,	0
@@ -608,16 +608,16 @@ or you just make a p-	0
 a  priori	0
 estimate of what you think might be relevant and query those.	0
 Yeah.	0
-So basically, you'd have [MASK]	1
+So basically, you'd have a decision tree  query,  Go-there.	1
 If k- if that's false, query this one. If that's true, query that one. And just basically do a binary search through the - ?	1
 I don't know if it would necessarily be that, uh, complicated. But, uh -	0
 I mean, it w-	0
-Well, in the case of [MASK] it  would  be. In the case - Cuz if you needed an- If y- If [MASK] was  true,  you'd wanna know what endpoint	0
+Well, in the case of Go-there, it  would  be. In the case - Cuz if you needed an- If y- If Go-there was  true,  you'd wanna know what endpoint	0
 was. And if it was  false,  you'd wanna d- look at	0
-either Lo-  [MASK]	0
+either Lo-  Income  Info-on or History.	0
 Yeah.	0
 That's true, I guess. Yeah,  so, in a way you  would  have that.	0
-Also, I'm somewhat boggled by [MASK]	1
+Also, I'm somewhat boggled by that Hugin software.	1
 O_K, why's that?	0
 I can't figure out how to get the	1
 probabilities into it.	1
@@ -630,7 +630,7 @@ Well, hopefully it's  fixable.	0
 Ju-	0
 Oh yeah, yeah. I d- I just think I haven't	0
 It's - there's a -	0
-figured out what - the terms in Hugin mean, versus [MASK]	0
+figured out what - the terms in Hugin mean, versus what Java Bayes terms are.	0
 O_K.	0
 Um, by the way, are - Do we know whether Jerry and Nancy  are  coming? Or - ?	0
 So we can figure this out.	0
@@ -653,8 +653,8 @@ Mm-hmm.	0
 O_K.	0
 Because	0
 basically, what -	1
-where we  also  have decided, prior to	0
-this meeting is that	0
+where we  also  have decided, prior to	1
+this meeting is that	1
 we would have a  rerun  of the  three  of us sitting together	1
 O_K.	0
 sometime  this week  again	1
@@ -663,7 +663,7 @@ and finish up the, uh, values	1
 of	0
 this.	1
 So we have,	1
-uh -	0
+uh -	1
 Believe it or not, we have  all  the  bottom  ones here.	1
 Well, I -	0
 You added a bunch of  nodes, for - ?	0
@@ -696,7 +696,7 @@ U- Yeah.	0
 Yeah.	0
 Or the earthquake and the alarm.	0
 Sorry. Yeah, I'm confusing  two.	0
-Yeah, there's a dog one, too, but that's [MASK] isn't it?	0
+Yeah, there's a dog one, too, but that's in Java Bayes, isn't it?	0
 Right.	0
 Maybe.	0
 But there's something about	0
@@ -753,7 +753,7 @@ in my brief, uh, encounter with it.	0
 Do you guys - Oh, yeah. So.  Part  of what we actually  want  to do is sort of schedule out what we want to  surprise  him with when - when he comes  back.	0
 Um, so -	0
 Oh, I think we should disappoint him.	0
-Yeah? You - or have [MASK]	1
+Yeah? You - or have a finished  construction   parser and a working belief-net, and uh -	0
 That  wouldn't be  disappointing.	0
 I think w- we should do absolutely no work	0
 for the two weeks that he's gone.	0
@@ -772,10 +772,10 @@ Looks like it?	0
 Yeah.	0
 O_K, then. Let's meet - meet again next Tuesday.	1
 And, um,	1
-finish up [MASK]	1
-And once we have  finished  it,	1
+finish up this Bayes-net.	1
+And once we have  finished  it,	0
 I guess we can,	0
-um -	1
+um -	0
 and that's going to be more just you and  me,	0
 because Bhaskara is doing probabilistic,	0
 recursive,	0
@@ -783,7 +783,7 @@ structured,	0
 object-oriented,	0
 uh,	0
 Killing machines!	0
-[MASK]	0
+reasoning  machines.	0
 Yes.	0
 And, um -	0
 Killing, reasoning. What's the difference?	0
@@ -811,16 +811,16 @@ Yep.	0
 So,	0
 yeah.	0
 Because, th- you know,	0
-once we have [MASK] done -	0
+once we have the belief-net done -	0
 You're just gonna have to	0
 explain it to me, then, on Tuesday, how it's all gonna work out.	0
 You  know.	0
 We  will.	1
-O_K. Because then, once we have it sort of up and running, then we can  start   you know,	0
+O_K. Because then, once we have it sort of up and running, then we can  start   you know,	1
 defining the interfaces and then feed stuff into it and get stuff out of it, and then	1
-hook it up to some	0
-[MASK]	0
-[MASK] and -	1
+hook it up to some	1
+fake construction	1
+parser and -	1
 That you will have in about	0
 nine months or so. Yeah.	0
 Yeah.	0
@@ -831,21 +831,21 @@ these are just going to be uh  dummy  values, right?	0
 Which -	0
 where the -	0
 Which ones?	0
-S- so - so if the  endpoint  - if [MASK]  is Yes and No, th	0
+S- so - so if the  endpoint  - if the  Go-there  is Yes and No, then Go-there- discourse  will just be fifty-fifty.	0
 Right?	0
-Um, what do you mean?  If  [MASK] says No, then [MASK] is -	0
+Um, what do you mean?  If  the Go-there says No, then the Go-there is -	0
 I don't get it.	0
 I don't u- understand.	0
 Um.	0
-Like, [MASK] depends on all those four things.	0
+Like, the Go-there depends on all those four things.	0
 Yep.	0
 Yeah.	0
-But, what are [MASK]	0
+But, what are the values of the Go-there- discourse?	0
 Well, it depends on the situation. If the discourse is  strongly  indicating that -	0
-Yeah, but, uh, we  have  no discourse input.	1
+Yeah, but, uh, we  have  no discourse input.	0
 Oh,  I  see. The d- See, uh, specifically in our situation, D_ and O_ are gonna be, uh - Yeah. Sure. So, whatever.	0
 So, so far we have -	0
-Is that what [MASK] is?	0
+Is that what the  Keith  node is?	0
 Yep.	0
 O_K. And you're taking it out?  for now? Or - ?	0
 Well, this is	0
@@ -930,9 +930,9 @@ Wait, maybe it's O_K, so that -	1
 that - that we can - that we have one node per construction.	1
 Cuz even in  people,  like, they don't know what you're  talking  about if you're using some sort of strange  construction.	1
 Yeah, they would still c- sort of get the closest, best fit.	1
-Well, yeah, but I mean, the - uh, I mean, that's what [MASK] would do. Uh, I mean, if you said something completely arbitrary, it would f- find the	0
+Well, yeah, but I mean, the - uh, I mean, that's what the construction parser would do. Uh, I mean, if you said something completely arbitrary, it would f- find the	0
 Mm-hmm.	0
-closest construction, right? But if you said something that was completel- er - h- theoretically [MASK] would do that -	0
+closest construction, right? But if you said something that was completel- er - h- theoretically the construction parser would do that -	0
 O_K.	0
 But if you said something for which there was no construction whatsoever,	0
 n- people wouldn't have any idea what you were talking about.	0
@@ -963,20 +963,20 @@ And form u- starts at the level of noun - Or actually, maybe even  sounds.  Yeah
 Phoneme.  Yep.	0
 And goes upwards	0
 until you get	0
-[MASK]	0
+the  ditransitive  construction.	0
 And then, of course, the c- I guess, maybe there can be the -	0
 S-	0
-Can there be [MASK]	0
-[MASK]	0
+Can there be combinations of the dit-	0
+Discourse-level	0
 Yeah.	0
 constructions.	0
 The "giving a speech" construction,	0
-[MASK] Yeah.	0
+Rhetorical constructions. Yeah.	0
 Yes.	0
 But, I mean,	1
-you know, you can  probably  count -	0
+you know, you can  probably  count -	1
 count the ways.	1
-I mean.	1
+I mean.	0
 It's probab- Yeah, I would s- definitely say it's finite.	0
 Yeah.	0
 And at least in compilers, that's all that really matters, as long as your analysis is finite.	1

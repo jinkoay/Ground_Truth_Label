@@ -19,7 +19,7 @@ I like the high quality labeling.	0
 S- uh, try speaking loudly, so, O_K, good. Thank you.	0
 Hello, hello. Alright.	0
 David, can we borrow your labeling machine to improve the quality of the labeling a little bit here?	0
-Numbers from [MASK] or something?	0
+Numbers from one to - zero to X_ or something?	0
 One t-	0
 @@   How - how many are there, one to five?	0
 One five, yeah.	0
@@ -107,17 +107,17 @@ Uh, transcript number.	0
 Transcript number -	0
 O_K, this is Eric on microphone number  three,	0
 This is  Beck  on mike  four.	0
-Thanks. Should I turn off [MASK] Dan? Do you think that makes any difference?	0
+Thanks. Should I turn off the V_U meter Dan? Do you think that makes any difference?	0
 Oh, God. No, let me do it.	0
 Why?  Are you gonna do something  other  than hit "quit"?	0
 No, but I'm gonna look at the uh, logs as well.	0
 Oh.	0
 Uh, you said turn off the  what?	0
 Should have done it before.	0
-[MASK] which tells you what the levels on the various mikes are and there was one hypothesis that perhaps that -	0
+The V_U meter which tells you what the levels on the various mikes are and there was one hypothesis that perhaps that -	0
 Oh.	0
 the act of	0
-recording [MASK] was one of the things that contributed to the errors.	0
+recording the V_U meter was one of the things that contributed to the errors.	0
 Oh,  I  see.	0
 Yeah, but Eric, uh, you didn't think that was a reasonable  hypothesis,  right?	0
 I See.	0
@@ -176,11 +176,11 @@ O_K. Cool.	0
 I handed it off to her about a  month  ago.	0
 I  see.	0
 O_K, so,	0
-topic of this meeting is I wanna talk a little bit about transcription.	0
-Um, I've looked a little bit into  commercial  transcription services and Jane has been  working  on doing transcription.	0
-Uh, and so we wan- wanna decide what we're gonna do with that  and then get an update on the  electronics,	0
+topic of this meeting is I wanna talk a little bit about transcription.	1
+Um, I've looked a little bit into  commercial  transcription services and Jane has been  working  on doing transcription.	1
+Uh, and so we wan- wanna decide what we're gonna do with that  and then get an update on the  electronics,	1
 and then, uh, maybe also talk a little bit about some infrastructure and tools, and so on.	0
-Um, you know, eventually we're probably gonna wanna distribute this thing and we should decide how we're gonna -	0
+Um, you know, eventually we're probably gonna wanna distribute this thing and we should decide how we're gonna -	1
 how we're gonna handle some of these factors.	0
 So.	0
 Distribute what?  The data?	0
@@ -201,13 +201,13 @@ Or t-	0
 you know.	0
 Yeah.	0
 tapes.	0
-And - and so how we do we distribute the transcripts, how do we distribute the audio files, how do we -	0
+And - and so how we do we distribute the transcripts, how do we distribute the audio files, how do we -	1
 how do we just do all that  infrastructure?	0
-Well, I think - I mean, for that particular issue ther- there are known sources where people go to - to find these kind of things like the [MASK] for instance.	0
+Well, I think - I mean, for that particular issue ther- there are known sources where people go to - to find these kind of things like the L_D_C for instance.	0
 Yeah, that's right.	0
-Right, but - but so should we do it in the same format as [MASK] and what does that  mean  to what we've done  already?	0
+Right, but - but so should we do it in the same format as L_D_C and what does that  mean  to what we've done  already?	1
 Right. The -	0
-It's not so much the actu- The  logistics  of distribution are secondary to  preparing the data in a suitable form for distribution.	0
+It's not so much the actu- The  logistics  of distribution are secondary to  preparing the data in a suitable form for distribution.	1
 Right.	0
 Right.  So, uh,	0
 as it  is,  it's sort of a  ad-hoc combination of stuff  Dan  set and stuff  I  set up, which we may wanna make a little more formal.	0
@@ -215,7 +215,7 @@ And the  other  thing is that, um,	1
 So.	0
 University of Washington may want to start recording meetings as  well,  in which case	1
 Right.	0
-w- w- we'll have to decide what we've actually got so that we can	0
+w- w- we'll have to decide what we've actually got so that we can	1
 give  them  a copy.	1
 A  field  trip.	0
 That's right.	0
@@ -224,19 +224,19 @@ Oh,  really?	0
 Yeah.	0
 Different for  you.  Yes.	0
 Visit my friends and	0
-spend some time -   Well, and then  also  I have a bunch of stuff for doing this  digits.	0
-So I have a bunch of scripts with [MASK], and some Perl scripts, and other things that make it really easy to extract out  and align where the  digits  are.	1
-And if [MASK] going to do the same  thing  I think it's worth while for them to do th	1
+spend some time -   Well, and then  also  I have a bunch of stuff for doing this  digits.	1
+So I have a bunch of scripts with X_Waves, and some Perl scripts, and other things that make it really easy to extract out  and align where the  digits  are.	1
+And if U_ d- U_W's going to do the same  thing  I think it's worth while for them to do these digits tasks as well.	1
 Mm-hmm.	0
 And what I've done is pretty ad-hoc,	1
 um, so we might wanna change it over to something a little more standard.	1
 Hmm.	0
-You know, [MASK], or [MASK], or  something.	1
+You know, S_T_M files, or X_M_L, or  something.	1
 An- and there's interest up there?	0
 What's that?	0
 There's interest up there?	0
 Well they - they certainly wanna collect more data.	0
-And so they're applying, I think [MASK]  Is that right?	0
+And so they're applying, I think I_B_ M?  Is that right?	0
 I don't know.	0
 Something like that.	0
 Um, for some more money to do more data. So we were planning to do like thirty or forty hours worth of meetings.	1
@@ -295,7 +295,7 @@ Tear your clothing off to stay cool.	0
 That's right.	0
 Actually, the a- th- air - the air conditioning's still working, that's just an auxiliary fan.	0
 Right, I see.	0
-So, um, in addition to this issue about [MASK] there was announced today, uh, via [MASK], um, a corpus from I  believe  Santa Barbara.	1
+So, um, in addition to this issue about the U_W stuff there was announced today, uh, via the L_D_C, um, a corpus from I  believe  Santa Barbara.	1
 So-	0
 Yeah, I saw it. I've been  watching  for that corpus.	0
 Um, of general spoken	0
@@ -304,7 +304,7 @@ English.	0
 Yep.	0
 And I don't know exactly how they recorded it but apparently there's a lot of different  styles of speech and what not. And -	0
 Mm-hmm.	0
-They had people come in to a certain degree and they - and they have [MASK]	1
+They had people come in to a certain degree and they - and they have DAT recorders.	1
 I see. So it is sort of far field stuff.	0
 I - I assume so, actually, I hadn't thought about that. Unless they added	0
 Right?	0
@@ -325,6 +325,7 @@ Well, what I was thinking is it may be useful in	1
 transcribing, if it's far field stuff, right?	1
 Mm-hmm.	0
 In doing, um, some of our first automatic	1
+speech recognition models, it may be useful to have that kind of data because that's very different than any kind of data that we have so far.	1
 Great idea.	0
 That's true.	0
 And - and their recording conditions are really clean. I mean, I've - I've heard - I've listened to the data. It sounds -  well but what I mean is that, um -	0
@@ -335,7 +336,7 @@ But far field means great distance? I mean -	0
 Just these.	0
 Not head mounted?	0
 Yeah.	0
-And so that's why they're getting away with just two channels or something, or are they using multiple [MASK]	0
+And so that's why they're getting away with just two channels or something, or are they using multiple DATs?	0
 Um, oh, good question and I can't ans- answer it. I don't know.	0
 Well we can look into it.	0
 No, and their web - their web page didn't answer it either. So I'm, I- uh, was thinking that we should contact them.  So it's - that's sort of a beside-the-point point. But.	0
@@ -343,7 +344,7 @@ O_K.	0
 So we can get that just with, uh, media costs, is that right?	0
 Still a point.	0
 Right.	0
-Uh, in fact we get it for  free  cuz they're distributing it through [MASK].	1
+Uh, in fact we get it for  free  cuz they're distributing it through the L_D_C.	1
 Oh.	0
 Yep.	0
 Great.	0
@@ -364,7 +365,7 @@ Absolutely.	0
 O_K, why don't you go ahead and do that then Eric?	1
 Alright, I'll do that.	0
 I can't remember the name of the corpus. It's Corps-	0
-[MASK] Corpus of Spoken American English.	1
+C_S_A_E. Corpus of Spoken American English.	1
 S_ - Right, O_K.	0
 Yeah, sp-  I've  been - I was  really  pleased to see that. I knew that they -	0
 they had had some funding problems in completing it but, um,	0
@@ -372,7 +373,7 @@ Yeah.  Well they're -	0
 Uh-huh.	0
 this is clever.	0
 Apparently this was like phase one and the- there's still more that they're gonna do apparently or something like that unless of course they have funding issues and then	0
-Got it through [MASK].	0
+Got it through the L_D_C.	0
 Great.	0
 Great.	0
 then it ma- they may  not  do phase two but	0
@@ -408,15 +409,15 @@ Mm-hmm.	0
 So, well w- shall we move on and talk a little bit about transcription then?  O_K, so   since  that's  what we're  talking  about.	1
 Yeah.	0
 Let's.	0
-What we're using right now is a tool, um, from this French group, called [MASK] that seems to work very well.	1
+What we're using right now is a tool, um, from this French group, called "Transcriber" that seems to work very well.	1
 Um,	0
-so it has a, uh, nice useful [MASK]  and, uh,	1
+so it has a, uh, nice useful Tcl-T_K user interface  and, uh,	1
 Thi- this is the process of converting audio to text?	0
 Right.	0
 And this requires humans just like the -	0
 Yes, yeah.	0
-[MASK]	0
-Right, right. So we're - we're at  this  point only looking for [MASK] So all - all - so what you have to do is just identify a segment of speech in time,	1
+the S_T_P stuff.	0
+Right, right. So we're - we're at  this  point only looking for word level. So all - all - so what you have to do is just identify a segment of speech in time,	1
 and then write down what was said within it,  and identify the speaker.	0
 And so the things we - that we know - that I know  I  want are  the text, the start and end, and the speaker.	1
 But  other  people are interested in for example  stress  marking. And so Jane is doing primary  stress,	1
@@ -504,8 +505,8 @@ She's already done quite a bit. Yeah.	0
 I have -	0
 Oh, we  have.  I'm sorry.	0
 a bunch of hours, yeah.	0
-So that's where you came up with the f- the [MASK]	0
-Actually that's the - the one people usually use, [MASK]	0
+So that's where you came up with the f- the ten X_ number?	0
+Actually that's the - the one people usually use, ten X_.	0
 Or is that really just a guess?	0
 And I haven't really calculated - How fast am I?  I haven't done a s- see, I've been at the same time doing kind of a boot strapping in deciding on the transcription conventions that - that are -	0
 How fast are you?	0
@@ -518,7 +519,7 @@ uh, transcribe it the most  quickly.  Cuz then, you know, you get like -  if you
 Yeah.	0
 But then you have to take the time to  mark  it. And then there's the issue of  it's easier to -	0
 Yeah.	0
-hear it th- right the first time if you've marked it at a  boundary  instead of  somewhere in the  middle,  cuz then the [MASK] or whatever and -	0
+hear it th- right the first time if you've marked it at a  boundary  instead of  somewhere in the  middle,  cuz then the word's bisected or whatever and -	0
 Mm-hmm.	0
 And so I mean, I've been sort of playing with, uh, different ways of mar- cuz I'm thinking, you know, I mean, if you could get optimal  instructions  you could cut back on the number of hours it would take.	1
 D- does uh - this tool you're using is strictly - it doesn't do any speech recognition does it?	0
@@ -555,7 +556,7 @@ you have the option to put in more or  less  timing data -	1
 and, uh, be- in the absence of more specific instructions,	1
 we're trying to figure out what the most convenient thing to do is.	1
 Yeah, so - so what - what she's done  so  far, is sort of -	1
-more or less breath g-  not  [MASK]  sort of phrases,	0
+more or less breath g-  not  breath groups,  sort of phrases,	1
 Yeah.	0
 continuous phrases.	1
 And so, um,  that's  nice because you - you separate when you do an extract, you get a little silence on either end. So that seems to work really well.	1
@@ -583,7 +584,7 @@ Yeah.	0
 Yeah, uh, not in this case. It has other -	0
 It could  do  that  couldn't  it.	0
 We could program that pretty easily, couldn't we Dan?	1
-Yeah, mis- Mister [MASK]	0
+Yeah, mis- Mister T_C_L?	0
 Yeah.	0
 Oh, interesting point. Ah!  Interesting point.  O_K, that would make a difference.	0
 I would have thought so, yeah.	0
@@ -603,13 +604,13 @@ Yeah, I guess the  question  is how much time will it really save us versus the 
 Right.  but the chances are if we- if we're talking about collecting  ten or a hundred hours, which is going to take a hundred or a thousand hours to transcribe -	0
 If -	0
 But -	0
-if we can go from [MASK] we're doing a big -	0
+if we can go from ten X_ to five X_ we're doing a big -	0
 We're gonna need - we're gonna need ten to a hundred hours to train the tools,	0
 Right.  So maybe -	0
 Wow.	0
 and  validate  the tools the do the d- to - to do all this anyway.	0
 But - but it op-	0
-If we're just doing [MASK] -	0
+If we're just doing silence detection -	0
 I knew you were gonna do that.  Just saw it coming.	0
 I'm sorry. I wish you had told me - wish you'd told me.	0
 Put - put it on your sweater.	0
@@ -622,7 +623,7 @@ Could you get it so that with - so it would - it would detect volume on a channe
 Right.	0
 Sure.	1
 Yeah.	0
-a very c- clear - it's [MASK], isn't it?	0
+a very c- clear - it's X_M_L, isn't it?	0
 Mm-hmm.	0
 It's very - I mean, I looked at the -	0
 the file format and it's just - it has a t- a time -	0
@@ -657,23 +658,23 @@ And then - then w- since we need some  statistics  do it three more.	0
 Yeah.	0
 Now, there's a plan.	0
 O_K.  Oh, yeah. I'll do that tomorrow.	0
-And so you'll get - you'll get down to [MASK] by the time you get done.	0
+And so you'll get - you'll get down to one point two X_ by the time you get done.	0
 I should have it finished by the end of the day.	0
 No, but the thing is the fact that she's - she's did it before just might give a lower bound. That's all. Uh, which is fine. It's -	0
 Exactly.	0
 Yeah.	0
 Right.	0
 Yeah.	0
-And if the lower bound	0
+And if the lower bound is  nine  X_ then w- it's a waste of time.	0
 Right.	0
 Well, uh- but there's an extra problem which is that I didn't really keep accurate -	1
 uh, it wasn't a pure task the first time, so -	1
 Oh!	0
 uh, it's gonna be an upper bound in - in  that  case.  And it's not really strictly comparable. So I think though it's a good proposal to be used on  a   new  -	1
 Yeah.	0
-a  new  batch of text that I haven't yet done yet in the same meeting.	0
+a  new  batch of text that I haven't yet done yet in the same meeting.	1
 Could use it on the next segment of  the  text.	1
-The  point  we - where do we get the - the - [MASK] from?	0
+The  point  we - where do we get the - the - the oracle boundaries from?	0
 Right.	0
 Or the boundaries.	0
 Yeah,  one  person would have to assign the boundaries and the - and the  other  person would have to -  I mean  that's  easy enough.  I  could do that.	0
@@ -698,7 +699,7 @@ That's good. I like that.	0
 That would at least tell us whether it's worth spending a week or two trying to get a tool, that will compute the segmentations.	1
 And the thing to keep in mind  too  about this  tool,  guys is that  sure, you can do the computation for what we're gonna do in the  future  but if - if	1
 Right.	0
-[MASK] talking about doing two, or three, or five times as much stuff and they can use the same tool, then obviously there's a real multiplier there.	1
+U_W's talking about doing two, or three, or five times as much stuff and they can use the same tool, then obviously there's a real multiplier there.	1
 Right.	0
 And the other thing too is with - with  speaker  identification, if - if that could handle  speaker  identification that's a big	1
 Well it w- I think it's pretty easy when we've got separate channels.	0
@@ -723,7 +724,7 @@ it might save ninety percent of the  work  though.	0
 but, yes.	0
 So.	0
 So I - I need to - we need to look at what - what the final output is but it seems like	1
-we - it doesn't - it seems like it's not really not that hard to have an automatic tool to generate	0
+we - it doesn't - it seems like it's not really not that hard to have an automatic tool to generate	1
 the	0
 phrase marks, and the speaker, and speaker identity without putting in the words.	1
 Yeah. I've already become pretty familiar with the format, so it would be easy.	0
@@ -741,13 +742,13 @@ the  transcription  part  to say  something like, you know, if -  if Adam spoke 
 to just say, "A_ colon",	0
 Like who could be, you know, I mean at the beginning of the line.	0
 Mmm.	0
-and E_ colon  instead of entering the interface for speaker identification and clicking on the thing, uh, indicating the speaker I_D.	0
+and E_ colon  instead of entering the interface for speaker identification and clicking on the thing, uh, indicating the speaker I_D.	1
 So, and then he has a script that will convert it into the - the thing that, uh, would indicate speaker I_D.	1
 If that's clear.	0
 It's pretty cute.  But at  any  rate. So, um,	0
 O_K.	0
 It's Perl script.	0
-Right. So - so I think the guess at [MASK] seems to be pretty standard.	0
+Right. So - so I think the guess at ten X_ seems to be pretty standard.	0
 Everyone -  more  or less everyone you talk to says about ten times for hard technical transcription.	0
 Mm-hmm.	0
 Yeah.	0
@@ -756,13 +757,13 @@ using stone age tools.	0
 That's right.	0
 Using - using stone age tools.	0
 Yeah, well that's true, but -	0
-I mean, I looked at [MASK] which is a service that you send an audio file, they d	1
+I mean, I looked at Cyber Transcriber which is a service that you send an audio file, they do a first-pass speech recognition.	1
 And then they - they do a clean up.	1
 But it's gonna be  horrible.  They're  never  gonna be able to do a  meeting  like this.	1
 What - i- just approximately, what did you find out in terms of price or - or whatever?	0
 Right.	0
 No.	0
-Well, for [MASK] they don't quote a price. They want you to call and - and talk. So for  other  services,	0
+Well, for Cyber Transcriber they don't quote a price. They want you to call and - and talk. So for  other  services,	0
 um, they were about thirty dollars an hour.	0
 Of - of tape?	0
 Or of action? O_K.	0
@@ -783,17 +784,17 @@ Well, you know, the - the thing - the thing about this is thinking	0
 through that.	0
 kind of, maybe a little more globally than I  should  here but	0
 that really this could be a big contribution we could make.	0
-Uh, I mean, we've been through [MASK] thing, we know what it - what it's like to - to manage the - manage the process, and admittedly they might have been looking for more detail than what we're looking for here but	0
+Uh, I mean, we've been through the S_T_P thing, we know what it - what it's like to - to manage the - manage the process, and admittedly they might have been looking for more detail than what we're looking for here but	0
 it was a - it was a big  hassle,  right? I mean, uh, you know, they - they constantly  could've  reminding people and going over it.	0
 Yeah.	0
 And clearly some new stuff needs to be done here.  And it's - it's only	0
 our time, where "our" of course includes  Dan,   Dan and you guys. It doesn't include me at all.  Uh.	0
 j- Just seems like -	0
-Yeah, I mean I don't know if we'd be able to do any thing f- to help [MASK]	0
+Yeah, I mean I don't know if we'd be able to do any thing f- to help S_T_P type	0
 problems. But certainly for  this  problem we can do a lot better than -	0
 Bec-	0
 Why? Because they wanted a lot more  detail?	0
-No. Because they had - because they only had two  speakers,  right? I mean, the - the [MASK] is -	0
+No. Because they had - because they only had two  speakers,  right? I mean, the - the segmentation problem is -	0
 Right.	0
 Only had two.	0
 Trivial.	0
@@ -858,7 +859,7 @@ That's right.	0
 And	0
 only  talk when you're  pointed  to.	0
 There you go.	0
-[MASK] only.	0
+Content words only.	0
 We could have some telegraphic meetings.  That  might be interesting.	0
 Yeah, it'd be cheap. Cheap to transcribe.	0
 @@	0
@@ -961,7 +962,7 @@ They're very minimal. So,  it would be good to - just to summarize that.  So, um
 Yeah.	0
 and this is a way which meshes well with - with, uh, making it	0
 Yeah.	0
-so that, uh, you know, on the - At the - Boy, it's such a nice interface. When you - when you get the, um - you - you get the [MASK] you also get  down  beneath  it,	0
+so that, uh, you know, on the - At the - Boy, it's such a nice interface. When you - when you get the, um - you - you get the speech signal you also get  down  beneath  it,	0
 an indication of,  uh, if you have two speakers overlapping in a s- in a single segment, you see them  one - displayed one  above  each other.	0
 And then at the  same  time  the top s- part of the screen is the actual verbatim thing. You can clip - click on individual utterances and it'll take you immediately to that part of the speech signal, and play it for you.	0
 And you can, eh- you can work pretty well between those two - these two things.	0
@@ -996,7 +997,7 @@ Ho-	0
 I think they're linguists.	0
 Hmm.	0
 Linguists.	0
-They're - they have some connection to [MASK] cuz [MASK] has been advising them on this process, the Linguistic Data Consortium.	0
+They're - they have some connection to the L_D_C cuz the L_D_C has been advising them on this process, the Linguistic Data Consortium.	0
 Yeah.	0
 Mm-hmm.	0
 Um, so -	0
@@ -1004,7 +1005,7 @@ but a- apart from that.  Yeah .	0
 It's also - All the source is available. So.	0
 Right.	0
 Great.	0
-If you - if you speak [MASK]	0
+If you - if you speak T_C_L_T_K.	0
 Mm-hmm.	0
 And they have - they've actually asked if we are willing to do any development and I said, well, maybe.	1
 Good.	0
@@ -1052,9 +1053,9 @@ Hmm.	0
 I wanna say cursor but I'm not sure if that's the right thing.	0
 Point, whatever.	0
 Anyway, you can - so they thought about different ways of having windows that you c- uh work	0
-within,  and - But so in terms of the con- the conventions, then,  uh, basically,  uh,  it's  [MASK] which means with some w-	1
+within,  and - But so in terms of the con- the conventions, then,  uh, basically,  uh,  it's  strictly orthographic which means with some w-	1
 Mm-hmm.	0
-provisions for, uh,	0
+provisions for, uh,	1
 w- uh,  colloquial forms. So if a person said, "cuz" instead of "because" then I put a -  an apostrophe at the beginning of the word and then in - in double ang- angle brackets	1
 Mm-hmm.	0
 what the full lexical item would be. And this could be  something that was handled by a table or something but I think	0
@@ -1064,11 +1065,11 @@ Mm-hmm.	0
 Mm-hmm.	0
 Non-canonical.	0
 "Gonna" or "wanna",  you know, the same thing. And - and there would be limits to how much refinement you want in indicating something as non-standard pres- pronunciation.	0
-How are you handling [MASK]	1
-[MASK] Um,	0
+How are you handling backchannels?	1
+Backchannels? Um,	0
 Comments.	0
 you know - oh, yes, there was some -  in my view,	0
-when i- when you've got it [MASK]	0
+when i- when you've got it densely overlapping,	0
 um,	0
 I didn't worry about -	0
 What do you mean by  du-	0
@@ -1170,13 +1171,13 @@ Mmm.	0
 does the	0
 conversation	0
 come out from the - or the person who's speaking for the long time as one segment and then there's this little tiny segment	0
-of this other speaker or does it - does the fact that there's a [MASK]	1
-the -	0
+of this other speaker or does it - does the fact that there's a backchannel split	1
+the -	1
 the - the - it in  two.	1
 O_K, my - my focus was to try and maintain conten- con- content continuity	1
-and, uh, to keep it within what  he  was saying. Like  I wouldn't say [MASK] bu	1
-if someone said "mm-hmm" in the middle of a - of someone's,  uh,	0
-uh, [MASK]  I - I indicated it as,	0
+and, uh, to keep it within what  he  was saying. Like  I wouldn't say breath groups but prosodic or intonational groups as much as possible. So	1
+if someone said "mm-hmm" in the middle of a - of someone's,  uh,	1
+uh, intonational contour,  I - I indicated it as,	1
 O_K.	0
 like what you just did.	1
 then I indicated it as a segment which contained	1
@@ -1192,7 +1193,7 @@ Oh,  I  see what you mean.	0
 And then  "hesitation".	0
 Yeah.	0
 O_K, and so then, uh, in terms of like words like "uh" and "um" I just wrote them because I figured there's a limited number, and I keep  them   to a - uh, limited set because it didn't matter if it was "mmm" or "um",	1
-you know, versus "um".  So I just always wrote it as [MASK]	0
+you know, versus "um".  So I just always wrote it as U_ M_.	0
 And "uh-huh",	0
 O_K.	0
 you know, "U_H_U_H." I mean, like a s- set of like five. But in any case -  I didn't mark those.	0
@@ -1270,7 +1271,7 @@ And then, uh, let's see what else.	0
 Oh, yes, I - I wanted to have -	0
 So sometimes a pers- I - uh- in terms of like the continuity of thought	1
 for transcriptions, it's - i- it isn't just words coming out, it's like there's some	1
-purpose for an utterance. And  sometimes someone will  do a [MASK] in the  middle  of it  but you wanna show that it's continued	0
+purpose for an utterance. And  sometimes someone will  do a backchannel in the  middle  of it  but you wanna show that it's continued	0
 at a later point. So I have - I have a convention of putting like a dash  arrow	1
 just to indicate that this person's utterance continues. And then when it	1
 uh, catches	0
@@ -1383,7 +1384,7 @@ Alright.	0
 uh, the - the stuff that you've been describing,	0
 Jane,	0
 I gu- one has to,  of course   indicate,	0
-um, i- is very  interesting,  and	0
+um, i- is very  interesting,  and	1
 I- I'd like to be able to - to pore through, you know, the - the types of tr- conventions that you've come up with and stuff like that. So I would like to see that kind of stuff on the web.	1
 Yeah, yeah, yeah.	0
 O_K, now, w- the alternative to a web site would be to put it in Doctor speech.	0
@@ -1401,12 +1402,12 @@ Web site's nice.	0
 Oh.	0
 Yeah.	0
 Then you have to t-	0
-you have to do [MASK]	0
+you have to do an H_T access.	0
 Web site's what?	0
 We could actually -  maybe  we could use the T_C_L plug-in.	0
 Oh, man.	0
 Ooo!  He's committed himself to something.	0
-Ow. See he said [MASK] and - and that's -	0
+Ow. See he said the word T_C_L and - and that's -	0
 But he does such a good  job  of it. He should be allowed to - to, you know,	0
 I know, I know.	0
 w-  do  it.	0
@@ -1431,7 +1432,7 @@ Uh, right.	0
 Yeah.	0
 Right,  that's  the problem.	0
 Why? What - what's - what's the issue?	0
-Well, we could put - we could put sort of a disorganized sort of [MASK] -	0
+Well, we could put - we could put sort of a disorganized sort of group gestalt -	0
 No one owns the project.	0
 No one  what?	0
 No one owns the project.	0
@@ -1443,7 +1444,7 @@ It's mine! All mine!	0
 Well then you have to do the web site. You know, it's like, it's that simple.	0
 But -	0
 "Wah-hah-hah-hah-hah-hah."	0
-b- but - but - but what are you - what are you talking about for web site hacking? You're talking about writing [MASK] right?	0
+b- but - but - but what are you - what are you talking about for web site hacking? You're talking about writing H_T_M_L, right?	0
 No -	0
 Yeah.	0
 Yeah, I - I'm talking about putting together all the data in a form that - that is	0
@@ -1451,7 +1452,7 @@ legible, and pleasant to read, and up to date, and et cetera, et cetera, et cete
 But, is it against the law to actually use a  tool  to help your job go  easier?	0
 Absolutely.	0
 It's - it's absolutely against the law to use a tool.	0
-I haven't found any tools that I like. It's just as easy to use - to edit [MASK] as anything else.	0
+I haven't found any tools that I like. It's just as easy to use - to edit the raw H_T_M_L as anything else.	0
 You y-	0
 No kidding?	0
 That's obviously not true, but you have -	0
@@ -1459,7 +1460,7 @@ It's  obviously  not true.	0
 No, it- it- it's obviously true that he hasn't found any he  likes.  The question is what is - what's he  looked  at.	0
 Right. That's true.	0
 Which one do you use Jim?	0
-I use something called [MASK]	0
+I use something called Trellix.	0
 Oh, that's right. I remember. Yeah.	0
 And it -	0
 Which produces also site maps.	0
@@ -1476,10 +1477,10 @@ Mostly  in house.	0
 O_K.	0
 Well, yeah, but what does internal mean? I mean, you're leaving.	0
 No, both.	0
-People at [MASK] wanna look at it. I mean, it's - it's internal  until -	0
+People at U_W wanna look at it. I mean, it's - it's internal  until -	0
 Right.  Internal  to the  project.	0
 I see.	0
-We could do an [MASK] which would accommodate those things.	1
+We could do an H_T access which would accommodate those things.	1
 I - I - I - I -	0
 O_K, well, send me links and I wi- send me  pointers,  rather, and I'll put it together.	0
 Wonderful.	0
@@ -1526,7 +1527,7 @@ Yes.  He  is.   Absolutely.	0
 Well why  not?  I mean, cuz this is what's gonna  happen.	0
 You got plenty of data.  I won't come to your next meeting.  And - and -	0
 and you- So this is the box's -	0
-Get your paper off my [MASK]	0
+Get your paper off my P_D_A!	0
 Yeah.	0
 Yeah, let - let the record show that this is exhibit two B_.	0
 That's right.  "Or not to be".  Yeah, yeah.	0
@@ -1610,7 +1611,7 @@ O_K.	0
 And  certainly  you  could  do a thing where all sixteen were plugged in.	0
 Uh if - if you ha- if you had nothing else. Yeah.	0
 But then none of these.	0
-Right. N- none of these and no [MASK] then.	0
+Right. N- none of these and no P_Z_Ms then.	0
 Right. Right. I agree.	0
 Only if you had - Well it depends on  this  box, right?	0
 Oh, true enough. And actually, at the m- my  plan  is to only bring eight wires out of this box.  This - this box -	1
@@ -1644,7 +1645,7 @@ Right.	0
 Yeah, I mean, we - I had that last time.	0
 But  uh  there are actually -  that  you know, there's an extra - there's a mix out on the radio receiver?	0
 Mm-hmm.	0
-So there are actually six  [MASK] on the back of the radio receiver and only five cables going in, I had the wrong five, so I ended up   not  recording one of the channels  and  recording the mix.	0
+So there are actually six  X_L_R outs on the back of the radio receiver and only five cables going in, I had the wrong five, so I ended up   not  recording one of the channels  and  recording the mix.	0
 How interesting. D- did you do any recognition on the mix - mix out?	0
 Hmm.	0
 No.	0
@@ -1721,16 +1722,16 @@ Use- user interface -	0
 Slipped - almost slipped it by Dan.	0
 A user interface. I mean, do we wanna try to get a monitor?	1
 Oh! Sure. Well of  course  we do.	0
-Or just  something.	1
+Or just  something.	0
 Oh.	0
 And how do we want to  do  that?	0
 You mean like see - see meter readings, from - while  sitting  here.	0
-J- just so we see  something.	1
+J- just so we see  something.	0
 Wow.	0
 How about	0
 Yeah.	0
 use the thing that um	0
-[MASK]  doing.	0
+ACIRI's  doing.	0
 Which is to say just	1
 laptop with a wireless.	1
 Yeah, yeah, yeah. Sure.	0
@@ -1741,7 +1742,7 @@ Oh, a-  Applecard . Sure. Right. Yeah, you could use my machine.	0
 Well -	0
 What?	0
 I - or the -	0
-I have an [MASK] I've borrowed and we can use  it.	0
+I have an  I_RAM  machine I've borrowed and we can use  it.	0
 N- no, I'm - I'm - I'm  serious.  Does - does the wireless thing work on your -	0
 Wait, isn't that an ethernet connection or is that a phone?	0
 Uh, that's an ethernet connection.	0
@@ -1749,16 +1750,16 @@ Well -	0
 Yeah - no - no I'm a-	0
 It's going next door.	0
 I - I - I ain't joking here. I'm serious, that - that -  it - it -	0
-We jus-	1
+We jus-	0
 Yeah. No, no, absolutely, that's the right way to do it. T- to have it uh, just -	0
 It's very convenient especially if Dan happens to be sitting at that end of the table to not have to run down here and - and look in the thing every so often, but just have the -	0
 Yeah.	0
 And given - given that we've got a wireless - that we've got a - we got the field. Right.	0
 It's right there.  Right? The antenna's right there, right outside  the  -	0
 Yeah. Yeah.	0
-Right.	1
+Right.	0
 I don't know.	0
-Y- I mean, we need - obviously need to clear this with [MASK] but, uh,	0
+Y- I mean, we need - obviously need to clear this with ACIRI but, uh,	0
 how tough can  that  be? There - it you'd - all you need's  web  access, isn't it?	0
 W- we don't need  X_  access but I mean that's fine. That's - that's what it does, yeah.	0
 In - in theory.	0
@@ -1789,7 +1790,7 @@ I - e-	0
 Yeah, I'm sure. I imagine there is.	0
 But - uh- anyway	0
 But the two t-	0
-there are - there are abs- there are a bunch of machines at [MASK] that have those cards and so I think	0
+there are - there are abs- there are a bunch of machines at ICSI that have those cards and so I think	0
 if w- if it doesn't - we should be able to find a machine that  does  that.	0
 I - I mean I know that  doesn't - don't - don't the important people have those little blue VAIOs that -	0
 Well, uh, b- that - to me that's a whole nother. That's a whole nother issue.	0
@@ -1805,9 +1806,9 @@ That - I - I don't think that's gonna work.	0
 So, I mean, either - either we figure out how to use a machine somebody already - in the group already owns,	1
 Yeah.	0
 Yeah, yeah.	0
-a- a- and the idea is that if it's it perk, you know, it's an  advantage  not - not a  disadvan-	0
+a- a- and the idea is that if it's it perk, you know, it's an  advantage  not - not a  disadvan-	1
 Absolutely.	0
-or else we - we literally  buy  a machine	0
+or else we - we literally  buy  a machine	1
 e- exactly for that purpose.  Certainly it solves a lot of the problems with leaving a monitor out here all the time.	1
 Yeah.	0
 I - I - I - I'm - I'm not a big fan of doing things to the room that make the room	0
@@ -1819,7 +1820,7 @@ and, so- a monitor  sitting  here all the time you know people are gonna walk up
 Mm-hmm.	0
 Well -	0
 Right.	0
-I've - I've borrowed the [MASK]	0
+I've - I've borrowed the I_RAM	0
 VAIO Sony thingy, and I don't think they're ever gonna want it back.	0
 Right.	0
 Yeah.	0
@@ -1838,8 +1839,8 @@ Good.	0
 What is the, um, projector supposed to be hooked up to?	1
 Uh, the, uh - Tsk.  It's gonna be hooked up to all  sorts  of junk.	0
 There's gonna be actually a - a plug at the front that'll connect to people's laptops so you can walk in and plug it in.  And it's gonna be con- connected to the machine at the back.	1
-So we certainly  could  use that as - as a constant reminder of what [MASK] are doing. So people sitting here  are going	1
-Huge [MASK]	0
+So we certainly  could  use that as - as a constant reminder of what the V_U meters are doing. So people sitting here  are going	1
+Huge V_U meters.	0
 "testing, one, two, three"!	0
 It - a-	0
 But I mean, that's another - that's another possibility that, you know,  solves  -	0
@@ -1859,17 +1860,17 @@ I had actually  earlier  asked if I could borrow one of the	0
 cards to do wireless stuff and they said, "sure, whenever you want". So I think it won't be a problem.	0
 Yeah.	0
 Oh, cool.	0
-And - and it's a - [MASK], right?	0
+And - and it's a - a P_C_M_C_I_A card, right? P_C card, so you can have a slot, right? In your new machine?	0
 O_K.	0
 Yep.	0
-[MASK]	0
+P_C card.	0
 Yeah, yeah.	0
 Is it with s-	0
 It's - it really come down to the driver.	0
 I mean -	0
 Yeah.	0
 Right, i- it'll - it'll work -	0
-Right, I mean, and if - and if  his  doesn't work, as I said, we can use [MASK]	0
+Right, I mean, and if - and if  his  doesn't work, as I said, we can use the P_C.	0
 It'll work the first time.	0
 I - I  trust  Steve Jobs.	0
 Good.	0
@@ -1887,7 +1888,7 @@ Cut the red wire, the red wire!	0
 Um -	0
 When people talk,  it  - they go on and off.	0
 This  -	0
-So again, Washington wants to equip a system.  Our  system, we spent ten thousand dollars on equipment not including [MASK]	1
+So again, Washington wants to equip a system.  Our  system, we spent ten thousand dollars on equipment not including the P_C.	1
 However, seven and a half thousand of that was the wireless mikes.	1
 Uh, using - using  these  -	0
 Mm-hmm.	0
@@ -1900,12 +1901,12 @@ Oh, of the - of the boards? Yeah, yeah, sure, right.	0
 And then we could - Washington could have a system that didn't have any  wireless  but  would  had - what's based on  these  and it would cost -	1
 Mm-hmm.	0
 Peanuts.	0
-[MASK] and a peanuts.	0
+A P_C and a peanuts.	0
 P_C and two thousand dollars for the A_-to-D_ stuff.	1
 Yeah.	0
 And that's about - cuz you wouldn't even need the  mixer  if you didn't have the - Oh th-	0
 Right.	0
-[MASK]	1
+the P_Z_Ms. P_Z_Ms cost a lot.	1
 But anyway you'd save, on the seven - seven or eight thousand for the - for the wireless system. So actually that	1
 might be attractive.	0
 Right.	0
@@ -1945,10 +1946,10 @@ No,  I'm  done.	0
 I'm  done.	0
 Are you  done?	0
 I'm  done, yeah.	0
-I'm  done.	1
+I'm  done.	0
 Dan  isn't but he's not gonna say anything.	0
 But - you - you - you - there's a problem - a structural problem with this though. You really need an incentive at the end if you're gonna do digits again. Like, you know, candy bars or something, or -	0
-I'll - I'll remember to bring M_ and M_'s next time.	1
+I'll - I'll remember to bring M_ and M_'s next time.	0
 or - or - or- or a little, uh - you know, toothbrushes like they give you  at   the d- dentist.	0
 Mmm!	0
 Or both.	0
@@ -1989,7 +1990,7 @@ Social security numbers.  Bank account numbers.  Passport numbers.	0
 You can - you can generate -	0
 we don't have to transcribe.	0
 Credit card numbers, yeah.	0
-We don't have to tran- Yeah,  please .	1
+We don't have to tran- Yeah,  please .	0
 Yeah. That's a  great  idea.	0
 Yeah, so you just  say  -  say your credit card numbers, say your phone numbers, say your mother's maiden name.	0
 Bet we could  do  it.	0
@@ -2007,4 +2008,4 @@ Good news.	0
 So I'm gonna stop it. Yeah, O_K.	0
 O_K.	0
 Mony  on the mike.	0
-Uh-oh.	1
+Uh-oh.	0

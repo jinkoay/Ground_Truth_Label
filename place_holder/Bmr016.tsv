@@ -10,43 +10,43 @@ O_K, so um.	0
 I  did  collect an agenda. So  I'm  gonna go first.	0
 Mwa-ha-ha!  It shouldn't take too long.	0
 Yeah.	0
-Um, so we're pretty much out of digits. We've gone once through the set.	0
+Um, so we're pretty much out of digits. We've gone once through the set.	1
 Um, so the only thing I have to do	0
 No there's only ten.	0
 Yeah, that's right.	0
-so I - I just have to go through them and uh	0
+so I - I just have to go through them and uh	1
 Well, O_K.	0
-pick out the ones that have problems, and either correct them or have them re-read. So we probably have like	0
+pick out the ones that have problems, and either correct them or have them re-read. So we probably have like	1
 four or five more forms to be read, to be once through the set.	0
-I've also extracted out about an hour's worth. We have about two hours worth.	0
+I've also extracted out about an hour's worth. We have about two hours worth.	1
 I extracted out about an hour's worth which are the f- digits with - for which	0
 whose speaker have speaker forms, have filled out speaker forms. Not everyone's filled out a speaker form. So I extracted one	0
 for speakers who  have  speaker forms	0
 and for meetings in which the "key" file and the transcript files are parsable.	0
 Some of the  early  key files, it looks like, were done by  hand,  and so they're not automatically parsable and I have to go back and fix those.	0
-So what that means is we have about an hour of transcribed digits that we can play with.	0
+So what that means is we have about an hour of transcribed digits that we can play with.	1
 Um,	0
 So you think two - you think two hours is the - is the total that we have?	0
 Liz  -	0
 Yep,	0
 yeah.	0
 And you think we-  th-  uh,	0
-I - I didn't quite catch all these different things that are not quite right, but you think we'll be able to retrieve the other hour, reasonably?	0
+I - I didn't quite catch all these different things that are not quite right, but you think we'll be able to retrieve the other hour, reasonably?	1
 Yes, absolutely.	0
 O_K.	0
-So it's just a question of a little hand-editing of some files and then waiting for more people to turn in their speaker forms.	0
+So it's just a question of a little hand-editing of some files and then waiting for more people to turn in their speaker forms.	1
 I have this web-based speaker form, and I sent mail to everyone who hadn't filled out a speaker form, and they're slowly s- trickling in.	1
-So the relevance of the speaker form here, s-	0
-It's for labeling the extracted audio files.	0
+So the relevance of the speaker form here, s-	1
+It's for labeling the extracted audio files.	1
 Oh, O_K.	0
-By speaker I_D and microphone type.	0
+By speaker I_D and microphone type.	1
 Wasn't like whether they were giving us permission to use their digits or something.	0
 No, I spoke with Jane about that and we sort of decided that	0
 it's probably not an issue that - We edit out any of the errors anyway.	0
 Yeah.	0
 Right? So the- there are  no  errors in the digits, you'll always read the string correctly.	0
 So I can't imagine why  anyone   would care.	0
-So the other topic with digits is uh,	0
+So the other topic with digits is uh,	1
 Liz would like to elicit different prosodics, and so we tried last week with them written out in English.	1
 And it just didn't work at all because no one grouped them together. So it just sounded like	1
 many many more lines instead of anything else.	0
@@ -79,7 +79,7 @@ Right? So if you - if - if you have uh	0
 Six dash one, you mean?	0
 if you go six six six uh dash uh two nine three one.	0
 I - well O_K - I - it  might  help, I would like to g- get away from having only one specific	0
-grouping. Um, so if that's your question, but I mean it seems to me that, at least for  us,  we can learn to read them as digits if that's what people want. I - I'm	0
+grouping. Um, so if that's your question, but I mean it seems to me that, at least for  us,  we can learn to read them as digits if that's what people want. I - I'm	1
 That's what I was asking, yeah.	0
 Yeah.	0
 Yeah.	0
@@ -88,7 +88,7 @@ don't think that'd be that hard to read them as single digits. Um,	1
 I agree.	0
 and it  seems  like  that  might be better for  you  guys since then you'll have just more  digit  data, and that's always a good thing.	0
 Right.	0
-It's a little bit better for me too because the digits are easier to recognize. They're better trained than the numbers.	0
+It's a little bit better for me too because the digits are easier to recognize. They're better trained than the numbers.	1
 Yep.	0
 Right.	0
 So we could just, uh, put in the	0
@@ -98,12 +98,12 @@ Mm-hmm .	0
 How about "O_" versus "zero"?	0
 I mean, the other thing is we could just bag it because it's - it's -	0
 it's- I'm not worrying about it I mean, because we  do  have digits training data that we have from	0
-uh from [MASK]. I'm sorry, digits -  numbers  training that we have from [MASK], we've	0
+uh from O_G_I. I'm sorry, digits -  numbers  training that we have from O_G_I, we've	0
 done lots and lots of studies with that. And um.	0
 But it's nice to get it in this room with the acous- I mean - for - it's -	0
 Yeah.	0
 No, no, I guess what I'm saying is that	0
-Just let them read it how they read it.	0
+Just let them read it how they read it.	1
 to some extent maybe we could just read them - have them read how - how they read it	0
 and  it  just means that we have to expand our - our vocabulary out to stuff that we already have. Yeah.	0
 Right.	0
@@ -115,27 +115,27 @@ We can do this for awhile and then go back to digits for awhile, or	0
 um. Do yo- I mean, do you want - do you want this -	0
 O_K.	0
 Do you need training data or adaptation data out of this? How much of this do you need? with uh the -	0
-It's actually unclear right now. I just thought well we're - if we're collec- collecting digits, and Adam had said we were running out of the T_I forms,	0
+It's actually unclear right now. I just thought well we're - if we're collec- collecting digits, and Adam had said we were running out of the T_I forms,	1
 I thought it'd be nice to have them in groups, and probably, all else being equal, it'd be better for me to just have single digits since it's,	1
 O_K.	0
 you know, a recognizer's gonna do better on those anyway,	0
 um, and it's more predictable. So we can know from the transcript what the person said and the transcriber, in general. But if they make mistakes, it's no big deal if the people say a hundred instead of "one O_O".	0
 O_K, well if you pre-	0
-and also w- maybe we can just let them choose "zero" versus "O_" as they - as they like because even the same person c- sometimes says "O_" and sometimes	0
+and also w- maybe we can just let them choose "zero" versus "O_" as they - as they like because even the same person c- sometimes says "O_" and sometimes	1
 says "zero" in different context, and that's sort of interesting.	0
 Yeah.	0
 So I don't have a	0
 Specific need cuz if I did I'd probably try to collect it,	0
 you know, without bothering this group, but	0
 If we can try it -	0
-O_K so - so I can just add to the instructions to read it as digits not as connected numbers.	0
+O_K so - so I can just add to the instructions to read it as digits not as connected numbers.	1
 Right, and you can give an example like,	0
 Mm-hmm.	0
 you know, "six - sixty-one would be read as six one". And  I   think  people will get it.	0
 Right.	0
 Mm-hmm. And i- actually it's no more artificial than what we've been doing with  words.  I'm  sure  people can adapt to this,	0
 Right, right. It's just easier to read.	0
-read it single. The spaces already bias it toward being separated.	0
+read it single. The spaces already bias it toward being separated.	1
 Right.	0
 And I know I'm gonna find this easier than words.	0
 Oh yeah, absolutely,  cognitively  it's  much  easier.	0
@@ -176,8 +176,8 @@ uh f- for replicating  all  of the digits that we've done, which were done by no
 which is totally American speakers, and then we have these stratified additional language groups overlapping certain aspects of the database.	0
 Right.	0
 I think that uh trying to duplicate,	0
-spending  too  much effort trying to duplicate the existing [MASK]-digits	0
-probably isn't too worthwhile because the recording situation is  so  different. It's gonna be very hard to be comparable.	1
+spending  too  much effort trying to duplicate the existing T_I-digits	0
+probably isn't too worthwhile because the recording situation is  so  different. It's gonna be very hard to be comparable.	0
 Yeah.	0
 Except  that if you have the stimuli  comparable,	0
 then it says something about the - the contribution of setting and -	0
@@ -185,7 +185,7 @@ No it's - it's not the same.	0
 A little bit, but the other differences are so major.	0
 O_K.	0
 They're such major sources of variance that it's - it's - it's uh -	0
-Yeah I mean read versus not.	1
+Yeah I mean read versus not.	0
 What's an example of a - of m- some of the other differences? Any	0
 other a- difference?	0
 Well i- i- individual human glottis  is going to be different for each one, you know, it's just - There's so many things.	0
@@ -195,18 +195,18 @@ it's - it - and - and enunciation.	0
 Well, and not just that, I mean the uh	0
 the corpus  itself.  I mean, we're collecting it in a read digit in a particular list, and I'm sure that they're doing	0
 more specific stuff. I mean if I remember correctly it was like postman reading zipcodes and things like that.	0
-[MASK] was? I thought - I thought it was read.	0
+T_I-digits was? I thought - I thought it was read.	0
 I thought so.	0
 Was it read?	0
-Yeah, I think the reading zipcode stuff you're thinking  of would be  [MASK].	0
+Yeah, I think the reading zipcode stuff you're thinking  of would be  O_G_I.	0
 Oh, I may well be.	0
-Yeah, no [MASK] was read in th- in read in the studio I believe.	0
-I haven't ever  listened  to [MASK]. So I don't really know how it compares.	0
+Yeah, no T_I-digits was read in th- in read in the studio I believe.	0
+I haven't ever  listened  to T_I-digits. So I don't really know how it compares.	0
 Yeah.	0
 Yeah. But it - but -	0
 But - but  regardless  it's gonna - it's hard to compare cross-corpus.	0
 It- it's different people  is the - is the  core  thing. And they're different circumstances with different recording environment and so forth, so it's - it's - it's really pretty different. But I think	0
-So.	1
+So.	0
 O_K, fine.	0
 the idea of using a set thing was just to give you  some  sort of framework, so that even though you couldn't do  exact  comparisons, it wouldn't be s-  valid  scientifically at least  it'd  give you	0
 some  kind of	0
@@ -231,10 +231,10 @@ Mmm.	0
 And  which  group appears is picked randomly, and what the  numbers  are are picked randomly.	1
 Right.	0
 Mm-hmm.	0
-So unlike the previous one, which I d- simply replicated [MASK], this is generated randomly.	1
+So unlike the previous one, which I d- simply replicated T_I-digits, this is generated randomly.	1
 Mmm, oh, O_K.	0
 Oh O_K.	0
-But I think it'd be great i- to be able to compare digits, whether it's these digits or [MASK],	0
+But I think it'd be great i- to be able to compare digits, whether it's these digits or T_I-digits,	0
 to speakers, um, and compare that to their spontaneous speech, and then we do need	0
 you know a fair amount of - of digit data because you might be wearing a different microphone and, I mean - so it's - it's nice to have the digits	1
 Mm-hmm.	0
@@ -272,11 +272,11 @@ acoustic  research, for the signal-processing,	0
 far-field stuff,	0
 I see it as - as - as the place that we  start.	0
 But, th- I mean, it'd be  nice  to have twenty hours of digits data, but - but uh the truth is I'm hoping that	1
-we - we through the - the stuff that - that you guys have been doing	0
-as you continue that, we get, uh, the best we can do on the spontaneous stuff uh,	0
+we - we through the - the stuff that - that you guys have been doing	1
+as you continue that, we get, uh, the best we can do on the spontaneous stuff uh,	1
 uh near-field, and then um,	1
 we do a lot of the testing of the algorithms on the digits for the far-field,	1
-and at  some  point when we feel it's mature and we understand what's going on with it then we - we  have  to move on	0
+and at  some  point when we feel it's mature and we understand what's going on with it then we - we  have  to move on	1
 to the spontaneous data with the far-field. So.	1
 Great.	0
 The only thing that we  don't  have, I know this	0
@@ -288,7 +288,7 @@ Overlapping  digits!	0
 The - the problem I see with trying to do overlapping digits is the cognitive load.	0
 Alright everybody's laughing. O_K.	0
 Dueling digits.	0
-No it's - it's not stupid, it's just - I mean,  try  to  do  it.	1
+No it's - it's not stupid, it's just - I mean,  try  to  do  it.	0
 I'm just talkin- for the stuff that like Dan  Ellis  is gonna try, you know, cross-talk cancellation. O_K.	0
 I mean, here, let's try it. You read the last line, I'll read the first line.	0
 Let's try it.	0
@@ -309,7 +309,7 @@ Oh I see.	0
 Digits are nice and well behaved, I mean	0
 Anyway, it's just a thought. It - it would go faster.	0
 I guess we could try. We could try doing some.	0
-Parallel.  It's the [MASK] of digit reading.	0
+Parallel.  It's the P_make of digit reading.	0
 It would take one around  amount of ti-  That's right.	0
 Well - Well O_K. Well let's try it.	0
 I - I mea- I'm - I was sort of serious, but I really, I mean, I'm - I don't feel strongly enough that it's a good idea, so.	0
@@ -339,7 +339,7 @@ Row, row, row your boat.  Yeah.	0
 A round.	0
 Round.	0
 Mm-hmm.	0
-O_K.	1
+O_K.	0
 It's gonna require some coordination.	0
 Then it would go like h-  twice  as fast, or  a  third  as fast.	0
 Anyway, it's just a thought. I'm actually sort of serious if it would help people do that kind o- but the people who wanna work on it we should talk to them. So.	1
@@ -356,7 +356,7 @@ See - see what Dan thinks.	0
 Yeah, right.	0
 Yeah, yeah. Spend the whole time reading digits with different qu- quantities.	0
 c- c- Can I- can I have an- another - another question w-  about  this? So, um, there are these digits, which are detached digits, but there are other words that  contain	0
-I  thought  this was gonna be fast. Oh well.	1
+I  thought  this was gonna be fast. Oh well.	0
 the same	0
 general phon- phoneme sequences. Like "wonderful" has "one" in it and - and Victor Borge had a - had a  piece  on this where he inflated the digits. Well,	0
 I wonder if there's, um, an- if there would be a value in  having  digits that are in essence embedded in real words to	0
@@ -365,7 +365,7 @@ That's "two" bad.	0
 Yeah.	0
 I'm all "four" it.	0
 There  you go.	0
-Not after I "eight" though.	1
+Not after I "eight" though.	0
 Uh, they don't all work as  well,   do  they?	0
 Hmm.	0
 What  does  nine  work in? Uh,	0
@@ -379,7 +379,7 @@ It's great for the Germans.	0
 That's German, yeah.	0
 Nein.	0
 Yeah.	0
-Oh!	1
+Oh!	0
 It only sounds w- good when you  scream  it, though.	0
 I think everybody's a little  punchy  here  today. Yes.	0
 So.	0
@@ -391,7 +391,7 @@ and - a- But, you know, if it were to be deflated, just the normal word, it woul
 Mm-hmm.	0
 I don't know if it would be useful for comparison, but it's  embedded  numbers.	0
 Well I don't know.	0
-I think for something like that we'd be better off doing like uh [MASK].	0
+I think for something like that we'd be better off doing like uh TIMIT.	0
 Well I think the question is what the research is, so I mean, I presume that	0
 the reason that you wanted to have these	0
 digits this way is because you wanted to actually do some research	0
@@ -402,33 +402,33 @@ Right, yeah.	0
 Yeah O_K.	0
 So if somebody  wanted  to do that, if they wanted to look at the - the - the difference of	0
 the uh phones in the digits in the context of a word versus uh	0
-the digits - a - a non-digit word versus in digit word, uh that would be a good thing to do, but I think someone would have to express interest in that.	1
+the digits - a - a non-digit word versus in digit word, uh that would be a good thing to do, but I think someone would have to express interest in that.	0
 I see. O_K.	0
 I think, to -	0
 I mean if  you  were interested in it then we could do it, for instance.	0
 O_K,  thank  you.  Huh.	0
 O_K, are we done with digits?	0
 Um,	0
-We have [MASK] results from Liz, transcript status from Jane, and disk space and storage formats from Don.	1
+We have A_S_R results from Liz, transcript status from Jane, and disk space and storage formats from Don.	1
 Does - do we have any prefer- preference on which way we wanna - we wanna go?	0
-Well I was actually gonna skip the [MASK] results part, in favor of getting the  transcription  stuff	0
-Mm-hmm.	1
+Well I was actually gonna skip the A_S_R results part, in favor of getting the  transcription  stuff	0
+Mm-hmm.	0
 talked about since I think that's more	0
 important to moving forward, but I mean Morgan has this paper copy and if people have questions,	0
-um, it's pretty preliminary in terms of [MASK] results because we didn't do anything fancy, but I think	1
+um, it's pretty preliminary in terms of A_S_R results because we didn't do anything fancy, but I think	1
 e- just having the results there, and pointing out	0
 some main conclusions like it's not the speaking style that differs, it's the fact that there's overlap that causes recognition errors.	1
 And then, the fact that it's almost all insertion errors, which you would expect but you might also think that	1
 in the overlapped regions you would get substitutions and so forth,	1
 um,	1
-leads us to believe that	0
-doing a better segmentation, like your channel-based segmentation, or some kind of	0
-uh, echo cancellation to get basically back down to the individual	0
+leads us to believe that	1
+doing a better segmentation, like your channel-based segmentation, or some kind of	1
+uh, echo cancellation to get basically back down to the individual	1
 speaker utterances would be probably all that we would need to be able to do good recognition on the - on the close-talking mikes.	1
-Um, why don't you, if you have a hard copy, why don't you email it	1
+Um, why don't you, if you have a hard copy, why don't you email it	0
 So these -	0
 So, that's about the summary -	0
-to the list.	1
+to the list.	0
 But this is - Morgan has this paper. I mean he - he - it - it's that paper. Yeah, yeah.	0
 Yeah, yeah.	0
 Yeah, so it's the same thing? It's the same thing I mailed to every-	0
@@ -442,7 +442,7 @@ Let's see, th-	0
 I guess the other neat thing is it shows for sure w- that the lapel, you know within speaker is	1
 Horrible?	0
 bad. And it's bad because it picks up the overlapping speech.	1
-So, your - your [MASK] results were run on the channels  synchronized,  O_K.	0
+So, your - your A_S_R results were run on the channels  synchronized,  O_K.	0
 Yes, cuz that's all that w- had been transcribed at the time,  um	0
 O_K. O_K.	0
 but as we - I mean I wanted to here more about the transcription. If we can get	0
@@ -487,9 +487,9 @@ And that's - that's where the problems come in. So I- this is sort of what we ex
 Right.	0
 And also I just wanted to mention briefly that, um,	1
 uh Andreas and I called up Dan Ellis who's still stuck in Switzerland, and we were	1
-gonna ask him if - if there're -	0
+gonna ask him if - if there're -	1
 you know, what's out there in terms of echo cancellation and things like that. Not that we were gonna do it, but we wanted to know	1
-And he said, "Lots lots lots lots."	1
+And he said, "Lots lots lots lots."	0
 what would need to be  done.  And	0
 he - We've given him the data we have so far, so these sychronous cases where there are overlap.	0
 Yep.	0
@@ -510,12 +510,12 @@ So.	0
 Yeah, should it -	0
 Well that's with the hand stuff.	0
 So there's like -	0
-But how would you do that automatically?	1
+But how would you do that automatically?	0
 Right.	0
 Uh, I've actually done some experiments with cross-correlation and it seems to work pretty well to - to get rid of those - those overlaps, yeah.	0
 Well ther- there's -	0
 Mm-hmm.	0
-I mean that- that's the sort of thing that you would  do.  So.	1
+I mean that- that's the sort of thing that you would  do.  So.	0
 Yeah. Yeah.  Exactly,  so it's - it's a -	0
 So why do you want to do echo cancellation?	0
 Um, it would be techniques used from adaptive - adaptive echo cancellation which I don't know enough about to talk about. Um.	0
@@ -576,7 +576,7 @@ Cool.	0
 So at this point we can sort of finalize the naming, and so forth, and we're gonna basically re-	1
 Yep.	0
 Mm-hmm.	0
-rewrite out these waveforms that  we  did because as you notice in the paper your [MASK] in one meeting	1
+rewrite out these waveforms that  we  did because as you notice in the paper your "M_O_-four" in one meeting and "M_O_-two" in another meeting and it's - we just need to standardize the	1
 Yeah.	0
 That was my fault.	0
 um, no it's - it's -	0
@@ -619,7 +619,7 @@ N_ -	0
 Eighteen.	0
 Eigh- eighteen. It was a spare that Dave had around -	0
 Oh O_K.	0
-Slash N_ slash machine name, slash [MASK] in all likelihood.	0
+Slash N_ slash machine name, slash X_A_ in all likelihood.	0
 Oh I see. O_K. Alright, I  did  know that.	0
 Um, so the - the only question is how much of it - The distinction between scratch and  non-scratch  is whether it's backed up or not.	0
 Mm-hmm.	0
@@ -655,7 +655,7 @@ Do you think that'd be O_K?	0
 so.	0
 Yeah.	0
 To downsample them?	0
-Yeah, we get the same performance. I mean the r- the front-end on the [MASK] just downsamples them on the  fly,  so -	1
+Yeah, we get the same performance. I mean the r- the front-end on the S_R_I recognizer just downsamples them on the  fly,  so -	1
 O_K.	0
 Yeah, I guess the only argument against downsampling is to preserve just the original files in case we want to experiment with different filtering techniques.	0
 So that's -	0
@@ -677,7 +677,7 @@ Yeah, as I said, since that's - it's  regeneratable,  what I would do is take -	
 So -	0
 Yeah.	0
 downsample it,	0
-and compress it however you're e- the [MASK] wants to take it in.	0
+and compress it however you're e- the S_R_I recognizer wants to take it in.	0
 Yeah.	0
 So we can't shorten them, but we can downsample them. So.	1
 ye-	0
@@ -699,7 +699,7 @@ Yep.	0
 Right.	0
 Yeah.	0
 So the S_R_I front-end won't take a uh - an - an - a large audio file name and then a -	1
-a list of segments to chop out	0
+a list of segments to chop out	1
 from that large audio file?  They actually have to be chopped out already?	1
 Um, it's better if they're chopped out, and - and it - it will be -	1
 Uh-huh.	0
@@ -743,14 +743,14 @@ Yeah and they don't.	0
 I mean, we have some -	0
 Two gig?	0
 So we're also looking at these in Waves like for the  alignments  and so forth.	1
-You can't  load  an hour of speech into  [MASK] .	1
+You can't  load  an hour of speech into  X_Waves .	1
 Yeah.	0
 You need to s- have these small files, and in fact, even for the  Transcriber  program	1
 Yes  you can.	0
 Um -	0
 Yeah, you -  you  can give Waves a start and an end time.	0
 And middle.	0
-Yeah, if you try to load s- really long waveform into [MASK], you'll be  waiting  there for -	0
+Yeah, if you try to load s- really long waveform into X_Waves, you'll be  waiting  there for -	0
 No, I - I'm not suggesting you load a long wave file, I'm just saying you give it a start and an  end  time. And it'll just	0
 Oh-	0
 I th-	0
@@ -760,7 +760,7 @@ What's th- u- w- in what respect?	0
 Loading the long -	0
 They loaded - they loaded the long	0
 No, with the  Transcriber  tool, it's no  problem.	1
-long files into [MASK].	0
+long files into X_Waves.	0
 It takes a very long ti-	0
 In the - in-	0
 Yeah just to load a  transcription	0
@@ -772,15 +772,15 @@ takes a long time, but not for the wavefile. The  wavefile  is there  immediatel
 Mm-hmm.	0
 Yeah.	0
 Huh.	0
-Are you talking about  Transcriber  or  [MASK] ?	0
+Are you talking about  Transcriber  or  X_Waves ?	0
 Yeah.	0
 Oh, I'm tr- talking about Transcriber.	0
 Actually,	0
 you're talking about Transcriber, right?	0
 Yeah.	0
-It was also true of the digits task which was [MASK].	0
+It was also true of the digits task which was X_Waves.	0
 Because -	0
-because i- we used [MASK] to do the  digits.	0
+because i- we used X_Waves to do the  digits.	0
 Yeah.	0
 And they were loading the full mixed files then, and it didn't  seem  to be any problem.	0
 Very quickly.	0
@@ -815,19 +815,19 @@ Yeah.	0
 Yep.	0
 Right.	0
 So remind me afterward and I'll -	0
-And -	1
+And -	0
 and we'll look at your disk and see where to put stuff.	0
 O_K.	0
 Alright.	0
-I mean, I could just u- do a [MASK] on it right? And just see which - how much is on each -	0
+I mean, I could just u- do a D_U on it right? And just see which - how much is on each -	0
 Yep.	0
 So.	0
-Each partition. And you wanna use, either [MASK] or scratch.	0
+Each partition. And you wanna use, either X_A or scratch.	0
 O_K.	0
 Well X_ question mark, anything starting with X_ is scratch.	0
 O_K.	0
 With two - two digits.	0
-Two digits, right, [MASK],	0
+Two digits, right, X_A, X_B, X_C.	0
 O_K? Jane?	0
 So,  @@ .	0
 O_K. So I got a little  print-out  here. So three on this side, three on this side.	0
@@ -926,12 +926,12 @@ Yeah.	0
 Yeah.	0
 Um, so, I guess - So, from the point of view of -	0
 That's a good point.	0
-The - the  only  problem is that with - for the recognition we - we map it to "because", and so if we know that "C_U_Z" -	1
+The - the  only  problem is that with - for the recognition we - we map it to "because", and so if we know that "C_U_Z" -	0
 Well,	0
 That's fine. Well Don has a script.	0
 but they have the gloss. You have the gloss form so you always replace it.	0
 Yeah.	0
-but, we don't -	1
+but, we don't -	0
 Exactly.	0
 If that's how - what you wanna do.	0
 Uh-huh. And  Don  knows this, and he's bee- he has a glo- he has a script that -	0
@@ -962,8 +962,8 @@ Oh I'm sorry.	0
 u- with the, um,	0
 more abbreviated one to the left.	0
 Uh, then you have if it's - uh, there're a couple different types of	1
-elements that can happen that aren't really	0
-properly  words,  and wo- some of them are laughs and breathes, so we have - uh that's prepended with a v- a tag of [MASK].	1
+elements that can happen that aren't really	1
+properly  words,  and wo- some of them are laughs and breathes, so we have - uh that's prepended with a v- a tag of "V_O_C".	1
 Whew!	0
 @@	0
 And the non-vocal ones are like door-slams and tappings, and that's prepended with a	0
@@ -987,7 +987,7 @@ Huh-uh.	0
 No, they're events.	0
 They're actually - They have the status of events.	0
 O_K.	0
-Well the "[MASK]" can be - The "[MASK]" is applying to the left.	0
+Well the "QUAL" can be - The "QUAL" is applying to the left.	0
 Right, I just meant the middle two ones, yeah.	0
 Yep.	0
 Well, and actually, um, it  is   true  that, with respect to "laugh", there's  another  one	0
@@ -998,9 +998,9 @@ uh,  coding  the exact  scope  of  laughing,  you know,	0
 and so to have "while laughing", you know that it happened somewhere in there which could well mean that it occurred	0
 separately and following, or, you know, including some of the utterances to the left. Haven't been awfully precise about that, but I have here,	0
 now we're about to get to the - to this now,  I have  frequencies.  So you'll see how often these different things occur. But, um,	1
-uh, the very front page deals with this, uh, final	0
+uh, the very front page deals with this, uh, final	1
 c- pa- uh, uh, aspect of the standardization which has to do with	1
-the spoken forms like "mm-hmm" and "mm-hmm" and "ha" and "uh-uh" and	0
+the spoken forms like "mm-hmm" and "mm-hmm" and "ha" and "uh-uh" and	1
 all these different types. And, um, uh, someone pointed out to me,	1
 this  might have been Chuck,  about, um - about how a recognizer, if it's looking for "mm-hmmm" with  three  M_'s,  and it's transcribed with  two  M_'s,	0
 that it might - uh, that it might increase the error rate which is - which would  really  be a  shame  because	0
@@ -1065,22 +1065,22 @@ Oh yeah?	0
 Mmm.	0
 Yeah, that's right. That's right.	0
 Yeah.	0
-You say [MASK]	0
+You say arg-C_ and arg-V_ all the time.	0
 That's true.	0
 Yeah	0
 Yeah.	0
 But it has a different prosody.	0
 Arg.	0
 It does.	0
-Arg - [MASK], yeah.	0
+Arg - arg-max, arg-min, yeah.	0
 Mm-hmm.	0
 Ah!	0
 Uh,	0
 So, Jane, what's the - d- I have one question about the	0
 Maybe he died while dictating.	0
 so.	0
-the "[MASK]" versus like th	0
-That's partly a nonnative-native thing, but I have found "[MASK]" in native speakers too.	0
+the "E_H" versus like the "A_H" and the "U_H".	0
+That's partly a nonnative-native thing, but I have found "E_H" in native speakers too.	0
 @@	0
 O_K.	0
 But it's mostly non-native -	0
@@ -1088,7 +1088,7 @@ S- O_K.	0
 H_	0
 That's "eh" versus "ah"?	0
 Eh.	0
-Eh?	1
+Eh?	0
 "Eh," yeah right, cuz there were - were some speakers that did definite "eh's" but right now we -	0
 Mm-hmm.	0
 They were the Canadians, right?	0
@@ -1100,12 +1100,12 @@ Exactly.	0
 e- all of these forms, but they all were like "uh".	0
 You mean just the single letter "a"  as in the particle?	0
 The transcription or -	0
-No, no, I mean like the - the "[MASK]", or - the "[MASK]", "[MASK]",	0
+No, no, I mean like the - the "U_H", or - the "U_H", "E_H", "A_H" were all the same. And then, we have this additional non-native version of -	0
 Article.	0
-"[MASK]".	0
+"U_H".	0
 Oh.	0
 uh, like "eeh".	0
-All the "[MASK]"'s I've seen have been like that. They've been like "eh"  like that have bee- has been transcribed to "[MASK]".	0
+All the "E_H"'s I've seen have been like that. They've been like "eh"  like that have bee- has been transcribed to "E_H".	0
 Mm-hmm, that's right.	0
 And sometimes it's stronger, like "eeh"  which is like closer to "E_H". But.	0
 Mmm.	0
@@ -1152,19 +1152,19 @@ The question marks, yeah. What are those?	0
 Question mark is punctuation. So it - they said that  @@  -	0
 Oh.	0
 Mm-hmm.	0
-um, "[MASK]?"	0
-So they - so it's "[MASK]?"	0
+um, "D_C?"	0
+So they - so it's "P_L_P?"	0
 Ah.	0
 Exactly.  Exactly.	0
 Yeah, so the only - Well, and I  do  have a  stress  marker here. Sometimes the contrastive stress is showing up, and, um -	0
 I'm sorry, I - I got lost here. What- w- what's the difference between the parenthesized acronym and the non-parenthesized?	0
-The parenthesized is something that the transcriber  thought  was [MASK], but wasn't entirely sure.	0
+The parenthesized is something that the transcriber  thought  was A_N_N, but wasn't entirely sure.	0
 So I'd need to go back or  someone  needs to go back, and say, you know, yes or no, and then get rid of the parentheses. But the parentheses are used only in that context in the transcripts, of	0
 Ah.	0
 Right.	0
 of noti- noticing that there's something uncertain.	0
 Yeah, P_make is - That's a good one. That's correct.	0
-Yeah I mean cuz they - they have no idea, right. If you hear [MASK], I mean, they do pretty well but it's -	0
+Yeah I mean cuz they - they have no idea, right. If you hear C_T_P_D, I mean, they do pretty well but it's -	0
 Yeah.	0
 Mm-hmm.	0
 I -  I  don't recognize a  lot  of these. I -	0
@@ -1190,7 +1190,7 @@ Yeah.	0
 Yeah, that's pretty close.	0
 Yeah.	0
 That's interesting.	0
-Is the P_- P_T_A working?	1
+Is the P_- P_T_A working?	0
 Right and sometimes, I mean, you see a couple of these that are actually "O_K's"	0
 so it's - it's - may be that they got to the point where - I mean it was low enough understandable - understandability that they weren't entirely sure the person said "O_K."	0
 You know, so it isn't really necessarily a	0
@@ -1211,7 +1211,7 @@ Yeah.	0
 But, I - I'm a little hesitant to - to collapse across categories unless I actually listen to  them.	0
 Seems so.	0
 O_K.	0
-Oh I'm sure we've said [MASK] more than five times.	0
+Oh I'm sure we've said X_M_L more than five times.	0
 Well, then,  at  least now. Yeah.  Six.	0
 Now it's at least six times, yeah.	0
 S- s- six now, yeah.	0
@@ -1254,7 +1254,7 @@ No, I looked for that, but that doesn't actually exist. And it may be, I don't -
 That's alright. I'm just pointing that out. There's -	0
 I- i- it's the only -	0
 it's the only pattern that  has  a slash after it, and I think it's - it's an epiphenomenon.	0
-Well there's  not   @@ .	1
+Well there's  not   @@ .	0
 So I'll just - I was just looking at the bottom of page three there, is that "to be" or "not to be".	0
 Yeah.  Oh that's cute. That's funny.	0
 There's no tilde in front of it, so.	0
@@ -1268,16 +1268,16 @@ that's legitimate. So now, uh, comments, you can see they're listed again, same 
 O_K so, um, on some of these QUALs,	0
 thirty minutes.	0
 Yeah.	0
-are they really [MASK], or are they glosses? So like there'	0
+are they really QUALs, or are they glosses? So like there's a "QUAL T_C_L".	0
 "T_C_L".  Where  do you see that?	0
 Uh	0
 Oh, oh. The reason is because w- it was said "tickle".	0
-What's a [MASK]?	0
+What's a QUAL?	0
 Oh I see, I see. So it's  not  gloss. O_K, I see.	0
 Hmm.	0
 Yep.	0
 It wasn't  said  "T_C_L". Of  course.	0
-Sh- shouldn't it be [MASK] or something? Like - it's not -	0
+Sh- shouldn't it be "QUAL T_I_C_K_L_E" or something? Like - it's not -	0
 On the - in the actual script - in the actual  transcript,  I s- I -	0
 So this - this happens in the very first one.	0
 I actually wrote it as "tickle".	0
@@ -1286,10 +1286,10 @@ O_K.	0
 Because we - they didn't say "T_C_L", they said "tickle".	0
 Yeah.	0
 Right.	0
-And then,  following  that is "[MASK] T_C_L".	0
+And then,  following  that is "QUAL T_C_L".	0
 Oh I see. O_K.	0
-I f- I forget,  what's  [MASK]?	1
-[MASK]- qualifier.	1
+I f- I forget,  what's  QUAL?	1
+Qual- qualifier.	1
 It's just comment about what they said.	0
 Comment. Comment or contextual comment.	1
 Yeah. It's not something you wanna replace  with but -	0
@@ -1308,7 +1308,7 @@ Yeah.	0
 What  did I  say?	0
 Language, uh -	0
 To the language model - model.	0
-Well  both.  We can go on lan- lan- add it to both dictionary and  language  model.	1
+Well  both.  We can go on lan- lan- add it to both dictionary and  language  model.	0
 Oh lan- Oh O_K- we-  O_K - it's in the language model,	0
 Add  what,  Liz?	0
 Yeah.	0
@@ -1339,13 +1339,13 @@ the word needs to be spelled out in - in a	0
 consistent way as it would appear in the language, but there's not very many of these. Tcl's one of them.	0
 And - and you'll ha- you'll  have  to do it  sychronously.	0
 Um, y- yeah.	0
-Right, so y- so, whoever's creating the new	1
+Right, so y- so, whoever's creating the new	0
 It's just disturbing.	0
-models, will have to also go through the transcripts and  change  them  synchronously.	1
+models, will have to also go through the transcripts and  change  them  synchronously.	0
 Right.	0
 Right. We have this - there is this	1
 Hmm.	0
-thing I was gonna talk to you about at some point about, you know, what do we do with the dictionary	0
+thing I was gonna talk to you about at some point about, you know, what do we do with the dictionary	1
 as we're up- updating the dictionary, these changes have to be consistent with what's in the - Like spelling people's names and so forth.	1
 If we make a spelling correction to their	0
 name, like someone had Deborah Tannen's name misspelled, and since we know who that is, you know, we could correct it, but -	0
@@ -1358,7 +1358,7 @@ Well, of course now the - the Tannen corre- the spelling c- change.  Uh,  that's
 So.	0
 Right. Right. So if there's things that get corrected before we get them, it's - it's not an issue, but if there's things that	1
 Mm-hmm.	0
-um, we change later, then we always have to keep	0
+um, we change later, then we always have to keep	1
 our - the dictionary up to date. And then, yeah, in the case of "tickle" I guess we would just have a,	1
 you know, word "T_C_L" which -	0
 Mm-hmm.	0
@@ -1413,7 +1413,7 @@ glosses.	0
 Right.	0
 Right.	0
 Right.	0
-I have the - there're various things like "breathe" versus "breath" versus "inhale" and, hhh,	1
+I have the - there're various things like "breathe" versus "breath" versus "inhale" and, hhh,	0
 you know,  I  don't know. I - I think they don't have any  implications  for anything  else  so it's like I'm tempted to  leave  them for now an- and -	0
 It's easy enough to  find  them when they're in curly brackets. We can always get an exhaustive listing of these things and find  them   and change  them.	0
 Yeah.	0
@@ -1481,7 +1481,7 @@ So, so gloss - in the same line that would have "gloss quote one one one dash on
 Right.	0
 uh, "curly bracket NUMS curly bracket".	0
 So if you - if you did a,	0
-uh, a [MASK] and you get rid of anything that was read.	0
+uh, a "grep minus V_ nums" and you get rid of anything that was read.	0
 Oh, so you could do "grep minus V_ nums". So that's the - yeah. So there  wouldn't  be something like	0
 O_K.	0
 i- if somebody said something like, "Boy, I'm really tired, O_K." and then started reading that would be on a separate line?	0
@@ -1492,7 +1492,7 @@ Mm-hmm. Good.	0
 Great.	0
 Yep.	0
 Now why do we - what's the reason for having like the point five have the "NUMS" on it? Is that just like when they're talking about their data or something? Or -	1
-This is more because -	0
+This is more because -	1
 Yeah.  Oh these are all these, the "NUMS point", this all where they're saying "point" something or other.	1
 These are all like	0
 inside the	0
@@ -1560,7 +1560,7 @@ So  Liz,  what does the  recognizer  do,	0
 So.	0
 uh,	0
 Hmm.	0
-what does the [MASK]  output  for things like that? "seven point five". Does it output the word -	0
+what does the S_R_I recognizer  output  for things like that? "seven point five". Does it output the word -	0
 "Seven point five".	0
 Right, the  word  "seven"? The  number  "seven"?	0
 Well, the  numbers?	0
@@ -1648,7 +1648,7 @@ total of about an -  thirty minutes.	0
 That's - that's been the case. And plus the training, whatever you have.	0
 So,	0
 I guess, I mean, I don't know if we should talk about this now, or not, but I-	0
-Well it's just we're  missing tea. So.	1
+Well it's just we're  missing tea. So.	0
 Yeah, I know. No, but I mean my question is like should I wait	0
 until  all  of those are processed, and channelized, like the time markings are adjusted before I do all the processing, and we start like branching off	0
 into the - into the - our layer of uh	0
@@ -1679,7 +1679,7 @@ Right.	0
 Right.	0
 and so it's a question of like what -	0
 So I - I th- I think probably the way it'll go is that, you know, when we	1
-make this first general version and then start working on the script, that script	0
+make this first general version and then start working on the script, that script	1
 Mm-hmm.	0
 @@  that will be ma- you know primarily come from what  you've  done, um, we'll need to work on a channelized version of those originals.	1
 Mm-hmm.	0
@@ -1729,4 +1729,4 @@ O_K.	0
 Great.	0
 O_K.	0
 Oop!	0
-Man!	1
+Man!	0

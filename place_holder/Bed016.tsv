@@ -89,11 +89,11 @@ true?	0
 We  are?	0
 We  might.	0
 O_K.	0
-Well, you - you had s- you said there were  two  things that you might wanna do. One was rehearse your  i- i-   talk  -	0
+Well, you - you had s- you said there were  two  things that you might wanna do. One was rehearse your  i- i-   talk  -	1
 Is -	0
 Oh yes, and that  too.	0
-Not - not rehearse, I mean, I have just not spent any time on it, so I can show you what I've got, get your input on it, and maybe some suggestions, that would be great.	0
-And the  same  is true for the  proposal.	0
+Not - not rehearse, I mean, I have just not spent any time on it, so I can show you what I've got, get your input on it, and maybe some suggestions, that would be great.	1
+And the  same  is true for the  proposal.	1
 I  will  have time to do some revision and some additional stuff on various airplanes and trains. So,	0
 um.	0
 I don't know how	0
@@ -108,7 +108,7 @@ Um,  the -	0
 It basically says, well	1
 "this is construal", and then it continues to say that one could potentially build a probabilistic relational model that has some  general,  domain-general rules	1
 how things are construed, and then the idea is to use ontology, situation, user, and	1
-discourse model to instantiate elements in the classes of [MASK]  to do some inferences in terms of what is being construed as  what	1
+discourse model to instantiate elements in the classes of the probabilistic relational model  to do some inferences in terms of what is being construed as  what	1
 Hmm.	0
 in our beloved tourism domain.	1
 But, with a focus on  @@	0
@@ -158,7 +158,7 @@ readability -	0
 Hmm?	0
 There's only one "S_" in "interesting". On page  five.	0
 Interesting.	0
-Anyway.	0
+Anyway.	1
 And y- uh, email any time, but most usefully before -	1
 The twenty-first I'm assuming.	0
 The twenty-first?	0
@@ -175,8 +175,8 @@ Mm-hmm.	0
 sell  him this idea.	1
 O_K.	0
 O_K?	0
-Then I'm  also  going to present a little talk at [MASK]	1
-about	0
+Then I'm  also  going to present a little talk at E_M_L,	1
+about	1
 what we have done here	1
 and	0
 so	0
@@ -261,7 +261,7 @@ sort of feed you back to our original problem cuz, uh -	0
 how to get there, what	0
 actually is happening	0
 there today,	0
-and then maybe talk about the big picture here, e- tell a little bit - as much as I  can about [MASK]	1
+and then maybe talk about the big picture here, e- tell a little bit - as much as I  can about the N_T_L story.	1
 I - I wa- I  do  wanna, um -	0
 I'm not quite sure about this, whether I should put this in,	0
 um, that, you know, you have these two sort of different ideas that are - or two different camps	0
@@ -270,7 +270,7 @@ and then,	1
 talk a bit about the embodied and simulation approach favored here and as a prelude,	1
 I'll talk about monkeys in Italy.	0
 And, um, Srini was gonna send me some slides but he didn't do it, so from - but I have the paper, I can	0
-make a resume of that, and then I stole [MASK] from one of  your  talks I think.	0
+make a resume of that, and then I stole an X_schema from one of  your  talks I think.	0
 Oh.	0
 I was like, "where'd you get that?" O_K.  "Looks familiar."	0
 Yeah, that looks familiar.	0
@@ -283,7 +283,7 @@ So X_schemas, then, I would like to do - talk about the construction aspect and 
 Mm-hmm.	0
 End of story.	0
 Anything I forgot that we should mention?	0
-Oh, maybe [MASK] stuff. Should I mention the fact that, um, we're also actually started - going to start to look at people's brains in a more direct way?	1
+Oh, maybe the F_M_R_I stuff. Should I mention the fact that, um, we're also actually started - going to start to look at people's brains in a more direct way?	1
 You certainly  can.  I mean I- y- I- you know, I don't know -	0
 You might just wanna like, tack that on, as a comment,	0
 Right, um.	0
@@ -321,7 +321,7 @@ is, um,	0
 and may  not,  but you  might  wanna -  this is  - rip off a bunch of the slides on the	0
 anal- there - the - there - we've got various i- generations of slides that show language analysis, and matching to the underlying image schemas, and,	1
 um, how the construction and simulation - that ho- that whole th-	0
-Yeah, th- that - that's c- that comes up to [MASK] slide, so basically I'm gonna steal that from Nancy, one of Nancy's st-	0
+Yeah, th- that - that's c- that comes up to the X_schema slide, so basically I'm gonna steal that from Nancy, one of Nancy's st-	0
 O_K, right.	0
 O_K, I can give you a more recent - if you want - well, that might have enough.	0
 Uh, I - yeah, but I also have stuff you - trash you left over, your quals and your triple-A_I.	0
@@ -344,12 +344,12 @@ Propagated?	0
 Yes.  That's great.	0
 I mean I  might  even mention that this work you're doing is sort of also with the M_P_I in  Leipzig,  so.	1
 It's - it's certainly related, um,	0
-Because, um, [MASK] is building up a huge thing in Leipzig.	1
+Because, um, E_M_L is building up a huge thing in Leipzig.	1
 might wanna say.	0
 Is it?	0
 So it -	0
 It's on biocomputation.  Would -	0
-Yeah, it's  different,  this is the, uh, [MASK] or someth- the double helix building.	0
+Yeah, it's  different,  this is the, uh, D_N_A building, or someth- the double helix building.	0
 Yeah.	0
 Yeah.	0
 Kind of a different level of analysis.	0
@@ -455,24 +455,24 @@ Why.	0
 Mm-hmm.	0
 Cuz let me tell the gang what I think the punch line  is,  because it's actually important,	0
 which is, that,	1
-the	0
-constructions,  that, uh, Nancy and Keith and friends are doing,	0
-uh, are,	0
+the	1
+constructions,  that, uh, Nancy and Keith and friends are doing,	1
+uh, are,	1
 in a  way,  quite  general	1
 but	1
 cover only base cases. And	1
-to make them apply	0
-to  metaphorical  cases and  metonymic  cases and all those things, requires this additional mechanism,	0
+to make them apply	1
+to  metaphorical  cases and  metonymic  cases and all those things, requires this additional mechanism,	1
 of  construal.  And the punch line is, he claimed,	1
-that	0
-if you do this  right,  you can get	0
+that	1
+if you do this  right,  you can get	1
 essentially orthogonality, that	1
-if you introduce a new construction	0
+if you introduce a new construction	1
 at - at the base level, it should com- uh, interact with all the metonymies and metaphors so that all of the projections of it also should work.	1
 Mm-hmm.	0
 And, similarly, if you introduce a new metaphor,	1
 Mm-hmm.	0
-it should then	0
+it should then	1
 uh, compose with all of the constructions.	1
 Yeah.	0
 And it - to the extent that that's  true  then - then	0
@@ -526,8 +526,8 @@ So, uh,  yeah,  I mean, it doesn't  magically  make	0
 ambiguity  go away.	0
 No .	0
 But it  does  say that,	1
-uh, if	0
-you walked into the  cafe  and broke your nose, then you  are  construing the cafe	0
+uh, if	1
+you walked into the  cafe  and broke your nose, then you  are  construing the cafe	1
 Mm-hmm.	0
 as an  obstacle.	1
 And if that's  not  consistent with	0
@@ -561,7 +561,7 @@ container sense.	0
 Right.	0
 Depends.	0
 But - Like, "run into an old friend",	1
-it	0
+it	1
 probably  needs its own construction.	1
 I mean, uh, you know, George would have I'm sure some exa-	0
 complicated ex- reason why it really was an instance of	0
@@ -601,8 +601,8 @@ the thesis proposal, you got -	1
 We could look at a particular thing and give you feedback on it.	0
 Well there - actually -	0
 the - i- what would have been  really  nice is to find an example for	1
-all  of this,	0
-uh,	0
+all  of this,	1
+uh,	1
 from our domain.	1
 So maybe if we w- if we can make one  up    now,  that would be c- incredibly helpful.	0
 So, w- where it should illustrate	0
@@ -623,7 +623,7 @@ O_K, what did he say.	0
 Did you?  Join the club.	0
 Right. Oh, h- that's -	0
 Um.	0
-"On the bus" is a m- is [MASK]	0
+"On the bus" is a m- is a metaphorical metonymy	0
 that relates some meta- path metaphorically and you're on - on that path and	0
 th- w- I mean it's - he - there's a  platform  notion, right? "he's on the - standing on the bus waving to me." But th- the  regular  as we speak "J- Johno was on the bus to New York," um, uh, he's -	0
 Yeah, I - I believe all that, it's just -	0
@@ -701,19 +701,19 @@ Or something.	0
 Oh, yeah, you're right. Yeah.	0
 Yeah, and all that sort of stuff.	0
 Yeah.	0
-And undoubtably there's been  reams  of work about it in [MASK] but.	0
+And undoubtably there's been  reams  of work about it in cognitive linguistics, but.	0
 O_K. But anyway. We're not gonna do that between now and next week.	0
 Yeah.	0
 Yeah.	0
 O_K.	0
 So,	0
 um -	0
-It's not one of the y- it's more straightforward ones - forward ones to defend, so you probably don't want to use it for the purposes - th- these are - you're addressing like, [MASK] right. Or - are you?	0
+It's not one of the y- it's more straightforward ones - forward ones to defend, so you probably don't want to use it for the purposes - th- these are - you're addressing like, computational linguists, right. Or - are you?	0
 Mm-hmm.	0
 Right.	0
 O_K.	0
 There's gonna be four	0
-[MASK]	0
+computational linguists,	0
 O_K. But more	0
 computer-	0
 emphasis on the computational? Or emphasis on the linguist?	0
@@ -816,7 +816,7 @@ width of the object, or so, www.	0
 Mm-hmm.	0
 Mmm.	0
 O_K. Can we think of a nice	1
-metaphorical  use of "where"	0
+metaphorical  use of "where"	1
 in the tourist's domain?	1
 Um.	0
 Hmm.	0
@@ -880,14 +880,14 @@ I- I'm really into art. Uh -	0
 Tu- stur- tourists will often say that.	0
 Yeah, I was gonna say, like -	0
 Oh, you can do  that?	0
-Really? Of course that's - that - that's definitely a, uh -	1
+Really? Of course that's - that - that's definitely a, uh -	0
 Fixed.	0
 A fixed expression, yeah.	1
 that's a, uh -	0
 Right. But. -	0
 There're too - there're all sorts of fixed expressions I don't -  like uh	0
 "I'm out of sorts now!"	0
-Right.	1
+Right.	0
 Like	0
 "I'm in trouble!"	0
 Well I - when, uh - just f- u- the data that I've looked at so far that rec- I mean, there's tons of cases for polysemy.	1
@@ -895,7 +895,7 @@ Yeah.	0
 Right.	0
 So, you know, mak- re- making reference to buildings as institutions, as containers, as build- you know, whatever.	0
 Uh-huh.	0
-Right.	1
+Right.	0
 Um, so ib- in mus- for example, in museums, you know, as a building or as something where pictures  hang  versus, you know,	0
 ev- something that puts on exhibits, so forth. But -	0
 Right. As an institution, yeah.	0
@@ -913,8 +913,8 @@ Ah!	0
 Oh geez.	0
 Anyway, I'm sorry.	0
 But I think the argument should be -	1
-uh, can be made that,	0
-you know, despite the fact that this is  not  the most met- metaphorical domain, because people interacting with  [MASK] try to be straightforward and less lyrical,	1
+uh, can be made that,	1
+you know, despite the fact that this is  not  the most met- metaphorical domain, because people interacting with  H_T_I  systems try to be straightforward and less lyrical,	1
 Yeah.	0
 construal  still  is, uh, you know, completely,	0
 um, key in terms of finding out  any  of these things, so,	0
@@ -932,7 +932,7 @@ Alright. Yeah.	0
 But O_K this is just something we'll - we'll see, um,	0
 Right.	0
 s- See you.	0
-and deal with.	1
+and deal with.	0
 O_K, well.	0
 I guess if anybody has additional suggestions, w- Yeah.	0
 I mean maybe the "where is something" question as a  whole,  you know, can be construed as, u- i- locational versus instructional request.	1

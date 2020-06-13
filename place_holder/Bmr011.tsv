@@ -56,15 +56,15 @@ stuff?	0
 O_K.	0
 Alright,  that seems like a - a good collection of things. And we'll undoubtedly think of  other things.	0
 I had thought under  my  topic that I would mention the, uh, four items that I - I, uh, put out for being on the agenda f- on that  meeting,  which includes like the pre-segmentation and the - and the developments in multitrans.	0
-Oh, under [MASK]	0
-Yeah, under [MASK] Yeah.	0
+Oh, under the NIST meeting.	0
+Yeah, under the NIST thing. Yeah.	0
 O_K.	0
 Alright, why don't we start off with this,	0
 u- u-	0
 I guess the order we brought  them   up seems fine. Um,	0
 Yeah.	0
 so, better quality close talking mikes. So the one issue was that the - the, uh, lapel mike, uh, isn't as good as you would like. And so,	1
-uh, it - it'd be  better  if we had close talking mikes for  everybody.  Right?	0
+uh, it - it'd be  better  if we had close talking mikes for  everybody.  Right?	1
 Is that - is that basically the point?	0
 Ri- um,	0
 yeah, the -	0
@@ -72,7 +72,7 @@ And actually in  addition  to that, that the -	1
 the close talking mikes are worn in such a way as to best capture the signal.	1
 And the  reason  here is just that for the people doing  work  not on microphones but on sort of like  dialogue  and so forth,	0
 uh - or and even on  prosody,  which Don is gonna be working on soon,	0
-it adds this extra, you know, vari-  variable  for each speaker to - to deal with when the microphones aren't similar.	0
+it adds this extra, you know, vari-  variable  for each speaker to - to deal with when the microphones aren't similar.	1
 Right.	0
 Mm-hmm.	0
 So - And I  also  talked to Mari this morning and she  also  had a strong preference for doing that. And in fact she said that	0
@@ -81,7 +81,7 @@ Mm-hmm.	0
 Right, so one th-	0
 Well, so -	0
 uh, well one thing I was gonna say was that, um,	1
-i-	0
+i-	1
 we could get more, uh, of the head mounted microphones even beyond the number of  radio  channels we have because	1
 I think whether it's radio or wire is probably second-order. And the main thing is having the microphone  close  to you, u- although, not too close.	0
 Mm-hmm.	0
@@ -97,7 +97,7 @@ Yes.	0
 Yeah.	0
 Yeah.	0
 Yeah.	0
-about, uh, a thumb or - a thumb and a half away from your - from your mouth.	0
+about, uh, a thumb or - a thumb and a half away from your - from your mouth.	1
 Yeah.	0
 Uh, yeah.	0
 Right.	0
@@ -110,13 +110,13 @@ Right.	0
 Yeah.	0
 Is fixed. Yeah.	0
 Yeah.	0
-But if we could actually standardize, you know, the - the microphones, uh, as much as possible that would be really helpful.	0
+But if we could actually standardize, you know, the - the microphones, uh, as much as possible that would be really helpful.	1
 Mm-hmm.	0
 Yeah.	0
 Mm-hmm.	0
-Well, I mean it doesn't hurt to have a few extra microphones around, so why don't we just go out and - and get an order of - of if this microphone seems O_K to people,	0
+Well, I mean it doesn't hurt to have a few extra microphones around, so why don't we just go out and - and get an order of - of if this microphone seems O_K to people,	1
 Yeah.	0
-uh, I'd just get a half dozen of these things.	0
+uh, I'd just get a half dozen of these things.	1
 Well the onl- the only problem with that is right now, um, some of the Jimlets aren't working.	0
 The little - the boxes under the table.	0
 Yeah.	0
@@ -139,7 +139,7 @@ Right.	0
 and so then that would be, you know,  three   more.	0
 Right. O_K.	0
 Mm-hmm.	0
-So, uh - so we should go out to our full complement of whatever we can  do,	0
+So, uh - so we should go out to our full complement of whatever we can  do,	1
 but have them  all  be the same  mike.  I think the original reason	1
 that it was done the  other  way was because, it w- it was sort of an experimental thing and I don't think anybody knew whether people would rather have more variety or -	1
 Right.	0
@@ -215,13 +215,13 @@ NIST visit, and what's going on there.	0
 Yeah.	0
 O_K, so, um, uh,	0
 Jonathan Fiscus is coming on the second of February and I've spoken with, uh,  u- u- a  lot  of people here, not  everyone.  Um, and, um,	0
-he expressed an interest in seeing the room and in, um, seeing a demonstration of [MASK] which I'll mention in a second,	0
-and also, um, he was interested in the pre-segmentation and then he's also  interested   in [MASK]	0
+he expressed an interest in seeing the room and in, um, seeing a demonstration of the modified multitrans, which I'll mention in a second,	0
+and also, um, he was interested in the pre-segmentation and then he's also  interested   in the transcription conventions.	0
 Mm-hmm.	0
 And, um - So, um, it seems to me in terms of like, um,	0
 i- i- it wou-	0
 You know, O_K. So the  room,  it's things like the audio and c- and audi- audio and acoustic - acoustic properties of the  room  and how it - how the  recordings  are done, and that kind of thing.	0
-And, um. O_K, in terms of [MASK]  well that - that's being modified by Dave Gelbart to, uh, handle multi-channel recording.	1
+And, um. O_K, in terms of the  multi-trans,  well that - that's being modified by Dave Gelbart to, uh, handle multi-channel recording.	1
 Oh, I should've -	0
 I was just thinking I should have invited him to this  meeting.  I forgot to do it.	0
 Yeah, O_K.	0
@@ -240,7 +240,7 @@ So,  I  don't know.	0
 In terms of, like,  pre-segmentation,  that - that  continues  to be, um, a  terrific  asset to the - to the  transcribers.	1
 Do you - I know that you're al- also supplementing it further. Do you want to mention something about that c- Thilo, or - ?	0
 Um, yeah. What - what I'm doing right now is I'm trying to	1
-include some information about which channel, uh, there's some speech	0
+include some information about which channel, uh, there's some speech	1
 in. But that's not working at the moment. I'm just trying to do this by comparing energies, uh -	1
 O_K.	0
 normalizing energies and comparing energies of the different channels. And	1
@@ -248,7 +248,7 @@ so to - to give the transcribers some information in which channel there's - the
 now which is just, uh, speech-nonspeech detection on the mixed file.	1
 This is good. Mm-hmm.	0
 So I'm - I'm relying on - on the segmentation of the mixed file but I'm - I'm trying to	1
-subdivide the speech portions into	0
+subdivide the speech portions into	1
 different portions if there is some activity in - in  different  channels.	1
 Excellent, so this'd be like w- e- providing also  speaker  I_D  potentially.  Wonderful.	0
 But -	0
@@ -259,7 +259,7 @@ on that, uh,  same  day later on in - or maybe it's -	0
 No,  actually   it's  this  week,	0
 uh, Dave Gelbart and I will be, uh, visiting with John  Canny  who i- you know, is a C_S professor,	1
 Oh.	0
-[MASK] .	0
+H_C_C .	0
 who's interested in ar- in  array  microphones.	1
 Oh, he's doing array mikes.	0
 Yeah.	0
@@ -273,7 +273,7 @@ it's - it's not a  specific  array microphone they want but they might wanna jus
 Um, I  also  had a discussion - So, w- uh, we'll be over - over there talking with him, um, after class on Friday. Um,	0
 we'll let you know what - what goes with that. Also had a completely unrelated thing. I had a, uh, discussion today with, uh, Birger Kollmeier who's a,	0
 uh, a German, uh, scientist who's got a fair sized group  doing a range of things. It's sort of auditory related, largely for hearing aids and so on. But -	0
-but, uh, he does stuff with [MASK] and he's very interested in directionality, and location, and -	0
+but, uh, he does stuff with auditory models and he's very interested in directionality, and location, and -	0
 and, uh, head models and	0
 microphone things. And so, uh, he's - he and possibly a student, there w- there's, uh, a student of his who gave a talk here	0
 last year, uh, may come here, uh, in the fall for, uh, sort of a five month, uh, sabbatical. So he might be around.	0
@@ -322,7 +322,7 @@ And -	0
 Or who talks the loudest.	0
 Yeah.	0
 Yeah.	0
-Yeah, well you have to - [MASK] are tricky, and - and - and are probably the key.	0
+Yeah, well you have to - the appropriate normalizations are tricky, and - and - and are probably the key.	0
 Yeah.	0
 Yeah.	0
 You just search for Adam's voice on each individual microphone, you pretty much know where everybody's sitting.	0
@@ -347,7 +347,7 @@ Good.	0
 Uh, he might be  excited  to and it might be very  appropriate  for him to, uh, or he might have no interest  whatsoever.  I - I just really don't know.	0
 O_K.	0
 Is  he  involved in - Ach!  I'm blanking on the name of the project.	0
-[MASK] has - has done a big meeting room - instrumented meeting room with video and microphone arrays, and	1
+NIST has - has done a big meeting room - instrumented meeting room with video and microphone arrays, and	1
 very elaborate software. Is - is he the one working on that?	1
 Well  that's  what they're starting  up.	0
 O_K.	0
@@ -371,13 +371,13 @@ Alright.	0
 And one -  one  notable difference - u- u- actually I can't  remember  whether they were going to routinely collect video or not,  but one -	1
 one, uh, difference from the  audio  side was that they  are  interested in using  array  mikes.	1
 So, um, I mean, I'll just tell you the party line on that. The reason I  didn't  go for that here	1
-was because, uh, the focus, uh, both of  my  interest and of  Adam's  interest was	0
+was because, uh, the focus, uh, both of  my  interest and of  Adam's  interest was	1
 uh, in impromptu situations. And	1
 we're  not   recording  a bunch of impromptu situations but that's because it's different to get data for  research  than to	1
 actually  apply  it. And so, uh, for  scientific  reasons we thought it was good to instrument this  room  as we wanted it.	0
 Hmm.	0
 But the thing we  ultimately  wanted to aim at was a situation where	1
-you were talking with, uh, one or more other people	0
+you were talking with, uh, one or more other people	1
 i- uh, in - in an p-  impromptu  way, where you didn't - didn't actually  know  what the situation was going to  be.  And therefore it would not - it'd be highly  unlikely  that room would be outfitted with - with some very carefully designed array of  microphones.	1
 Um, so it was  only  for that reason. It was just, you know, yet another piece of research and it seemed like we had enough troubles just -	0
 So there's no like portable array of mikes?	0
@@ -409,7 +409,7 @@ that's  invariably  the question they ask. Just like someone who is interested i
 "um, are you recording  video? "	0
 Right, right.	0
 Um, right? And - and the  acoustic  people will always say, "well are you doing, uh, uh, array microphones?" So it's -	1
-it's a  good  thing to  do,	0
+it's a  good  thing to  do,	1
 but it  doesn't  solve the problem of  how  do you solve things when there's one mike or at best  two  mikes in - in this  imagined  P_D_A that we have.	1
 So  maybe  - maybe we'll  do  some more of it.	1
 Well one thing I - I mean, I don't know. I mean, I  know  that having an array of - I mean, I would  imagine  it would be more  expensive  to have a -	0
@@ -453,9 +453,9 @@ Sort of saving the  result  of the beam-forming.	0
 I mean, it seems -	0
 Yeah.	0
 it seems to me that there's -	1
-you know, there are good political reasons for -	0
+you know, there are good political reasons for -	1
 for  doing  this, just  getting  the data, because there's	1
-a number of sites - like right now [MASK] is probably gonna invest a  lot  of internal funding into recording meetings also, which is  good,	0
+a number of sites - like right now S_R_I is probably gonna invest a  lot  of internal funding into recording meetings also, which is  good,	0
 um, but they'll be recording with video and they'll be -	0
 You know, it'd be  nice  if we can have at least,	1
 uh, make  use  of the data that we're  recording  as we  go  since it's sort of - this is the first site that has really  collected  these really impromptu meetings,	1
@@ -499,7 +499,7 @@ So suppose you can get an array in because there's some person at Berkeley who's
 equipment, uh, and suppose we can -	0
 as we  save  it we can, you know, transfer it off to some other place that - that holds this - this data,	0
 who's  interested,	0
-and even if [MASK] it- itself isn't.	0
+and even if ICSI it- itself isn't.	0
 Um, and it - it seems like as long as we can  time  align the  beginning,  do we need to  mix  it with the  rest?  I don't  know.	0
 You know? The- So -	0
 Yeah. So I  think  you'd need a separate - a separate set up and the assumption that you could  time  align the two.	0
@@ -558,12 +558,12 @@ There's the fact that then um,	0
 if - i- I- I've  heard  comments about this  before,  "why don't you just put  on  a video camera?" But	0
 you know, it's sort of like saying, "uh, well we're primarily interested in - in some  dialogue  things,	0
 uh, but, uh, why don't we just throw a microphone out there." I mean,	1
-the  thing  is,	0
+the  thing  is,	1
 once you  actually  have  serious  interest in any of these things then you  actually  have to put a lot of  effort  in.	1
 Mmm.	0
 And, uh, you  really  want to do it  right.  So I think	1
 I know . Yep.	0
-[MASK]	1
+NIST or L_D_C, or somebody like that I think is much better shape to do all that. We - there  will  be other meeting recordings. We won't be the only place doing meeting recordings. We are doing what we're  doing.	1
 Mm-hmm.	0
 And, uh, hopefully it'll be useful.	0
 I - it - it occurred to me, has Don signed a human subject's form?	0
@@ -614,7 +614,7 @@ Uh-huh.	0
 and so - And, uh,  meetings,  you know, I think that they're - they go as long as a -	1
 almost two hours in some - in some cases. So, you know, that means - you know, if we've got two already finished and they're working on -	1
 Uh, right now all eight of them have differe- uh, uh,  additional  data sets. That means potentially as many as ten might be finished by the end of the month.	0
-Hope so. But [MASK] really helps a huge amount. And, uh,  also  Dan Ellis's innovation of the, uh - the multi-channel to  here  really helped a r- a lot	1
+Hope so. But the pre-segmentation really helps a huge amount. And, uh,  also  Dan Ellis's innovation of the, uh - the multi-channel to  here  really helped a r- a lot	1
 Wow.	0
 O_K.	0
 in  terms of clearing - clearing up h- hearings that involve overlaps. But, um,	1
@@ -628,21 +628,21 @@ teleconference I had with, uh, Jonathan Fiscus. We spoke for an hour and a half	
 Hmm.	0
 and, um, had an awful lot of things in common. He, um,	1
 um, he in- indicated to me that they've - that he's been,	1
-uh, looking, uh, uh, spending a lot of time with - I'm not quite sure the connection,  but spending a lot of time with [MASK]	1
+uh, looking, uh, uh, spending a lot of time with - I'm not quite sure the connection,  but spending a lot of time with the ATLAS system.	1
 And I guess that - I mean, I - I need to  read   up  on that. And there's a web site that has lots of papers. But it looks to me like that's	1
 the name that has developed for the system that Bird and Liberman developed  for the annotated  graphs approach.	1
 Mm-hmm.	0
 So what  he  wants me to do and what we - what we	1
 will  do and - uh, is to provide them with the u- already transcribed meeting	1
-for him to be able to experiment with  in  this [MASK]	1
-System. And they  do  have  some  sort of software,  at least that's  my impression, related to [MASK] and that he wants to experiment with taking  our  data and putting  them   in  that  format, and see how that works out.	1
+for him to be able to experiment with  in  this ATLAS	1
+System. And they  do  have  some  sort of software,  at least that's  my impression, related to ATLAS and that he wants to experiment with taking  our  data and putting  them   in  that  format, and see how that works out.	1
 I - I - I explained to him in - in detail the, uh, conventions that we're using  here  in this -	0
 in this word level transcript. And, um,	0
 you know, I - I explained, you know, the reasons that - that we were not	0
 coding more elaborately and - and the focus on reliability.	0
 He expressed a lot of interest in reliability. It's like he's - he's really up on these things. He's - he's very -	0
 Um,  independently  he asked, "well what about reliability?" So,  he's interested in the consistency of the encoding and that sort of thing. O_K, um -	0
-Sorry, can you explain what [MASK] - I'm not familiar with  this  ATLAS system.	0
+Sorry, can you explain what the ATLAS - I'm not familiar with  this  ATLAS system.	0
 Well, you know, at this point I think -	0
 Uh, well  Adam's  read more - in more detail than  I  have on this. I need to  acquaint  myself more with it. But, um,	0
 there - there is a way of viewing - Uh, whenever you have coding categories, um, and you're dealing with	0
@@ -650,17 +650,17 @@ uh, a taxonomy, then you can have branches that - that have	0
 alternative, uh,  choices  that you could use for each -	0
 each of them. And it just ends up looking like a graphical representation.	0
 Is - is -	0
-Is [MASK] the - his annotated transcription	0
+Is ATLAS the - his annotated transcription	0
 graph stuff?	0
 I don't remember the acronym. The - the one - the - what I  think  you're referring to, they - they have this concept of an an- annotated transcription graph representation.	1
 Yeah.	0
 And that's basically what I based the format that  I  did -	0
 Oh. Oh.	0
-I based it on their work almost  directly,  in combination with [MASK] And so it's  very,  very similar. And so it's - it's a	1
+I based it on their work almost  directly,  in combination with the T_E_I stuff. And so it's  very,  very similar. And so it's - it's a	1
 data representation and a set of tools for manipulating  transcription  graphs of various types.	1
 Is this the project that's sort of, uh, between, uh, NIST and - and, uh, a couple of other places? The - the -	0
 Mm-hmm.	0
-Including [MASK]  I  think  so.	0
+Including L_D_C.  I  think  so.	0
 Yep.	0
 Yeah, y- right, O_K.	0
 Mm-hmm. Then there's their web site that has lots of papers. And I looked through them and they mainly had to do with this, um,	0
@@ -672,9 +672,9 @@ Right.	0
 And he was, you know, very interested. And, "oh, and how'd you handle this?" And I said, "well, you know, this way" and -	0
 And - and we had a really nice conversation.	0
 Um, O_K, now I  also  wanted to say in a different - a different	1
-direction is,	0
+direction is,	1
 Brian  Kingsbury.  So, um, I corresponded briefly with him. I,	1
-uh, c- I - He still has an account here. I told him he could [MASK] on and use multi-trans, and have a look at the already done, uh, transcription. And he - and he  did.	1
+uh, c- I - He still has an account here. I told him he could S_S_H on and use multi-trans, and have a look at the already done, uh, transcription. And he - and he  did.	1
 And what he said was that, um, what they'll be providing is -	1
 will  not  be as fine grained in terms of the  time  information.	1
 And, um, that's, uh - You know, I need to get back to him and - and, uh, you know, explore that a little bit more and see what they'll be  giving  us in specific, but I just haven't had time yet.	0
@@ -706,7 +706,7 @@ Up to now it's been  monologues,  uh, as far  my  understood. And - and what the
 Yep, exactly. Yep.	0
 Mm-hmm.	0
 So, um, Adam sent them a C_D and  Brian   himself  downloaded -	0
-uh, cuz, you know, I mean, we wanted to have it so that they were in familiar f- terms with what they wanted to  do.	0
+uh, cuz, you know, I mean, we wanted to have it so that they were in familiar f- terms with what they wanted to  do.	1
 He downloaded	1
 from the C_D onto audio tapes. And apparently he did it	1
 one channel per  audio  tape. So each of these people is  transcribing from one channel.	1
@@ -761,7 +761,7 @@ Well I think that - that might change if you wanted really fine  time  markings.
 Yeah.	0
 Well, O_K. Yeah, well -	0
 So.	0
-But they're not  giving  f- really fine time markings.	1
+But they're not  giving  f- really fine time markings.	0
 Right.	0
 Actually, are th- so	0
 are they giving  any  time markings? In other words, if -	0
@@ -783,7 +783,7 @@ Why not just do it all  ourselves?	1
 Um, it's historical. I mean,  uh, some point ago we thought that	1
 No, just -	0
 Uh-huh.	0
-uh, it - "boy, we'd really have to	0
+uh, it - "boy, we'd really have to	1
 ramp up to do that", you know, like we just did,	1
 Mm-hmm.	0
 and, um, here's, uh, a - a, uh, collaborating institution that's volunteered to  do  it.	1
@@ -806,12 +806,12 @@ It's very - a real benefit having Brian involved because of his knowledge of wha
 Yeah.	0
 Mm-hmm.	0
 Yeah.	0
-So, um, Liz, with - with [MASK]  can it make use of	1
+So, um, Liz, with - with the S_R_I recognizer,  can it make use of	1
 some  time marks?	1
 O_K, so this is a, um,	0
 I - I guess I  don't  know what that  means.	0
 and actually I should say this is what Don has b- uh, he's already been really helpful in, uh, chopping up these - So - so first of all you -	0
-um, I mean, for [MASK] front-end,	1
+um, I mean, for the S_R_I front-end,	1
 we really need to chop things up into pieces that are f- not too huge. Um, but second of all, uh -	1
 in  general   because   some  of these channels,  I'd say, like,	1
 I don't know, at least  half  of them probably  on average are g- are ha- are -	0
@@ -821,7 +821,7 @@ segments if you're gonna do recognition,  especially  forced alignment. So,	1
 uh, Don has been taking a  first  stab actually using Jane's	0
 first - the fir- the meeting that Jane transcribed which we  did  have some problems with, and  Thilo,  uh, I think	0
 told me why this  was,  but that people were switching microphones around  in the very beginning,  so -	0
-[MASK]	0
+the S_R_I re-	0
 No,  th-	0
 Yeah. No. They - they were not  switching  them but what they were - they were  adjusting  them, so.	0
 and they -	0
@@ -833,7 +833,7 @@ Yeah.	0
 And aft- after a  minute  or so it's - it's way  better.  So -	0
 So we have to sort of normalize  the front-end and so forth, and have these small segments. So	1
 Yep.	0
-we've taken that and chopped it into pieces based  always  on  your  -	0
+we've taken that and chopped it into pieces based  always  on  your  -	1
 your, um,  cuts  that you made on the  mixed  signal.	1
 And so that every - every  speaker  has the same  cuts.  And if they have  speech  in it we run it through. And if they  don't  have speech in it we  don't  run it through. And we base	1
 that  knowledge  on the  transcription.	0
@@ -845,12 +845,12 @@ Oh,  I  see, it's for the  length.  I see.	0
 I mean, if - if it's a whole conversation and we get a long, uh, you know,	0
 par- paragraph of - of talk, uh, I don't know how they  do  this. Um, we actually don't know which piece goes	0
 I understand.	0
-where. And, um, I think with -	1
+where. And, um, I think with -	0
 Well you would need to - like a forced alignment before you did the  chopping,  right?	0
 No,  we  used  the fact that - So when  Jane  transcribes them the way she has transcribers  doing  this, whether it's with the pre-segmentation or  not,	0
 It's already chunked.	0
 they have a chunk and then they transcribes  the words  in  the chunk. And maybe they  choose  the chunk or now they use a	0
-[MASK] and then correct it if necessary. But there's first a chunk and then a transcription. Then a chunk, then a transcription. That's great,	0
+pre-segmentation and then correct it if necessary. But there's first a chunk and then a transcription. Then a chunk, then a transcription. That's great,	0
 Mm-hmm.	0
 cuz the recognizer can -	0
 Uh, it's all pretty good sized for the recognizer also.	0
@@ -928,12 +928,12 @@ you know, just do a click and  drag  thing, and get the - uh, the specific place
 Right, so I think we talking about three level - three things. One - one was	1
 Mm-hmm.	0
 Yeah.	0
-uh, we had s- had  some  discussion in the past about some very  high  level	0
+uh, we had s- had  some  discussion in the past about some very  high  level	1
 The types of overlaps -	0
 labelings, types of overlaps, and so forth that - that someone could do.	1
 Mm-hmm.	0
 Second was, uh, somewhat lower level just doing these more precise timings. And the third one is - is, uh, just a completely wild hair brained idea that  I  have which is that, um, if, uh -	1
-if we have  time  and people are able to do it,	0
+if we have  time  and people are able to do it,	1
 to take some subset of the data and do some  very  fine grained analysis of the speech. For  instance,  uh, marking in some overlapping -	1
 potentially overlapping fashion, uh, the value of, uh, ar-  articulatory  features.	1
 Yeah.	0
@@ -973,7 +973,7 @@ Sort of. I mean, it's still -	0
 Yeah.	0
 some sort of categories but - but something that allows for overlapping	0
 change of these things and then this would give some more	1
-ground work for people who were building statistical models that  allowed  for overlapping changes, different timing changes as opposed to just	0
+ground work for people who were building statistical models that  allowed  for overlapping changes, different timing changes as opposed to just	1
 "click, you're now in this state, which corresponds to this speech sound" and so on.	1
 Mm-hmm. Mm-hmm.	0
 So this is like gestural - uh, these g- Right.	0
@@ -1041,18 +1041,18 @@ maybe go around and talk to the different	0
 departments in this building	0
 Yes.	0
 to see if there's any groups that, for a free lunch, if we can still  offer  that,  might be willing -	0
-You mean [MASK]	1
+You mean non-ICSI?	0
 Great.	0
-[MASK] non-academic, you know, like government people, I don't know. So.	0
+non-ICSI, non-academic, you know, like government people, I don't know. So.	0
 Yeah, I guess you - you can  try  but -	0
 The  problem  is  so  much of their stuff is confidential.	0
-It would be  very  hard for them.	1
+It would be  very  hard for them.	0
 Yeah.	0
 Yeah.	0
 Also it  does  seem like it takes us  way  out of the  demographic.  I mean, it seems like we - we had this idea before of having like linguistics students brought down for free lunches and that's a nice idea.	0
 Yeah.	0
 Is -  is  it  in  these departments?	0
-Well, tha- I think that's her point.	1
+Well, tha- I think that's her point.	0
 Right, and then we could also - we might try advertising again because I think it'd be good if - if we can get a few different	1
 Yeah.	0
 sort of non-internal types of meetings and just also more data.	1
@@ -1084,10 +1084,10 @@ you know, a s- a student. And I'm willing to try to learn. I mean, I'm -	0
 I would do my best.	0
 Um, the  other  thing is that -	1
 It's not that hard.	0
-there was a number of things at the transcription side	0
-that, um,	0
+there was a number of things at the transcription side	1
+that, um,	1
 transcribers can do, like dialogue act tagging,  disfluency tagging, um,	1
-things that are in the speech that are actually	0
+things that are in the speech that are actually	1
 something we're y-  working on for  language  modeling. And Mari's also interested in it, Andreas as well. So if you wanna	1
 process a utterance and the first thing they say is, "well", and that "well" is coded as some kind of interrupt	0
 u-	0
@@ -1110,7 +1110,7 @@ I have  two  questions. One of them is, um, Jerry Feldman's group, they - they, 
 I know that they recorded  one  meeting. Are they willing?	0
 I think they're open to it. I think, you know,  all  these things are - I think there's -	0
 Oh, yeah.	0
-we should go beyond, uh, ICSI but, I mean, there's a  lot  of stuff happening at [MASK] that we're not getting now that we could.	0
+we should go beyond, uh, ICSI but, I mean, there's a  lot  of stuff happening at ICSI that we're not getting now that we could.	0
 Mm-hmm.	0
 So it's just - Yeah. So the -	0
 Oh, that we  could.  O_K. I  thought  that all these people had sort of said "no"  twice  already. If that's not the case then -	0
@@ -1172,9 +1172,9 @@ Yeah.	0
 Yeah.	0
 Is -	0
 Yes.  Really.	0
-And I don't mean that they're angry but just something with some more variation in [MASK] and so forth would be neat. So if anyone has ideas,	0
+And I don't mean that they're angry but just something with some more variation in prosodic contours and so forth would be neat. So if anyone has ideas,	0
 I'm willing to do the leg work to go try to talk to people but I don't really know which groups are worth	0
-Well there  was  this [MASK]  idea, but -	0
+Well there  was  this K_P_F_ A  idea, but -	0
 pursuing.	0
 No that's -	0
 Yeah, th- there's a  problem  there in terms of, uh, the	0
@@ -1184,8 +1184,8 @@ um	0
 commercial value of - of st- uh, it - it - it - it turned out to be a bit of a problem.	0
 O_K, O_K.	0
 And I had one other - one other aspect of this which is, um, uh, uh, Jonathan Fiscus expressed	1
-Or -	1
-primar- uh y- a  major  interest in having	0
+Or -	0
+primar- uh y- a  major  interest in having	1
 meetings which were all English speakers. Now he wasn't trying to shape us in terms of what we  gather  but	1
 Mm-hmm.	0
 that's what he wanted me to  show  him.	0
@@ -1217,7 +1217,7 @@ I remember wh- I- I remember a study -	0
 That's -	0
 English,	0
 I was thinking,  knowing  the, uh, n- National Institute of Standards, it  is   all  -	0
-I remember a study that [MASK] did where they trained on - this was in Wall Street Journal days or something,  they  trained  on American English and then they  tested  on, uh, different native speakers from different areas.	0
+I remember a study that B_B_N did where they trained on - this was in Wall Street Journal days or something,  they  trained  on American English and then they  tested  on, uh, different native speakers from different areas.	0
 And, uh,	0
 uh, the  worst  match was people whose native tongue was Mandarin Chinese.	0
 The  second  worst was British English.	0
@@ -1239,7 +1239,7 @@ And maybe there are a few of - with us where it was - you know, Dan wasn't there
 Yeah.	0
 Yeah.	0
 Yeah.	0
-It's pretty  tough,  uh, this group. Yeah. So, uh, what about - what about people who involved in some  artistic  endeavor? I mean, film-making or something like that. You'd think like they would be -	1
+It's pretty  tough,  uh, this group. Yeah. So, uh, what about - what about people who involved in some  artistic  endeavor? I mean, film-making or something like that. You'd think like they would be -	0
 God.	0
 Yeah.	0
 Mmm.	0
@@ -1249,7 +1249,7 @@ Exactly, that's what I was - something where there - there is actually discussio
 but it's a matter of opinion kind of thing.	0
 It's be fun.	0
 Uh,  anyway,  if you - if you have ideas -	0
-[MASK]	0
+RASTA. P_L_P. RASTA. P_L_P.	0
 We  can just discu-  we  can just have a political  discussion  one day.	0
 Yes.	0
 A- any department that calls itself  science  ri-	0
@@ -1313,7 +1313,7 @@ Pre-processing.	0
 methods of improving accuracy by doing pre-processing.	0
 Well I think that - that was just sort of - I- I already asked  Thilo  but	1
 Oh, you already did that.	0
-that, um, it would be helpful if I can stay in the loop somehow with,	0
+that, um, it would be helpful if I can stay in the loop somehow with,	1
 um, people who are doing any kind of  post-processing,  whether it's	1
 to  separate  speakers or to improve the signal-to-noise ratio, or  both,	0
 um, that we can sort of  try  out as we're running recognition.	0
@@ -1350,11 +1350,11 @@ So I - I think it's just,	0
 Oh, I don't know.	0
 yeah, what you said,  cross-talk.	0
 All I meant is just that as sort of -	1
-as this pipeline of research is going on we're also experimenting with different	0
-[MASK] uh, techniques. And so it'd be w-  good  to  know  about it.	1
+as this pipeline of research is going on we're also experimenting with different	1
+A_S_R, uh, techniques. And so it'd be w-  good  to  know  about it.	1
 Mm-hmm.	0
 So the problem is like, uh, on the microphone of somebody who's  not  talking they're picking up	1
-signals from  other  people  and that's	0
+signals from  other  people  and that's	1
 R- right, although if they're  not   talking,  using the -	1
 causing problems?	1
 the  inhouse  transcriptions, were sort of O_ K  because	1
@@ -1446,4 +1446,4 @@ tea has started out there I suggest we c- run through our digits and,	0
 O_K.	0
 Uh,	0
 So,	0
-O_K, we're done.	1
+O_K, we're done.	0

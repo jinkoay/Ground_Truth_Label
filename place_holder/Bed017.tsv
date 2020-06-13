@@ -45,17 +45,17 @@ probably won't have one  next  week, I think a  number  of people are gone.	0
 Um, so Robert, why don't you bring us up to date on	1
 where we  are  with E_D_U?	1
 Um,	0
-uh in a - in a smaller group we had uh, talked and decided about continuation of the data collection.	0
+uh in a - in a smaller group we had uh, talked and decided about continuation of the data collection.	1
 So Fey's time with us is almost officially over,	1
 and she brought us some thirty subjects and, t- collected the data, and	1
-ten dialogues have been transcribed and can be looked at. If you're interested in	0
+ten dialogues have been transcribed and can be looked at. If you're interested in	1
 that, talk to me.	0
-Um, and we found another uh, [MASK] student who's interested in playing  wizard  for us.	0
-Here we're gonna make it a little bit more	0
-complicated for the subjects, uh this round.	0
-She's actually suggested to	0
-look um, at the psychology department students, because they have to  partake  in two experiments in order to	0
-fulfill some requirements.	0
+Um, and we found another uh, cogsci student who's interested in playing  wizard  for us.	1
+Here we're gonna make it a little bit more	1
+complicated for the subjects, uh this round.	1
+She's actually suggested to	1
+look um, at the psychology department students, because they have to  partake  in two experiments in order to	1
+fulfill some requirements.	1
 So they have to be subjected,   before they can actually graduate.	0
 And um,	0
 we  want  to design it so that they really have to think about having  some  time,	0
@@ -64,13 +64,13 @@ to  plan  certain things and figure out  which  can be done at  what  time, and,
 um,	0
 sort of package the whole thing in a - in a re- in a  few   more complicated	0
 um, structure.	0
-That's for the data collection. As for [MASK], I'm - the last [MASK] meeting I mentioned that we have some problems with th	0
-as of this morning  should  be resolved.	0
+That's for the data collection. As for SmartKom, I'm - the last SmartKom meeting I mentioned that we have some problems with the synthesis, which	1
+as of this morning  should  be resolved.	1
 Good.	0
 And, so,	0
 "should be" means they  aren't  yet, but - but I think I have the info now that I need.	0
 Plus, Johno and I are meeting tomorrow, so	1
-maybe  uh uh, when tomorrow is over,	0
+maybe  uh uh, when tomorrow is over,	1
 we're done.  And ha- n- hav- we'll never have to look at it again	1
 Maybe it'll take some more time,	0
 to be realistic, but at least we're -	0
@@ -80,7 +80,7 @@ Um,	0
 the uh,	0
 uh  I    don't  think we need to discuss the  formalism  that'll be done officially s- once we're done.	0
 Um,	0
-something happened, in - on Eva's side with the [MASK] that we're gonna	1
+something happened, in - on Eva's side with the P_R_M that we're gonna	1
 look at today, and um,	1
 we have a visitor from Bruchsal from the International University. Andreas, I think you've met everyone except Nancy.	1
 Sorry. Hi. Hi.	0
@@ -97,7 +97,7 @@ Hmm.	0
 That will be  Reuter?	0
 Yeah.	0
 Oh, O_K.	0
-So my scientific director of the [MASK] is also the  dean  of the International University,	0
+So my scientific director of the E_M_L is also the  dean  of the International University,	0
 one of his many occupations that	0
 just contributes to the fact that he is very occupied.	0
 And, um,	0
@@ -116,7 +116,7 @@ Ack!	0
 What are you doing?	0
 Yeah .	0
 O_K. Um,	0
-I've  been looking at the [MASK] stuff. Um,	1
+I've  been looking at the P_R_M stuff. Um,	1
 so, this is, sort of like the latest	0
 thing I have on it, and	0
 I sorta constructed a couple of  classes.  Like, a  user  class, a  site  class, and -	1
@@ -128,44 +128,44 @@ I gave to Jerry last time. Um,	0
 so basically I took out a lot of stuff, a lot of the decision nodes,	0
 and then	0
 tried to - The red lines on the,	1
-um, graph are the um,	0
-relations between the different	0
-um,	0
+um, graph are the um,	1
+relations between the different	1
+um,	1
 classes. Like, a user	1
 has like, a query,	0
 and then, also has, you know	0
 um, reference slots to its preferences, um, the special needs and, you know, money, and	0
 the user  interest .	0
 And so	0
-this is more or less similar to the [MASK] that I have, you know, with	1
+this is more or less similar to the flat Bayes-net that I have, you know, with	1
 the input nodes and all that.	1
 And -	0
-So I tried to construct the [MASK], and	1
+So I tried to construct the dependency models, and	1
 a lot of these stuff I got from the flat Bayes-net,  and  what they depend on,	1
-and it turns out, you know, the [MASK]'s are really big, if I do that, so I tried to see	1
+and it turns out, you know, the C_P_T's are really big, if I do that, so I tried to see	1
 how I can do, um - put in the computational nodes in between.	0
 And what that would	0
-look  like in a [MASK].	0
+look  like in a P_R_M.	0
 And so I ended up	1
 making several classes -	1
 Actually, you know, a class of - with different attributes that	1
 are the intermediate nodes, and one of  them   is like, time affordability	1
-money affordability, site availability, and	0
+money affordability, site availability, and	1
 the travel compatibility.	1
 And so some of these classes are -	0
 s- some of these attributes only depend on stuff from, say, the  user,  or s- f- just from, I don't know, like the  site.	0
 S- like,	0
 um, these here, it's only like,	0
 user,  but, if you look at travel compatibility	1
-for each of these factors,	0
-you need to look at a pair of, you know, what the	0
+for each of these factors,	1
+you need to look at a pair of, you know, what the	1
 um, preference of the user is	1
 versus, you know, what type of an event it is, or	1
 you know,	0
 which form of transportation the user has	0
 and whether, you know, the onsite parking matters to the user, in that case.	0
 And	1
-that makes the scenario a little different in a [MASK], because, um,	1
+that makes the scenario a little different in a P_R_M, because, um,	1
 then you have  one-user  objects and  potentially  you can have many different sites	0
 in - in mind.	0
 And so	0
@@ -173,10 +173,10 @@ for each of the site you'll come up with this	0
 rating, of travel compatibility.	0
 And, they all depend on the same users, but different sites, and that makes a -	0
 I'm tr- I w- I wa- have been trying to see	0
-whether the [MASK] would make it more efficient if we do inferencing like that.	0
+whether the P_R_M would make it more efficient if we do inferencing like that.	0
 And so,	0
 I guess you end up having	0
-fewer number of nodes than in a [MASK], cuz otherwise you would -	0
+fewer number of nodes than in a flat Bayes-net, cuz otherwise you would -	0
 c- well,	0
 it's probably the same . But um,	0
 No, you would definitely have -	0
@@ -188,19 +188,19 @@ you can, you know, save some work on that.	0
 But,	0
 you know, in the case where, it depends on both the user and the site, then	0
 I'm still having a hard time trying to see how	0
-um, using the [MASK] will help.	0
+um, using the P_R_M will help.	0
 Um, so anyhow, using those intermediate nodes then,	1
-this - this would be the class that	0
-represent  the [MASK].	1
-And that would -  basically  it's just another class in the model,	0
+this - this would be the class that	1
+represent  the intermediate nodes.	1
+And that would -  basically  it's just another class in the model,	1
 with, you know, references to the user and the site and	1
 the time.	1
 And then, after you group them together this -	0
 no- the dependencies would -	0
 of the queries would be	0
-reduced to this. And so, you know, it's easier to specify the [MASK] and all.	1
+reduced to this. And so, you know, it's easier to specify the C_P_T and all.	1
 Um, so I think that's about as far as I've gone	0
-on the [MASK] stuff.	0
+on the P_R_M stuff.	0
 Well	0
 Right.	0
 No.	0
@@ -212,7 +212,7 @@ And one is	1
 basically how desirable a site is	1
 meaning, um,	1
 how good it matches the needs of a user. And the other is the mode	1
-of the visit, whether th- It's the [MASK] decision.	1
+of the visit, whether th- It's the E_V_A decision.	1
 Um,	0
 so, instead of um,	0
 doing a lot of, you know,	0
@@ -228,7 +228,7 @@ so	0
 the -	1
 You - you didn't look at all yet to see if there's anybody has a  implementation .	1
 No, not yet, um -	0
-O_K. So one - so one of the questions, you know, about these [MASK]s is	0
+O_K. So one - so one of the questions, you know, about these P_R_Ms is	1
 Mm-hmm.	0
 uh, we aren't gonna build our own	1
 interpreter, so if - if we can't  find  one, then  we  uh, go off and do something else and wait until s- one appears.	1
@@ -247,17 +247,17 @@ cleaner, and the ability to instantiate, you know, instance of people and sites 
 will  help  in the  expression.  Whether the  inference  gets any faster or not I don't know. Uh, it wouldn't surprise me if it - if it  doesn't.	0
 Mm-hmm.	0
 You know, it's the same kind of information. I think there are things that you can express	0
-this way which you  can't  express in a normal [MASK],	0
+this way which you  can't  express in a normal belief-net,	0
 uh, without going to some incredible hacking  of  - sort of rebuilding it on the fly. I mean, the notion of instantiating	1
-your el- elements from	0
-the ontology and stuff fits this very nicely and doesn't fit very well into	0
-the extended [MASK]. So that was one of the main reasons for doing it.	1
+your el- elements from	1
+the ontology and stuff fits this very nicely and doesn't fit very well into	1
+the extended belief-net. So that was one of the main reasons for doing it.	1
 Um.	0
 I don't know. So, uh, people who have thought about the problem, like Robert	0
 i- it looked to  me  like if	0
 Eva were  able  to come up with	0
 a	0
-you know, value for each of a number of uh, sites  plus  its [MASK] thing,	0
+you know, value for each of a number of uh, sites  plus  its E_V_A thing,	0
 that a travel planner should be able to take it from there.	0
 And -	0
 you know, with some other information about how much time the person has and whatever,	0
@@ -288,8 +288,8 @@ And  status  would be, you know, more or less like, whether they're under constr
 Uh-huh.	0
 And the, uh,	1
 stuff like that.	0
-other  question I would have is that  presumably,  from the way the  Stanford  people talk about it,	0
-you can put	0
+other  question I would have is that  presumably,  from the way the  Stanford  people talk about it,	1
+you can put	1
 the probabilities also on the  relations.	1
 If -	0
 Which is the structural uncertainty?	0
@@ -299,9 +299,9 @@ That  I think was  actually  in the previous -	0
 the  Ubenth  stuff. I don't remember whether they carried that over to this or not,	0
 Mmm.	0
 uh, structural uncertainty.	0
-It's sort of in the definition or - in the - in  Daphne's  definition of a [MASK] is that	0
+It's sort of in the definition or - in the - in  Daphne's  definition of a P_R_M is that	0
 O_K.	0
-classes and  relations,  and you're gonna have [MASK]'s over the classes  and  their relations.	0
+classes and  relations,  and you're gonna have C_P_T's over the classes  and  their relations.	0
 Alright.	0
 More uncertainty, or - or -	0
 Uh,	0
@@ -314,8 +314,8 @@ wh- to start with. Yeah. Yeah.	0
 Yeah.	0
 So, uh, the - the plan is - is when Daphne gets back,	1
 we'll get in touch and supposedly,	1
-um,	0
-we'll actually	0
+um,	1
+we'll actually	1
 get s- deep - seriously connected to - to their work and	1
 Yep.	0
 somebody'll - Uh, you know - If it's a	1
@@ -346,7 +346,7 @@ Yeah.  So, um,	0
 you  could,	0
 from  this, go on and say suppose there's a group of people traveling together	0
 and you wanted to plan something that somehow,	0
-with some [MASK]	0
+with some Pareto optimal	0
 That's good .	0
 uh,  uh, thing for -	0
 That's  definitely a job for artificial intelligence.	0
@@ -386,12 +386,12 @@ that's relevant to you uh, a- at the moment, uh, the - the reason is really for 
 uh, to have an opportunity to talk to some other  researchers  in the  field.  And - and so I'll just n- sort of give you a real quick introduction to what I'm working on, and	0
 um, I just hope that you have some comments or, maybe you're interested in it to find out more, and - and so I'll be uh, happy to talk to you and - and uh, I'd also like to find out some more and - and maybe I'll just walk around the office and	0
 and then - and ask some - some questions, uh, in a couple days. So I'll be here for uh, tomorrow and then uh, the remainder of uh, next week.	0
-O_K, so, um, what I started looking at, uh, to begin with is just uh, [MASK] uh, i- i- in  general.  So	1
-um, uh what's uh - Sort of the state of the art there is to um - uh you have a bunch of - of uh documents or [MASK]	1
-um, and you store  meta-data  uh, associate to them. So there's some international standards like the [MASK], uh - There'	1
+O_K, so, um, what I started looking at, uh, to begin with is just uh, content management systems uh, i- i- in  general.  So	1
+um, uh what's uh - Sort of the state of the art there is to um - uh you have a bunch of - of uh documents or learning units or learning objects,	1
+um, and you store  meta-data  uh, associate to them. So there's some international standards like the I_-triple-E_, uh - There's an I_-triple-E_, L_O_N standard,	1
 and um, these fields are pretty straightforward, you have uh author information, you have uh, size information, format information and so on.	0
 Uh, but they're two uh fields that are um, more interesting. One is uh you store keywords associated with the uh - with the document, and one is uh, you have sort of a, um,	0
-well, what is the document  about?  So it's some sort of [MASK]	0
+well, what is the document  about?  So it's some sort of taxonomic	0
 uh,  ordering  of - of the - of the units. Now,	0
 if you sort of put on your	0
 semantic   glasses,	0
@@ -409,7 +409,7 @@ what - what we have at our university quite a bit is that uh, students um, try t
 program a certain assignment, for example, they always run into the same	0
 problems,	0
 uh, and they always come running to us, and they'll say why's it not - it's not working, and we always give out the same answer, so we thought, well, it'd be nice to have a  system  that could sort of take  care  of this, and	1
-so, what I want to build is basically a - a [MASK].	1
+so, what I want to build is basically a - a smart F_A_ Q  system.	1
 Now, what you	1
 uh need to do here is you need to provide some context information which is more elaborate than "I'm looking for this and this and this  keyword. " So.	1
 And I think that I don't need to tell you this. I'm - I'm sure you have the same - when - when somebody utters a sentence in a certain,	0
@@ -423,7 +423,7 @@ um,	0
 basically giving this um - Uh so we somehow need to have a formalized um, way of writing this  down  basically,	0
 and that's where the shared interpretation of - of certain terms and keywords comes in again.	0
 And,	0
-using this and some - some uh, knowledge about the domain I think you can do some - some simple inferences. Like you know that when somebody's working about - uh, working on - on [MASK] for example, he's using  Java,  cuz servlets are used -	0
+using this and some - some uh, knowledge about the domain I think you can do some - some simple inferences. Like you know that when somebody's working about - uh, working on - on servlets for example, he's using  Java,  cuz servlets are used -	0
 are written in  Java.  So some - some inferences like that, now,	1
 um, u- using this you can infer more information, and you could then match this to the  meta-data  of um - off the documents you're - you're  searching  against.	1
 So, uh what I wanna do is basically have some sort of um -	0
@@ -431,21 +431,21 @@ given these  inputs,  and then I can compute how many documents match,	0
 and use this as a  metric  in the  search.	0
 Now, what I  plan  to  do  is I want to uh sort of do a uh -	1
 uh  try to improve the quality of the search results, and I want to do this by having a depth uh, um, um - steepest descent approach.	1
-So if I knew which operating system the person was working on, would this improve my  search  result? And - and having uh, uh a [MASK] of this I could simply compute that,	0
+So if I knew which operating system the person was working on, would this improve my  search  result? And - and having uh, uh a symbolic formalized  model  of this I could simply compute that,	0
 and find out which um -	0
 which questions are worth um, asking.	0
-And that's what I then propagate back to the user, and - and sort of try to optimize the search in this way.	0
+And that's what I then propagate back to the user, and - and sort of try to optimize the search in this way.	1
 Now, the big	1
-problem  that I'm  facing  right now is um,	0
+problem  that I'm  facing  right now is um,	1
 it's fairly easy to hack up a system uh  quickly,  that - that  works  in the  small  domain, but the problem is obviously the  scalability.	1
 And uh uh, so Robert was mentioning uh, earlier today is that uh, Microsoft for example with their printer set up program has a Bayesian network,	0
 which does exactly this, but there you face a problem that these are very hard to extend.	0
 And so, uh what I'm - What I try to do is basically try to model this uh, in a way that you could really combine	0
-uh, knowledge from very different sources, and - and um, sort of looking into some of the ideas that the [MASK] uh, came up with.	0
+uh, knowledge from very different sources, and - and um, sort of looking into some of the ideas that the semantic web community uh, came up with.	0
 Trying to - to have uh, an approach how to integrate s- uh certain uh - representation of certain concepts and also some computational rules,	0
 um, what you can  do  with those.	0
 Um.	0
-What I'm also looking into is a [MASK] into this because document retrievals is a very fuzzy procedure, so it's probably not that easy to simply have a symbolic	1
+What I'm also looking into is a probabilistic approach into this because document retrievals is a very fuzzy procedure, so it's probably not that easy to simply have a symbolic	1
 uh, computational model. That - that probably isn't expressive enough. So. So that's another thing,	1
 um, which I think you're  also  uh, uh looking into right now.	0
 And then um, uh sort of as an add-on to this whole idea, um, uh that would be	0
@@ -478,10 +478,10 @@ Documents that have the answers.	0
 Mm-hmm. Right.	0
 Right.	0
 so it's a little bit easier for me.	0
-Well.  Uh, you have to s- still m-	1
+Well.  Uh, you have to s- still m-	0
 understand what the content says about  itself,  and then match it to	0
 Mm-hmm.	0
-what you think the informational needs -	1
+what you think the informational needs -	0
 Mm-hmm.	0
 So you also don't have to figure out what the content is. You're just taking the keywords as a topic	0
 text, as -	0
@@ -495,7 +495,7 @@ explains how to set up your uh, mail account on Linux" or	0
 something  like this.	0
 Mm-hmm.	0
 So. So something - something very specific that you can then -	0
-But the - I think that the key point with these uh, [MASK] is that uh,	0
+But the - I think that the key point with these uh,  learning  systems is that uh, a learning system	0
 is only as good as uh the amount of content it - it carries. You can have the best learning system with the best	0
 Mmm, mm-hmm.	0
 search interface, if there's no content inside of it,	0
@@ -504,25 +504,25 @@ um, uh developing these - these rules and these inference uh - inferences I thin
 um, uh I think you  must  be able to  reuse  some -	0
 some  existing	0
 um, domain - domain information, or - or - or ontologies that - that uh other people wrote and then try to integrate them, and then also search the entire web basically, rather than just the small	0
-uh, [MASK]	0
+uh, content management system.	0
 O_K.  Mm-hmm.	0
 So I think that's - that's crucial for - for the success of - or  @@  -	0
 So, you're not -	0
 I guess I'm trying to figure out how - how it maps to the kinds of things	0
 Mm-hmm.	0
 that we've talked about in  this  group, and, actually associated groups, cuz	1
-some of us do pretty detailed [MASK], and	1
+some of us do pretty detailed linguistic analyses, and	1
 I'm guessing that you - you  won't  be doing that?	1
 No.	1
 O_K. Just checking. So,  O_K.	0
-Hmm.	1
+Hmm.	0
 No.	0
 So, you take the query, and -	0
 and -	0
 On the  other  hand,	1
-uh,	0
-[MASK]	0
-could  well  be useful. So do you know the [MASK] story?	1
+uh,	1
+FrameNet	1
+could  well  be useful. So do you know the FrameNet story?	1
 Um, yeah. Uh, not - not  too  much, but uh,	0
 O_K.	0
 Oh. Th- that's  another  thing you might wanna look into while you're  here.	0
@@ -546,27 +546,27 @@ maybe then makes sense to - to me, but not to anybody else, and - and if we want
 well, they must be well designed really.	1
 Remember the uh, Prashant story?	0
 Right.	0
-The absolutely no - no linguistic background person that the I_U sent over here.	1
+The absolutely no - no linguistic background person that the I_U sent over here.	0
 Right.	0
 And Andreas and I	0
-tried to come up wi- or we had come up actually with a eh - with him working on an interface for  [MASK],  as it was back then, that would	0
+tried to come up wi- or we had come up actually with a eh - with him working on an interface for  FrameNet,  as it was back then, that would	0
 Right.	0
 p- do some of the work for this machine,	0
 Yeah.	0
 which uh, never got done because Prashant found a happy occupation which in the -	0
 W- yeah, I know, I mean it - it - he - w-  he did w-  what - what he did was much more s- sensible for him. I think uh,	0
 Absolutely. Yeah.	0
-But so - I'm just saying, the uh, we  had  that idea	1
+But so - I'm just saying, the uh, we  had  that idea	0
 you know -	0
 Yeah.	0
 The idea was there. Yeah, O_K.	0
-uh to - to exploit [MASK]	0
+uh to - to exploit FrameNet	0
 Yeah.	0
 Hmm.	0
 there as well.	0
 And um.	0
 Yeah, actually you guys never -	0
-And  Srini's  doing information  extraction  also, right? with that FrameNet base. Mm-hmm.	1
+And  Srini's  doing information  extraction  also, right? with that FrameNet base. Mm-hmm.	0
 Right. Yeah.	0
 Mmm.	0
 So you - you guys never sent anybody  else  from I_ U.	0
@@ -603,10 +603,10 @@ Right. Anyway.	0
 Right. So I thi- tha- that's - that's one of the things that might be worth looking into while you're here.	0
 Mm-hmm.	0
 Uh,  unfortunately,	1
-Srini, who is heavily involved in [MASK] and all this sort of stuff	0
+Srini, who is heavily involved in DAML and all this sort of stuff	1
 is  himself  out of town.	1
 Mm-hmm.	0
-Well I'll go to the uh, [MASK], uh,	0
+Well I'll go to the uh, Semantic Web Workshop, uh,	0
 Right, and -	0
 in two weeks.	0
 @@	0
@@ -623,7 +623,7 @@ w- um,	0
 Mm-hmm.	0
 which is, I mean, you - I mean. I don't - Depending on how well you wanna integrate with  that  end, you know, like, taking the data and fig- you said the learning systems that	0
 figure out - We - There's someone in ICSI who actually has been working on -	1
-has worked on that kinda stuff,  and  he's worked with [MASK], so you could talk to him about, you know,  both  of those things at once. So.	1
+has worked on that kinda stuff,  and  he's worked with frame net, so you could talk to him about, you know,  both  of those things at once. So.	1
 Mm-hmm. Mm-hmm.	0
 And he just finished writing a draft of his thesis. So.	0
 So, uh, who is that again?	0
@@ -650,7 +650,7 @@ Well, no, but he's - he's - he's - he's - as you said, he's, like the state legi
 At least this is a private meeting.	0
 Right, exactly, O_K, that's the link.	0
 This uh -	1
-Oh, they refused the budget again? Is it - so about [MASK]? Yeah, still nothing.	1
+Oh, they refused the budget again? Is it - so about CITRIS? Yeah, still nothing.	1
 Uh, this - this - this - t- the s-  we're, uh, involved in a	0
 literally three hundred million dollar	0
 uh, program.	0
@@ -671,19 +671,19 @@ K_I_L_L - K_A_L_I_L.	0
 And, uh, he now	0
 works at	0
 Berkeley. In fact he's hired to	1
-run a lot of [MASK], even though we don't have the money they -	1
+run a lot of CITRIS, even though we don't have the money they -	1
 So they've been  hiring  people right and left, so,	0
 uh,  they  think the money's coming. So - and he  was,  I think,	0
 the chief staffer to Clinton on technology matters.	0
 He was in the White House, I don't  remember what he was saying . A- anyway,  like  that.	0
 And, is now	0
-doing all the politics for [MASK], but  also,  has a uh, a  lot  of interest in	0
+doing all the politics for CITRIS, but  also,  has a uh, a  lot  of interest in	0
 uh, actually doing things for  society,  so digital  divide  and stuff like that. So that's	0
 s- interesting to me but maybe not to you. But the  really  interesting thing was,	0
 he st- he s- he s- said something about,	0
 you know I'm interested in things that have high social multiplier, something that is of great social value. He said,	1
 "for example",	1
-this was his  only  example,	0
+this was his  only  example,	1
 "if you had a	1
 adult literacy program that was as good as an individual tutor,	1
 and as compelling as a video game,	1
@@ -728,7 +728,7 @@ um, talk to him some more about is em- somebody already doing this, and stuff li
 So anyway, that was - that was today's little story.	0
 Hmm.	0
 O_K. So I - I  did  manage to	0
-get - pull my head out of the sling by sidetracking into [MASK], but uh or - a-  temporarily  putting it out of the sling but, I - I'll volunteer to put it right back in by stating that	0
+get - pull my head out of the sling by sidetracking into CITRIS, but uh or - a-  temporarily  putting it out of the sling but, I - I'll volunteer to put it right back in by stating that	0
 No, no.	0
 Right.	0
 I  am	0

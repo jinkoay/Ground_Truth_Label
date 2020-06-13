@@ -41,9 +41,9 @@ Good point.	0
 And uh she'll be most interested in that.	0
 Uh, she's probably  least  involved in the signal-processing stuff so maybe we can just -	0
 just uh, I don't think we should go though an  elaborate  thing,	0
-but um uh Jose and I were just talking about	0
-the uh	0
-uh, speech e- energy thing,	0
+but um uh Jose and I were just talking about	1
+the uh	1
+uh, speech e- energy thing,	1
 The   @@  -	0
 Yeah.	0
 and I uh - We didn't talk about the derivatives. But I think,	0
@@ -51,17 +51,17 @@ you know, the - the - i-	0
 if I can -	0
 if you don't mind my - my speaking for you for a bit,	0
 um	0
-Uh. Right now,  that  he's not really showing any kind of uh distinction,	0
-but uh -  but  we discussed a couple of the possible things that uh he can look at.	0
-Um. And uh one is that uh this is all in  log  energy and log energy is basically compressing the distances	0
-uh  between things.	0
-Um  Another is that he needs to play with the - the different uh  uh temporal	0
+Uh. Right now,  that  he's not really showing any kind of uh distinction,	1
+but uh -  but  we discussed a couple of the possible things that uh he can look at.	1
+Um. And uh one is that uh this is all in  log  energy and log energy is basically compressing the distances	1
+uh  between things.	1
+Um  Another is that he needs to play with the - the different uh  uh temporal	1
 sizes. He was - he - he was taking everything over two hundred milliseconds	1
 uh, and uh he's going to vary that number and also look at moving windows, as we discussed before.	1
 Um	1
-And uh - and the other thing is that the - yeah doing the -	0
-subtracting off the mean and the variance in the -	0
-uh and dividing it by the  standard deviation in [MASK],	0
+And uh - and the other thing is that the - yeah doing the -	1
+subtracting off the mean and the variance in the -	1
+uh and dividing it by the  standard deviation in the log domain,	1
 may not be  the right thing to do.	1
 Hi. Yeah.	0
 Hi Jane!	0
@@ -76,36 +76,36 @@ between -	0
 No.	0
 Between -	0
 No.	0
-Neither. It's uh between the pauses  uh for some segment.	0
+Neither. It's uh between the pauses  uh for some segment.	1
 Oh.	0
-And so i- i- his - his - He's making the constraint it has to be at least two hundred milliseconds.	0
+And so i- i- his - his - He's making the constraint it has to be at least two hundred milliseconds.	1
 Oh.	0
 And so you take that. And then he's -	1
-he's uh  measuring  at the frame level -	0
+he's uh  measuring  at the frame level -	1
 still at the frame level,	1
 Right.	0
 of what  -	0
 and then - and then just uh normalizing with that larger amount.	1
-um and -	0
-But one thing he was pointing out is when he - he looked at a bunch of examples in [MASK] it  is  actually pretty hard to see	0
-the  change.	0
-And you can sort of  see that, because of j- of just	0
+um and -	1
+But one thing he was pointing out is when he - he looked at a bunch of examples in log domain, it  is  actually pretty hard to see	1
+the  change.	1
+And you can sort of  see that, because of j- of just	1
 putting it on the board that	0
 Yep.	0
-if you sort of have  [MASK] plus	0
-log- [MASK] ,	0
+if you sort of have  log-X_  plus	0
+log- X_ ,	0
 Yeah, maybe it's not log  distributed .	0
 that's the  log  of  X_  plus the  log  of  two  and it's just,  you know, it - it diminishes the  effect of having two of them.	0
 Mmm. Yeah.	0
 @@	0
 But you could do like a C_D_ F  there instead? I mean, we don't  know  that the distribution here is	0
 Um.	0
-Yes, right.	0
+Yes, right.	1
 normally.	0
-So -	0
+So -	1
 So just some kind of a simple -	0
-So what I was suggesting to him is that -	0
-Actually, a  P_D_F .	0
+So what I was suggesting to him is that -	1
+Actually, a  P_D_F .	1
 But, you know, uh	0
 P_D_F	0
 But,  either   way.  Yeah.	0
@@ -115,10 +115,10 @@ Yeah, eith- eith- uh	0
 Something like that where it's sort of data driven.	0
 B- Yeah, but I think  also	1
 u-	0
-I think a good first indicator is when the - the - the researcher looks at	0
-examples of the data	0
-and can  not  see	0
-a change  in how big the - the signal is,	0
+I think a good first indicator is when the - the - the researcher looks at	1
+examples of the data	1
+and can  not  see	1
+a change  in how big the - the signal is,	1
 Yeah.	0
 when the two speaker -	1
 Then, that's a problem	0
@@ -130,8 +130,8 @@ I think you should at  least  be able,	0
 doing casual looking and can get the sense, " Hey,  there's something  there. " and then you can play around with the measures.	0
 Oh yeah.	0
 Yeah.	0
-And when he's looking in the log domain he's not really seeing it.	0
-So. And when he's looking in straight  energy  he  is,	0
+And when he's looking in the log domain he's not really seeing it.	1
+So. And when he's looking in straight  energy  he  is,	1
 so that's a good place to start.	1
 Yeah.	0
 Um.	0
@@ -143,8 +143,8 @@ How -	0
 Uh, when you did the	0
 sampling?	0
 uh  over the  speech segments or s- or sampling over the -	0
-[MASK] in order to do the e-	0
-uh the  [MASK]	0
+the individual channels in order to do the e-	0
+uh the  amplitude equalization,	0
 did you do it over	0
 just the entire - everything in the mike channels? You didn't try to find speech?	0
 No, I just took over the entire s- uh entire channel	0
@@ -154,7 +154,7 @@ very much	0
 would be largely represented by silence.	0
 Yep.	0
 And someone who would - who would be -	0
-So [MASK]	0
+So the normalization factor	0
 probably  is  i- i- i-	0
 Yeah, this was quite quick and dirty, and it was just for   listening.	0
 is - is -	0
@@ -174,19 +174,19 @@ Yeah.	0
 Not a good measure.	0
 O_K.	0
 So yeah there - there - there -	1
-There's a good chance then given that	0
-different people  do  talk different amounts  that there is -	0
+There's a good chance then given that	1
+different people  do  talk different amounts  that there is -	1
 Yeah.	0
 Yeah.	0
-there - there is still a lot more to be gained from [MASK] with some	0
+there - there is still a lot more to be gained from gain norm- normalization with some	1
 Mmm.	0
 Yes, absolutely.	0
 sort if -	1
 if we can figure out a way to do it.	0
 Yeah.	0
 Uh. But	1
-we were agreed that in addition to that	0
-uh there should be	0
+we were agreed that in addition to that	1
+uh there should be	1
 s- stuff related  to  pitch and harmonics and so forth.	1
 Yeah.	0
 So we didn't talk at all about uh the other derivatives, but uh again just - just looking at -	0
@@ -198,16 +198,16 @@ Yeah.	0
 uh for  these  cases.	1
 You have some histograms,	0
 Yeah.	0
-um  and  uh,	0
-they don't look very separate.	0
-uh   separated.	0
-This is the - [MASK]	0
+um  and  uh,	1
+they don't look very separate.	1
+uh   separated.	1
+This is the - the first derivate of  log of frame  energy	0
 What  -	0
 Yeah.	0
 Yeah.	0
 uh without any kind of normalization.	0
 Yeah.	0
-[MASK]	0
+Log energy.	0
 These the-	0
 Sorry.	0
 These are the - the first experiments uh with comment uh	0
@@ -264,7 +264,7 @@ r- uh the -	0
 the	0
 unnormalized	0
 No	0
-[MASK]	0
+log energy?	0
 I - I - I haven't  the result	0
 O_K. Yeah. So she - she's right. That's a -	0
 but it's the - it's the - the - the following.	0
@@ -283,11 +283,11 @@ combination of two,  of energy and derivate -	0
 Yeah, but - but what she's saying	0
 is, which is right, is  le-	0
 I mean, let's start with the - Before we get complicated,	1
-let's start with the  most   basic  wh- thing,	0
-which is   we're  arguing	0
-that if you take energy -	0
-uh if you  look  at the  energy,	0
-that, when two people are speaking at the same time, usually	0
+let's start with the  most   basic  wh- thing,	1
+which is   we're  arguing	1
+that if you take energy -	1
+uh if you  look  at the  energy,	1
+that, when two people are speaking at the same time, usually	1
 there'll be  more  energy than when one is right?	1
 Yeah.	0
 That's - that sort of hypothesis. And the first way you'd look at that,	1
@@ -310,16 +310,16 @@ Yeah.	0
 And then, given that as a base, you can see if that gets improved,	0
 you know, or - or -	0
 or  worsened   by the -	0
-looking at [MASK]	0
-looking at  [MASK] we were just proposing that maybe it's -	0
-you know, it's harder to  see with [MASK]	0
+looking at  regular  energy,	0
+looking at  log  energy, we were just proposing that maybe it's -	0
+you know, it's harder to  see with the log energy,	0
 Yeah.	0
 um	0
 and uh	0
 also these different normalizations,	0
 does   a particular choice of normalization make it better?	0
 But I had maybe made it too  complicated	1
-by suggesting	0
+by suggesting	1
 early on, that you look at  scatter  plots because that's looking at a distribution in  two  dimensions.	1
 Yeah.	0
 Let's start off just in  one,	1
@@ -330,25 +330,25 @@ I think that's probably the most basic thing, before anything very  complicated.
 Yeah.	0
 Yeah.	0
 Um	1
-And then we- w- I think we're agreed that	0
+And then we- w- I think we're agreed that	1
 I agree, yeah.	0
-pitch-related  things are - are - are going to be a - a really likely candidate	0
+pitch-related  things are - are - are going to be a - a really likely candidate	1
 Uh-huh.	0
 to  help.	1
 Um	1
 O_K.	0
-But	0
+But	1
 since -	0
-uh  your  intuition	0
-from looking at some of the  data,	0
-is that when you looked at the regular energy,	0
-that it  did  in fact usually go  up,	0
-when two people were  talking,	0
+uh  your  intuition	1
+from looking at some of the  data,	1
+is that when you looked at the regular energy,	1
+that it  did  in fact usually go  up,	1
+when two people were  talking,	1
 Yeah.	0
 Yeah.	0
 Yeah, yeah, yeah.	0
-that's - eh	0
-you know, you should be able to come up with a measure which will	0
+that's - eh	1
+you know, you should be able to come up with a measure which will	1
 match your intuition.	1
 And she's right,	0
 that a -	0
@@ -403,11 +403,11 @@ just locally , yeah.	0
 Mm-hmm.	0
 And -	1
 Sorry.  I -	0
-I was just going to say that - that	0
+I was just going to say that - that	1
 right now we're just  exploring.	1
 What you would imagine  eventually,  is that you'll feed all of these features into some	1
 Yeah.	0
-[MASK]	1
+discriminative system.	1
 Yeah.	0
 Yeah.	0
 And so even if - if one of the features	1
@@ -534,7 +534,7 @@ overlap.	0
 There are - there are different	0
 types,	0
 and  within  those types,	0
-like as  Jose  was saying, that  sounded like [MASK]	0
+like as  Jose  was saying, that  sounded like a backchannel overlap,	0
 meaning the kind that's  a friendly  encouragement,  like "Mm-hmm.", "Great!", "Yeah!"	0
 Yeah.	0
 And it  doesn't  take - you don't take the  floor.	0
@@ -570,7 +570,7 @@ Yeah.	0
 he has the stuff that subtracts out -	0
 and all he has to do	0
 is change it uh	0
-uh from - [MASK]	0
+uh from - from log to plain energy	0
 and plot the histogram	0
 and  look  at it.	0
 And  then  he should go on and do the other  stuff	0
@@ -623,14 +623,14 @@ that there's some -	0
 there's - there's most likely something wrong in the way that we're measuring it.	0
 Yeah.	0
 Yeah.	0
-Um,	1
+Um,	0
 but	0
 um	0
 For instance, I mean I wouldn't expect that it was very  common	0
 overall,  that	0
 when two people were talking at the same time,	0
 that it would - that it really was	0
-lower,  although sometimes, as you say, it  would.	1
+lower,  although sometimes, as you say, it  would.	0
 Yeah.	0
 Yeah.	0
 Yeah, no, that was - That was a jok-	0
@@ -686,7 +686,7 @@ You could imagine doing  specialized  ones for different  types  of backchannels
 if you could - if you had a good model for it.	0
 Your "mm-hmm" detector.	0
 If - if you're - a-	0
-I guess my point is, if you're doing essentially [MASK] taking the log first  does  in fact make it harder to separate.	0
+I guess my point is, if you're doing essentially a linear separation, taking the log first  does  in fact make it harder to separate.	0
 Right.	0
 Yeah.	0
 So it's -	0
@@ -700,9 +700,9 @@ and that - that's the indicator that we're getting.	0
 But  anyway,  yeah, we're not  disagreeing on any of this, we should look at it more uh - more finely,	0
 but uh uh I think that -	0
 This often happens, you do fairly complicated things,	0
-and then you stand back from them and you realize that you haven't done something simple.	0
+and then you stand back from them and you realize that you haven't done something simple.	1
 So	1
-uh, if you generated something like that just for the energy and see,	0
+uh, if you generated something like that just for the energy and see,	1
 and then, a- a- a- as - as Liz says, when they g- have uh uh smaller um, more coherent groups to look at, that would be another interesting thing later.	1
 Uh-huh.	0
 Uh-huh.	0
@@ -721,8 +721,8 @@ Yeah.	0
 But then the -	0
 Have you started looking at the pitch related  stuff at all, or - ?	0
 The - ?	0
-Pitch  related?	1
-Harmonicity and so on?	1
+Pitch  related?	0
+Harmonicity and so on?	0
 I - I'm preparing the - the program but I don't - I don't begin	0
 Preparing to -	0
 because eh	0
@@ -735,11 +735,11 @@ I suppose it's better to - to consider the - the energy this kind of parameter	0
 Oh, that's  not  what I  meant.	0
 bef-	0
 No, no. I - I - I -	0
-I - Well,	1
+I - Well,	0
 we  certainly  should  see  this but I - I - I -	0
-I think that the harm-	1
+I think that the harm-	0
 I  certainly  wasn't saying this was  better  than the	0
-[MASK] and pitch related things I was just saying	0
+harmonicity and pitch related things I was just saying	0
 I - I go on with the - with the	0
 Yeah.	0
 pitch, aha!	0
@@ -751,7 +751,7 @@ by the moment with the	0
 and - and concentrate my - my energy in that problem.	0
 O_K. O_K.	0
 O_K. But I think, like, all these derivatives and second derivatives and all these other very fancy things, I think I would just sort of  look  at the energy  and then	1
-get into the  [MASK]  as - as	0
+get into the  harmonicity  as - as	1
 O_K. I go on	0
 a suggestion.	1
 with the pitch.	0
@@ -760,12 +760,12 @@ O_K. So maybe uh	0
 since w- we're trying to	0
 uh compress the meeting,	0
 um, I know  Adam  had some  form  stuff he wanted to talk about	0
-and did you have some?	1
+and did you have some?	0
 I wanted to ask just s- something on the end of  this  top- topic. So,	1
-when I presented my results about the uh distribution of overlaps and the speakers and the profiles of the speakers,	0
+when I presented my results about the uh distribution of overlaps and the speakers and the profiles of the speakers,	1
 Uh-huh.	0
 at the bottom of that I  did  have a  proposal,  and I had plan to go  through  with it, of - of co-  coding  the types of overlaps that people were  involved  in s-	1
-just with reference to speaker style so,	0
+just with reference to speaker style so,	1
 Oh.	0
 you know, with reference - and you know I said that on my - in my  summary,  that	1
 That'd be great.	0
@@ -822,7 +822,7 @@ covered half time on something else -	0
 Mm-hmm.	0
 I mean,	0
 he - we're not paying him  the full	0
-[MASK] for -  all  the  time.  So.	0
+R_A-ship for -  all  the  time.  So.	0
 um	0
 If we got it to where we wanted - we needed someone to do that - I don't think there's really enough	0
 data  where - where -	0
@@ -833,7 +833,7 @@ to use the only the -	0
 Yeah.	0
 the already transcribed meeting as just a prototype.	0
 I - I think a- a- another	1
-parameter we c- we -	0
+parameter we c- we -	1
 But -	0
 we can consider is eh the  duration.	1
 Mm-hmm.	0
@@ -841,7 +841,7 @@ Another e- e- m-	0
 besides eh the - the class of overlap,	0
 the duration.	0
 Because is possible  eh some s- s- um eh	1
-some classes eh has eh	0
+some classes eh has eh	1
 a type of a duration, eh,	1
 a duration very short	0
 Mm-hmm.	0
@@ -856,7 +856,7 @@ to have.	0
 And it's interesting,	0
 I think,	0
 to consider the - the  window   of normalization,	0
-[MASK]	0
+normalization window.	0
 Eh  because eh if we have a type of,	0
 a kind of eh	0
 overlap, eh	0
@@ -880,7 +880,7 @@ I - I me-	0
 I - I understand.	0
 I mean that you have	1
 Yeah.	0
-eh you have a backchannel, eh, eh - you have a overlapping zone	0
+eh you have a backchannel, eh, eh - you have a overlapping zone	1
 very short	1
 and you consider	0
 eh n- eh	0
@@ -904,15 +904,15 @@ eh the effect	0
 is	0
 mmm	0
 stronger	1
-eh	0
-that	0
-I - I mean the - the e- effect of the normalization	0
-eh with the mean and the - and the variance	0
+eh	1
+that	1
+I - I mean the - the e- effect of the normalization	1
+eh with the mean and the - and the variance	1
 Mm-hmm.	0
-eh is different that if you consider	0
-only a	0
-window	0
-compared	0
+eh is different that if you consider	1
+only a	1
+window	1
+compared	1
 eh with the n- the duration of overlapping.	1
 Not  -	0
 You - you want it	0
@@ -975,7 +975,7 @@ It's possible to try it both ways, isn't it?	0
 Well, I mean we're also talking about	0
 in this small  @@	0
 a couple of different things. I mean, one is your  analysis  window and then the other is any sort of normalization that you're doing.	0
-Yeah I was talking about the n- [MASK]	0
+Yeah I was talking about the n- normalization window.	0
 And the -	0
 And they could be quite different.	0
 Yeah.	0
@@ -1001,12 +1001,12 @@ it  is  definitely true that we need to have the  time  marks,	1
 Mm-hmm.	0
 and I was assuming  that  will be  inherited  because,	1
 Yep, I agree.	0
-if you have the words and they're roughly aligned in time	0
+if you have the words and they're roughly aligned in time	1
 Mm-hmm.	0
 via	0
-forced alignment or whatever we end up using,	0
+forced alignment or whatever we end up using,	1
 then	0
-you know, this  student and I would be looking at the time	0
+you know, this  student and I would be looking at the time	1
 marks and classifying all the frames inside those as whatever labels	1
 Coming off of the other -	0
 Yeah.	0
@@ -1028,7 +1028,7 @@ If it's not hand-marked then we're not going to get the times.	0
 Well, it's something that w-	0
 Well, we - we wouldn't be able to do  any  work without a forced alignment  anyway,  so somehow if -	1
 Yes	0
-once he gets going we're gonna	0
+once he gets going we're gonna	1
 hafta come up with one and	1
 Yes.	0
 Yeah.	0
@@ -1046,11 +1046,11 @@ That might be good enough.	0
 we could come up -	0
 take a s-	0
 take the Switchboard	0
-system or something, and -	1
+system or something, and -	0
 Yeah.	0
-Um	1
+Um	0
 It'd be worth a try. It would be interesting to see what we get.	0
-Just, you know,[MASK] the speech and -	0
+Just, you know, low-pass filter the speech and -	0
 Cuz there's - there's a lot of work you can't do  without  that, I mean,	0
 how - how would you -	0
 Yeah.	0
@@ -1073,11 +1073,11 @@ should talk about our options as far as the uh	0
 uh	0
 transcription	0
 Yep, if I_B_M doesn't -	0
-But. Well, w-	1
+But. Well, w-	0
 O_K. Good.	0
 But	0
 Do we hafta  turn -	0
-we'll do that  later.	1
+we'll do that  later.	0
 Are we supposed to keep recording here?	0
 Yeah. Let's do that later.	0
 Yeah  Right.	0
@@ -1150,7 +1150,7 @@ So you should call it, like, "digits start time". Or.	0
 And I haven't said anything.	0
 Yep.	0
 in - on there .	0
-Why - What - what were you putting in?	1
+Why - What - what were you putting in?	0
 Oh, well, I was saying if we started the meeting at	0
 Yeah.	0
 two  thirty,  I'd put two thirty, and I guess d-	0
@@ -1255,11 +1255,11 @@ O_K,  I  see.	0
 "South Midland,  North  Midland"	0
 That's the old and that's the new.	0
 Yeah this was the problem with these categories, I -	1
-I picked those categories from [MASK]	1
+I picked those categories from TIMIT.	1
 I  don't know what those are.	0
 Actually,  the only way  I  know is from working with the database and having to figure it out.	0
 What -	0
-With [MASK] yeah?	0
+With TIMIT, yeah?	0
 uh-huh.	0
 What i-	0
 So is South Midland like Kansas? and North Midland like - like uh Illinois, or - ?	0
@@ -1270,11 +1270,11 @@ Yeah.	0
 Nor- um -	0
 I mean. So - so what accent are  we  speaking?	0
 Western?	0
-By definition?	1
+By definition?	0
 And for simple for - for me?	0
 Is mean my native language Spanish -	0
 Probably Western, yeah.	0
-Well,	1
+Well,	0
 Spanish?	0
 eh	0
 The original	0
@@ -1301,9 +1301,9 @@ if e-	0
 This wasn't developed by -	0
 th- these regions weren't -	0
 if y-	0
-if you're [MASK] from  nineteen eighty-five.	1
+if you're a T_I or M_I_T  from  nineteen eighty-five.	0
 Yeah	0
-Yeah.	1
+Yeah.	0
 So I guess my only  question  was if - if you were a South Midland speaking	0
 region, person?	0
 Mm-hmm.	0
@@ -1502,8 +1502,8 @@ Yeah.	0
 Yep.	0
 Yeah.	0
 Yeah, I guess I could  try  to put - squeeze in a little  map.  I mean there's not a lot of r- of room	0
-I'd say, uh,	1
-"Boston, New York City, the South and Regular".	1
+I'd say, uh,	0
+"Boston, New York City, the South and Regular".	0
 Well -	0
 I think  of  those,  Northern  is the only one that I don't even know what they're meaning.	0
 And - And -	0
@@ -1523,7 +1523,7 @@ Um	0
 I mean.	0
 It doesn't even -	0
 Yeah, exactly. That's not really a region.	0
-"Do you come from the Louisiana Purchase?"	1
+"Do you come from the Louisiana Purchase?"	0
 I -	0
 So we could take out "North" -	0
 And usually here - people here know what is their	0
@@ -1576,7 +1576,7 @@ something like char- characterize your accent	0
 and - and so  I  would say, "I don't know".	0
 Yeah.	0
 Right, which probably means you have a very -	0
-But someone from Boston with a really strong coloration would know. And so would [MASK]	0
+But someone from Boston with a really strong coloration would know. And so would an R_less Maine -	0
 And that's actually good.	0
 Yeah.	0
 or something, yeah.	0
@@ -1628,7 +1628,7 @@ So.	0
 That's true.	0
 Yeah last week - last week I was sort of r- arguing for having it wide open, but then everybody said "Oh, no, but then it will be hard to interpret	0
 because some people will say Cincinnati and some will say Ohio". And.	0
-I mean I  had  it wide open last week and - and you said  [MASK]	0
+I mean I  had  it wide open last week and - and you said  TIMIT.	0
 What if we put in  both?	0
 Yeah.	0
 Yeah.	0
@@ -1866,12 +1866,12 @@ Just uses a lot of memory.	0
 So when you say " slow ", does that mean to -	0
 No, the - the one that's installed is fine. It's not slow at all.	1
 I  wrote another version.	1
-Which, instead of having the  one  pane with the  one  view,	0
+Which, instead of having the  one  pane with the  one  view,	1
 It has  multiple  panes  with the views.	1
 Yeah.	0
 Mm-hmm.	0
 But the  problem  with it	1
-is the  drawing  of those  waveforms  is  so   slow	0
+is the  drawing  of those  waveforms  is  so   slow	1
 that every time you do  anything  it just crawls.	1
 Mm-hmm.	0
 It's really bad.	0
@@ -1881,7 +1881,7 @@ That's a consideration.	0
 Mm-hmm.	0
 oh uh-huh,	0
 w- as you move.	0
-As you  play,  as you  move,  as you  scroll.	0
+As you  play,  as you  move,  as you  scroll.	1
 Just about  anything,  and it - it was so slow it was not usable.	1
 And this'll be a -	1
 So that's why I didn't install it and didn't pursue it.	0
@@ -1911,7 +1911,7 @@ Alright.	0
 the wave form?	1
 Um, not if we're going to use Tcl-T_K	1
 O_K.	0
-At least not if we're going to use  Snack.	0
+At least not if we're going to use  Snack.	1
 I mean you would have to do something ourselves.	1
 Well, or use the one that crawls.	0
 O_K.	0
@@ -1973,7 +1973,7 @@ Hmm?	0
 So I - I don't think it'll be bad.	0
 also the case that - that uh this  multi-wave   thing	0
 is proposed to the -	0
-So. Dan proposed it to [MASK]	0
+So. Dan proposed it to the Transcriber central people,	0
 and it's likely that uh - So. And - and	0
 they responded favorably looks as though it will be incorporated in the future version.	0
 Oh.	0
@@ -2062,7 +2062,7 @@ Why don't you read the digits?	0
 O_K.  Alright.	0
 Yeah, why don't you read the digits and then you can  go.	0
 Oh, this is the new one.	0
-Yeah.	1
+Yeah.	0
 Yeah, don't -	0
 Alright.	0
 The -	0
@@ -2071,7 +2071,7 @@ And the	0
 time is.	0
 O_K.	0
 O_K	0
-O_K.	1
+O_K.	0
 Turn it  off.	0
 But wait till he -	0
 O_K.	0

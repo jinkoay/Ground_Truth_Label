@@ -25,38 +25,38 @@ Uh, anyway.	0
 O_K.	0
 Uh - so here's what I have for - I - I was just jotting down things I think th- w- that we should do today.	0
 Uh - This is what I have for an agenda so far	0
-Um,	0
-We should talk a little bit about the plans for the uh -	0
-the field trip next week.	0
+Um,	1
+We should talk a little bit about the plans for the uh -	1
+the field trip next week.	1
 Uh - a number of us are doing a field trip to	0
 uh	0
-[MASK]	0
-And uh -	0
-mostly uh-	0
-First though about the logistics for it.	0
-Then maybe later on in the meeting we should talk about what we actually	0
-you know, might accomplish.	0
+Uh - O_G_I	0
+And uh -	1
+mostly uh-	1
+First though about the logistics for it.	1
+Then maybe later on in the meeting we should talk about what we actually	1
+you know, might accomplish.	1
 Uh -	0
 O_K.	0
-Uh, in and  kind of go around - see what people have been doing -	0
-talk about that,  a r- progress report. Um,	0
-Essentially.	0
-Um -	0
-And then uh -	0
-Another topic I had was that uh - uh -	0
+Uh, in and  kind of go around - see what people have been doing -	1
+talk about that,  a r- progress report. Um,	1
+Essentially.	1
+Um -	1
+And then uh -	1
+Another topic I had was that uh - uh -	1
 Uh -	0
-Dave here had uh said uh "Give me something to do."	0
+Dave here had uh said uh "Give me something to do."	1
 And I - I have - I have uh - failed so far in doing that.	0
-And so maybe we can discuss that a little bit.	0
-If we find some holes in some things that - that -	0
+And so maybe we can discuss that a little bit.	1
+If we find some holes in some things that - that -	1
 someone could use some help with, he's - he's volunteering to help.	0
 I've got to move a bunch of furniture.	0
 O_K, always count on a	0
 serious comment from that corner.	0
 So, um,	0
-uh, and uh, then uh,	0
-talk a little bit about - about disks and resource -	0
-resource issues that - that's starting to get worked out.	0
+uh, and uh, then uh,	1
+talk a little bit about - about disks and resource -	1
+resource issues that - that's starting to get worked out.	1
 And then,	0
 anything else anybody has that	0
 isn't in that list?	0
@@ -94,18 +94,18 @@ Um, I live in, um, the corner of campus. The, um, southeast corner.	0
 O_K.	0
 O_K, so	0
 would it be easier -	0
-those of you who are not,	0
-you know, used to this area, it can be very tricky to get to the airport at -	0
-at uh, you know, six thirty.	0
+those of you who are not,	1
+you know, used to this area, it can be very tricky to get to the airport at -	1
+at uh, you know, six thirty.	1
 Um. So.	0
 Would it be easier for you if you came here and I drove you?	0
 Yeah?	0
 Yeah, perhaps, yeah.	0
-Yeah, yeah, O_K.	0
+Yeah, yeah, O_K.	1
 Yeah.	0
 Mm-hmm.	0
 Yeah. Sure.	0
-O_K, so if - if everybody can get here at six.	0
+O_K, so if - if everybody can get here at six.	1
 At six.	0
 Yeah, I'm afraid	0
 we need to do that to get there on time. Yeah, so.	0
@@ -172,29 +172,29 @@ O_K, that was the real real important stuff. Um,	0
 I - I - I figured maybe wait on the	0
 potential goals for the meeting	0
 uh - until	0
-we talk about wh- what's been going on.	0
-So,	0
-uh, what's been going on? Why don't we start - start over here.	0
-Um.	0
-Well, preparation of the French test data actually.	0
+we talk about wh- what's been going on.	1
+So,	1
+uh, what's been going on? Why don't we start - start over here.	1
+Um.	1
+Well, preparation of the French test data actually.	1
 O_K.	0
 So,	0
 it means that um,	0
-well, it is, uh, a digit French database of microphone speech,	0
-[MASK] and	0
-I've added noise to one part,	0
-with the - actually the	0
-[MASK]	0
+well, it is, uh, a digit French database of microphone speech,	1
+downsampled to eight kilohertz and	0
+I've added noise to one part,	1
+with the - actually the	1
+Aurora-two noises.	1
 And,  @@	0
 so this is a training part.	0
 And then  the remaining part, I use for testing and -	0
 with other kind of noises. So we can -	0
-So this is almost ready. I'm preparing the - [MASK]	0
+So this is almost ready. I'm preparing the - the H_T_K baseline for this task.	0
 And, yeah.	0
 O_K	0
 Uh,	0
-So [MASK] -	0
-so [MASK] and so on, or - ?	0
+So the H_T_K base lines -	0
+so this is using mel cepstra and so on, or - ?	0
 Yeah.	0
 Yeah.	0
 O_K.	0
@@ -220,7 +220,7 @@ Uh we - actually we want to, mmm,	0
 Fill in the cube.	0
 Uh,  uh,	0
 analyze three dimensions,	0
-the feature dimension, [MASK]	0
+the feature dimension, the  training data dimension, and the test data dimension.	0
 Um.	0
 Well, what we want to do is	0
 first we have number for each  uh task.	0
@@ -237,7 +237,7 @@ well,  using a more generic database, which is phonetically - phonetically balan
 Um.	0
 Yeah. So.	0
 So- so we had talked - I guess we had talked at one point about	0
-[MASK]	0
+maybe, the language I_D corpus?	0
 Is that a possibility for that?	0
 Ye- uh -	0
 Yeah, but, uh these corpus, w- w- there is a CallHome and a CallFriend also,	0
@@ -245,8 +245,8 @@ The CallFriend is for language ind- identification. Well,	0
 anyway, these corpus are all telephone speech. So, um.	0
 This could be a -  a problem for -	0
 Why? Because uh, uh,	0
-the - [MASK]	0
-[MASK] but -	0
+the - the SpeechDat databases are not telephone speech.	0
+They are downsampled to eight kilohertz but -	0
 but	0
 they are not  uh with telephone bandwidth.	0
 Yeah.	0
@@ -266,12 +266,12 @@ the features are computed locally, and so they aren't necessarily telephone band
 Yeah.	0
 Yeah.	0
 or telephone	0
-Did you  happen to find out anything about [MASK]	1
+Did you  happen to find out anything about the O_G_I multilingual database?	1
 distortions.	0
 Yeah, that's wh- that's wh- that's what I  meant.	0
 Yeah, it's -	0
-I said -  @@ , there's - there's - [MASK] not the - not the, uh -	0
-[MASK]	0
+I said -  @@ , there's - there's - there's an O_G_I language I_D, not the - not the, uh -	0
+the CallFriend is a - is a, uh, L_D_C w- thing, right?	0
 Yea-	0
 Yeah, there are also two other databases.	0
 One they call the multi-language database,	1
@@ -285,7 +285,7 @@ nnn.	0
 But I'm not sure -	0
 So -	0
 I mean, we'r- e- e- The bandwidth shouldn't be such an issue right? Because	0
-e- e- [MASK] right?	0
+e- e- this is downsampled and - and filtered, right?	0
 So it's just the fact that it's not telephone.	0
 And there are so many other differences between these different databases. I mean some of this stuff's recorded in the car, and some of it's - I mean there's - there's many different acoustic differences. So I'm not sure	0
 Yeah.	0
@@ -309,7 +309,7 @@ uh, with microphone speech.	1
 Mm-hmm.	0
 Yeah.	0
 So.	0
-So that's what you're thinking of using is sort of the multi- the equivalent of the multiple?	1
+So that's what you're thinking of using is sort of the multi- the equivalent of the multiple?	0
 Well.	0
 Yeah, for the multilingual part we were thinking of using these three databases.	0
 And for the difference in phonetic context  that you - ?	0
@@ -318,13 +318,13 @@ Uh, actually, these three databases are um generic databases.	1
 Provide that.	0
 Yeah.	0
 So w-	1
-f- for - for uh Italian,	0
-which is close to Spanish, French and, i- i- uh, [MASK]	0
+f- for - for uh Italian,	1
+which is close to Spanish, French and, i- i- uh, T_I-digits we have both	1
 uh, digits  training data and also  more general training data. So.	1
 Mmm.	0
 Well, we also have this Broadcast News that we were talking about taking off the disk, which is -  is microphone data for - for English.	1
 Yeah.	0
-Yeah, perhaps - yeah, [MASK]	1
+Yeah, perhaps - yeah, there is also TIMIT. We could use TIMIT.	1
 Yeah.	0
 Right.	0
 Um.	0
@@ -332,7 +332,7 @@ Yeah, so there's plenty of stuff around.	0
 O_K, so anyway, th- the basic plan is to, uh, test this cube.	0
 @@	0
 Yeah.	0
-Yes.  To fill i- fill it in, yeah.	1
+Yes.  To fill i- fill it in, yeah.	0
 To fill in the cube.	0
 Uh.	0
 O_K.	0
@@ -347,7 +347,7 @@ u-	0
 So that th- Well,	0
 the - the guy who has to develop an application with one language can use the net trained o- on that language,	0
 or a generic net, but not trained on a -	0
-Uh, depen- it depen- it depends how you mean "using the net". So, if you're talking about for producing these discriminative features  that we're talking about  you  can't  do that.	1
+Uh, depen- it depen- it depends how you mean "using the net". So, if you're talking about for producing these discriminative features  that we're talking about  you  can't  do that.	0
 Mmm.	0
 Because - because	0
 the - what they're asking for is - is a feature set.	0
@@ -363,8 +363,8 @@ Oh.	0
 That's -	0
 in  principle,  I mean  conceptually,  it's sort of like they want a re-  @@	0
 Mmm.	0
-well, [MASK]	0
-So, we say "O_K, this is the year two thousand, [MASK] It's, you know, gobbledy-gook." O_K? And so	0
+well, they want a replacement for mel cepstra.	0
+So, we say "O_K, this is the year two thousand, we've got something much better than mel cepstra. It's, you know, gobbledy-gook." O_K? And so	0
 we give them these gobbledy-gook features but these gobbledy-gook features are supposed to be good for any language.	0
 Hmm.	0
 Cuz you don't know who's gonna call, and you know, I mean so it's - it's - it's, uh, uh - how do you know what language it is?	1
@@ -372,14 +372,14 @@ Somebody picks up the phone.	1
 So thi- this is their image.	1
 Well, I   chh   -	0
 Someone picks up the phone, right?	0
-And - and he - he picks up the ph-	1
+And - and he - he picks up the ph-	0
 Yeah, but the - the application is - there is a target language for the application. So, if a -	0
 Yeah. y- y- y-	0
 Well.	0
 Well.	0
 But, no but, y- you - you pick up the phone,	0
 Yeah?	0
-you talk on the phone, and it sends features out.	1
+you talk on the phone, and it sends features out.	0
 O_K, so the phone doesn't know	1
 what a - what - what your language is.	1
 Yeah, if - Yeah.	0
@@ -389,15 +389,15 @@ It could be, but that's the  image  they have, right?	0
 Mmm, yeah.	0
 So that's - that's - I mean, one could argue all over the place about how things really will be in ten years.	0
 But the particular image that the cellular industry has right now is that it's distributed speech recognition,	1
-where the, uh, uh, probabilistic part, and - and s- semantics and so forth are all on the servers,	0
+where the, uh, uh, probabilistic part, and - and s- semantics and so forth are all on the servers,	1
 and you compute features of the - uh, on the phone.	1
 So that's - that's what we're involved in. We might - might or might not agree that that's the way it will be in ten years, but	1
 that's - that's - that's what they're asking for.	1
-So - so I think	0
+So - so I think	1
 that - th- th- it is an important issue whether it works cross-language.	1
-Now, [MASK] right now that probably that's not the biggest deal.	0
+Now, it's the O_G_I, uh, folks' perspective right now that probably that's not the biggest deal.	0
 And that the biggest deal is the, um	0
-envir- [MASK]	0
+envir- acoustic-environment mismatch.	0
 And they may very well be right, but I - I was hoping we could just do a test and determine if that was true.	0
 If that's true, we don't need to worry so much. Maybe - maybe we have a couple languages in the training set and that gives us enough breadth	0
 uh, uh, that - that - that the rest doesn't matter.	0
@@ -452,9 +452,9 @@ uh, from uh, uh, the point of view of cellular companies, there aren't. There's 
 Right.	0
 uh, an- and they aren't -	0
 you know,	0
-with the exception of Finnish, which I guess it's pretty different from most - most things.	1
+with the exception of Finnish, which I guess it's pretty different from most - most things.	0
 uh, it's - it's, uh - most of them are	0
-like at least some of the others.	1
+like at least some of the others.	0
 And so, our guess that Spanish is like Italian, and -	0
 and so on.	0
 I guess Finnish is a - is - is a little bit like Hungarian, supposedly, right?	0
@@ -474,11 +474,11 @@ O_K.	1
 The - Yeah.	0
 Your turn.	1
 Oh, my turn. Oh, O_K. Um,	1
-Let's see, I - I spent the last week, uh, looking over Stephane's shoulder.	0
+Let's see, I - I spent the last week, uh, looking over Stephane's shoulder.	1
 And -  and understanding some of the data.	1
-I re-installed, um,	0
-um, [MASK]	1
-so, um, everybody's now using three point O_, which is [MASK]	1
+I re-installed, um,	1
+um, H_T_K, the free version,	1
+so, um, everybody's now using three point O_, which is the same version that, uh, O_G_I is using.	1
 Oh, good.	0
 Yeah. So, without - without any licensing big deals, or anything like that.	0
 And, um, so we've been talking about this - this, uh, cube thing,	0
@@ -490,26 +490,26 @@ I'm -	0
 Am I -	0
 Resistance is futile.	0
 Exactly.	0
-Um, yeah, so I- [MASK]	1
-Um, the - [MASK] trying to get a,	1
-um - a labels file so we can, uh, train up a - [MASK] um, the difference betw	1
+Um, yeah, so I- I've been looking at, uh, uh, TIMIT stuff.	1
+Um, the - the stuff that we've been working on with TIMIT, trying to get a,	1
+um - a labels file so we can, uh, train up a - train up a net on TIMIT and test, um, the difference between this net trained on TIMIT and a net trained on digits alone.	1
 Mm-hmm.	0
 Um, and seeing if - if it hurts or helps.	0
 And again, when y- just to clarify, when you're talking about training up a net, you're talking about training up a net for a tandem	0
 Anyway.	0
 Yeah, yeah. Um.	0
-approach? And - and [MASK] or - ?	0
+approach? And - and the inputs are P_L_P and delta and that sort of thing, or - ?	0
 Mm-hmm.	0
-Well, the inputs are one dimension of the cube, which, um, we've talked about it being, uh, [MASK]-	1
+Well, the inputs are one dimension of the cube, which, um, we've talked about it being, uh, P_L_P, um, M_F_C_Cs, um, J_- J_RASTA, J_RASTA-L_D_A -	1
 Hmm.	0
-Yeah, but your initial things you're making one choice there, right? [MASK]or something? Yeah.	0
+Yeah, but your initial things you're making one choice there, right? Which is P_L_P, or something? Yeah.	0
 Yeah, right.	0
-Um, I - I haven't - I haven't decided on - on the initial thing. Probably - [MASK]	0
+Um, I - I haven't - I haven't decided on - on the initial thing. Probably - probably something like P_L_P.	0
 Yeah.	0
 Yeah.	0
 Hmm.	0
-Um, so - [MASK] and you - you, uh, do it - uh, you -	0
-And [MASK] And that's the - and, and th- and then the testing would be these other things which - which - which might be foreign language.	0
+Um, so - so you take P_L_P and you - you, uh, do it - uh, you - you, uh, use H_T_K with it with the transformed features using a neural net that's trained.	0
+And the training could either be from Digits itself or from TIMIT. And that's the - and, and th- and then the testing would be these other things which - which - which might be foreign language.	0
 Right.	0
 Right.	0
 I see.	0
@@ -523,10 +523,10 @@ Uh-huh.	0
 But  but at some point - somebody should just show me the cube. It sounds s- I - I get - I think I get the general idea of it, yeah.	0
 Yeah, yeah, b-	0
 May-	0
-So, when you said that [MASK]	0
+So, when you said that you were getting the labels for TIMIT,	0
 Mm-hmm.	0
 um, are y- what do you mean by that?	0
-Oh, I'm just - I'm just, uh, transforming them from the, um, [MASK] into - int	0
+Oh, I'm just - I'm just, uh, transforming them from the, um, the standard TIMIT transcriptions into - into a nice long huge P_file to do training.	0
 Mmm.	0
 Were the digits, um, hand-labeled for phones?	1
 Um, the - the digits -	0
@@ -545,7 +545,7 @@ Uh-huh.	0
 uh, having s- general speech performs as well as having specific  speech.	1
 That's right.	0
 Well, especially when you go over the different languages again, because you'd - the different languages have different words for the different digits, so it's -	0
-Mm-hmm. And I was - yeah, so I was just wondering if [MASK] -	1
+Mm-hmm. And I was - yeah, so I was just wondering if the fact that TIMIT - you're using the hand-labeled stuff from TIMIT might be - confuse the results that you get.	1
 I - I think it would, but - but on the other hand it might be better.	0
 Right, but if it's better, it may be better because  it was hand-labeled.	0
 Oh yeah, but still  @@  probably use it.	0
@@ -553,7 +553,7 @@ Yeah.	0
 I mean, you know, I - I - I guess I'm sounding cavalier, but I mean, I think	0
 O_K.	0
 the point is you have, uh, a bunch of labels and - and they're han- hand uh - hand-marked.	0
-Uh, I guess, actually, [MASK] It was automatically first, and then hand - hand-corrected.	0
+Uh, I guess, actually, TIMIT was not entirely hand-marked. It was automatically first, and then hand - hand-corrected.	0
 Oh, O_K.	0
 But - but, um, uh, it - it, um, it might be a better source.	0
 So, i- it's - you're right. It would be another interesting scientific question to ask, "Is it because it's a broad source or because it was, you know, carefully?" uh.	1
@@ -565,7 +565,7 @@ What about the differences in the phone sets?	0
 Uh, between languages?	0
 No, between TIMIT and the - the digits.	0
 Oh, um, right.	0
-Well, there's a mapping from [MASK] to -	0
+Well, there's a mapping from the sixty-one phonemes in TIMIT to -	0
 Sixty-one.	0
 to fifty-six, the ICSI fifty-six.	0
 Oh, O_K. I see.	0
@@ -579,7 +579,7 @@ But, actually, the issue of phoneti- phon- uh phone- phoneme mappings	0
 will arise when we will do severa- use several languages because	0
 Yeah.	0
 you - Well,	0
-some phonemes are not, uh, in every languages, and -	0
+some phonemes are not, uh, in every languages, and -	1
 So we plan to develop a subset of the phonemes,	1
 uh, that includes, uh, all the phonemes of our training languages, and	1
 Mm-hmm.	0
@@ -589,19 +589,19 @@ You mean a superset, sort of.	1
 Uh, yeah, superset, yeah.	1
 Yeah.  Yeah.	0
 Yeah.	0
-I th- [MASK]	0
+I th- I looks the SAMPA- SAMPA phone.	0
 Mmm.	0
 Yeah.	0
-[MASK] For English - uh American English, and the - the - the language who have more phone are the English.	1
+SAMPA phone? For English - uh American English, and the - the - the language who have more phone are the English.	1
 Mmm.	0
-Of the - these language.	0
+Of the - these language.	1
 But n- for example, in Spain, the Spanish have several phone that d- doesn't appear in the E- English and we thought to complete.	1
 But for that, it needs - we must r- h- do a lot of work  because we need to generate new tran- transcription for the database that we have.	1
 Mm-hmm.	0
 Mm-hmm.	0
-Other than the language, is there a reason  not  [MASK]	0
+Other than the language, is there a reason  not  to use the TIMIT phone set?	0
 Cuz it's larger?	0
-[MASK]	0
+As opposed to the ICSI  phone set?	0
 Oh, you mean why map the sixty-one to the fifty-six?	0
 Yeah.	0
 I don't know. I have -	0
@@ -618,7 +618,7 @@ Yeah.	0
 Yeah.	0
 There's not much difference, really.	0
 And  the ones that are gone, I think are -	0
-I think there was - [MASK] which	0
+I think there was - they also in TIMIT had like a glottal stop, which	0
 Mm-hmm.	0
 was  basically a short period of silence, and	0
 so.	0
@@ -656,24 +656,24 @@ And the second dimension, um, is the training corpus.	1
 And that's the training on the discriminant neural net.	1
 Um  and	0
 the  last  dimension	0
-Yeah and again - Yeah. So the - [MASK] is always - that's always set up for the individual test, right? That there's some training data and some test data. So that's different than this. Yeah.	0
+Yeah and again - Yeah. So the - the training for H_T_K is always - that's always set up for the individual test, right? That there's some training data and some test data. So that's different than this. Yeah.	0
 happens to be -	0
 Right, right. This is - this is for -	0
-[MASK]	0
-And, yeah, the training for [MASK] uh, fixed for whatever language you're testing on.	0
+for A_N_N only.	0
+And, yeah, the training for the H_T_K models is always, uh, fixed for whatever language you're testing on.	0
 Right.	0
 And then, there's the testing corpus.	1
 So, then I think it's probably instructive to go and - and - and show you the features that we were talking about.	0
 Um, so, let's see. Help me out with - With what?	0
-@@  [MASK]	0
-[MASK]	0
-[MASK]	0
-[MASK]	0
-[MASK]	0
-[MASK]	0
-[MASK]	0
-[MASK]	0
-[MASK]	0
+@@  P_L_P.	0
+P_L_P.	0
+P_L_P? O_K.	0
+M_S_G.	0
+M_S_G.	0
+Uh, J_RASTA.	0
+J_RASTA.	0
+And J_RASTA-L_D_A.	0
+J_RASTA-L_D_A.	0
 Um,	0
 multi-band.	0
 Multi-band.	0
@@ -683,41 +683,41 @@ And -	0
 Yeah.	0
 Yeah.	0
 Uh-huh. Ah. Ah.	0
-So, something like, uh, s- [MASK] within bands and - Well.	0
+So, something like, uh, s-  T_C_T  within bands and - Well.	0
 And then multi-band after networks. Meaning that we would have, uh, neural networks, uh, discriminant neural networks for each band.	0
 Uh, yeah.	0
 And using the - the outputs of these networks or the linear outputs or something like that.	0
 Uh, yeah.	0
-[MASK]	0
+What about mel cepstrum?	0
 Oh, um -	0
 Or is that - you don't include that because it's part of the base or  something ?	0
 Well, y- you do have a baseline	0
 Yeah  databases.  Yeah.	0
-[MASK] right? So.	0
+system that's m- that's mel cepstra, right? So.	0
 Mm-hmm.	0
 But, uh, well, not for the - the A_N_N. I mean -	0
 O_K.	0
-So, yeah, we could - [MASK]	0
+So, yeah, we could - we could add  M_F_C_C also.	0
 We could add -	0
 Probably should. I mean at least - at least conceptually, you know, it doesn't meant you actually have to do it, but conceptually it makes sense as a - as a base line.	0
 Yeah .	0
 Yeah.	0
 It'd be an interesting test just to have -	0
-[MASK] with the neural net and everything else the	0
+just to do M_F_C_C with the neural net and everything else the same. Compare that with just M_- M_F_C_C without the - the net.	0
 Without the -  Yeah.	0
 Yeah.	0
 Mm-hmm.	0
 I think - I think Dan did some of that.	0
 Oh.	0
-Um, [MASK] And with the net it's - it's wonderful. Without the net it's just baseline.	0
-Um, [MASK] too. D- Because I think that for a bunch of their experiment	0
+Um, in his previous Aurora experiments. And with the net it's - it's wonderful. Without the net it's just baseline.	0
+Um, I think O_G_I folks have been doing that, too. D- Because I think that for a bunch of their experiments they used, uh, mel cepstra, actually.	0
 Yeah.	0
 Yeah.	0
 Um,	0
 of  course that's there and this is here and so on. O_K?	0
 O_K.	0
 Um, for the training  corpus   - corpus, um, we have,	1
-um, the - the d-  digits	0
+um, the - the d-  digits	1
 from the various languages.	1
 Um, English  Spanish  um, French	0
 What else do we have?	0
@@ -728,7 +728,7 @@ Where did th- where did that come from? Digits? Oh.	0
 Oh.	0
 Italian.	0
 Italian.	0
-Is that - [MASK] or - ?  Where did that - ?	0
+Is that - Was that distributed with Aurora, or - ?  Where did that - ?	0
 One L_ or two L_'s?	0
 The newer one. Yeah.	0
 So English, uh, Finnish and Italian are Aurora.	0
@@ -741,7 +741,7 @@ Is it French French or Belgian French? There's a -	0
 It's, uh, French French.	0
 French  French.	0
 Like Mexican Spain and Spain.	0
-Yeah.	1
+Yeah.	0
 Or Swiss. Swiss-German.	0
 I think that is more important, Mexican Spain. Because more people - Yeah.	0
 Yeah. Yeah, probably so. Yeah.	0
@@ -761,12 +761,12 @@ And Spanish too.	0
 Spanish -	0
 Oh, Spanish stories?	0
 Albayzin is the name.	0
-[MASK]	0
-Um, [MASK] f- d- data p-	0
+What about T_I-digits?	0
+Um, T_I-digits - uh all these Aurora f- d- data p-	0
 Uh-huh.	0
-data is from - [MASK]	0
+data is from - is derived from T_I-digits.	0
 Oh. Oh O_K.	0
-Um, basically, they - they corrupted it with, uh, [MASK]	0
+Um, basically, they - they corrupted it with, uh, different kinds of noises at different S_N_R levels.	0
 Ah.	0
 I see.	0
 Yeah.	0
@@ -790,7 +790,7 @@ Or - so we can go ahead and corrupt other things.	0
 I'm just curious, Carmen - I mean, I couldn't tell if you were joking or -	0
 i- Is it - is it Mexican Spanish, or is it -	0
 No no no no. No no no no. Spanish from Spain.	0
-Oh, no, no. It's - it's Spanish from Spain, Spanish. Yeah, O_K.	1
+Oh, no, no. It's - it's Spanish from Spain, Spanish. Yeah, O_K.	0
 From Spain.	0
 Alright.	0
 Spanish from Spain. Yeah, we're really covered there now. O_K.	0
@@ -800,7 +800,7 @@ Yeah, the - No, the French is f- yeah, from, uh, Paris, also.	0
 Oh, from Paris, O_K.	0
 Yeah.	0
 O_K.	0
-[MASK]  Yeah.  Yeah.	0
+And TIMIT's from  lots of different places.  Yeah.  Yeah.	0
 From T_I. From - i- It's from Texas. So may- maybe it's -	0
 From the deep South.	0
 So- s- so it's not really from the U_S either. Is that - ? O_K.	0
@@ -840,9 +840,9 @@ Right.	0
 The s- yeah, the  Spanish,  perhaps,	0
 Spanish. Oh yeah, we can - we can test on s- Spanish.	0
 we will have. Yeah.	0
-But the - [MASK] I mean.	0
+But the - the  Aurora  Spanish, I mean.	0
 Oh yeah. Mm-hmm.	0
-Oh, there's a - [MASK]	0
+Oh, there's a - there's Spanish testing in the Aurora?	0
 Uh, not yet, but, uh, yeah,	0
 Yeah, it's preparing.	0
 uh, e- pre- they are preparing it, and, well, according to Hynek it will be - we will have this at the end of November, or -	0
@@ -850,7 +850,7 @@ They are preparing.	0
 Um.	0
 O_K, so, uh, something like seven things in each, uh - each column.	1
 Yeah -	0
-So that's, uh, three hundred and forty-three, uh,  different systems that are going to be developed.	0
+So that's, uh, three hundred and forty-three, uh,  different systems that are going to be developed.	1
 There's three of you.	1
 Uh, so that's  hundred and -  hundred and fourteen each.  What?	0
 Yeah. One hundred each, about.	0
@@ -861,16 +861,16 @@ Are you just trying to be difficult?	0
 No, I just don't understand.	0
 Well, th- uh, when - when I put these testings on there, I'm assumi-	0
 I'm just kidding. Yeah.	0
-There- there's three - three tests. Um, [MASK]	0
-And they're all - they're all gonna be test- tested, um, with one training of [MASK]	0
-Um, there's a script that tests all three different types of noise conditions. [MASK]	0
+There- there's three - three tests. Um, type-A_, type-B_, and type-C_.	0
+And they're all - they're all gonna be test- tested, um, with one training of the H_T_K system.	0
+Um, there's a script that tests all three different types of noise conditions. Test-A_ is like a matched noise. Test-B_ is a - is a slightly mismatched. And test-C_ is a, um, mismatched channel.	0
 And do we do all our  training on  clean  data?	0
 Um, no, no, we're - we're gonna be, um, training on the noise files that we do have.	0
 Also, we can clean that.	0
 No.	0
 So, um -	0
 Yeah, so I guess the question is how long does it take to do a - a training? I mean, it's not totally	0
-crazy t- I mean, these are - a lot of these are built-in things  and  we know - [MASK]	0
+crazy t- I mean, these are - a lot of these are built-in things  and  we know - we have programs that compute P_L_P, we have M_S_G, we have J_RA-  you know, a lot of these things	0
 will just kind of happen, won't take uh a huge amount of development, it's just trying it out.	0
 So, we actually can do quite a few experiments.	0
 But how - how long does it take, do we think, for one of these	0
@@ -878,10 +878,10 @@ Mm-hmm.	0
 trainings?	0
 That's a good question.	0
 What about combinations of things?	0
-Oh yeah, that's right. I mean, cuz, so, for instance, I think [MASK] - Yeah, good point.	0
+Oh yeah, that's right. I mean, cuz, so, for instance, I think the major advantage of M_S_G - Yeah, good point.	0
 Oh!	0
 Och!	0
-[MASK] I see, th- that we've	0
+A major advantage of M_S_G, I see, th- that we've seen in the past is combined with P_L_P.	0
 Yeah.	0
 Um.	0
 Now, this is turning into a four-dimensional cube?	0
@@ -900,7 +900,7 @@ No.	0
 Yeah, I  hope  not.	0
 Yeah, there's -	0
 That would be -	0
-Uh, yeah, [MASK] cuz we've had a lot of good experience with putting those together.	0
+Uh, yeah, so P_L_P and M_S_G I think we definitely wanna try cuz we've had a lot of good experience with putting those together.	0
 Mm-hmm.	0
 Um.	0
 Yeah.	0
@@ -933,7 +933,7 @@ But it's - but - but - i- i- it doesn't really explode out the number of trainin
 Right?	0
 So, uh, if you have all of these nets trained some place, then, uh, you can	0
 combine	0
-their outputs and do [MASK] and so forth and -	0
+their outputs and do the K_L transformation and so forth and -	0
 Mm-hmm.	0
 and, uh -	0
 So, what it - it blows out is the number of uh testings.	0
@@ -942,7 +942,7 @@ Uh.	0
 Right? I mean, it's just	0
 running the data through -	0
 Oh.	0
-Well, you gotta do [MASK] but -	0
+Well, you gotta do the K_L transformation, but -	0
 But wh- what about a net that's trained on multiple  languages,  though?	0
 Eight -  y-	0
 Is that just separate nets for each language then combined, or is that actually one net trained on?	0
@@ -966,18 +966,18 @@ Mm-hmm.	0
 Because the putting them in combination, I think, is not as much computationally as the r- training of the nets in the first place.	0
 Yeah.	0
 Right?	0
-So y- you do have to compute [MASK]	0
+So y- you do have to compute the K_L transformation.	0
 Uh, which is a little bit, but it's not too much.	0
 It's not too much, no.	0
 Yeah.	0
 So it's -	0
 But - Yeah.	0
-But there is the testing also, which implies training, uh, [MASK] and, well,	0
-The - the model - [MASK]	0
+But there is the testing also, which implies training, uh, the H_T_K models and, well,	0
+The - the model - the H_T_K model.	0
 Uh, right.	0
 it's - yeah. But it's - it's - it's not so long. It  @@  - Yeah.	0
-Right. So if you do have lots of combinations, it's -	0
-[MASK]	1
+Right. So if you do have lots of combinations, it's -	1
+How long does it take for an, uh, H_T_K training?	1
 It's around six hours, I think.	1
 For training and testing, yeah.	0
 It depends on the -	0
@@ -985,11 +985,11 @@ More than six hours. For the Italian, yes.	0
 More.	0
 Maybe one day.	1
 One day?	0
-[MASK] Really?	0
+For H_T_K? Really?	0
 Yeah.	0
 Well.	0
 Running on  what?	0
-Uh, M_ - [MASK]	0
+Uh, M_ - M_F_C_C.	0
 No, I'm sorry, ru- running on what machine?	0
 Uh, Ravioli.	0
 Uh, I don't know what Ravioli is. Is it - is it an Ultra-five, or is it a - ?	0
@@ -1001,7 +1001,7 @@ Who is that? I don't know. I don't know.	0
 I don't know what a  Ravioli   is.	0
 I don't know.	0
 We can  check  really  quickly,  I guess.	0
-Yeah, I- I think it's- it's- it's not so long because, well, [MASK] uh	0
+Yeah, I- I think it's- it's- it's not so long because, well, the T_I-digits test data is about, uh	0
 how many hours?	0
 Uh, th- uh, thirty hours of speech, I think, something like that.	0
 It's a few hours.	0
@@ -1013,7 +1013,7 @@ It's six hours.	0
 Right? So - so - w- we - I mean there's plenty of machines here and they're n- they're often not in - in a great - great deal of use. So, I mean, I think it's -	1
 it's key that - that the - that you look at, uh,	0
 you know, what machines are fast, what machines are used a lot -	0
-Uh, [MASK] Is that - ?	0
+Uh, are we still using P_make? Is that - ?	0
 Oh, I don't know how w- how we would  P_make  this, though.	0
 Um.	0
 Well, you have a -	0
@@ -1021,7 +1021,7 @@ I mean, once you get the basic thing set up, you have just all the - uh, a- all 
 Yeah.	0
 Mm-hmm.	0
 Um.	0
-It's - it's - let's say it's six hours or eight hours, or [MASK] How long is it for training of - of, uh, the neural net?	1
+It's - it's - let's say it's six hours or eight hours, or something for the training of H_T_K. How long is it for training of - of, uh, the neural net?	1
 The neural net?	0
 Um.	0
 I would say two days.	1
@@ -1034,25 +1034,25 @@ Yeah.	0
 How big is the net?	0
 For Albayzin I trained on neural network, uh, was, um, one day also.	0
 Uh, but on what machine?	0
-[MASK]	0
+On a SPERT board.	0
 Uh.	0
-I - [MASK] Yes.	1
-Y- you did a - [MASK]	1
-O_K, again, [MASK]	1
+I - I think  the neural net  SPERT. Yes.	1
+Y- you did a - you did it on a SPERT board.	1
+O_K, again, we do have a bunch of SPERT boards.	1
 Yeah.	0
 And I think there - there - there's - I think you folks are probably go- the ones using them right now.	0
-[MASK] or - ?	0
+Is it faster to do it on the SPERT, or - ?	0
 Uh, don't know. Used to be.	0
-It's - [MASK] Yeah, yeah.	0
+It's - it's still a little faster on the SPERTs. Yeah, yeah.	0
 Is it?	0
-Ad- Adam - Adam did some testing. Or either Adam or - or Dan did some testing and [MASK] And	0
+Ad- Adam - Adam did some testing. Or either Adam or - or Dan did some testing and they found that the SPERT board's still - still faster. And	0
 Mm-hmm.	0
 Mm-hmm.	0
 the benefits is that, you know, you run out of SPERT and then you can do other things on your - your computer, and you don't -	0
 Mm-hmm.	0
 Yeah.	0
-So you could be - [MASK] You could set up, uh,	1
-you know, ten different jobs, or [MASK]	1
+So you could be - we have quite a few SPERT boards. You could set up, uh,	1
+you know, ten different jobs, or something, to run on SPERT - different SPERT boards	1
 and - and have ten other jobs running on different computers.	0
 So, it's got to take that sort of thing, or - or we're not going to get through any significant number of these.	1
 Yeah.	0
@@ -1087,7 +1087,7 @@ uh, sort out about, uh, what's the best way to really,	0
 you know, attack this as a - as a - as a mass problem in terms of using many machines.	0
 Uh, and uh, then, you know, set it up in terms of scripts and so forth, and -	0
 uh, in - in kind o- some kind of structured way. Uh.	0
-Um, and, you know, [MASK]	0
+Um, and, you know, when we go to, uh, O_G_I next week,	0
 uh, we can then present to them, you know, what it is that we're doing.	0
 And, uh, we can pull things out of this list that we think they are doing sufficiently, that, you know, we're not - we won't be contributing that much.	0
 Mmm.	0
@@ -1118,21 +1118,21 @@ And.	0
 Yeah.	0
 Carmen, did you - do you have something else to add? We - you haven't talked too much, and -	1
 D- I begin to work with the Italian database	1
-to - nnn, to - with the f- [MASK]	0
+to - nnn, to - with the f- front-end and with the H_T_K program	1
 and the  @@ .	1
-And I trained eh, with [MASK]	1
-I don't know exactly [MASK]	0
+And I trained eh, with the Spanish two neural network with P_L_P and with LogRASTA P_L_P.	1
+I don't know exactly what is better if - if LogRASTA or J_RASTA.	0
 Well, um,	0
-[MASK]	0
+J_RASTA	0
 has the  potential  to do better, but it doesn't always.	0
-It's - i- i- [MASK]	0
-It's - it's, uh - [MASK]	0
-[MASK]	0
-[MASK]	0
+It's - i- i- J_RASTA is more complicated.	0
+It's - it's, uh - instead of doing RASTA with a log,	0
+you're doing RASTA with a log-like function	0
+that varies depending on a J_ parameter,	0
 uh, which is supposed to be sensitive to the amount of noise there is.	0
 So, it's sort of like the right transformation to do the filtering in, is dependent on how much  noise  there is.	0
 Hm-hmm.	0
-[MASK]	0
+And so in J_RASTA you attempt to  do  that.	0
 It's a little complicated because once you do that, you end up in some funny domain and you end up having to do a transformation afterwards, which requires some tables.	0
 And, uh, so it's - it's - it's a little messier, uh, there's more ways that it can go wrong, uh, but if - if - if you're careful with it, it can do better. So, it's - So.	0
 Hm-hmm.	0
@@ -1144,11 +1144,11 @@ And I working that.	0
 Yeah.	0
 But prepa- to prepare the - the database are difficult.	1
 Was for  me,	1
-n- it was a difficult work last week	0
+n- it was a difficult work last week	1
 with the  labels   because the - the program with the  label   obtained that I have, the Albayzin, is different w- to the  label   to train the neural network.	1
 And   that is another work that we must to do, to - to  change .	1
 I - I didn't understand.	0
-Uh, [MASK] w	0
+Uh, for example Albayzin database was  labeled   automatically with H_T_K.	0
 It's not hand - it's not  labels   by hand.  Labels.   I'm sorry, I'm sorry. The  labels.  I'm sorry.	0
 Oh, "l-  labeled ". I'm sorry, I have a p- I had a problem with  the pronunciation.	0
 The labels.	0
@@ -1160,12 +1160,12 @@ I necessary to convert.	1
 And someti- well -	0
 It's - it's - Yeah.	0
 So you're just having a problem converting the labels.	0
-Yeah, but n- yes, because [MASK]	0
+Yeah, but n- yes, because they have one program, Feacalc, but no, l- LabeCut, but don't - doesn't, eh, include the H_T_K format to convert.	0
 Mm-hmm.	0
 And,	0
 Hmm.	0
 I don't know what. I ask - e- even I ask to Dan Ellis what I can do that, and h- they - he say me that h- he does- doesn't any - any s- any form to - to do that.	0
-And at the end, [MASK]   format,	0
+And at the end, I think that with LabeCut I can transfer to  ASCII   format, and H_T_K is an  ASCII   format.	0
 And I m- do another, uh, one program to put	0
 ASCII   format of H_T_K to ase- ay- ac-  ASCII   format to	0
 Mm-hmm.	0
@@ -1178,7 +1178,7 @@ Yeah.	0
 So it seems like there's - there's some peculiarities of the, uh - of each of these dimensions that are getting sorted out.	1
 And then, um, if - if you work on getting the, uh, assembly lines together, and then the - the pieces sort of get ready to go into the assembly line and gradually can start, you know, start turning the crank, more or less.	1
 And, uh,	0
-uh, we have [MASK] so I think that i- if -	0
+uh, we have a lot more computational capability here than they do at O_G_I, so I think that i- if -	0
 What's - what's great about this is it sets it up in a very systematic way, so that, uh,	1
 once these - all of these, you know, mundane but real problems get sorted out, we can just start turning the crank and - and	1
 Mm-hmm.	0
@@ -1193,9 +1193,9 @@ No, I'm just saying, I'm just thinking of it like loops, right? And so, y- y- y-
 Uh-huh.	0
 Yeah. Mm-hmm.	0
 Right, right.	0
-And, uh, the thing is that once you get a better handle on how much you can realistically do,	0
-uh, um,	0
-concurrently on different machines, different SPERTs, and so forth, uh, and you see how long it takes on what machine and so forth,	0
+And, uh, the thing is that once you get a better handle on how much you can realistically do,	1
+uh, um,	1
+concurrently on different machines, different SPERTs, and so forth, uh, and you see how long it takes on what machine and so forth,	1
 you can stand back from it and say, "O_K, if we look at all these combinations we're talking about, and combinations of combinations, and so forth," you'll probably find you can't do it all.	1
 Mm-hmm.	0
 O_K.	0
@@ -1212,7 +1212,7 @@ Yeah.	0
 Yeah, and the - the  second  thing was about scratch space.	0
 And I think you sent an email about, um, e- scratch space for - for people	0
 to work on. And I know that, uh, Stephane's	0
-[MASK] so his - his home directory exists somewhere else.	0
+working from an N_T machine, so his - his home directory exists somewhere else.	0
 His - his stuff is somewhere else, yeah.	0
 Yeah, I mean, my point I - I want to -	0
 Yeah, thanks for bring it back to that. My - th- I want to clarify my point about that - that - that Chuck repeated in his note.	0
@@ -1245,7 +1245,7 @@ Um.	0
 But, uh,	0
 we've put another - I guess there's another eighteen gigabytes that's - that's in there now to help us with the immediate crunch.	0
 But, uh, are you saying -	0
-So I don't know where  you're - Stephane, where you're doing your computations. If - i- so, [MASK] so you're using some external machine to -	1
+So I don't know where  you're - Stephane, where you're doing your computations. If - i- so, you're on an N_T machine, so you're using some external machine to -	1
 Yeah, it, uh -	0
 Well, to -	0
 It's Nutmeg and Mustard, I think, the -	1
@@ -1276,30 +1276,30 @@ So.	0
 Which, I mean, n- these days, uh,	0
 if you're talking about scratch space, it doesn't increase the, uh, need for backup,	0
 and, uh, I think it's not that big a d- and the - the disks themselves are not that expensive. Right now it's -	0
-What you can do, when you're on that machine, is, uh, just go to [MASK]	0
+What you can do, when you're on that machine, is, uh, just go to the slash-scratch directory, and do a D_F minus K_, and it'll tell you if there's space available.	0
 Yeah.	0
 Uh, and if there is then, uh -	0
 But wasn't it, uh - I think Dave was saying that he preferred that people didn't	0
-[MASK]	1
+put stuff in  slash-scratch.  It's more putting in d- s- X_A or X_B or, right?	0
 Well, there's different - there, um, there's - Right.	0
-So [MASK]	0
+So there's the slash-X_-whatever disks, and then there's slash-scratch.	0
 And both of those two kinds are not backed up.	0
-[MASK] it means it's probably an internal disk to the machine.	0
+And if it's called "slash-scratch", it means it's probably an internal disk to the machine.	0
 Um.	0
 And so that's the kind of thing where, like if -	0
 um,	0
-O_K, [MASK] but you have a - a - a Unix workstation,	0
-and they attach an external disk,  [MASK]	0
-And if [MASK]	0
-But the problem is, if you ever get a new machine, they take your machine away. It's easy to unhook the external disks, put them back on the new machine, but [MASK]	0
+O_K, if you don't have an N_T, but you have a - a - a Unix workstation,	0
+and they attach an external disk,  it'll be called "slash-X_-something" uh, if it's not backed up and it'll be "slash-D_-something" if it  is  backed up.	0
+And if it's inside the machine on the desk, it's called "slash-scratch".	0
+But the problem is, if you ever get a new machine, they take your machine away. It's easy to unhook the external disks, put them back on the new machine, but then your slash-scratch is gone.	0
 So, you don't wanna put anything in slash-scratch that you wanna keep around for a long period of time.	0
 But if it's a copy of, say, some data that's on a server,	0
-[MASK] um,	0
-first of all it's not backed up, and second it doesn't matter if that machine disappears and you get a new machine because you [MASK]	0
+you can put it on slash-scratch because, um,	0
+first of all it's not backed up, and second it doesn't matter if that machine disappears and you get a new machine because you just recopy it to slash-scratch.	0
 So tha- that's why I was saying you could check slash-scratch on those - on - on, um, Mustard and - and Nutmeg to see if - if there's space that you could use there.	0
 I see.	0
-[MASK] on Mustard and Nutmeg.	0
-Yeah, yeah.	1
+You could also use slash-X_-whatever disks on Mustard and Nutmeg.	0
+Yeah, yeah.	0
 Um.	0
 Yeah, and we do have - I mean, yeah, so - so you - yeah, it's better to have things local	0
 if you're gonna run over them lots of times so you don't	0
@@ -1312,10 +1312,10 @@ Yeah, so,  one of the things that I need to - I've  started  looking at -	0
 Uh, is this the appropriate time to talk about the disk space stuff?	0
 Sure.	0
 I've started looking at, um, disk space. Dan - David, um, put a new,	1
-um, drive onto Abbott,	0
+um, drive onto Abbott,	1
 that's an  X_  disk, which means it's not backed up. So,	1
 um, I've been going through and copying	1
-data that is, you know, some kind of  corpus  stuff usually, that - that we've got on a C_D-ROM or something,	0
+data that is, you know, some kind of  corpus  stuff usually, that - that we've got on a C_D-ROM or something,	1
 onto that new disk to free up space  on  other  disks.	1
 And, um, so far, um, I've copied a couple of Carmen's,	0
 um,	0
@@ -1323,8 +1323,8 @@ databases over there.	1
 We haven't deleted them off of the slash-D_C disk that they're on right now in Abbott,	1
 um,	0
 uh, but we -	1
-I would like to go through -	0
-sit down with you about some of these  other  ones and see if we can move them onto, um,	0
+I would like to go through -	1
+sit down with you about some of these  other  ones and see if we can move them onto, um,	1
 this new disk also.	1
 Yeah, O_K.	1
 There's - there's a lot more space there, and it'll free up more space for doing the experiments and things.	0
@@ -1344,7 +1344,7 @@ Um.	0
 This being - ?	0
 So, but -	0
 Uh.	0
-So that this could be another dimension, but we think perhaps we can use the - the best, uh, um, uh, [MASK] so, with	1
+So that this could be another dimension, but we think perhaps we can use the - the best, uh, um, uh, normalization scheme as O_G_I is using, so, with	1
 parameters that they use there, or - and -	1
 Yeah, I think that's a good idea. I mean it's i- i- we - we seem to have enough dimensions as it is. So probably if we	1
 u-  u-	0
@@ -1357,11 +1357,11 @@ Um.	0
 So that it's plausible for the final thing.	0
 Good.	0
 Um.	0
-So, I guess, yeah, th- the other topic -	0
+So, I guess, yeah, th- the other topic -	1
 I - maybe we're already there, or almost there, is goals for the - for next week's meeting.	1
 Uh.	1
 i- i-	0
-i- it seems to me that	0
+i- it seems to me that	1
 we wanna do is flush out what you put on the board here.	1
 Uh.	0
 You know, maybe, have it be somewhat visual,	0
@@ -1370,8 +1370,8 @@ O_K.	0
 Like a s- like a slide?	0
 O_K.	0
 And, um, also, if you have  sorted out, um,	1
-this information about how long i-  roughly  how long it takes to do on what and,	0
-you know, what we can - how many of these trainings, uh, uh, and testings and so forth that we can realistically do,	0
+this information about how long i-  roughly  how long it takes to do on what and,	1
+you know, what we can - how many of these trainings, uh, uh, and testings and so forth that we can realistically do,	1
 uh, then one of the big goals of going there next week would be to - to actually settle on which of them we're gonna do.	1
 And, uh, when we come back we can charge in and do it.	1
 Um.	0
@@ -1386,8 +1386,8 @@ O_K.	0
 Uh.	0
 Alright.	0
 And uh - and the other - the - the last topic I had here	1
-was, um, uh d-	0
-Dave's fine offer to -	0
+was, um, uh d-	1
+Dave's fine offer to -	1
 to, uh,  do  something   on  this.  I mean he's doing -	1
 - he's working on other things,  but to - to do something on  this  project.	1
 So the question is, "Where - where could we, uh, uh, most use Dave's help?"	1
@@ -1395,8 +1395,8 @@ Um, yeah, I was thinking perhaps if, um,	0
 additionally to all these experiments,  which  is not really research,	0
 well I mean it's, uh, running programs and, um,	1
 Yeah.	0
-trying to have a closer look at the - perhaps the, um,	0
-speech, uh, noise detection or,	0
+trying to have a closer look at the - perhaps the, um,	1
+speech, uh, noise detection or,	1
 uh, voiced-sound-unvoiced-sound detection and -	1
 Which could be important in - i- for noise - noise -	0
 I think that would be a - I think that's a big - big deal.	0
@@ -1416,7 +1416,7 @@ you thought it'd be a  good  thing to do.	0
 Um, I - I think that -	0
 Let's fall back to that. But I think the first responsibility is sort of to figure out if there's something  that, uh, an - an additional -	1
 Uh, that's a good thing you - remove the mike. Go ahead, good.	0
-Uh,  uh.	0
+Uh,  uh.	1
 What an additional clever person could help with when we're really in a crunch for time.	1
 Right? Cuz Dave's gonna be around for a long time, right? He's - he's gonna be here for  years.	0
 Yeah.	0
@@ -1433,7 +1433,7 @@ What about training up a, um,	0
 Uh.	0
 a multilingual net?	0
 Yeah.	0
-Yes, maybe to, mmm, put together the - the label - [MASK] or something like that.	0
+Yes, maybe to, mmm, put together the - the label - the labels between TIMIT and Spanish or something like that.	0
 Yeah, so defining the superset, and, uh, joining the data and -	0
 Yes.	0
 Yeah.	0
@@ -1488,7 +1488,7 @@ Well, creating the mappings, actually. Yeah.	1
 Or on - or on multiple language -  multiple languages?	0
 No.	0
 Yeah, yeah, with the  @@  three languages, and -	0
-The multiple language. Maybe for [MASK]	0
+The multiple language. Maybe for the other language because TIMIT have more phone.	0
 Yeah.	0
 Uh.	0
 So you'd have to create a mapping from each language to the superset.	0
@@ -1496,23 +1496,23 @@ Yeah. Mm-hmm.	0
 From each language to the superset, yeah. Mmm.	0
 Yeah.	0
 There's, um -	0
-[MASK]  and it's, um,	0
+Carmen was talking about this SAMPA thing,  and it's, um,	0
 it's an effort by linguists to come up with, um,	0
-[MASK] um, sort of thing, right?	0
+a machine readable I_P_A, um, sort of thing, right?	0
 And, um, they - they have a web site that Stephane was showing us that has, um -	0
 Yeah.	0
-has all [MASK] and then, um, they have Spanish, they have German, they have all - all sorts of languages, um, mapping -	0
-Yeah, the tr- the transcription, though, for Albayzin is n- [MASK]	0
-[MASK]	0
-[MASK]	0
+has all the English phonemes and their SAMPA correspondent, um, phoneme, and then, um, they have Spanish, they have German, they have all - all sorts of languages, um, mapping - mapping to the SAMPA phonemes, which -	0
+Yeah, the tr- the transcription, though, for Albayzin is n- the transcription are of SAMPA the same, uh, how you say, symbol that SAMPA appear.	0
+SAMPA?	0
+What does "SAMPA" mean?	0
 Mm-hmm.	0
 Hmm.	0
-[MASK]	0
+But I don't know if TIMIT o- how is TIMIT.	0
 So, I mean -	0
 What -	0
 I'm sorry.	0
 Go ahead.	0
-I was gonna say, [MASK]	0
+I was gonna say, does that mean I_P_A is not really international?	0
 No, it's - it's saying - y-	0
 It uses special diacritics and stuff, which you can't do with ASCII characters.	0
 Yeah.	0
@@ -1650,7 +1650,7 @@ got all the  phones  right. So, if that  doesn't  help, there's -	0
 Yeah.	0
 Although, yeah, it  would  be - make an interesting cheating experiment because we are using it in this funny way, where we're converting it into features.	0
 Yeah.	0
-And [MASK]	0
+And then you also don't know what error they've got on the H_T_K side.	0
 You know?	0
 Yeah.	0
 It sort of gives you your - the best you could hope for, kind of.	0
@@ -1677,7 +1677,7 @@ Right? Linear outputs?	0
 Linear outputs?	0
 Isn't that what you'll want?	0
 Um.	0
-[MASK]	0
+If you're gonna do a K_L Transform on it.	0
 Right, right.	0
 Right, but during the training,	0
 we  would train  on sigmoid-X_ and then	0

@@ -85,11 +85,11 @@ Oh,  I  see, but the a- but the - but the -	0
 Right, so if I said, "Oh, hi Jerry, how are you?", we're not gonna go through and cancel out the "Jerry"s.	0
 Yeah.	0
 Sure.	0
-Um, so we  will  go through and, in the speaker I_D tags there'll be, you know, [MASK]	0
+Um, so we  will  go through and, in the speaker I_D tags there'll be, you know, M_one O_ seven, M_one O_ eight.	0
 Right.	0
 Right.	0
 Um, but uh,	0
-um, it w- uh, I don't know a good way of doing it on the  audio,  and still have people who are doing  [MASK] be able to use the data.	0
+um, it w- uh, I don't know a good way of doing it on the  audio,  and still have people who are doing  discourse  research be able to use the data.	0
 O_K.	0
 Mm-hmm. No, I - I wasn't complaining, I just wanted to understand.	0
 Yep.	0
@@ -112,7 +112,7 @@ Um, O_K. So why  don't  you tell us briefly	0
 your - give - give your e- normal schpiel.	0
 O_K. So th-	0
 Um.	0
-So this is - The project is called [MASK] and there are lots of different aspects of the project. Um.	0
+So this is - The project is called Meeting Recorder and there are lots of different aspects of the project. Um.	0
 So  my  particular interest is in the P_D_A of the future.	0
 This is a mock-up of one. Yes, we do believe the P_D_A of the future will be made of wood.	0
 Um.	0
@@ -123,34 +123,34 @@ So that's my particular interest, is a portable device to do m- uh, information 
 Other people are interested in other aspects of meetings.	0
 Um. So the first step on that, in  any  of these, is to collect some data.	0
 And so what we wanted is a room that's instrumented with both	0
-the table top microphones, and these are very high quality [MASK]	0
-as well as the [MASK]	0
-What [MASK] gives us is some ground truth,	0
+the table top microphones, and these are very high quality pressure zone mikes,	0
+as well as the close talking mikes.	0
+What the close talk- ng- talking mikes gives us is some ground truth,	0
 gives us, um, high quality audio,	0
 um, especially for people who aren't interested in the  acoustic  parts of this corpus. So, for people who are more interested in language,	0
-we didn't want to  penalize  them by having only the [MASK] available.	0
+we didn't want to  penalize  them by having only the far field mikes available.	0
 And then  also,  um, it's a very, very hard task in terms of speech recognition.	0
 Um.	0
 And so, uh, on the far field mikes we can expect very low recognition results.	0
-So we wanted [MASK] to at least  isolate  the difference between the two.	0
-So that's why we're recording in parallel with [MASK] at the same time.	0
-And then,  all  these channels are recorded simultaneously and [MASK]   so that you can also do things like, um,	0
+So we wanted the near field mikes to at least  isolate  the difference between the two.	0
+So that's why we're recording in parallel with the close talking and the far field at the same time.	0
+And then,  all  these channels are recorded simultaneously and framed  synchronously   so that you can also do things like, um, beam-forming on all the microphones and do research like that.	0
 Our intention is to release this data to the public,	0
-um, probably through f- through a body like [MASK]	0
+um, probably through f- through a body like the L_D_C.	0
 And, uh, just make it as a generally available corpus.	0
 Um.	0
-There's other work going on in meeting recording. So, we're - we're working with [MASK]	0
-[MASK]	0
+There's other work going on in meeting recording. So, we're - we're working with S_R_I,	0
+with U_W,	0
 Um.	0
-[MASK] has started an effort which will include video.	0
+NIST has started an effort which will include video.	0
 We're not including video, obviously.	0
 And uh -	0
 and then also, um, a small amount of assistance from I_B_M.	0
 Is also involved.	0
 Um.  Oh,  and the  digit  strings, this is just a more constrained  task.  Um.	0
 So because the general environment is so challenging, we decided to - to do at least one set of digit strings	0
-to give ourselves something easier. And it's exactly the same digit strings as in [MASK] which is a	0
-[MASK] So we'll have some, um, comparison to be able to be made.	0
+to give ourselves something easier. And it's exactly the same digit strings as in T_I-digits, which is a	0
+common connected digits corpus. So we'll have some, um, comparison to be able to be made.	0
 O_K.	0
 Anything else?	0
 No.	0
@@ -179,7 +179,7 @@ No.	0
 I  got it.	0
 What was the nature of the email?	0
 Oh, this was about	1
-um, inferring intentions from features  in  context,	0
+um, inferring intentions from features  in  context,	1
 and the  words,   like "s- go to see", or "visit", or some-	1
 Wel- we- I - uh - I - I -  @@	0
 You didn't get it?	0
@@ -200,7 +200,7 @@ um, and	0
 focus on that object down -	0
 Oh, I can actually walk with this. This is nice.	0
 down here.	0
-That's [MASK]	0
+That's the Powder-Tower.	0
 Now, um,	0
 we found in our, uh,	0
 data and from experiments, that	0
@@ -226,10 +226,10 @@ That's ab- er, i-	1
 the  street  network of our geographic information system.	1
 And you can tell that we	0
 deliberately cut out this part.	0
-Because otherwise we couldn't get [MASK] to take - to lead people this way.	0
+Because otherwise we couldn't get our G_I_S system to take - to lead people this way.	0
 It would always use the closest point to the object, and then the tourists would be faced, you know, in front of a wall, but it would do them absolutely no good.	1
 So,	1
-what we found interesting is, first of all,	0
+what we found interesting is, first of all,	1
 intentions differ.	1
 Maybe you want to  enter  a building.	1
 Maybe you want to  see  it, take a  picture  of it.	1
@@ -241,14 +241,14 @@ Yeah, maybe you would want to touch it. Um.	0
 Okay, I - This, um -	0
 These intentions, we - w- w- we  could,	0
 if we want to,	0
-call it the - [MASK]	0
+call it the - the Vista mode,	0
 where we just want to - eh - s- get the overview or look at it,	0
-[MASK]	0
-and the, well, [MASK] I always come up with - with silly names. So th	0
-So - But sometimes the - [MASK] is really relevant in the - in the sense that, um,	0
+the Enter mode,	0
+and the, well, Tango mode. I always come up with - with silly names. So this "Tango" means, literally translated, "to touch".	0
+So - But sometimes the - the Tango mode is really relevant in the - in the sense that, um,	0
 if you want to, uh -	0
 If you don't have the intention of  entering  your building,	1
-but you know that something is really  close  to it,	0
+but you know that something is really  close  to it,	1
 and you just want to  approach  it, or get  to  that building.	1
 Consider, for example, the Post Office in Chicago, a building so large that it has its own  zip  code.	0
 So the  entrance  could be  miles  away	0
@@ -295,7 +295,7 @@ That's something we found.	0
 It's just a truism.	1
 And the   places   where you will  lead  them for these intentions	1
 are sometimes ex- in- incredibly different. I - I gave an example where the point where you end up if you want to look at it is completely different from where - if you want to enter it.	1
-So, this is sort of how people may, uh - may  phrase  those requests to a - a - a mock-up system at least that's the way they did it.	0
+So, this is sort of how people may, uh - may  phrase  those requests to a - a - a mock-up system at least that's the way they did it.	1
 And we get tons of - of these "how do I get to", "I want to go to", but also, "give me directions to", and "I would like to see".	1
 And um,	0
 what we can sort of  do,  if we look  closer   a- closer at the - the data -	0
@@ -303,7 +303,7 @@ That was the wrong one.	0
 um, we can look at some factors that may make a difference.	1
 First of all,	0
 very important, and um, that -	0
-I've completely forgot that when we talked.	0
+I've completely forgot that when we talked.	1
 This is of course a  crucial  factor, "what type of object is it?"	1
 So,  some  buildings you just don't want to take pictures of.	0
 Or very rarely.	0
@@ -312,8 +312,8 @@ Some objects are  more  picturesque,	0
 and you - more f- more highly photographed. Then of course the -	1
 the actual phrases may give us some idea of what the person wants.	1
 Um.	1
-Sometimes I found in the - Uh, looking at the data,	0
-in a  superficial  way, I found some s- sort of  modifiers  that -	0
+Sometimes I found in the - Uh, looking at the data,	1
+in a  superficial  way, I found some s- sort of  modifiers  that -	1
 that m- may also give us  a  hint, um,	1
 "I'm  trying  to get to"	0
 Nuh? "I  need  to get to".	0
@@ -325,25 +325,25 @@ influence the interpretation of - of a phrase. So, this is, uh, really uh, uh, u
 My suggestion is really simple.	0
 We start with, um -	0
 Now,	0
-Let me, uh, say one more thing. What we  do  know, is that the parser we use in [MASK] will never differentiate between  any  of these.	1
+Let me, uh, say one more thing. What we  do  know, is that the parser we use in the SmartKom system will never differentiate between  any  of these.	1
 So, basically  all  of these things will result in the same	0
-[MASK]	0
+X_M_L M_-three-L_ structure.	0
 Sort of action "go", and then an object. Yeah? and a source. So it's - it's - it's way too crude to d-	1
 Mm-hmm.	0
 capture those differences in intentions.	1
 So, I thought, "Mmm! Maybe for a deep understanding task, that's a nice sort of playground or first little thing."	1
-Where we can start it and n- sort of look - "O_K, we  need,  we gonna get [MASK]	1
+Where we can start it and n- sort of look - "O_K, we  need,  we gonna get those M_-three-L_ structures. The crude, undifferentiated parse.	1
 Interpreted input.	0
-We may need additional part of speech, or maybe just some information on the verb, and [MASK]	0
+We may need additional part of speech, or maybe just some information on the verb, and modifiers, auxiliaries.	0
 We'll see. And I will try to - to sort of come up with a list of factors that we need to get out of there, and maybe we want to get a g- switch for the context.	1
 So this is not something which we can actually monitor,	0
 now,	0
 but just is something we can set.	0
-And then you can all imagine sort of a - [MASK] depending on - on what, um, comes out.	0
+And then you can all imagine sort of a - a constrained satisfaction program, depending on - on what, um, comes out.	0
 We want to have an - a structure resulting	0
-if we feed it through [MASK] or - or something along those lines.	1
-We'd get an inferred intention, we - we produce a structure that differentiates between [MASK]	0
-um, [MASK] Which I think we maybe want to	1
+if we feed it through a belief-net or - or something along those lines.	1
+We'd get an inferred intention, we - we produce a structure that differentiates between the Vista, the Enter, and the,	1
+um, Tango mode. Which I think we maybe want to	1
 ignore. But.	0
 That's my idea. It's up for discussion.	0
 We can change all of it, any bit of it.	0
@@ -362,9 +362,9 @@ And, the - the i- uh, Robert and I talked about this some on Friday.	0
 And	0
 we  think  it's well-formed.	0
 So we  think  it's a well-formed,	1
-uh, starter task for this,	0
+uh, starter task for this,	1
 uh, deeper understanding in the tourist domain.	1
-So, where exactly is the, uh, deeper understanding being done? Like I mean, s- is it before [MASK] Is it, uh -	0
+So, where exactly is the, uh, deeper understanding being done? Like I mean, s- is it before the Bayes-net? Is it, uh -	0
 Well, it's the - it's - it's  always   all  of it.	0
 So, in  general  it's  always  going to be, the answer is,	0
 everywhere.	0
@@ -374,11 +374,11 @@ And, so that's - that's the quote "deep" that we're trying to get at. And, Rober
 the current front-end	0
 doesn't give you any way to - Not only doesn't it  do  it,	0
 but it also doesn't  give  you enough information to do it. It isn't like, if you just took what the front-end  gives  you,	0
-and used some clever  [MASK] on it, you would be able to figure out which of these is going on.	0
+and used some clever  inference  algorithm on it, you would be able to figure out which of these is going on.	0
 So,	0
-uh, and this is - Bu- I- in general it's gonna be true of any kind of deep understanding, there's gonna be [MASK] there're gonna b	1
+uh, and this is - Bu- I- in general it's gonna be true of any kind of deep understanding, there's gonna be contextual things, there're gonna be linguistic things, there're gonna be discourse things,	1
 and they gotta be combined.	1
-And, my idea on how to  combine  them is with [MASK] although it may turn out that t- some totally different thing is gonna work better.	1
+And, my idea on how to  combine  them is with a belief-net, although it may turn out that t- some totally different thing is gonna work better.	1
 Um,	0
 the idea would be that	0
 you, uh,	0
@@ -394,26 +394,26 @@ Um, but the p- the -  Anyway.  So the thing is,	0
 i- uh, d-	0
 naively  speaking,	0
 you've - you've got a -	0
-for this little task, [MASK]	0
+for this little task, a  belief-net,	1
 which is going to have as  output,	1
 the conditional pr- probability of one of three things,	1
-that the person wants to - uh, to View it, to Enter it, or [MASK]	0
+that the person wants to - uh, to View it, to Enter it, or to Tango with it.	0
 Um.	0
-So that - the - the  output  of [MASK] is	0
+So that - the - the  output  of the belief-net is	0
 pretty well formed.	0
 And, then the  inputs	0
 are going to be  these  kinds of things.	0
 And, then the question is -	0
 there are  two  questions - is, uh,  one,  where do you get this i-	1
-information from, and  two,  what's the structure of [MASK]	1
-So what  are  [MASK]	1
+information from, and  two,  what's the structure of the belief-net?	1
+So what  are  the conditional probabilities	1
 of this, that, and the other, given these things?	1
 And you probably need intermediate nodes. I - we don't know what they are yet.	1
 So it may well be that, uh, for example,	0
 that, uh, knowing whether -	0
 Oh,  another  thing you want	1
-is some information	0
-abou- I  think,	0
+is some information	1
+abou- I  think,	1
 about the time of day.	1
 Now, they may wanna call that part of context.	0
 But the time of day matters a  lot.	0
@@ -451,44 +451,44 @@ I have one more point to - to Bhaskara's question. Um, I think also the - the - 
 um,  want  it in terms of	0
 our  modeling.  We can start, you know, basic from	0
 human beings, model that, its motions,	0
-going, walking, seeing, we can mem- model all of  that  and then  compose  whatever inferences o- we  make  out of [MASK]	0
+going, walking, seeing, we can mem- model all of  that  and then  compose  whatever inferences o- we  make  out of these really conceptual  primitives.	0
 That will be  extremely  deep in the - in - in - in  my  understanding.	0
 Yeah.	1
-S- so - so the way that  might  come up,	0
-if you wanna - Suppose you wanted to do that, you might say,	0
-"Um, as an  intermediate  step in your belief-net, is there a [MASK]	0
+S- so - so the way that  might  come up,	1
+if you wanna - Suppose you wanted to do that, you might say,	1
+"Um, as an  intermediate  step in your belief-net, is there a Source-Path-Goal	1
 schema involved?"	1
 O_K? And if so, uh, is there a focus on the goal? Or is there a focus on the path? or something.	1
 And that could be, uh,	0
 one of the conditiona- you know, th- the -	0
-In some piece of [MASK] that could be the - the appropriate thing to  enter.	0
-So, where would we extract that information from? From [MASK]	0
+In some piece of the belief-net, that could be the - the appropriate thing to  enter.	0
+So, where would we extract that information from? From the M_-three-L_?	0
 No.	0
-No.  See, [MASK] is not gonna give th- What he was  saying  is,	1
-[MASK] does not have  any  of that. All it has is some  really  crude stuff saying,	1
+No.  See, the M_-three-L_ is not gonna give th- What he was  saying  is,	1
+the M_-three-L_ does not have  any  of that. All it has is some  really  crude stuff saying,	1
 Right.	0
 "A person wants to go to a place."	0
-[MASK]	1
+The M_-three-L_ is the old SmartKom output?	1
 O_K.	0
 Right.	1
-[MASK]  itself  refers t	0
+M_-three- well, M_-three-L_  itself  refers to Multimedia Mark-up Language.	0
 It's just a language. Right, yeah.	0
 So we have th- w- we- we	0
 we have to have a better w- way of referring to -	0
 The parser output?	0
 Mm-hmm.	0
 Yeah. The -	0
-[MASK] I think it's what they call it, really,   oder   -	0
+" Analyzed  speech" I think it's what they call it, really,   oder   -	0
 Well, O_K.	0
 Yeah.	0
-o- th- No, actually, [MASK] is what we're gonna get.	0
-Is- i- but they c- they call it [MASK] but tha-  Anyway.	0
-In- in- a- [MASK]  They	0
-Right.	0
+o- th- No, actually, intention lattices is what we're gonna get.	0
+Is- i- but they c- they call it intention lattice, but tha-  Anyway.	0
+In- in- a- intention lattice k-  Hypothesis.  They call it intention hypotheses.	0
+Right.	1
 So, th- they're gonna give us some cr- uh - or - We can assume that y- you get this crude information.	1
 About intention, and that's all they're going to provide.	1
 And they  don't  give you the kind of object, they don't give you	1
-any [MASK] if you want to keep that you have to keep it somewhere else.	0
+any discourse history, if you want to keep that you have to keep it somewhere else.	0
 Well, they keep it. We have to request it.	0
 Right.	0
 Nuh?	0
@@ -497,15 +497,15 @@ Well, they - they kee- they keep it by  their  lights. It may - it may or may no
 Hmm.	0
 Yeah, or i-	0
 be what - what  we  want. Yeah.	0
-So, if someone says, "I wanna touch the side of [MASK]",	0
+So, if someone says, "I wanna touch the side of the Powder-Tower",	0
 that would -	0
-basically, we need to pop up [MASK] and the -	0
+basically, we need to pop up Tango mode and the -	0
 and the directions?	0
 If i- if - Yeah, if it got as simple as that, yeah. But it wouldn't.	0
 Yeah.	0
 O_K.	0
 But that doesn't necessarily -	0
-But  we'd have to infer [MASK] to some degree for	0
+But  we'd have to infer a Source-Path-Goal to some degree for	0
 touching the side, right?	0
 Well -	0
 Uh, th- the- there is a p- a point there if I understand you. Correct?	0
@@ -519,19 +519,19 @@ That's what they  say,  is, "Where is it?".	0
 Where  is  that damn thing?	0
 And the parser would output -	0
 Well, that's	0
-a - a  question  mark. sh-	0
+a - a  question  mark. sh-	1
 A lot of parsers, um,	1
 just, uh -	0
 That's  way  beyond their scope, is - of interpreting that. You know?	1
 But um,	0
 still outcome w- the outcome will be some form of structure,	0
-with the town hall and maybe saying it's [MASK] on the town hall. But to  interpret  it,	0
+with the town hall and maybe saying it's a W_H focus on the town hall. But to  interpret  it,	0
 Mm-hmm.	0
 you know? somebody  else  has to do  that  job  later.	0
 Yeah.	0
-I'm just trying to figure out what [MASK] would output,	0
+I'm just trying to figure out what the SmartKom system would output,	0
 depending on these  things.	0
-Um, it will probably tell you how far away it is, at least that's - That's even what [MASK] does. It tells you how far away it is, and - and shows it to you on a map.	0
+Um, it will probably tell you how far away it is, at least that's - That's even what Deep Map does. It tells you how far away it is, and - and shows it to you on a map.	0
 Because i- we can not differentiate, at the  moment,  between, you know, the intention of wanting to  go  there or the intention of just know- wanting to know where - where it  is.	1
 People  no- might not be able to infer that  either,  right? Like the fact -	0
 Like, I could imagine if someone came up to me and asked, "Where's the city hall?",	0
@@ -541,7 +541,7 @@ um, t- its location - uh, p- probably depend on whether I think I should give th
 Mm-hmm.	0
 @@	0
 say, you know, whatever, "It's half a mile away" or something like that.	0
-It's [MASK] because where people ask you, "Where is New  York? ", you will tell them it's on the East  Coast.	0
+It's a granularity factor, because where people ask you, "Where is New  York? ", you will tell them it's on the East  Coast.	0
 Yeah .	0
 Uh-huh. Yeah. Exactly.	0
 Right.	0
@@ -562,17 +562,17 @@ and then t- coupled with time of day,	0
 um,	0
 this should -	0
 You know .	0
-So that context was like, um, [MASK] i- like business or travel,	0
-as  well  as [MASK] like, "I'm now standing at this place at this time".	0
+So that context was like, um, their presumed  purpose  context, i- like business or travel,	0
+as  well  as the utterance context, like, "I'm now standing at this place at this time".	0
 Yeah, well I think we ought to d-	1
-a- As we have all along, d-	0
-We - we've been distu-	0
-distinguishing between  [MASK] which is what you have as context,	1
-and  [MASK] which you have	1
+a- As we have all along, d-	1
+We - we've been distu-	1
+distinguishing between  situational  context, which is what you have as context,	1
+and  discourse  context, which you have as D_H, I don't know what the H_ means.	1
 Mm-hmm.	0
 Nuh.	0
 History.	0
-[MASK]	0
+Discourse history.	0
 O_K.	0
 Yeah.	0
 Whatever.	0
@@ -583,21 +583,21 @@ I mean, you  need  them both, but they're quite  distinct.	0
 And, so what we were  talking  about doing, a- a- as a  first  shot,	0
 is  not   doing  any of the  linguistics.	0
 Except to find out what seems to be   useful.	0
-So, the - the - the reason [MASK]  is in  blue,	0
+So, the - the - the reason the  belief-net  is in  blue,	0
 is the notion would be -	0
 Uh, this may be a bad dis- bad  idea,  but the idea is	1
-to take as a first  goal,	0
-see if we could actually  build  [MASK]	0
-that  would  make [MASK]	0
+to take as a first  goal,	1
+see if we could actually  build  a belief-net	1
+that  would  make this three way distinction	1
 uh, in a plausible  way,  given	1
 these - We have all these transcripts and we're able to,	1
-by  hand,  extract the features to put in [MASK] Saying, "Aha! here're the things which, if you  get  them out of - out of the language and discourse, and put them int	1
+by  hand,  extract the features to put in the belief-net. Saying, "Aha! here're the things which, if you  get  them out of - out of the language and discourse, and put them into the  belief-net,  it would tell you	1
 which of these three uh,  intentions  is most  likely. "	1
 And if - to actually  do  that, build it, um - you know, run it - y- y- run it on the  data  where you hand-transcribe	1
 the parameters.	1
 And see how that goes.	0
 If that goes  well,	1
-then we can start worrying about how we would	0
+then we can start worrying about how we would	1
 extract  them.	1
 So - where would you  get  this information?	0
 And,  expand it to - to other things  like  this.	1
@@ -606,12 +606,12 @@ then we're in  trouble.	1
 I mean th- th- i- i- if you  can't  do  this  task,	0
 um -	0
 We need a different, uh,  engine.   Machine,  I mean.	0
-Uh,  uh , yeah, or  something.  Well it - i- I- if it - if it's [MASK]  we- we'll switch to you know,  logic  or some terrible thing, but	0
+Uh,  uh , yeah, or  something.  Well it - i- I- if it - if it's the  belief-nets,  we- we'll switch to you know,  logic  or some terrible thing, but	0
 I don't think that's gonna be the case. I think that,	1
-uh, if we can get the information,	0
-[MASK] is a perfectly  good  way of	0
-doing the	0
-[MASK]  of it.	1
+uh, if we can get the information,	1
+a belief-net is a perfectly  good  way of	1
+doing the	1
+inferential  combination  of it.	1
 The  real  issue is, do- what  are  the factors involved in  determining  this?	1
 And I don't  know.	0
 Hmm.	0
@@ -627,7 +627,7 @@ These are the ones that you said that we are going to  ignore  now? or that we w
 take into account? You were saying	0
 n-	0
 Take  them into  account.	0
-Take the - [MASK]  too.	0
+Take the - the linguistic factors  too.	0
 But - but you  don't  worry about - h-	0
 Oh, how to  extract  these features. O_K.	0
 how to  extract   them.	0
@@ -648,7 +648,7 @@ O_K. So -	0
 Not from  that  data.	1
 But, um, since we are  designing	1
 Mm-hmm.	0
-a - a - a - an, compared to this, even  bigger  data collection effort,	0
+a - a - a - an, compared to this, even  bigger  data collection effort,	1
 Mm-hmm.	0
 um, we will  definitely  take care to put it  in  there,	1
 Mm-hmm.	0
@@ -659,18 +659,18 @@ Right.	0
 to see whether	0
 we  can,  then, get	0
 sort of empirically validated data.	0
-Um, from  this,  we can  sometimes,  you know - an- and  that's  - that - but that - isn't that what we need for [MASK] anyhow? is sort of -	0
+Um, from  this,  we can  sometimes,  you know - an- and  that's  - that - but that - isn't that what we need for a belief-net anyhow? is sort of -	0
 s- sometimes when people want to just  see  it, they phrase it  more  like this?	0
 Mm-hmm.	0
 But it doesn't exclude anybody from phrasing it totally  differently,  even if they  still  -  you know?	0
 Right.	0
 Right.	0
-But then  other  factors may come into play that change [MASK]	0
+But then  other  factors may come into play that change the outcome of their belief-net.	0
 Right.	0
 So, um, this is exactly  what  - Because y- you can  never  be sure. And I'm sure even i- the most, sort of, deliberate data collection experiment will never give you data that say, "Well, if it's phrased like that,	1
 Sure.	0
 the intention is this." You know, because then, uh, you -	1
-u- u- I mean, the only way you could get that is if you were to give th- [MASK] a task.	0
+u- u- I mean, the only way you could get that is if you were to give th- the x- subjects a task.	0
 Right?  Where you have - where  your, uh, current	0
 goal is to -	0
 We-	0
@@ -710,12 +710,12 @@ No, no. No.	0
 But  O_K. So was this, like, someone actually mobile, like -	0
 s- using a device?	0
 Uh,	0
-N- no, no- not - i- it  was  mobile but not - not with a w- [MASK] So there were never answers.	0
+N- no, no- not - i- it  was  mobile but not - not with a w- a  real  wizard system. So there were never answers.	0
 Uh-huh.	0
 O_K. O_K. But, is it -	0
 I guess I don't know - The situation of - of collecting th- the data of, like - Here you could imagine them being - walking around the city.	0
 as like  one  situation. And then you have all sorts of other	0
-c- [MASK] that would influence	0
+c- situational context factors that would influence	0
 w- how to interpret, like you said, the scope and things like that.	0
 Mm-hmm.	0
 If they're doing it in a - you know, "I'm sitting here with a map and asking questions",	0
@@ -742,10 +742,10 @@ Mm-hmm.	0
 so that we get a clearer notion of what input we need	1
 Mm-hmm.	0
 for that,	1
-what suffices and what doesn't.	0
+what suffices and what doesn't.	1
 And  then  we can start worrying about where to get this input, what -	1
 what do we need, you know -	0
-Ultimately  once we  are   all  experts in changing that  parser,  for example, maybe, there's just a couple three things we need to  do  and then we get more whatever, part of speech and [MASK]	0
+Ultimately  once we  are   all  experts in changing that  parser,  for example, maybe, there's just a couple three things we need to  do  and then we get more whatever, part of speech and more construction-type-like	0
 Mm-hmm.	0
 Hmm.	0
 stuff out of it.	0
@@ -754,7 +754,7 @@ How exactly does the data collection work? Do they have a map,	1
 and then you give  them   a scenario of some sort?	0
 O_K.	0
 Imagine you're the - the subject. You're gonna be in here, and somebody - And - and you see, uh,	1
-either th- the three-D_ model,	0
+either th- the three-D_ model,	1
 or uh, a QuickTime animation of standing u- in a square in Heidelberg.	1
 So you actually see that.	0
 Um.	0
@@ -778,7 +778,7 @@ And -	0
 After  the third task.	0
 O_K.	0
 And then -	0
-Or after the fourth. Some find -  @@   Forget that for now.	0
+Or after the fourth. Some find -  @@   Forget that for now.	1
 And then, a human operator comes on,	1
 and - and exp- apologizes that the system has crashed, but, you know, urges you to continue, you know?	1
 now with a human operator.	0
@@ -831,7 +831,7 @@ Uh,  what are you ste- what are you supposed to be telling the system? Like, w-	
 what you're  doing  now? or -	0
 Well, we'll see what people do.	0
 There's no - O_K, so it's just like, "Let's figure out what they would say	1
-Yeah, and - and we will record both sides. I mean, we will record the Wi- [MASK] -	0
+Yeah, and - and we will record both sides. I mean, we will record the Wi- the Wizard -	0
 under the circumstances".	1
 Uh-huh. Uh-huh.	0
 I mean, in  both  cases it's gonna be a human, in the	0
@@ -855,7 +855,7 @@ O_K? So.	1
 Uh, we - we have to have this discussion of th- the experiment, and the data collection, and all that sorta stuff	1
 Uh-huh.	0
 and we do have, um, a student who	0
-is [MASK]	0
+is a candidate for wizard.	0
 Uh, she's gonna get in touch with me. It's a student of Eve's.	0
 F_E_Y, Fey? Spelled F_E_Y. Do you - do you -	0
 Oh, Fey Parrill. Yeah. Uh-huh.	0
@@ -885,12 +885,12 @@ uh, data collection and design and stuff.	0
 So, when we  get  to that we'll have some people doing it that know what they're doing.	0
 O_K.	0
 I guess the reason I was asking  about  the sort of the de- the details of this kind of thing is that, um,	1
-it's one thing to collect data for, I don't know, [MASK] or various other tasks that have pretty c- clear	0
+it's one thing to collect data for, I don't know, speech recognition or various other tasks that have pretty c- clear	1
 correct answers, but with  intention	1
 um, obviously, as you point out, there's a lot of di- other factors and -	1
-I'm  not really sure, um,	0
-how - how - e- the question of how to make it a t- appropriate toy	0
-version of that -	0
+I'm  not really sure, um,	1
+how - how - e- the question of how to make it a t- appropriate toy	1
+version of that -	1
 Um, it's ju- it's just hard. So, I mean, obviously it's a -	1
 Yeah, uh, actually I guess that was my question. Is the intention implicit in the scenario that's given?	0
 Like,	0
@@ -907,16 +907,16 @@ Right.	0
 Mm-hmm.	0
 But, uh,	0
 the -	1
-The problem that I was tr- gonna try to focus on today was,	0
-let's suppose by magic you could collect dialogues in which, one way or the other,	0
+The problem that I was tr- gonna try to focus on today was,	1
+let's suppose by magic you could collect dialogues in which, one way or the other,	1
 you  were  able to, uh, figure out both the intention, and set the context, and	1
 know what language was used. So let's suppose that we can get that kind of data.	1
-Um.	0
+Um.	1
 The issue is, can we	1
-find a way to, basically,  [MASK] so that we get some discrete number of features so that,	1
-uh, when we know the values to all those features, or as many as possible, we can w- come up with the best estimate of which of the,	0
-in this case three little intentions,	0
-are	0
+find a way to, basically,  featurize  it so that we get some discrete number of features so that,	1
+uh, when we know the values to all those features, or as many as possible, we can w- come up with the best estimate of which of the,	1
+in this case three little intentions,	1
+are	1
 most  likely.	1
 w- What are the t- three intentions? Is it to go there, to see it, and -	0
 To come as close as possible to it.	0
@@ -940,7 +940,7 @@ Mm-hmm.	0
 uh, could be quite different than either of  those.	0
 Mm-hmm.	0
 Just sort of -	0
-O_K, so now I understand the referent of [MASK]	0
+O_K, so now I understand the referent of Tango mode.	0
 See, I would have thought it was more of a waltz.	0
 I didn't get that before.	0
 S-	0
@@ -953,10 +953,10 @@ All these	0
 So, like, the question is  how  what features can -	0
 like, do you wanna try to extract from, say, the parse or whatever?	0
 Right.	0
-Like, the presence of a word or [MASK] or -	0
+Like, the presence of a word or the presence of a certain uh, stem, or -	0
 Right.	0
 certain construction or whatever.	0
-Is there [MASK] or the kind of object, or	1
+Is there a construction, or the kind of object, or	1
 w- uh, anything else that's in the si- It's either in the - in the s- the discourse itself or in the context.	1
 So if it turns out that, whatever it is, you want to know whether the person's uh, a  tourist  or not,	1
 O_K? that becomes a  feature.	1
@@ -965,16 +965,16 @@ is another  issue.  But fo- for the  current  problem,	1
 it would just be, "O_K, if you can be sure that it's a tourist, versus a businessman, versus a  native, "	0
 or something,	0
 uh, that would give you	0
-a  lot  of  discriminatory   power and then just have a little section in your [MASK] that said,	0
+a  lot  of  discriminatory   power and then just have a little section in your belief-net that said, "pppt!"	1
 Though sin- f- in the  short  run, you'd  set  them,	1
 Mm-hmm.	0
 and see ho- how it worked, and then in the longer run,	1
-you would figure out how you could  derive  them.	0
+you would figure out how you could  derive  them.	1
 Right.	0
 From previous discourse or w- any- anything else you  knew.	1
 So, how should - What's the uh, plan? Like, how should we go about figuring out these -	0
 O_K. So, first of all is, uh, do e- either of you guys,	1
-you got a favorite [MASK] that you've, you know, played with?	1
+you got a favorite belief-net that you've, you know, played with? JavaBayes or something?	1
 Oh.	0
 No, not really.	0
 O_K. Well, anyway. f-  Get  one.	0
@@ -983,7 +983,7 @@ uh, pick a package,	1
 doesn't matter which one,	0
 uh, presumably one that's got good interactive abilities, cuz a  lot  of what we're gonna be d-	0
 You know, we don't need the one that'll solve massive,	1
-uh, [MASK] quickly. d- w-	1
+uh, belief-nets quickly. d- w-	1
 These are not gonna get big in - in the foreseeable future.	0
 But we  do  want one	1
 in which it's easy to interact with and, uh, modify.	1
@@ -998,37 +998,37 @@ O_K? So you have all their cases and - and their results and you have a - algori
 Um,	0
 probably that's not worth it.	0
 I mean, my guess is we aren't gonna have enough data that's good enough to make	0
-the - [MASK]	0
+the - these data fitting ones	0
 worth it, but I don't know.	0
 So I would say you guy- the first task for you two guys is to um, pick a package.	0
 O_K, and you wanna it s- You know, the  standard  things you want it stable, you want it - yeah,  @@ .	1
 And, as soon as we  have  one, we can start	1
 An-   Nuh.	0
-trying to,	0
-uh,	0
-make [MASK]	0
+trying to,	1
+uh,	1
+make a first cut	1
 at what's going on.	1
-But it - what I like about it is it's very  concrete.	0
+But it - what I like about it is it's very  concrete.	1
 O_K? We - we have a - we  know  what the outcomes are gonna be, and we have some - some data that's loose, we can use our own intuition,	1
 and see how  hard  it is,	0
 and,  importantly,  what intermediate nodes we think we  need.	0
 So it - if it turns out that just, thinking about the problem, you come up with things you really need to -	1
-You know,  this  is the kind of thing that is, you know, an intermediate little piece in your [MASK]	0
+You know,  this  is the kind of thing that is, you know, an intermediate little piece in your belief-net.	1
 That'd be really interesting.	1
 Mm-hmm.	0
 And it - and it may serve as a platform for	0
 a person, maybe me, or whoever, who is interested in doing some linguistic analysis.	0
-I mean, w- we have the For- [MASK] here,  and  we can see what they have found out about those concepts already,	0
+I mean, w- we have the For- FrameNet group here,  and  we can see what they have found out about those concepts already,	0
 that are contained in the data,	0
 um,	0
 you know, to come up with a nice little set of features and um,	0
 maybe even means of s- uh, extracting them.	0
 And - and that altogether could also be - uh, become a nice paper that's going to be published somewhere, if we sit down and  write  it.	0
 And um -	0
-When you said [MASK] you were talking about ones that run on coffee? or that are in the program  language   Java?	0
+When you said JavaBayes belief-net you were talking about ones that run on coffee? or that are in the program  language   Java?	0
 No, th- It turns out that there is a,	0
 uh -	0
-The new end of Java libraries. O_K, and it turns out one called [MASK] Which is	0
+The new end of Java libraries. O_K, and it turns out one called JavaBayes. Which is	0
 Mmm. O_K.	0
 one that fair - people around here use a fair amount.	0
 I have no idea whether that's -	0
@@ -1038,8 +1038,8 @@ relatively easily, get all the  other  Java packages for  GUIs   or whatever els
 Mm-hmm.	0
 a lot of people doing research  use  that.	0
 But  it   may  not  be - I have  no  idea whether that's the best choice an- and	1
-there're plenty of people around, students in the department who, you know, live and  breathe  [MASK] So, uh,	1
-There'	0
+there're plenty of people around, students in the department who, you know, live and  breathe  Bayes-nets. So, uh,	1
+There's the m-	0
 tool kit that um, Kevin Murphy has developed,	0
 Right.	0
 which might be useful too. And it's available Matlab code.	0
@@ -1052,8 +1052,8 @@ Yeah, I know him.	0
 Yeah.	0
 But since we all probably are pretty sure that, um, the -	0
 For example,	1
-this th- th- the dialogue history is - is um, producing X_M_L documents. [MASK] of course is X_M_L.	1
-And [MASK] and that's also in X_M_L.	1
+this th- th- the dialogue history is - is um, producing X_M_L documents. M_-three-L_ of course is X_M_L.	1
+And the ontology that um, uh the student is - is constructing for me back in - in E_M_L is in OIL and that's also in X_M_L.	1
 And so that's where a lot of knowledge about bakeries, about hotels, about castles and stuff is gonna come from.	1
 Mm-hmm.	0
 Yeah.	0
@@ -1065,12 +1065,12 @@ But that's, you know, not a big deal.	0
 Who isn't, nuh?	0
 So, in terms of - of - interchanging in and  out  of any module  we  build,	0
 It 'll be X_M_L.	0
-And if you're going off to queries to [MASK] for example, you'll have to deal with  its  interface.	0
+And if you're going off to queries to the ontology, for example, you'll have to deal with  its  interface.	0
 But that's - that's fine an- and um,	0
 all of these things have been built	0
 with	0
 much  bigger projects than this in mind. So they - they	0
-have worked very hard. It's kind of blackboards and [MASK] and ways of interchanging and registering your a- And so forth.	0
+have worked very hard. It's kind of blackboards and multi-wave blackboards and ways of interchanging and registering your a- And so forth.	0
 So,	0
 that  I don't think is  even  worth us  worrying  about just yet.	0
 I mean if we can get the  core  of the thing to  work,	0
@@ -1092,10 +1092,10 @@ So it's als- Yeah, I guess it's also worth,	0
 um, while you're poking around, poke around for X_M_L packages that	0
 um,	0
 do things you'd like.	0
-Doesn't - does [MASK] have such packages?	0
+Doesn't - does SmartKom system have such packages?	0
 Sure.	0
 Yeah.	0
-The - the lib- [MASK] does that.	0
+The - the lib- M_-three-L_ library does that.	0
 It's also -	0
 And the question is, d- you c- you - you'll have to l-	0
 We'll have to l-	0
@@ -1107,10 +1107,10 @@ if - if there are l- nets that can actually lear- try to set their own, um,	0
 probability factors based on - on - on - on input -	0
 which is in file format,	0
 if we,	1
-um, get  really  w- wild on this, we may actually want to use some - some corpora that  other  people made and, for example, if - if they are in - in  [MASK]	1
-then we get X_M_ L  documents with [MASK] t- you know, t-	1
+um, get  really  w- wild on this, we may actually want to use some - some corpora that  other  people made and, for example, if - if they are in - in  MATE,	1
+then we get X_M_ L  documents with discourse annotations, t- you know, t- from the discourse act down to the phonetic level.	1
 Mm-hmm.	0
-Um,  Michael   has a project where - you know, [MASK] and he does it all in MATE, and so	0
+Um,  Michael   has a project where - you know, recognizing discourse acts and he does it all in MATE, and so	0
 they're actually annotating data and data and data.	0
 So if we w-	0
 if we  think  it's  worth  it one of these days,	0
@@ -1124,7 +1124,7 @@ that the data will come, and you don't have to actually design the nets.	0
 Nuh. Just a back door that -	0
 I - I think we should devote m-	0
 Could  happen. Yeah. So in terms of - of the, um -	1
-the - what [MASK] gives us	1
+the - what the SmartKom gives us for M_-three-L_ packages, it could be that they're fine, or it could be eeh.  You don't -	1
 You know, you don't really  like  it.	0
 So we're not - we're not abs- we're not  required  to use	1
 their packages. We  are  required at the end to give them stuff in their  format,  but hey.	1
@@ -1138,15 +1138,15 @@ Two days?	0
 Huh?	0
 Two, three days?	0
 Yeah bu- w- I'd like that this - y- yeah, this  week,  to ha- to n- to	1
-have y- guys, uh, you know, pick	0
-the - y- you know, [MASK] and tell us what it is, and give u	1
+have y- guys, uh, you know, pick	1
+the - y- you know, belief-net package and tell us what it is, and give us a pointer so we can play with it or something.	1
 No.	0
 Sure.	0
 And, then as soon as we  have  it,	1
-I think we should start	0
-trying to	0
+I think we should start	1
+trying to	1
 populate  it for this  problem.	1
-[MASK] at, you know, what's going on,	0
+Make a first cut at, you know, what's going on,	0
 and probably the ea-	0
 easiest  way to do that	0
 is	0
@@ -1164,10 +1164,10 @@ Yeah, or you can split it up.	0
 So, y-	0
 Hmm.	0
 So that will be sort of the assignment for next week, is to -	0
-to -  for  slides and whatever net you picked and what it can do and - and how far you've gotten. [MASK]	0
+to -  for  slides and whatever net you picked and what it can do and - and how far you've gotten. Pppt!	0
 Well, I'd like to also,	1
-though, uh, ha- have [MASK] at what the	0
-[MASK]  looks  like.	1
+though, uh, ha- have a first cut at what the	1
+belief-net  looks  like.	1
 Even  if it's  really  crude.	1
 O_K? So, you know,	0
 here a- here are -	0
@@ -1186,7 +1186,7 @@ We can just add to that and there'll be this -	0
 this file of them and when you	0
 think you've got a better  belief-net,	0
 You just run it against this, um -	0
-[MASK]	0
+this  data  file.	0
 So we'll be like, hand, uh,	1
 doing all the probabilities.	1
 O_K.	0
@@ -1195,14 +1195,14 @@ And  what's the relation  to  this with -	0
 Changing  the table so that the system works in English?	0
 O_K. So this is -	0
 Whi- while  you  were doing  this,	0
-I received two lovely emails. The - [MASK] and the full Linux version are	0
+I received two lovely emails. The - the full N_T and the full Linux version are	0
 there.	0
 I've downloaded them both,	0
 and I started to unpack the Linux one -	0
-Uh, [MASK] worked fine.   and I started unta- pack the Linux one, it told me that I can't really unpack it because it  contains   a future date.	0
+Uh, the N_T one worked fine.   and I started unta- pack the Linux one, it told me that I can't really unpack it because it  contains   a future date.	0
 So this is the time difference between Germany. I had to wait until one o'clock this afternoon before I was able to unpack it.	0
 Now, um -	0
-Then it will be  my  job to get this whole thing running both on [MASK] and on  this  machine.	0
+Then it will be  my  job to get this whole thing running both on Swede and on  this  machine.	0
 And so that we have it.	0
 And then um -	0
 Hopefully that - hoping that my urgent message will now come through to Ralph and Tilman that it will send some more documentation along,	0
@@ -1214,35 +1214,35 @@ Yeah. So the answer, Johno, is that these are,	0
 at the  moment,	0
 separate.	0
 Uh, what one  hopes  is that	1
-when  we understand how the analyzer  works,  we can both	0
-worry about converting it to  English  and worry about how it could ex- extract [MASK]	1
-I guess my question was more about time frame. So we're gonna do [MASK] this week, and then -	0
+when  we understand how the analyzer  works,  we can both	1
+worry about converting it to  English  and worry about how it could ex- extract the parameters we need for the  belief-net.	1
+I guess my question was more about time frame. So we're gonna do belief-nets this week, and then -	0
 Oh, yeah. I don't know. n-  None  of this is i- n-	1
-Neither  of these projects	0
+Neither  of these projects	1
 has got a real tight  time-line,  in the sense that over the next month there's a - there's a deliverable.	1
 O_K.	0
 O_K. S- so uh, it's opportu- in that sense it's opportunistic.	0
 If - if - you know, if we don't get any information for these guys f- for several  weeks  then we aren't gonna sit around,	0
 you know, wasting time,	0
 trying to do the problem or guess what  they  -	0
-You know, just [MASK]  go on and do other things.	0
+You know, just pppt!  go on and do other things.	0
 O_K.	0
 Yeah, but uh - but the uh -	1
-This point is really - I think very, very valid that ultimately we hope that -	0
-that both will merge into a harmonious and, um, wonderful,	0
+This point is really - I think very, very valid that ultimately we hope that -	1
+that both will merge into a harmonious and, um, wonderful,	1
 um, state where	1
-we can  not  only do the bare necessities, I_E, changing the table so it does exactly in English what it does in German,	0
+we can  not  only do the bare necessities, I_E, changing the table so it does exactly in English what it does in German,	1
 but also that we can sort of have the system where we can say, "O_K, this is what it  usually  does,	1
 and now we add  this  little thing to it",	1
-you know? whatever, [MASK]	1
-and we plug it  in,	0
+you know? whatever, Johno's and Bhaskara's great belief-net,	1
+and we plug it  in,	1
 and then for these certain tasks,	1
-and  we know that [MASK] are gonna be a  core  domain of the new system,	1
+and  we know that navigational tasks are gonna be a  core  domain of the new system,	1
 it all - all of a sudden it does much  better.	1
 Nuh?   Because it can	0
 produce better answers,	0
 tell the person, as I s- showed you on this map,	0
-n- you know, produce either you know, a red line that goes to [MASK] or a red line that goes t	0
+n- you know, produce either you know, a red line that goes to the Vista point or a red line that goes to the Tango point or red line that goes to the door,	0
 which would be  great.	0
 So not only can you show that you know something sensible but ultimately, if you  produce  a system like this, it	1
 takes the person where it wants to  go.	1
@@ -1278,7 +1278,7 @@ Probably neither - e- not even that.	0
 Yeah.	0
 Clear?	0
 O_K. Sounds good.	0
-[MASK] is made of red limestone.	0
+The Powder-Tower is made of red limestone.	0
 I was wondering. O_K.	0
 Do you wanna see a picture?	0
 Sure!	0

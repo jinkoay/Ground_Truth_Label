@@ -26,7 +26,7 @@ O_K.	0
 Don't know.	0
 So uh - so the uh,	0
 the new procedural change that just got suggested, which I think is a good idea is that um,	0
-we do the [MASK] at the  end.	0
+we do the digit recordings at the  end.	0
 And that way, if we're recording somebody else's uh meeting,	0
 and a number of the participants have to run off to some other meeting and don't have the time,	0
 uh, then they can run off.	0
@@ -36,25 +36,25 @@ cut into people's time, um,	0
 if someone's on strict time	0
 uh, less.	0
 So, I th- I think - I think we should start doing that.	0
-Um,	0
-so, uh, let's see, we were having a discussion the other day,	0
-maybe we should bring that up,	0
-about uh, the nature of the data that we are collecting.	0
-uh	0
+Um,	1
+so, uh, let's see, we were having a discussion the other day,	1
+maybe we should bring that up,	1
+about uh, the nature of the data that we are collecting.	1
+uh	1
 @@	0
-that uh, we should have a fair amount of data that is	0
-um, collected for the same meeting,	0
-so that we can, uh -	0
+that uh, we should have a fair amount of data that is	1
+um, collected for the same meeting,	1
+so that we can, uh -	1
 I don't know. Wh- what - what were some of the points again about that?	0
 Is it -	0
 Uh, well, O_K, I'll back up.  Um, at the previous - at last week's meeting,  this  meeting	0
 Yeah.	0
 I was griping	0
 about wanting to get more data and I - I talked about this with Jane and	0
-Adam, um, and was thinking of	0
-this mostly just so that we could do research	0
-on this data	0
-um, since we'll have a new - this new student di- does wanna work with us,  th- the guy that was at the last meeting.	0
+Adam, um, and was thinking of	1
+this mostly just so that we could do research	1
+on this data	1
+um, since we'll have a new - this new student di- does wanna work with us,  th- the guy that was at the last meeting.	1
 Well, great.	0
 Great.	0
 And he's already funded part-time, so we'll only be paying him for sort of for  half  of the normal part-time,	0
@@ -63,11 +63,11 @@ uh -	0
 Yeah.	0
 And what's he interested in, specifically?	0
 So	0
-he's - comes from a [MASK] background, but I liked him a lot cuz he's very interested in	0
-higher  level things, like language, and	0
-[MASK] and all kinds of eb-	0
+he's - comes from a signal-processing background, but I liked him a lot cuz he's very interested in	1
+higher  level things, like language, and	1
+disfluencies and all kinds of eb-	1
 Mm-hmm.	0
-maybe [MASK]  so he's just getting his feet wet in that.	0
+maybe prosody,  so he's just getting his feet wet in that.	1
 Great.	0
 Anyway, I thought O_K, maybe we should have enough data so that if he starts -	0
 he'd be starting in	0
@@ -78,9 +78,9 @@ But, um, Jane and Adam brought up a lot of good points that	0
 just posting a note to Berkeley people to have them come down here has some problems in that you m- you need to make sure that the speakers	0
 are who you want and that the meeting type is what you want, and so forth.	0
 So, I thought about that and I think it's still possible, um,	1
-but I'd rather try to get more regular meetings of	0
-types that we know about,  and hear , then sort of a	0
-mish-mosh of a bunch of one -	0
+but I'd rather try to get more regular meetings of	1
+types that we know about,  and hear , then sort of a	1
+mish-mosh of a bunch of one -	1
 one-time -	1
 One offs?	0
 Yeah, just because it would be very hard to	0
@@ -93,25 +93,25 @@ things like summarization, or what's this meeting about.	0
 I mean	0
 it's very different if you have a group that's just	0
 giving a report on what they did that week, versus coming to a decision and so forth. So.	1
-Then I was um, talking to Morgan about some  new proposed work in this area,	0
-sort of a  separate  issue from what the student would be working on	0
-where	0
-I was thinking of doing	0
-some kind of summarization of meetings or trying to find cues	0
-in both the	0
-utterances  and  in the	0
+Then I was um, talking to Morgan about some  new proposed work in this area,	1
+sort of a  separate  issue from what the student would be working on	1
+where	1
+I was thinking of doing	1
+some kind of summarization of meetings or trying to find cues	1
+in both the	1
+utterances  and  in the	1
 utterance patterns,  like in	1
 numbers of overlaps and amount of speech,	1
 sort of raw cues	1
-from the interaction that can be measured from	0
-the signals and from the diff-	0
-different microphones	0
-that point to	0
-sort of hot spots in the meeting, or things where stuff is going on that might be important	0
+from the interaction that can be measured from	1
+the signals and from the diff-	1
+different microphones	1
+that point to	1
+sort of hot spots in the meeting, or things where stuff is going on that might be important	1
 for someone who didn't attend to   listen  to.	1
 And in  that	1
-uh, regard, I thought we definitely w- will need -	0
-it'd b- it'd be nice for us to have a bunch of data	0
+uh, regard, I thought we definitely w- will need -	1
+it'd b- it'd be nice for us to have a bunch of data	1
 from a few different domains, or a few different kinds of meetings. So this - this meeting is one of them, although I'm not sure I can participate if I -	1
 You know, I would feel very strange being  part  of a meeting that you were then analyzing later for things like summarization.	0
 Mm-hmm.	0
@@ -127,7 +127,7 @@ it would be too hard to have	0
 fifty different kinds of meetings where we didn't really	0
 Yeah.	0
 have a good grasp on what does it mean to summarize, but -	1
-rather we should have	0
+rather we should have	1
 different meetings by the same group but hopefully that have different summaries.	1
 And then we need a couple that - of -  We don't wanna just have  one  group because that might be specific to that particular group, but	0
 @@	0
@@ -141,34 +141,34 @@ Yeah.	0
 Yeah, we - we've only had  three.  So.	0
 O_K.	0
 But maybe that's enough. So, in general, I was thinking more data but also	1
-data where we hold some parameters	0
+data where we hold some parameters	1
 constant or fairly similar,  like a meeting about	1
 Mm-hmm.	0
-of people doing a certain kind of	0
+of people doing a certain kind of	1
 work where at least half the participants each time are the same.	1
 Um -	0
 Now, let - l- l- let me just	0
 give you the other side to that cuz I ca- because I - I don't disagree with that,	0
-but I think there is a complimentary piece to it too.	0
-Uh, for  other  kinds of research,	0
-particularly the  acoustic  oriented research,	0
-I actually feel the opposite need.	0
+but I think there is a complimentary piece to it too.	1
+Uh, for  other  kinds of research,	1
+particularly the  acoustic  oriented research,	1
+I actually feel the opposite need.	1
 Right.	0
 I'd like to have lots of different people.	0
 Right.	0
 As many people here a- a- and talking about the kind of thing that	0
 you were just talking about	0
-it would have uh too few people from my point of view. I'd like to have many different speakers.	0
-So, um	0
-I think I would  also  very much like us to have a fair amount of  really  random scattered meetings, of somebody coming down from campus, and -	0
+it would have uh too few people from my point of view. I'd like to have many different speakers.	1
+So, um	1
+I think I would  also  very much like us to have a fair amount of  really  random scattered meetings, of somebody coming down from campus, and -	1
 Mm-hmm.	0
-and uh, I mean, sure, if we can	0
+and uh, I mean, sure, if we can	1
 Mm-hmm.	0
 Right.	0
-get  more  from them, fine, but if we only get one or  two  from each group,	0
-that  still  could be useful  acoustically  just because we'd have	0
+get  more  from them, fine, but if we only get one or  two  from each group,	1
+that  still  could be useful  acoustically  just because we'd have	1
 Yeah, I definitely agree with that. Definitely.	0
-close and distant microphones with different people.	0
+close and distant microphones with different people.	1
 Yeah.	0
 Mm-hmm.	0
 Yeah.	0
@@ -193,20 +193,20 @@ Right.	0
 O_K.	0
 yeah.	0
 @@	0
-So I was -	0
+So I was -	1
 Yep.	0
-I was thinking more in terms of talking to professors	0
+I was thinking more in terms of talking to professors	1
 Oh, interesting!	0
-uh, and - and - and uh, senior uh, uh, d- and	0
+uh, and - and - and uh, senior uh, uh, d- and	1
 Yeah.	0
-uh, doctoral students who are leading projects	0
-and offering to them	0
+uh, doctoral students who are leading projects	1
+and offering to them	1
 Oh, I see.	0
-that they have their - hold their meeting down here.	0
+that they have their - hold their meeting down here.	1
 Oh, interesting!	0
 Uh, that's the first point. The second point is	0
 um	0
-I think that for some time now, going back through [MASK] I think that we have had speakers that we've worked with who had non-native accents	0
+I think that for some time now, going back through BeRP I think that we have had speakers that we've worked with who had non-native accents	0
 Oh, oh. I'm not saying  accents.	0
 and I th- I think that -	0
 u- The accent's not the problem.	0
@@ -231,8 +231,8 @@ Yeah, then we're  completely  gone. It's -	0
 Mm-hmm.	0
 The - the habits are already burnt in. But -	0
 I'm just saying fluency.	0
-Well, I think that, um -	0
-I think that the only thing we should say in the advertisement is that the meeting should be held in English.	0
+Well, I think that, um -	1
+I think that the only thing we should say in the advertisement is that the meeting should be held in English.	1
 Yeah.	0
 And - and I think	0
 if it's a pre-existing meeting and it's held in English,	0
@@ -244,9 +244,9 @@ Right.	0
 Right.	0
 And if people want to approach -	0
 Um, i- so I know  e- e-	0
-You know this - The idea of [MASK] and all may not be the focus of this group,	0
+You know this - The idea of computational linguistics and probabilistic grammars and all may not be the focus of this group,	0
 Uh-huh.	0
-but the idea of [MASK] which are fund- you know	0
+but the idea of language models, which are fund- you know	0
 generally speaking uh, you know, t- t- terms of like the amount of benefit per dollar spent	0
 Mm-hmm.	0
 or an hour invested in preparing the data,	0
@@ -259,11 +259,11 @@ close to being academic English, then it would seem to me to be a  good  thing.	
 I guess - I- maybe - Hmm.	0
 Because otherwise y- you don't have the ability to have -	0
 I-	0
-Uh, so if - if you have a bunch of [MASK] that's the worst possible case. If you have people who are using English as a - as an interlanguage because they - they don't -	1
-uh, they can't speak in their  native  languages and -	0
-but their interlanguage isn't	0
+Uh, so if - if you have a bunch of idiolects that's the worst possible case. If you have people who are using English as a - as an interlanguage because they - they don't -	1
+uh, they can't speak in their  native  languages and -	1
+but their interlanguage isn't	1
 Uh-huh.	0
-really a match to any existing,	0
+really a match to any existing,	1
 uh, language model,	1
 Yeah. Yeah.	0
 this is the  worst  case scenario.	0
@@ -279,25 +279,25 @@ O_K.	0
 a  grammar,  basically,	0
 Uh-huh.	0
 that um, wo- would be	0
-a - a  possibility.  So y- so if you wanted to bring in a model like [MASK] an-	0
+a - a  possibility.  So y- so if you wanted to bring in a model like Dan Jurafsky's model, an-	0
 and do some top-down stuff, it - to help th- the bottom-up and merge the things or whatever,	0
 Mm-hmm.	0
 uh, it seems like	0
 um, I don't see that there's an argument -	0
 I'm - I - what I think is that why not have the corpus, since it's so expensive to put together, uh, useful for the widest	1
 Mm-hmm.	0
-range of -	0
-of central corp-	0
-things that people generally  use  corpora for and which are, you know, used in [MASK]	1
+range of -	1
+of central corp-	1
+things that people generally  use  corpora for and which are, you know, used in computational linguistics.	1
 That's - that's my point.	0
 O_K.	0
 Which - which includes both top-down and bottom-up.	0
 It's difficult.	0
 Yeah.	0
-O_K, well, i- i- let's - let's see what we can get.	0
+O_K, well, i- i- let's - let's see what we can get.	1
 I mean, it - it - I think that if we're aiming at - at uh, groups of graduate students and professors and so forth who are talking about things together,	1
 Yes, that's fine.	0
-and it's from the Berkeley campus, probably most of it	0
+and it's from the Berkeley campus, probably most of it	1
 That's fine.	0
 Exactly. And my point in m- in my note to Liz was	1
 will be O_K, but -	1
@@ -326,8 +326,8 @@ Yeah, that's true.	0
 Yeah.	0
 So.	0
 I have a - uh, um, question.  Well, Morgan, you were mentioning that Mari may not	1
-use the k- equipment from I_B_M	0
-if they found something else, cuz	0
+use the k- equipment from I_B_M	1
+if they found something else, cuz	1
 They're - they're - yeah, they're d- they're uh -	0
 assessing whether they should do that or y- do something else,	0
 there's a -	1
@@ -335,8 +335,8 @@ hopefully over the next few weeks.	0
 Cuz I mean, one remote possibility is that	1
 if we st- if we inherited that equipment, if she weren't using it, could we set up a room in the linguistics department?	1
 And - and	1
-I mean, there - there may be a lot more - or - or in psych, or in comp- wherever, in another building	0
-where we could	0
+I mean, there - there may be a lot more - or - or in psych, or in comp- wherever, in another building	1
+where we could	1
 um, record people there. I think we'd have a better chance of -	1
 I think we'd need a real motivated	0
 partner to do that. We'd need to find someone on campus who was interested in this.	0
@@ -377,13 +377,13 @@ type  of meeting.	0
 Right.	0
 But I - I - I think you need, uh, another portable  thing	0
 Right.	0
-a- another portable equipment to - to do, eh, more e- easier the recording process, eh,  out  from [MASK]	0
+a- another portable equipment to - to do, eh, more e- easier the recording process, eh,  out  from ICSI.	0
 Hmm.	0
-Yeah.	1
+Yeah.	0
 Yeah.	0
 Eh  and   probably.  I don't know. Eh, if you - you want to - to record, eh, a seminar or a class, eh, in the university, you - you need -	0
 Right.	0
-Yeah.	1
+Yeah.	0
 It- it would be eh eh very difficult to - to put,	0
 eh, a lot of, eh, head phones eh in different people when	0
 Yeah, but -	0
@@ -401,8 +401,8 @@ But on the other hand, it's not necessarily true that we need  all  of the corpu
 So, a- a- as per the example that we wanna have a fair amount that's done with a small n- recorded with a small, uh, typ- number of types of meetings	0
 But we can also have another part that's, uh, just one or two meetings of each of a - of a range of them and that's O_K too.	0
 Uh,	1
-i-	0
-We realized in discussion that the other thing is,	0
+i-	1
+We realized in discussion that the other thing is,	1
 what about this business of distant and close microphones?	1
 I mean, we really wanna have a substantial amount recorded this way, that's why we  did  it.	1
 But  what about -	1
@@ -427,18 +427,18 @@ Mm-hmm.	0
 Um,	0
 but I think that any  data that we spend a lot of effort  to collect,	1
 Yeah.	0
-you know, each person who's interested in - I mean, we have a cou- we have a bunch of different, um, slants and perspectives on what it's useful for,	0
-um, they need to be	0
+you know, each person who's interested in - I mean, we have a cou- we have a bunch of different, um, slants and perspectives on what it's useful for,	1
+um, they need to be	1
 taking charge of making sure they're getting enough of the kind of data that they want.	1
 Right.	0
 And -	1
-So in my case, um,	0
-I think there w-	0
+So in my case, um,	1
+I think there w-	1
 there is enough data for some kinds of projects and not enough for others.	1
 Not enough for others, right.	0
 And so  I'm looking and thinking, "Well I'd be  glad  to	0
 walk over and record people and so  forth if it's -	0
-to help th- in my interest."	0
+to help th- in my interest."	1
 Mm-hmm.	0
 And other people need to do that for themselves, uh, h-	1
 Right. So that -	0
@@ -464,22 +464,22 @@ um -	0
 Suppose you just had a distant microphone there and you really wanted to	0
 be able to  determine  this. There's lots of cues you're not gonna have.	1
 Right.	0
-So	0
+So	1
 Yeah.	0
 Yeah.	0
-I   do  think that long term you should always try to	0
-satisfy the greatest number of -	0
-of interests and have this [MASK] which is really what makes this	0
-[MASK]	1
+I   do  think that long term you should always try to	1
+satisfy the greatest number of -	1
+of interests and have this parallel information, which is really what makes this	1
+corpus powerful.	1
 Special?	0
 I - I -	0
 Yep.	0
 Otherwise, you know, lots of other sites can propose -	0
 I - I - I agree. Uh	1
 individual studies, so -	0
-but I - I think that	0
-the uh  i-	0
-We can't really underestimate the difficulty -	0
+but I - I think that	1
+the uh  i-	1
+We can't really underestimate the difficulty -	1
 shouldn't  really u- underestimate the difficulty of getting a setup like this up.	1
 Yep.	0
 And so, - uh it took quite a while to get that together and to say, "Oh, we'll just  do  it up there," -	1
@@ -503,7 +503,7 @@ Right.	0
 Uh -	0
 I thought the free lunch idea was a  great  idea.	0
 Yeah, I thought so too.	0
-Yeah, I - And I think we can get people to come here, that -	1
+Yeah, I - And I think we can get people to come here, that -	0
 Free lunch is good.	0
 Yeah.	0
 But the issue is you definitely wanna make sure that the kind of group you're getting is the right group so that you don't waste a lot of	1
@@ -541,15 +541,15 @@ The - the -	0
 well, I know, I shouldn't  say  that.	1
 The oth- the other h-	0
 That's alright. No, the- they - they're  very  weird.	0
-We need [MASK]	0
+We need a wider sampling.	0
 "Beep."	0
 Uh,  "beep"	0
 Yeah.	0
 Uh, the - the -	0
 The problem with engineers is "beep."	0
 They make funny sounds.	1
-The o- the o- the other -	0
-The other thing is,	0
+The o- the o- the other -	1
+The other thing is,	1
 uh, that we - we talked about is give to them - uh, burn an extra C_D-ROM.	1
 Yep.	0
 and give them - So if they want a -  basically and audio record of their -	0
@@ -602,7 +602,7 @@ We could burn it after it's been cleared with the transcript stage.	1
 r- Right.	0
 And then they - they get a C_D, but just not the same day.	0
 Oh, right.	0
-If - It should be the same C_D-ROM that we distribute publically, right?	1
+If - It should be the same C_D-ROM that we distribute publically, right?	0
 Yeah, that's right.	0
 That's a good point.	0
 Right, it can't be the internal one.	0
@@ -611,8 +611,8 @@ Although it's -	0
 There  we go. Oh, I  like  that.	0
 That's right.	0
 play  it for anyone.	0
-Well put. Well put.	0
-So, after the [MASK]	1
+Well put. Well put.	1
+So, after the transcript screening phase.	1
 Yeah, that's true.	0
 Things have been weeded out.	0
 Otherwise we'd need  two  lawyer stages.	0
@@ -623,8 +623,8 @@ That's a good point.	0
 Yeah so that's - so let's start with Haas, and	0
 Sorry to have to -	0
 Yeah.	0
-Sorry I have to  leave.	1
-I will be here full-time next week.	1
+Sorry I have to  leave.	0
+I will be here full-time next week.	0
 Oh, that's fine.	0
 O_K, see you.	0
 O_K.	0
@@ -637,12 +637,12 @@ See you.	0
 So, uh -	0
 Let's see. So that was that topic,	0
 and	1
-then um, I guess another topic would be	0
+then um, I guess another topic would be	1
 where are we in the whole disk resources  question for -	1
 We are slowly slowly getting to the point where we have uh enough sp- room to record meetings.	0
 So I uh did a bunch of archiving, and	0
 still doing a bunch of archiving, I - I'm in the midst of doing	0
-[MASK] from uh,	0
+the P_files from uh,	0
 Broadcast News.	0
 and it took eleven hours	0
 Eleven?	0
@@ -701,7 +701,7 @@ S-	0
 So	0
 stuff will be  saved,  it's just that you're relocating it?	0
 I mean, so we're gonna get more disk space? Or did I - ?	0
-No, the - the - these are [MASK] from Broadcast News, which	0
+No, the - the - these are the P_files from Broadcast News, which are  regeneratable   -  regeneratable	0
 O_K.	0
 Oh, good.	0
 I see.	0
@@ -720,9 +720,9 @@ Wonderful.	0
 that's not gonna happen instantaneously.	1
 Or maybe six.	0
 Or maybe six?	0
-[MASK] ha- uh, takes more disks than the Andatico one did.	0
+The SUN, ha- uh, takes more disks than the Andatico one did.	0
 How many -	0
-[MASK]  rack  takes -	0
+The SUN  rack  takes -	0
 How much -	0
 Th-	0
 One took four and one took six, or maybe it was eight and twelve. Whatever it was, it was,  you know, fifty percent more.	0
@@ -743,11 +743,11 @@ first - first look at it,	0
 there were basically three	0
 directories on there that could be moved.	0
 One was called Aurora, one was Spanish, which was Carmen's Spanish stuff, and the other one was, um,	0
-[MASK]	0
-[MASK]	0
+SPINE.	0
+SPINE.	0
 And so, um,	0
 I wrote to Dan and he was very concerned that	0
-[MASK] stuff was moving to a non-backed-up disk.	0
+the SPINE stuff was moving to a non-backed-up disk.	0
 So, um,	0
 I realized that	0
 well, probably not all of that should be moved, just	0
@@ -761,11 +761,11 @@ before I actually deleted the old stuff,	0
 um, but I haven't heard back  yet .	0
 I told him he could delete it if he wanted to, I haven't checked	0
 today to see if he's deleted it or not.	0
-And then Carmen's stuff, I realized that when I had copied all of her stuff to [MASK]	0
+And then Carmen's stuff, I realized that when I had copied all of her stuff to X_A,	0
 I had copied stuff there that was	0
-[MASK]	0
+dynamic data.	0
 And so,	0
-I had to redo that one and just copy over [MASK]	0
+I had to redo that one and just copy over the static data.	0
 And so I need to get with her now and delete the old stuff off the disk.	0
 And then I lo- haven't done any of the Aurora stuff. I have to meet with, uh, Stephane	0
 to do that. So.	0
@@ -784,7 +784,7 @@ Is that the one that has - is that D_C?	0
 Yeah.	0
 So.	0
 Yep.	0
-No, no,  well, it's wherever the Meeting Recorder currently is. I think it's [MASK]	0
+No, no,  well, it's wherever the Meeting Recorder currently is. I think it's D_I.	0
 O_K, I - but the stuff I'm moving from Aurora is on the D_C disk that we -	0
 I don't remember.	0
 Th- I think it's D_C- It's whatever that one is.	0
@@ -821,9 +821,9 @@ But, so we could jus- just do that at the end of today, once the archive is comp
 O_K.	0
 Cuz that'll give us plenty of disk.	0
 Uh, O_K,	1
-@@   So, uh,	0
-then I guess th- the last thing I'd had on my -	0
-my  agenda was just to hear - hear an update on	0
+@@   So, uh,	1
+then I guess th- the last thing I'd had on my -	1
+my  agenda was just to hear - hear an update on	1
 what - what Jose has been doing, so  that's  -	1
 Uh-huh.	0
 O_K.	0
@@ -841,12 +841,12 @@ And I have, eh, some ideas.	0
 Eh, this information is very - very useful.	1
 I'm glad to hear it. Glad to hear it.	0
 Because  you have the - the - the distribution, now. But	1
-for me, eh is interesting because, eh, eh,	0
+for me, eh is interesting because, eh, eh,	1
 here's i- is the demonstration of the overlap, eh,  problem. It's a real problem,	1
 I've seen it already.	0
 Yeah.	0
 Yeah.	0
-a  frequently  problem	0
+a  frequently  problem	1
 uh, because you have overlapping zones eh, eh, eh, all the time.	1
 Yep.	0
 Yeah.	0
@@ -858,11 +858,11 @@ Oh, you did that by hand?	0
 Heh?	1
 That's eh,	0
 yet	0
-b- b- Yeah, by - b- b- by hand - by hand because,	0
+b- b- Yeah, by - b- b- by hand - by hand because,	1
 Can I see that?	0
 Can I get a copy?	0
 Oh.	0
-eh,  eh -	0
+eh,  eh -	1
 "Why."	1
 My - my idea is to work -	0
 I - I - I do- I don- I don't  @@  -	0
@@ -870,7 +870,7 @@ Wow!	0
 I don't know, eh, if, eh, it will be possible because I - I - I haven't a lot - eh, enough time to - to - to work.	0
 uh, only just eh, six months, as you know,	0
 but, eh, my idea is, eh,	1
-is very interesting to - to work  in - in the line of, eh, [MASK]	1
+is very interesting to - to work  in - in the line of, eh, automatic segmenter.	1
 Mm-hmm.	0
 Eh but eh, eh,	0
 in my opinion,  we need eh, eh, a reference  eh session	0
@@ -886,7 +886,7 @@ O_K. Darn!	0
 I plan - I plan, but eh,	0
 eh, the idea  is the - is the following.	0
 Now,  eh,	1
-I need ehm,	0
+I need ehm,	1
 to detect eh all the overlapping zones exactly.	1
 I - I will - I will eh, talk about eh,  in the - in the  blackboard	0
 Yeah.	0
@@ -894,36 +894,36 @@ Duration.	0
 Mm-hmm.	0
 about the - my ideas.	0
 Eh, um,	1
-eh -	0
-This information	0
-eh, with eh, exactly time marks	0
-eh, for the overlapping zones	0
-eh -	0
-overlapping zone, and eh, a speaker -	0
+eh -	1
+This information	1
+eh, with eh, exactly time marks	1
+eh, for the overlapping zones	1
+eh -	1
+overlapping zone, and eh, a speaker -	1
 a - a pure speech eh, eh, speaker zone.	1
-I mean, eh zones eh of eh speech of eh, one speaker	0
+I mean, eh zones eh of eh speech of eh, one speaker	1
 without any - any eh, noise eh, any - any acoustic event eh that eh, eh, w- eh, is not eh, speech,  real  speech.	1
 And, I need t-  true  eh, silence	0
 for that, because my - my idea is to - to study the nnn - the -	1
-the set of parameters	0
-eh, what, eh, are more m- more discriminant	0
+the set of parameters	1
+eh, what, eh, are more m- more discriminant	1
 Right.	0
 to eh, classify.	1
 the overlapping zones in cooperation with the speech  eh zones.	1
 The idea is	1
-to eh - to use -	0
-eh, I'm not sure to - eh yet,	0
-but eh my idea is	0
-to use a - [MASK] or, nnn,	0
-a  person strong  in [MASK]	0
-to eh -	0
+to eh - to use -	1
+eh, I'm not sure to - eh yet,	1
+but eh my idea is	1
+to use a - a cluster   eh algorithm or, nnn,	1
+a  person strong  in neural net algorithm	1
+to eh -	1
 to eh study	1
 what is the, eh, the  property  of the different feat- eh feature, eh, to classify	1
 eh speech and overlapping eh speech.	1
 Mmm.	0
 And my idea is eh,	0
 it would be interesting to - to have	0
-eh,  a control set.	0
+eh,  a control set.	1
 And my control set eh, will be the eh, silence,	1
 silence without eh, any - any noise.	1
 Mm-hmm.	0
@@ -947,7 +947,7 @@ ehm	0
 I don't remind  what is the - the - the - the quantity, but eh,	0
 I - I have  marked   enough speech on over- and all the overlapping zones.	0
 I have, eh,  two hundred and thirty,	1
-more or less, overlapping zones, and	0
+more or less, overlapping zones, and	1
 Whew!	0
 is similar to - to this information,   because with the program, I cross	1
 Great.	0
@@ -971,11 +971,11 @@ to classify.	0
 I - I need eh, the exact eh, mark	0
 of the different, eh,	0
 eh, zones because I - I want to put, eh, for eh, each frame a label  indicating.	1
-It's a  sup- supervised  and, eh, [MASK]	1
+It's a  sup- supervised  and, eh, hierarchical clustering process.	1
 I - I - I put, eh, eh,	1
-for each frame	0
-a label	0
-indicating what is th- the type,	0
+for each frame	1
+a label	1
+indicating what is th- the type,	1
 what is the class, eh, which it belong.	1
 Mm-hmm.	0
 Eh, I mean, the class you will	0
@@ -991,14 +991,14 @@ Based on the -	0
 I - I - I ha- I h- I - I put the mark by hand,	1
 Uh-huh.	0
 because, eh,	1
-my idea is, eh,	0
-in - in the first session,	0
-I need, eh,  I - I need, eh, to be  sure	0
-that the information	0
-eh, that, eh, I - I will cluster,	0
+my idea is, eh,	1
+in - in the first session,	1
+I need, eh,  I - I need, eh, to be  sure	1
+that the information	1
+eh, that, eh, I - I will cluster,	1
 Well, training, and validation.	0
 Sure.	0
-is - is right. Because, eh,	0
+is - is right. Because, eh,	1
 eh, if  not,  eh, I will - I will, eh, return to the speech file to analyze eh, what is the problems, eh.	1
 Mm-hmm.	0
 And  I - I'd prefer - I would prefer, the- to - to have, eh, this labeled automatically, but, eh,	0
@@ -1090,7 +1090,7 @@ Yeah.	0
 Yeah cuz you've talked about other overlapping events in the  past.  So,	0
 Yeah.	0
 this is - this is - a  subset.	0
-Yeah.	0
+Yeah.	1
 In the - in the future, the - the idea is to - to extend  the class,	1
 Is - is -	0
 to consider all the - all the information, you - you mentioned before	0
@@ -1104,7 +1104,7 @@ what hap- what will happen  with the study. Yeah.	0
 Right.	0
 Yeah.	0
 Sure.	0
-Is your [MASK] pure silence, or - ? What if there was a door-slam or something?	0
+Is your silence category pure silence, or - ? What if there was a door-slam or something?	0
 i- it's pure -	0
 No, no, it's pure silence.	0
 Pure silence.	0
@@ -1126,7 +1126,7 @@ Yeah.	0
 Which,  are being , included in that. Right?	0
 @@  h- here yet,	0
 Yeah.	0
-So it's like [MASK]	0
+So it's like a signal-noise situation.	0
 yet	0
 I - I - I - I - I think - I - I think, eh,	0
 Yeah.	0
@@ -1139,7 +1139,7 @@ But I prefer, I prefer at - at the first, eh,	0
 the - the silence with eh, this eh this kind	0
 Well, steady state.	0
 of the - of eh - of noise.	0
-Right, it's - I mean, it's - "Background" might be - might be a better word than "silence". It's just sort of that - the - [MASK] -	1
+Right, it's - I mean, it's - "Background" might be - might be a better word than "silence". It's just sort of that - the - the background acoustic -	1
 Yeah.	0
 Yeah.	0
 Yeah.	0
@@ -1158,8 +1158,8 @@ eh - algorithm	0
 I - and -	0
 Sorry.	0
 And eh	1
-I am going  to prepare	0
-a test bed, eh, well, eh,	0
+I am going  to prepare	1
+a test bed, eh, well, eh,	1
 a - a set of  feature structure eh, eh, models.	1
 Right.	0
 And  my idea is	0
@@ -1167,7 +1167,7 @@ And  my idea is	0
 @@	0
 so - so - on -	1
 Right.	0
-because I have [MASK] yet.	1
+because I have a pitch extractor yet.	1
 Mm-hmm.	0
 I have to - to test, but eh	0
 You have your own?	0
@@ -1204,30 +1204,30 @@ to  obtain,   eh,	0
 for example,	0
 eh,	0
 eh	0
-diff- eh, eh, different - well, no, a great number of eh  [MASK]  for example,	0
+diff- eh, eh, different - well, no, a great number of eh  F_E_C  for example,	0
 eh,  eh, twenty-five, eh, thirty - thirty parameters,	0
 eh, for - for each one.	0
 And	1
-in a first eh, nnn, step	0
-in the investi- in the research in-	0
-eh, my idea is	0
-try to, eh,	0
+in a first eh, nnn, step	1
+in the investi- in the research in-	1
+eh, my idea is	1
+try to, eh,	1
 to prove,	0
-[MASK]	1
-what is the performance of the difference parameter,	0
+Supervised clustering.	1
+what is the performance of the difference parameter,	1
 Mm-hmm.	0
-eh  to classify	0
-the different, eh, what is the -	0
-the - the - the front-end approach	0
-to classify eh, the different, eh, frames of each class	0
-eh and what is the - the, nnn, nnn,	0
-nnn, eh, what is the, the error	0
+eh  to classify	1
+the different, eh, what is the -	1
+the - the - the front-end approach	1
+to classify eh, the different, eh, frames of each class	1
+eh and what is the - the, nnn, nnn,	1
+nnn, eh, what is the, the error	1
 eh, of the  data	1
-This is the - the eh, first idea	0
+This is the - the eh, first idea	1
 Mm-hmm.	0
 and the second	1
-is try to - eh, to use	0
-some ideas eh, similar to [MASK]	1
+is try to - eh, to use	1
+some ideas eh, similar to the linear discriminant analysis.	1
 Mm-hmm.	0
 Eh?	0
 Eh,  similar,  because the- the idea is to - to study	0
@@ -1236,9 +1236,9 @@ to the process of classify correctly the different - the different parameters.	0
 Mm-hmm.	0
 What sort of classifier ar- ?	0
 Eh, the - the - the classifier is - nnn by the moment is eh - is eh, similar, nnn, that the classifier  used   eh, in	1
-a quantifier - [MASK]	0
+a quantifier - vectorial quantifier	1
 is eh, used to - to eh, some distance  to - to put eh, a vector eh, in - in a class different.	1
-@@  [MASK] So is it just one cluster per -	0
+@@  Unimodal? So is it just one cluster per -	0
 Mm-hmm.	0
 Is -  Yeah?	0
 W- with a model, is - is only to cluster using a eh,  @@  or a similarity.	0
@@ -1247,20 +1247,20 @@ Right.	0
 But eh what's the p-	0
 What is my idea? What's the  problem  I - I - I - I see in - in - in -	0
 if you - you use the - the neural network?  If -	0
-w- when  this kind of eh, mmm, cluster, [MASK]	0
+w- when  this kind of eh, mmm, cluster, clustering algorithm	0
 to can test, to can eh observe what happened	0
 you - you can't -	0
 you can't eh,	0
 Right, you can't analyze it.	0
 eh put up  with your hand	0
 in the different parameter, but eh -	0
-If you use [MASK] is - is a good idea, but eh	0
-you don't know what happened in the interior	0
+If you use a neural net is - is a good idea, but eh	0
+you don't know what happened in the interior of the neural net.	0
 Well, actually, you  can  do sensitivity analyses	0
 which show you what the importance of the different  parce-   pieces of the input are.	0
 Yeah.	0
 Mm-hmm.	0
-It's hard to - w- w- what you - It's hard to tell on [MASK] is what's going on  internally.	0
+It's hard to - w- w- what you - It's hard to tell on a neural net is what's going on  internally.	0
 Yeah.	0
 But it's actually not that hard to analyze it and figure out the effects of different inputs, especially if they're all normalized.	0
 Yeah.	0
@@ -1272,8 +1272,8 @@ Well, this isn't tru- if - if - if you  really  wonder what different if - if -	
 Yeah.	0
 But -	0
 Decision tree.	0
-Yeah, then [MASK] is really good, but the thing is here he's - he's not - he's not like he has  one	1
-you know, a bunch of very distinct variables, like pitch and this - he's talking about, like, a- all these [MASK] and so forth, in which case	1
+Yeah, then a decision tree is really good, but the thing is here he's - he's not - he's not like he has  one	1
+you know, a bunch of very distinct variables, like pitch and this - he's talking about, like, a- all these cepstral coefficients, and so forth, in which case	1
 Right.	0
 Yeah.	0
 Yeah.	0
@@ -1289,10 +1289,10 @@ I - I mean, I think the other thing that one - I mean, this is, I think a good t
 too.	0
 See what I'd - I'd - Let me tell you what  I  would do.	0
 I would take	1
-just a  few  features. Instead of taking all [MASK] or	0
+just a  few  features. Instead of taking all the M_F_C_C's, or all the P_L_P's or whatever,	1
 Yeah.	0
 I would just take a  couple.	1
-O_K? Like - like [MASK] something like that, so that you can  visualize  it.	1
+O_K? Like - like C_one, C_two, something like that, so that you can  visualize  it.	1
 Yeah.	0
 and look at these different examples and look at  scatter  plots.	1
 Yeah.	0
@@ -1306,25 +1306,25 @@ And the second thing is, once you actually  get  to the point of building these 
 what  this  lacks so far is the  temporal  properties.	0
 So if you're just looking at a frame and a time, you don't know anything about, you know, the structure of it over  time,  and so	1
 Yeah.	0
-you may wanna build  @@  - build a Markov model of some sort	0
+you may wanna build  @@  - build a Markov model of some sort	1
 Context  window ?	0
-uh, or -	0
+uh, or -	1
 Yeah.	0
-or else have features that really are based on	0
+or else have features that really are based on	1
 Yeah.	0
-um	0
+um	1
 on - on some bigger chunk of time.	1
 But I think this is a good place to start.	0
 But don't uh- anyway, this is my suggestion, is don't just, you know,	1
 Yeah.	0
-throw in twenty features at it, the deltas, and the delta del- and all that	0
+throw in twenty features at it, the deltas, and the delta del- and all that	1
 Yeah, yeah.	0
-into some classifier, even -	0
-even  if it's [MASK] you  still  won't know what it's doing, even - You know it's n	1
+into some classifier, even -	1
+even  if it's K_nearest-neighbors, you  still  won't know what it's doing, even - You know it's not a neural net.	1
 Uh, I think to know what it's - to have a better feeling for what it's doing, you wanna  look  at it.	0
 So you wanna look at - at som- some picture that shows you, "Here's - These things uh, uh are - offer some separation."	0
 Yep.	0
-And, uh, in [MASK] uh, the thing to particularly look at is, I think - is something	1
+And, uh, in L_P_C, uh, the thing to particularly look at is, I think - is something	1
 like, uh, the residual - the energy in the residual.	1
 Yeah.	0
 Um	0
@@ -1359,8 +1359,8 @@ eh, a speech recognizer,	0
 eh broad class, or not broad class	0
 to - to try to - to	0
 to label the different frames,	0
-I think  the [MASK]	0
-or [MASK]	0
+I think  the Ike criterion	0
+or BIC criterion	0
 eh	0
 O_K.	0
 will be enough	0
@@ -1375,24 +1375,24 @@ this criterion is enough	0
 with -	0
 probably with, eh, this kind of, eh,	0
 eh the - the - the more eh use eh - use eh -  used   eh	0
-em  normal,  regular  eh [MASK]	0
+em  normal,  regular  eh parameter M_F-  M_F_C_C.	0
 you - you have to - to - to find - you can find	0
 the - the mark.	0
 You can find the - nnn, the - the acoustic change.	0
 But eh eh	1
-I - I understand that you - your objective is  to eh  classify,	0
-to know that eh that zone	0
-not is  only   a new zone in the - in the file,	0
+I - I understand that you - your objective is  to eh  classify,	1
+to know that eh that zone	1
+not is  only   a new zone in the - in the file,	1
 that eh you have eh, but you have to - to - to know that this is  overlap  zone.	1
 because in the future you will eh	1
-Mm-hmm.	1
-try to - to process that zone	0
-with a non- regular  eh eh [MASK] I suppose.	1
+Mm-hmm.	0
+try to - to process that zone	1
+with a non- regular  eh eh speech recognizer model, I suppose.	1
 you - you will pretend	1
 Mm-hmm.	0
-to - to - to  process  the overlapping z- eh zone	0
+to - to - to  process  the overlapping z- eh zone	1
 with another kind of algorithm because it's very difficult to -	1
-to - to obtain the  transcription	0
+to - to obtain the  transcription	1
 from eh using eh eh a regular, normal speech recognizer.	1
 That , you know,  I - I - I think is the idea.	0
 And so	0
@@ -1403,16 +1403,16 @@ the system	0
 eh will have	0
 two models.	1
 A model to detect	1
-more acc- the mor- most accurately possible	0
-that is p- uh, will  be  possible	0
-the, eh -	0
+more acc- the mor- most accurately possible	1
+that is p- uh, will  be  possible	1
+the, eh -	1
 the mark, the change	1
 O_K.	0
 and another -	1
-another model will  @@	0
-or several models, to try s- but -	0
-eh several model- eh robust models, sample models	0
-to try to classify	0
+another model will  @@	1
+or several models, to try s- but -	1
+eh several model- eh robust models, sample models	1
+to try to classify	1
 the difference class.	1
 I'm - I'm - I'm sorry, I didn't  understand   you - what you said. What - what model?	0
 @@	0
@@ -1425,7 +1425,7 @@ before try to - to recognize, eh	0
 with eh - to transcribe, with eh	0
 a speech recognizer.	0
 So p-	0
-And my idea is to use eh, for example, [MASK]	0
+And my idea is to use eh, for example, a neural net	0
 with  the  information we obtain from this eh - this eh study	0
 Features.  Yeah.	0
 of the parameter with the  selected  parameter to try to eh - to put	0
@@ -1436,7 +1436,7 @@ have  obtained	0
 in the first	0
 Mm-hmm.	0
 eh, step	0
-with the  for example, [MASK] eh, eh  criterion	0
+with the  for example, BIC eh, eh  criterion	0
 compare model	0
 And -	0
 You- I don't- u-	0
@@ -1454,7 +1454,7 @@ Features?	0
 in - Well, I -	0
 again, the things you've written up there I think are way too - way too big.	0
 Yeah.	0
-O_K? If you're talking about, say, twelfth - twelfth-order uh [MASK] or something like that it's just way too much. You won't be able to  look  at it.	0
+O_K? If you're talking about, say, twelfth - twelfth-order uh M_F_C_C's or something like that it's just way too much. You won't be able to  look  at it.	0
 Yeah.	0
 All you'll be able to do is put it into a classifier and see how well it does.	0
 Yeah.	0
@@ -1464,18 +1464,18 @@ uh, and look at how the - the different classes separate themselves out, you'll 
 It will be enough.	0
 Well, you'll - you'll get a  feeling  for what's happening, you know, so if you look at -	1
 Yeah.	0
-Suppose you look at first- and [MASK] for some one of these kinds of things	0
-and you find that [MASK] is much more effective than the second,	0
-and then you look at the third and there's not - and not too much there,	0
+Suppose you look at first- and second-order cepstral coefficients for some one of these kinds of things	1
+and you find that the first-order is much more effective than the second,	1
+and then you look at the third and there's not - and not too much there,	1
 Yeah.	0
-you may just take	0
-[MASK] right? And with [MASK] I think	1
+you may just take	1
+first- and second-order cepstral coefficients, right? And with L_P_C, I think L_P_C per se isn't gonna tell you much more than - than - than the other, maybe.	1
 Yeah.	0
-Uh, and uh on the other hand, [MASK] the energy in th	1
-will say how well, uh	0
-[MASK]	0
-model's fitting it, which should be	0
-pretty poorly for two- two or more	0
+Uh, and uh on the other hand, the L_P_C residual, the energy in the L_P_C residual,	1
+will say how well, uh	1
+the low-order L_P_C	1
+model's fitting it, which should be	1
+pretty poorly for two- two or more	1
 Yeah.	0
 people speaking at the same time, and it should be pretty well, for w- for - for one.	1
 Yeah.	0
@@ -1505,13 +1505,13 @@ With what? With what?	0
 Right. Mixed.	0
 the - the mix,  mixed  speech.	0
 "Mixed". Thank you.	0
-Eh, why? Because eh [MASK] is -	0
+Eh, why? Because eh the spectral distortion is -	0
 more eh - a lot eh clearer,	0
-very much clearer if we compare with [MASK]	0
+very much clearer if we compare with the P_D_A.	0
 Right.	0
-[MASK] is eh - it will be eh difficult. I -	0
+P_D_A speech file is eh - it will be eh difficult. I -	0
 So it's messier.	0
-The - [MASK] is messier.	0
+The - the P_D_A is messier.	0
 Yeah, fff!	0
 Because the n- the noise eh to sp- the signal-to-noise relation is eh - is - is low.	0
 O_K.	0
@@ -1519,7 +1519,7 @@ And ,  I don't know -	0
 Yeah, I think that that's a good way to start. But.	0
 I don't know eh uh i- i- that eh the -	0
 the result of the - of the study eh with eh - with eh this eh - this speech, the mix speech	0
-eh  will work   exactly   with the  eh [MASK]	0
+eh  will work   exactly   with the  eh P_D_A files.	0
 It would be interesting in  itself  to see.	0
 Well, I think that would be an interesting  result.	0
 N- u-	0
@@ -1530,18 +1530,18 @@ signal to - to - to noise relation, you know, eh with -	0
 Well, I think - I think - I think it's not a - it's not at all unreasonable. It makes sense to start with the simpler signal	0
 because if you have features which don't - aren't even	0
 helpful	0
-in the  high  [MASK] then there's no point in putting them into the  low  signal ratio, one would  think,  anyway.	0
+in the  high  signal-to-noise ratio, then there's no point in putting them into the  low  signal ratio, one would  think,  anyway.	1
 Yeah.	0
 And so, if you can get -	1
-@@	0
-Uh again, my prescription would be	0
-that you would, with a mixed	0
-signal, you would take a collection of possible uh, features	0
-look  at them,	0
-look at how these different classes that you've marked, separate themselves,	0
+@@	1
+Uh again, my prescription would be	1
+that you would, with a mixed	1
+signal, you would take a collection of possible uh, features	1
+look  at them,	1
+look at how these different classes that you've marked, separate themselves,	1
 Yeah.	0
-and then collect, uh in pairs,	0
-and then collect ten of them or something, and then proceed	0
+and then collect, uh in pairs,	1
+and then collect ten of them or something, and then proceed	1
 Yeah.	0
 with a bigger classifier.	1
 And then if you can get that to work well,	1
@@ -1557,9 +1557,9 @@ Yeah. But it- I think it would be interesting to try a  couple  with  both.	0
 Because it - I think it would be  interesting  to see if some features work well with close  mixed,  and -	0
 Hmm.	0
 Ah, yeah, yeah yeah yeah.  @@	0
-That's - well, the -	1
+That's - well, the -	0
 And don't -	0
-It - it's - it's true that it also, it could be  useful to do this [MASK] where you're looking at scatter plots and so on in both cases. Sure.	1
+It - it's - it's true that it also, it could be  useful to do this exploratory analysis where you're looking at scatter plots and so on in both cases. Sure.	0
 But -	0
 Mm-hmm.	0
 I - I - I - I think that the - the eh parameter we found, eh,	0
@@ -1568,15 +1568,15 @@ eh	0
 worked	0
 with both	0
 eh, speech file, but eh what is the - the -	1
-the relation of eh - of the	0
-performance when eh you use eh the, eh	0
+the relation of eh - of the	1
+performance when eh you use eh the, eh	1
 Hmm.	0
-eh speech file- [MASK] speech files. Yeah, I don't know. But it -	1
+eh speech file- the P_D_A speech files. Yeah, I don't know. But it -	1
 Right.	0
 I - I - I - I think it will be important.	0
 Because eh people eh eh, different groups eh has eh experience with this eh kind of problem. Is - eh is not easy	0
 eh to - to solve, because if you -  I - I -	0
-I have seen the - the - the speech file from eh [MASK] and s-	0
+I have seen the - the - the speech file from eh P_D_A, and s-	0
 some parts is  very difficult because you - you don't see the spectrum - the spectrogram.    Is  very difficult to apply	0
 Right.	0
 Yeah, they're totally hidden.	0
@@ -1585,9 +1585,9 @@ Yeah.	0
 eh, eh	0
 a parameter to detect change when you don't see. But I suppose -	0
 Well, that -	1
-that - that's another reason why very simple features, things like energy, and things -	0
+that - that's another reason why very simple features, things like energy, and things -	1
 Yeah, yeah yeah, I - I - I will put eh the energy here.	0
-things like harmonicity, and  residual energy are	0
+things like harmonicity, and  residual energy are	1
 Are probably better, yep.	0
 uh, yeah are - are better to use than very complex ones because they'll be more reliable.	1
 Yeah.	0
@@ -1630,7 +1630,7 @@ I  see.	0
 Yeah.	0
 Yeah, yeah, yeah.	0
 O_K.	0
-There - there  is  a complication though, and that is if a person turns their back to the - to [MASK] then some of the positional information goes away?	0
+There - there  is  a complication though, and that is if a person turns their back to the - to the P_D_A, then some of the positional information goes away?	0
 Well, it - it - it  does,  i- it d- it  does,  but the -	0
 And then,	0
 Yeah.	0
@@ -1654,7 +1654,7 @@ Yeah.	0
 I don't - I don't know ho-	0
 I - I - I think - Sorry.	0
 I - I - I think because the- the- the distance between the two microph-	0
-eh, microphone, eh, in [MASK] is	0
+eh, microphone, eh, in the P_D_A is	0
 very near. But it's uh -	0
 from my opinion, it's an interesting idea	0
 to - to try to study the  binaural	0
@@ -1662,7 +1662,7 @@ eh problem eh, with information, because I - I found	0
 I would guess -	0
 Yep.	0
 difference between the - the speech from - from each micro-	0
-eh, in [MASK]	0
+eh, in the P_D_A.	0
 Yeah, it's  timing  difference. It- it's not amplitude, right?	0
 Oh yeah! Oh I agree! And we use it  ourselves.	0
 S-	0
@@ -1673,7 +1673,7 @@ Right.	0
 But I'm just - I'm just saying that	0
 the way we're seated around a table,	0
 is not the same	0
-with respect to each - to each person with respect to [MASK] so we're gonna have	0
+with respect to each - to each person with respect to the P_D_A, so we're gonna have	0
 No.  No.	0
 No, no, no.	0
 a lot of differences with ref- respect to the speaker.	0
@@ -1714,10 +1714,10 @@ Yep.	0
 Yeah.	0
 What  looked different?	0
 Uh, well, basic- he was looking at correlation.	0
-Cross-co-  [MASK]	0
-Just [MASK] between two sides.	0
+Cross-co-  cross-correlation.	0
+Just cross-correlation between two sides.	0
 Correlation, yeah.	0
-So [MASK] is pretty sensitive.	0
+So cross-correlation is pretty sensitive.	0
 Did- Sorry, b- uh	0
 I'm not sure what Dan's page is that you mean. He was looking at the two -	0
 Uh, his a web page.	0
@@ -1736,7 +1736,7 @@ So if - at whatever angle you  are,	0
 O_K. O_K.	0
 So - so if there's  two  -	0
 at some lag corresponding to the time difference between the two  there,	0
-you get this boost in the - in - in the [MASK] value - function.	0
+you get this boost in the - in - in the cross-correlation value - function.	0
 And if there are multiple people  talking,  you'll see two peaks.	1
 It's spread out.	1
 Yeah.	0
@@ -1746,7 +1746,7 @@ Yeah.	0
 it would be less effective than if one was there and one was across, catty-corner? No?	0
 The- the - Oh, I'm sorry, if they're right next to one another? i- i-	0
 If I was - if I was  here  and Morgan was  there  and we were both talking,	0
-Next - next one over n- over  on this side of the P_ - [MASK]	0
+Next - next one over n- over  on this side of the P_ - P_D_A.	0
 There we go.	0
 Right.	0
 Yeah. Yeah.	0
@@ -1769,7 +1769,7 @@ And so my point was just that it's - it's gonna be differentially -	0
 Well,	0
 we d- yeah, we don't have a third dimension there. Yeah, so it's -	0
 Right.	0
-[MASK]	0
+differentially varia- valuable.	0
 I mean, it's not to say - I mean, I  certainly  think it's  extremely  val-  And we - we humans  n- n-  depend  on  you know, these - these binaural cues. But.	0
 Yeah, yeah.	0
 But it's almost - but it's almost a -	0
@@ -1797,19 +1797,19 @@ And I think Dan is still working on it. So. He actually -	0
 to get it perfect for everybody.	0
 he wrote me about it a little bit, so.	0
 Great. No, I don't mean to discourage that at all.	0
-I mean, the other thing you can do - uh, if - I mean, i- We're  assuming  that it would be a big deal just to get somebody - convince somebody to put two microphones in [MASK]	0
-But if you h- put a  third  in,	1
+I mean, the other thing you can do - uh, if - I mean, i- We're  assuming  that it would be a big deal just to get somebody - convince somebody to put two microphones in the P_D_A.	0
+But if you h- put a  third  in,	0
 you could put in the other axis. And then you know - then you're sort of -	0
 Once you got  two  -	0
 Interesting.	0
-Yeah, then - then you pretty much could cover -	1
+Yeah, then - then you pretty much could cover -	0
 Yeah.	0
 Interesting.	0
 Well what about just doing it from  these  mikes?	0
 You know?	0
 Yeah.	0
 Yep.	0
-It will be more interesting to study [MASK] because the - the - the separation - I - I think -	0
+It will be more interesting to study the P_Z_M because the - the - the separation - I - I think -	0
 Uh	0
 @@	0
 But- but that's -	0
@@ -1818,9 +1818,9 @@ I mean, we can- we'll be - all of this is there for us to study.	0
 Yeah, we can do whatever we want.	0
 Yeah.	0
 But -	1
-but - but the thing is, uh, one of the - at least  one  of the things I was hoping to get at with this is what	0
+but - but the thing is, uh, one of the - at least  one  of the things I was hoping to get at with this is what	1
 Whatever you're interested in.	0
-can we do with what we  think  would be the normal situation if some people get together and one of them has [MASK]	1
+can we do with what we  think  would be the normal situation if some people get together and one of them has a P_D_A.	1
 Yeah.	0
 Yeah. Yeah.	0
 That's what I was asking about, what are the constraints?	0
@@ -1864,30 +1864,30 @@ That  is  cool.	0
 Yeah.	0
 It was - yeah, it was interesting.	0
 But,	1
-the reason why I haven't focused on that as the fir- my first concern is because	0
+the reason why I haven't focused on that as the fir- my first concern is because	1
 um, I'm interested in what happens for people,  random  people out in some random place where they're p- having an impromptu discussion.	1
 And you can't just always go, "well, let's go to this heavily instrumented room that we spent tens of thousands of dollars to se- to set up".	0
 Yeah.	0
 Yeah.	0
 No, what you need to do is you'd have	0
-a little fabric thing that you unroll and hang on a wall. It has all these mikes and it has a plug-in jack to [MASK]	0
+a little fabric thing that you unroll and hang on a wall. It has all these mikes and it has a plug-in jack to the P_D_A.	0
 Interesting.	0
 The  other  thing actually, that gets at this a little bit of something  else  I'd like to do, is what happens if you have two  P_D_As   and they  communicate  with each other?	1
 But  I think  -	0
 Yep.	0
 Yeah.	0
-And then - You know, they're in random positions, the likelihood that - I mean, basically there wouldn't be any - l- likely to be  any  kind of nulls, if you even had  two.	0
+And then - You know, they're in random positions, the likelihood that - I mean, basically there wouldn't be any - l- likely to be  any  kind of nulls, if you even had  two.	1
 Ooo!	0
 That's on my web pages.  Yeah.	0
 Network!	0
 Interesting.	0
-If you had three or four it's -	0
+If you had three or four it's -	1
 Though -	0
 Interesting.	0
 All sorts of interesting things you can  do  with that, I mean, not only can you do  microphone  arrays, but you can do all sorts of um	1
 Yeah.	1
 Hmm.	0
-multi-band	0
+multi-band	1
 Yeah.	0
 Yeah.	0
 as well.	1
@@ -1934,10 +1934,10 @@ and then also  anonymity,  how we want to  anonymize  the data.	1
 Well, should I -	0
 Uh.	0
 I mean I have some results to present, but I mean I guess we won't have time to do that this time.	0
-But it seems like um [MASK] is uh,	0
+But it seems like um the anonymization is uh,	0
 is  also  something that we might wanna discuss in greater length.	0
 Um. I mean, wha- what -	0
-If - if we're about to wind down, I think - what  I  would prefer is that we uh, delay [MASK] thing till next week, and I would like to present	0
+If - if we're about to wind down, I think - what  I  would prefer is that we uh, delay the anonymization thing till next week, and I would like to present	0
 the results that I have on the overlaps.	0
 We still have to do this, too, right?	0
 Right.	0
@@ -1959,7 +1959,7 @@ O_K.	0
 Oh, yeah. Sure.	0
 O_K, that's what I'm asking.	0
 Oh yeah, yeah.	0
-And I think [MASK], if y- if you want to proceed with that now, I just think that that's - that's a discussion which  also	0
+And I think the anonymization, if y- if you want to proceed with that now, I just think that that's - that's a discussion which  also	0
 n-	0
 really deserves a lo- a - you know, more that just a minute. I really do think that, because you raised a couple of possibilities yourself, you and I have discussed it previously, and there are different ways that people approach it, e- and I think we should -	0
 We could s-	0
@@ -1988,32 +1988,32 @@ O_K, so first decision is, we're gonna anonymize the same name	0
 for the speaker identifier and also in the text whenever the speaker's name is mentioned.	0
 No.	1
 I don't -	0
-Because that would give you a  mapping  between the speaker's  real  name and the  tag  we're using,	0
+Because that would give you a  mapping  between the speaker's  real  name and the  tag  we're using,	1
 I - I don't think you understood what I - what I said. So -	0
 and we don't want -	1
 O_K.	0
 uh, so in - within the context of an utterance, someone says "So, Roger, what do  you  think?"	0
 O_K.	0
 Then, uh, it seems to me that -	1
-Well, maybe I - uh it seems to me that if you change the name,	0
+Well, maybe I - uh it seems to me that if you change the name,	1
 the transcript's gonna disagree with the audio, and you won't be able to use that.	1
 We don't - we wanna - we ha- we want the transcript to be " Roger ".	0
 Right, you don't wanna do that.	0
 Because if we made the - the  transcript  be the  tag  that we're using for Roger,	1
 Yeah.	0
-someone who had the  transcript  and the  audio  would then have a  mapping	0
+someone who had the  transcript  and the  audio  would then have a  mapping	1
 between the  anonymized  name and the  real  name, and we wanna  avoid  that.	1
 O_K, well, but then	1
-there's this issue of if we're gonna use this for a  discourse  type of thing,	0
+there's this issue of if we're gonna use this for a  discourse  type of thing,	1
 then -	0
-and, you know, Liz was mentioning stuff in  a  previous meeting about gaze direction and who's - who's the  addressee  and all,	0
+and, you know, Liz was mentioning stuff in  a  previous meeting about gaze direction and who's - who's the  addressee  and all,	1
 Oh.	0
-then to have "Roger" be the thing in the  utterance  and then actually have the  speaker  identifier who  was  "Roger" be " Frank ",	0
-that's going to be  really   confusing  and make it pretty much useless for[MASK]	1
+then to have "Roger" be the thing in the  utterance  and then actually have the  speaker  identifier who  was  "Roger" be " Frank ",	1
+that's going to be  really   confusing  and make it pretty much useless for discourse analysis.	1
 Ugh!    That's a good point.	0
 Now, if you want to, you know, I mean, in some cases, I - I - I know that Susan Ervin-Tripp in some of hers, uh, actually did do uh, um, a filter of the s- signal where the person's name was mentioned, except	0
 Yeah	0
-And - and I - cer- and I - So, I mean, the question then becomes one level  back.	0
+And - and I - cer- and I - So, I mean, the question then becomes one level  back.	1
 Um, how important  is  it for a person to be identified by first name versus  full  name?	1
 Well,	0
 on the one hand,	0
@@ -2021,7 +2021,7 @@ uh, it's not a full identity, we're taking all these precautions,	0
 um	0
 and  they'll  be taking precautions, which are probably even the more  important  ones, to - they'll be reviewing the transcripts, to see if there's something they don't like -  O_K.	0
 So, maybe, uh, maybe that's enough protection. On the other hand,	1
-this is a small - this is a small pool, and people who say things about topic X_	0
+this is a small - this is a small pool, and people who say things about topic X_	1
 e- who are researchers and well-known in the field, they'll be identifiable and simply from the - from the first name.	1
 However, taking one step  further  back, they'd be identifiable  anyway,  even if we  changed  all the names.	1
 Right.	0
@@ -2035,8 +2035,8 @@ Mm-hmm.	0
 Now,  there,  the Human Subjects Committee is very precise.	0
 You don't wanna mention subjects by name	0
 in published reports.	1
-Now, it would be very  possible  for me to take those data	0
-put them in a - in a study, and just change everybody's name for the purpose of the publication.	0
+Now, it would be very  possible  for me to take those data	1
+put them in a - in a study, and just change everybody's name for the purpose of the publication.	1
 Yeah, once you get to the publication you can certainly do that. You can go, you know, uh, "Z_"  uh, for instance. Uh.	0
 And someone who looked -	1
 Yeah, exactly. Doesn't matter if -	0
@@ -2055,9 +2055,9 @@ So again, th- the issue is if you're tracking discourse things, you know, if som
 Or "your name".	0
 Yeah, shoot!	0
 Yeah, and - and - you know, even more i- i- uh, immediate than that just	1
-being able to,	0
+being able to,	1
 uh -	0
-Well, it just seems like to  track   - track from one utterance to the next utterance who's speaking and who's speaking	0
+Well, it just seems like to  track   - track from one utterance to the next utterance who's speaking and who's speaking	1
 to whom, cuz that can be important. S-	1
 Mm-hmm.	0
 i- You know, "You raised the point, So-and-so", it's be kind of nice to	0
@@ -2159,7 +2159,7 @@ But that -	0
 That'd be very efficient.	0
 This doesn't answer the - the  question.	0
 The p-	0
-It's a good point, "which - what do you do for [MASK]	0
+It's a good point, "which - what do you do for discourse tracking?"	0
 Because y- y- you don't know to know, eh -	0
 Hmm.	0
 you don't need to know what i- what is the iden- identification of the - of the speakers. You only	0
@@ -2198,14 +2198,14 @@ you know, about what you're  saying  bef-	0
 Yeah.	0
 "Is you know who up in you know where?" Right? Use the -	0
 Yeah. Yeah.	0
-Mm-hmm.	1
+Mm-hmm.	0
 I think it would be really  hard  if we made a policy where we didn't say  names,	0
 Yeah,  darn!  I mean, what I was gonna  say  is that the other  option  is that we could bleep  out  the  names.	0
 Yeah, is -	0
 Well, it-	0
 plus we'd have to  tell  everybody  else.	0
 Yeah.	0
-but then, again that kills your [MASK]  Ugh!	0
+but then, again that kills your  discourse  analysis.  Ugh!	0
 Right.	0
 Uh-huh.	0
 Yeah.	0
@@ -2257,10 +2257,10 @@ And that violates our  privacy   issue.	0
 Mm-hmm. Yeah.	0
 Yeah.	0
 Yeah.	0
-Now, I - I think that we have these two phases in the - in the data, which is the one which is o- our use, University of Washington's use, I_B_M, [MASK]	1
+Now, I - I think that we have these two phases in the - in the data, which is the one which is o- our use, University of Washington's use, I_B_M, S_R_I.	1
 Yeah.	0
-And within  that,	0
-it  may  be that it's sufficient to not uh change the - to not incorporate anonymization yet,	0
+And within  that,	1
+it  may  be that it's sufficient to not uh change the - to not incorporate anonymization yet,	1
 Mm-hmm.	0
 but  always,  always in the publications we have to.	1
 And I think also, when we take it that next step and distribute it to the world, we  have  to.	0
@@ -2333,7 +2333,7 @@ Well it - Discourse, you know -  Also  I wanted to make the point that - that di
 Discourse.	0
 Yeah, ab- absolutely.	0
 Oh, yeah, sure.	0
-You know, and prosod- [MASK] stuff is involved, and that means you're going to be listening to the audio, and then you come directly into this - confronting this problem.	0
+You know, and prosod- prosodic stuff is involved, and that means you're going to be listening to the audio, and then you come directly into this - confronting this problem.	0
 Maybe we should just not allow anybody to do  research  on discourse,	0
 So.	0
 and then, we wouldn't have to worry about it.	0

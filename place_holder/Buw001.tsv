@@ -62,12 +62,12 @@ O_K.	0
 Alright. So what we had  was that we were gonna talk about data collection,	1
 and, um, uh, you - you put up there data format,	0
 Um.	0
-and other tasks during data collection,	0
+and other tasks during data collection,	1
 So, I think the goal - the goal was	0
 and -	0
 what can we do - how can you do the data collection differently to get -	0
-what can you add to it to get, um,	0
-some information that would be helpful for the user-interface design? Like -	0
+what can you add to it to get, um,	1
+some information that would be helpful for the user-interface design? Like -	1
 Uh, especially for querying.	0
 Especially for querying. So, getting people to do queries afterwards, getting people to do summaries afterwards.	0
 Well, one thing that came up in the morning - in the morning was the, um,	0
@@ -86,10 +86,10 @@ in the sense of taking advantage of the  time-stamps.  So action item or	0
 uh, reminder to send this to so-and-so, blah-blah-blah.	0
 Mm-hmm.	0
 So that wouldn't be a  summary.  That would just be - that would b- relate to the  query  side.	0
-But if we  had  the CrossPads, we could ask people, you know, if - if something comes up	0
+But if we  had  the CrossPads, we could ask people, you know, if - if something comes up	1
 Mm-hmm.	0
-write it down and mark it    somehow,  you know.	0
-Right. I mean, we - because you'd have several people with these pads, you could collect different things.	0
+write it down and mark it    somehow,  you know.	1
+Right. I mean, we - because you'd have several people with these pads, you could collect different things.	1
 I mean, cuz  I  tend to take notes which are summaries. And so, you know -	0
 Right.	0
 I mean, the down-side to that is that he sort of indicated that the,	1
@@ -137,13 +137,13 @@ Far.	0
 Furthest. P_D_M-right, P_Z_A-right - P_D_A-right,  P_D_A-left.	0
 O_K.	0
 Thanks.	0
-Yeah, and eventually once this room gets a little more organized, the [MASK]  will be mounted under the table,	0
+Yeah, and eventually once this room gets a little more organized, the Jimlets  will be mounted under the table,	0
 and these guys will be permanently mounted  somehow.  You know, probably with double-sided tape, but -	0
 So. You - So we won't have to go through that.	0
 Hmm.	0
 I have a question on protocol in these meetings, which is	1
-when you say "Jimlet" and the	0
-person listening won't know what that is, sh- shou-	0
+when you say "Jimlet" and the	1
+person listening won't know what that is, sh- shou-	1
 How - how do we get - Is that important information? You know, the	1
 Jimlet - I mean, the box that contains the -	0
 Well, I mean, suppose we broaden out and go to a range of meetings besides just these internal ones. There's gonna be lots of things that any group of people who know each other	0
@@ -151,11 +151,11 @@ have in column -  common   that we will not know.	0
 Mm-hmm.	0
 Right.	0
 O_K.	0
-Right. So the- there will be jargon that we he- There'll be transcription errors.	0
+Right. So the- there will be jargon that we he- There'll be transcription errors.	1
 Good.	0
 Yeah.	0
 O_K.	0
-I mean, we - we were originally gonna do this with [MASK] and - and - and the reason we didn't go straight to that was because  immediately  ninety  percent  of what we heard would be  jargon to - to us. So.	0
+I mean, we - we were originally gonna do this with V_L_S_I design, and - and - and the reason we didn't go straight to that was because  immediately  ninety  percent  of what we heard would be  jargon to - to us. So.	0
 Well, that was just  one  of the reasons. But, yeah, definitely.	0
 O_K.   Good.	0
 Yeah.	0
@@ -165,7 +165,7 @@ Right. We can go back.	0
 So,	0
 uh, u- u-	0
 So, actually there's kind of  three  issues. There's the CrossPad issue.	1
-Should we do it and, if so, what'll we have them do?	0
+Should we do it and, if so, what'll we have them do?	1
 Um, do we have s- people write summaries?	1
 Everybody or one person?	1
 And then, do we ask people for how they would query things?	1
@@ -250,9 +250,9 @@ Mm-hmm.	0
 Yeah -	0
 I actually want to say something about the  note  pad. So,	1
 Hmm.	0
-if you could sense just when people are writing,	0
-and you tell them not to doodle, or try not to	0
-be using that for other purposes,  and each person has a note pad. They just get it when they come in the room.	0
+if you could sense just when people are writing,	1
+and you tell them not to doodle, or try not to	1
+be using that for other purposes,  and each person has a note pad. They just get it when they come in the room.	1
 Then  you c- you can just have a fff  plot of wh- you know,  who's  writing  when.	1
 Activity. Yeah.	0
 That's all you -	0
@@ -283,7 +283,7 @@ an information fusion sort of thing that, you know, you wanna i- say	0
 Yeah.	0
 "what were the hot-points of the  meeting? "	0
 That - that's what I mean, is that I think it gets at something interesting but if we were asking the question, which I thought we were, of - of - of, um,	1
-"how do we figure out what's the nature of the queries that people are gonna want to ask of such a system?",	0
+"how do we figure out what's the nature of the queries that people are gonna want to ask of such a system?",	1
 knowing what's important doesn't tell you what people are going to be  asking.	1
 But I bet it's a good  superset of it.	1
 Does it?	0
@@ -292,10 +292,10 @@ Well, yeah. I think you could say they're gonna ask about,	0
 uh, when - uh, when did so-and-so s-	0
 talk about blah. And at least that gives you the  word   that they might run a  query  on.	0
 At least you can find the  locations  where there are maybe  keywords  and -	0
-I mean, i- this would tell you what [MASK]is. What -	0
+I mean, i- this would tell you what the  hit  is, not what the  query  is. What -	0
 Maybe.	0
 Right, right. But I think - I think thinking about queries is a little bit dangerous right now. We don't even know what -	0
-Right. It'll tell you [MASK]	0
+Right. It'll tell you the  hit  but not the  query.	0
 And so you could - you can  generate  a  query  from the  hits,  but -	0
 Right.	0
 I mean, if you want to find out what any user will use, that might be true for one domain and one user, but I mean a different domain and a different user -	0
@@ -318,7 +318,7 @@ So "action item" is gonna come up whether it's a V_L_S_I meeting, or speech meet
 So words that come up in different types of meetings may be something that you would want to  query  about.	0
 Mm-hmm.	0
 Um, the  second  thing you could possibly do with it is just run	1
-a little  pilot  experiment with somebody saying "here's a summary of a meeting,	0
+a little  pilot  experiment with somebody saying "here's a summary of a meeting,	1
 what questions might you want to  ask  about it to go  back? "	1
 Yeah, I think that's difficult because then they're  not  gonna ask the questions that are in the  summary.	0
 Well -	0
@@ -329,7 +329,7 @@ and you want to ask questions to get more  detail.	0
 th-  Yeah, I think it has to be a participant.  Well,  it doesn't  have  to be.	0
 O_K. So that - that is  another  use of Meeting Recorder that we haven't really  talked  about,	0
 which is for someone  else,	0
-as opposed to as [MASK], which is what had been  my  primary thought	0
+as opposed to as a  remembrance agent, which is what had been  my  primary thought	0
 in the information retrieval  part  of it would be.	0
 But, uh,	0
 I guess if you had a meeting  participant,	1
@@ -414,9 +414,9 @@ Uh, we get that transcribed. So now we have five hours of meetings	1
 and, uh, you ask me, uh, uh, "Morgan, what d- you know, what kind of questions do you want to ask?"	1
 Uh, I wouldn't have any  idea  what kind of questions I want to ask. I'd have to get started  someplace.  So in fact if I looked at  summary  of it, I'd go "oh, yeah, I was in that meeting,	1
 I remember  that,	0
-um, what was the part that -"	0
+um, what was the part that -"	1
 And - and th- I  think  that might	1
-then  help  me to think of things - even things that aren't listed in the  summary,	0
+then  help  me to think of things - even things that aren't listed in the  summary,	1
 Mm-hmm.	0
 but just as a - as a - as a  refresh  of what the general thing was going on in the  meeting.	1
 I think it serves  two  purpo- purposes. One, as sort of a refresh to help bootstrap	0
@@ -452,7 +452,7 @@ And then they would say "well, we talked about this and then we talked about tha
 Hmm.	0
 And then you'd have, like -	0
 I - e-  My  thought was	1
-to have multiple people summarize it,	0
+to have multiple people summarize it,	1
 on recording rather than writing because writing takes time and you get irrelevant other things that u- take time, that -	1
 Mm-hmm.	0
 Whereas if you just  say  it immediately after the meeting,	1
@@ -568,8 +568,8 @@ Big, big interest.	0
 Yeah.	0
 Huge. I mean, it - personally, I don't - I would never want to deal with it. But I'm just saying	1
 Yeah.	0
-first of all there's a whole bunch of	0
-[MASK]	1
+first of all there's a whole bunch of	1
+fusion issues that DARPA's interested in. You know, fusing gesture and face recognition, even lip movement and things like that,	1
 Yeah.	0
 Yeah.	0
 for this kind of task.	0
@@ -755,7 +755,7 @@ um, unless you think that the CrossPads are gonna -	0
 n-	0
 I'm not - I'm not sure what they're gonna do. But - but having a small percentage of the data with it, I'm not sure	0
 whether that's useful or not. Maybe - maybe it's no big deal. Maybe we just do it and see what happens.	0
-What  -	1
+What  -	0
 I guess the point was to try - again, to try to collect more	1
 information that could be useful later for - for the U_I stuff.	1
 Mm-hmm.	0
@@ -771,7 +771,7 @@ Right. O_K.	0
 And - and they seem to  not be able to give enough of them away, so we could probably get more as well.	0
 You know, what you can  do  with things.	0
 Yeah.	0
-That's true. So if it - if it  seems  to be really useful to you guys, we could probably get a donation to  me.	1
+That's true. So if it - if it  seems  to be really useful to you guys, we could probably get a donation to  me.	0
 But not - not to rely on them for  basic modeling.	0
 Yeah, I'm not sure. I think it- it - it will again depend on Landay, and if he has a student who's interested, and how much infrastructure we'll need.	0
 I mean, if it's  easy,  we can just  do  it.	0
@@ -957,7 +957,7 @@ Um, what - what's the plan for this discussion? We should -	0
 Um, I think we should	0
 be able to wind up in another half-hour or something, you think?	0
 At  least.   Yeah.	0
-m- i- Even if that much?  Less.	1
+m- i- Even if that much?  Less.	0
 Uh, less.	0
 Less?	0
 Yeah. So, I think -	0
@@ -971,7 +971,7 @@ Is that O_K? We'll probably hit horrible traffic.	0
 Sounds -	0
 O_K. h- Thanks, bye.	0
 That's not	0
-That's that.	1
+That's that.	0
 a lot of time, but -	0
 Yeah.	0
 Well, in answer to "is it Landay's problem?", um, he doesn't have a student	0
@@ -981,14 +981,14 @@ allocated  for him	0
 and also he's pretty focused on user interface. So I don't think he wants to do information retrieval, query generation, that sort of stuff.	0
 Yeah, well there's gonna be these student projects that can do  some  things but it can't be, yeah, very deep.	0
 u- I - I actually think that - that,	1
-uh, again, just as a  bootstrap,	0
-if we  do  have something  like  summaries,	0
-then having the people who are involved in the meetings  themselves,  who are cooperative and willing to do yet  more,	0
-come up with - with - with queries, uh, could at  least  give -	0
+uh, again, just as a  bootstrap,	1
+if we  do  have something  like  summaries,	1
+then having the people who are involved in the meetings  themselves,  who are cooperative and willing to do yet  more,	1
+come up with - with - with queries, uh, could at  least  give -	1
 give Landay an idea of the kind of things that people might want to  know.	1
 I mean, ye- Right? If he doesn't know anything about the area,	0
 and - the people are talking about and - and, uh -	0
-But the people will just look at the summaries or the minutes and re- and sort of [MASK] the queries. That's what I'm worried about. So you might as well just give him the summaries.	0
+But the people will just look at the summaries or the minutes and re- and sort of back-generate the queries. That's what I'm worried about. So you might as well just give him the summaries.	0
 Mm-hmm.	0
 And -	0
 Maybe.	0
@@ -1012,11 +1012,11 @@ But that's done off - they have to do that off-line.	0
 Yep. I agree.	0
 I'm also wondering if we could ask the - the people a - a question which would be	1
 You-	0
-"what was the most interesting	0
+"what was the most interesting	1
 thing you got out of this meeting?"	1
 Becau- in terms of like informativeness, it might be, you know, that the summary would -	1
 That's a good one.	0
-would not in- even  include  what the person thought was the most interesting	0
+would not in- even  include  what the person thought was the most interesting	1
 I would think that would be the most likely thing.	0
 fact.	1
 Dan doesn't know what sex he is.	0
@@ -1034,7 +1034,7 @@ We're still here.	0
 Yeah.	0
 So you get the general structure, the important points of what the meeting was  about   with the  summary.	0
 But with the "what's the most interesting thing you  learned? " -	0
-Uh, so the fact that, uh, I know that [MASK]	0
+Uh, so the fact that, uh, I know that Transcriber uses  Snack	0
 Going to see the kids.	0
 You - you can keep it  on.	0
 is something that I thought was interesting and that - and that Dan worked on - on that.	0
@@ -1098,7 +1098,7 @@ But - but thr- three months from now if for some reason I get really interested 
 Yeah, like Jim Bass says "add a few lines on dialogue in your next perf-"	0
 Uh -	0
 Yeah.  Yeah.	0
-And then I'm trying to fi- I mean, that's - that's when I look - in  general  when I look things up  most,  is when it's something that	0
+And then I'm trying to fi- I mean, that's - that's when I look - in  general  when I look things up  most,  is when it's something that	1
 Yeah.	0
 didn't  really stick in my head the  first  time around and - but for some	1
 new  reason I'm - I'm - I'm interested in - in - in the old  stuff.	1
@@ -1144,14 +1144,14 @@ Sure, sure. But I - I - I guess that's the question, really, is that - I mean,	0
 Mm-hmm.	0
 Mm-hmm.	0
 W-	0
-does building queries based on what's important now introduce [MASK]	0
+does building queries based on what's important now introduce an irreversible bias	0
 on being able to do what Morgan wants to do later?	0
 Well, irreversible. I - I - I mean, I guess what I- what I - I keep coming back to in my  own  mind is that, um,	1
 O_K, good.	0
 That's - that's -	0
 Yeah.	0
 Right.	0
-the  soonest  we can do it,	0
+the  soonest  we can do it,	1
 we need to get up some kind of system	1
 so that people who've been involved in the meeting	1
 can go back later,	1
@@ -1195,7 +1195,7 @@ Um,	0
 getting  just, uh, digital pictures -	1
 a couple digital pictures of the - the table and boards to set the context of the meeting.	1
 Uh, and then going around the room	1
-at the end to just say -	0
+at the end to just say -	1
 qu- ask people to mention something interesting that they learned. So rather than say the  most  interesting thing,	1
 k-	0
 something  interesting, and that way you'll get more variety.	0
@@ -1208,7 +1208,7 @@ Yeah.	0
 Uh, you might want to mention something that - that  you  brought  up.	0
 "Thing  that was  discussed."	0
 And then the last thing c-	1
-would be for those people who are willing to stay afterwards	0
+would be for those people who are willing to stay afterwards	1
 and give an oral summary.	1
 Mm-hmm.	0
 O_K? Does that pretty much cover everything we talked about?	0
@@ -1324,7 +1324,7 @@ O_K.	0
 And, you know, there's obviously  detail behind each of those, as much as is needed. So, you just have to  let us know.	0
 O_K.	0
 What I have down for action items is we're supposed to find out about our human subject,	1
-um,	0
+um,	1
 requirements.	1
 Good.	0
 Yep.	0
@@ -1357,7 +1357,7 @@ My July is really very crowded. And so, uh -	0
 How about if I just c- Uh, Right now all I want - I personally only want text data.	0
 I think the only thing  Jeff  would do anything with right now -	0
 But I'm just speaking fr- based on a conversation with him two weeks ago  I had  in Turkey.  But I think all  he  would want is the digits.	0
-Um, but I'll just speak for  myself.  I'm interested in getting the language model data.	0
+Um, but I'll just speak for  myself.  I'm interested in getting the language model data.	1
 Eh, so I'm just interested in getting  transcriptions.	1
 Mm-hmm.	0
 O_K. So y-	0
@@ -1383,7 +1383,7 @@ And then -	0
 And, uh -	0
 and then what they're gonna do is take the C_D-ROM and transfer it to analog tape and  give it to a transcription service, uh, that will - Yeah.	1
 Oh, is this I_B_M?	1
-Yeah, using [MASK] and -	0
+Yeah, using foot pedals and -	0
 Yeah, foot - foot pedals and -	0
 Uh, so do they - How are they gonna do the multi-channel?	1
 See,   that's  a good question.	0
@@ -1394,7 +1394,7 @@ But they have a verification.	0
 Mix?	0
 probably about like you  did,  and then there will be some things - you know, many things that don't work out well.	1
 And that'll go back to I_B_M and they'll -	0
-they'll, uh - they run their [MASK] on it and it kicks out things that don't work well, which - you know, the overlaps will certainly	0
+they'll, uh - they run their aligner on it and it kicks out things that don't work well, which - you know, the overlaps will certainly	0
 be examples of that. And, uh -	0
 I mean, what w- we will give them  all  of it. Right? We'll give them all the - the multi-channel stuff and -	0
 O_K. That's, uh, my question. So we'll give  them   all sixteen channels and they'll do whatever they want with it.	0
@@ -1545,7 +1545,7 @@ Yeah. But it's p- it might be -	0
 But - but that's actually what I wanna do. That's - that's what I wanna work with, is - is	1
 O_K.	0
 Yeah.	0
-things that s- the wrong material but the right	0
+things that s- the wrong material but the right	1
 Yeah.	0
 Yeah.	0
 da- the right source.	1
@@ -1561,7 +1561,7 @@ O_K.	0
 O_K.	0
 And, uh, um,	0
 you know, otherwise, if you guys have any  papers	0
-or -	1
+or -	0
 I could - I could use, uh - I could use your web pages.  That's what we could do.	1
 You've got all the web pages on the Meeting Recor-	1
 Yeah, why  search  for them? They're - we know where they are. Yeah, that's true.	0
@@ -1617,7 +1617,7 @@ Oh, yeah.	0
 Now, I mean, you know, it's true, I mean, we were discussing this earlier,  that	0
 depending on the  task  - so if you've got someone giving a report you're not gonna have as much overlap. But, um,	1
 Adam!	0
-i- i- uh, so we're gonna  have  s- you know, non-overlapping samples  anyway.	0
+i- i- uh, so we're gonna  have  s- you know, non-overlapping samples  anyway.	1
 But, um, in a meeting which would otherwise be  highly  overlapping, is the near-field	1
 mike  enough  or should we have some rules of participation for some of our samples to lessen the overlap?	1
 Hmm.	0
@@ -1675,7 +1675,7 @@ prevented from overlapping. They'll just say, you know - you know, "wait till ea
 So it is possible to lessen if we wanted to. But - but these other factors are fine. I just wanted to raise the issue.	0
 Well, the reason why I didn't want to is be- why I personally didn't want to  is because I wanted it to be  as,	1
 Mm-hmm.	0
-uh,	0
+uh,	1
 unintrusive as possi- as you could be with these things hanging on you.	1
 Mm-hmm.	0
 Oh, yeah.	0
@@ -1731,7 +1731,7 @@ Yeah.	0
 Yeah, I think -	0
 Well, once we send out -	0
 I mean, we still haven't sent out the first note saying "hey, this  list  exists". But - but, uh, once we do that -	1
-Is that an action item?	1
+Is that an action item?	0
 Yeah. It's on - I already added that one on my board to do that.  So, uh -	0
 uh,	0
 hopefully everybody here is on that list. We should at least check that everybody here - ?	0
@@ -1740,7 +1740,7 @@ Yeah.	0
 I'm  not.	0
 u- e- e-	0
 I  think  you  are.	0
-We haven't sent anything to the list yet.	0
+We haven't sent anything to the list yet.	1
 Oh! O_K.	0
 Yeah.	0
 We're just  compiling  the list.	1

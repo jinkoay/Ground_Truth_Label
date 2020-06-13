@@ -9,17 +9,17 @@ let's get started. Nancy said she's coming and that means she  will  be.	0
 Um.	0
 My  suggestion  is that Robert and Johno sort of give us a report on last week's adventures	0
 uh to  start.	0
-So everybody knows there were these guys f- uh from Heidelber- uh, uh, actually from uh [MASK]	0
-uh, part of [MASK] who were here for the week	0
+So everybody knows there were these guys f- uh from Heidelber- uh, uh, actually from uh D_F_K_I	0
+uh, part of the German SmartKom project, who were here for the week	0
 and, I think got a lot done.	0
 Yeah, I think so too.	0
 Um.	0
-The - we got to the point where we can now speak into [MASK] and it'll	1
-go all the way through and then say something like "Roman numeral one,	0
+The - we got to the point where we can now speak into the SmartKom system, and it'll	1
+go all the way through and then say something like "Roman numeral one,	1
 am Smarticus."	1
-It actually says,   "Roemisch einz, am Smarticus,"   which means it's just using [MASK] for	0
+It actually says,   "Roemisch einz, am Smarticus,"   which means it's just using a German synthesis module for	1
 O_K.	0
-English sentences. So uh,	0
+English sentences. So uh,	1
 O_K.	0
 It doesn't know "I".	0
 O_K.	0
@@ -28,40 +28,40 @@ the uh	0
 Oh,   "Am Spartacus."     Verstehe.   O_K.	0
 "I am Sm- I am Smarticus" is what it's saying. I gue-	0
 Right.	0
-[MASK] is just a question of um,	0
+The uh synthesis is just a question of um,	0
 hopefully it's just a question of	0
 exchanging a couple of files, once we  have   them.	0
-And, um, it's not going to be a problem  because  we decided to stick to [MASK]	0
+And, um, it's not going to be a problem  because  we decided to stick to the so-called  concept  to speech	0
 approach. So I'm - I'm - I'm going backwards now, so	0
-[MASK] is where you sort of make this - uh, make these sounds,	0
-and [MASK] is feeding int	0
-and [MASK] so it can pronounce things better,	1
+"synthesis" is where you sort of make this - uh, make these sounds,	0
+and "concept to speech" is feeding into this synthesis module giving it what needs to be said,	1
+and the whole syntactic structure so it can pronounce things better,	1
 presumably.  Then, just with text to speech.	1
 Mm-hmm.	0
 And, uh, Johno learned how to write	0
 X_M_L tags.	0
 Uh, and did	1
-write [MASK] for some - some sentences. No, right? Yeah, for a couple -	1
+write the tree adjoining grammar for some - some sentences. No, right? Yeah, for a couple -	1
 Yeah. So. Bu- Uh, i- The way the uh, the dialogue manager works is it dumps out what it wants to know, or what it wants to tell the person,	0
 to a - er in X_M_L	0
 and there's a conversion system for different	0
 uh, to go from X_M_L to something else. And th- so, the knowledge base	0
 for the system,	0
-that generates [MASK] for the ge- generation is uh,	0
-in a LISP-like - the knowledge base is in a LISP-like form. And then the thing that actually  builds  [MASK] is	0
+that generates the syntasti- syntactic structures for the ge- generation is uh,	0
+in a LISP-like - the knowledge base is in a LISP-like form. And then the thing that actually  builds  these syntactic structures is	0
 something based on  Prolog.	0
 So, you have a - basically, a goal and it, you know, says "O_K, well I'm gonna try to do the	0
 Greet-the-person goal, so it just starts - uh, it binds some variables and it just decides to, you know, do some  subscold . Basically, it just means "build the tree."	0
 Mm-hmm.	0
 O_K.	0
 And then it passes the tree onto, uh,	0
-the ge- [MASK]	0
-But I think that the point is that out of the	0
-twelve possible utterances that the German system can do,	0
-we've already written the -	0
-[MASK] for	0
-We- yeah. So, [MASK] are very simple. It's like most of the sentences in one tree,	0
-three or four.	0
+the ge- the generation module.	0
+But I think that the point is that out of the	1
+twelve possible utterances that the German system can do,	1
+we've already written the -	1
+the syntax trees for	1
+We- yeah. So, the syntax trees are very simple. It's like most of the sentences in one tree,	0
+three or four.	1
 Mm-hmm.	0
 and instead of, you know, breaking down to, like, small units and building back up, they basically took the sentences, and basically cut them in half, or you know, into thirds or something like that, and	0
 made trees out of those.	0
@@ -73,29 +73,29 @@ S- what do ca-  structure	0
 from the - from the LISP.	0
 And so basically you just say, you know,	0
 "noun goes to", you know,	0
-Er, nah, I don't re- I've never been good at those. So there's like [MASK] and those things	0
+Er, nah, I don't re- I've never been good at those. So there's like the V_P goes to N_ and those things	0
 O_K.	0
-[MASK] yeah, O_K.	0
+N_, V_ yeah, O_K.	0
 in LISP, and it will generate for you.	0
 Alright.	0
-And because we're sticking to that structure, [MASK] doesn't need to be changed. So all that	0
+And because we're sticking to that structure, the synthesis module doesn't need to be changed. So all that	0
 f- fancy stuff, and	0
 the Texas speech version of it, which is actually the  simpler  version, is gonna be done in October which is much too late for us. So.	0
 This  way we - we worked around  that.	0
 The, uh - the system, um - I can show you the system. I actually want, at least, maybe, you should be able to start it on your own.	0
 If you wanna play around with it, in th- in the future.	0
 Right now it's brittle and you need to ch-	1
-start it up and then make ts- twenty changes on - on - on -	0
+start it up and then make ts- twenty changes on - on - on -	1
 on seventeen modules before they actually can stomach it,  anything.	1
 And send in a - a - a couple of side queries on some dummy center set-up program so that it actually	0
-works because it's designed for [MASK] where you hav	1
+works because it's designed for this  seevit  thing, where you have the gestural recognition	1
 Mm-hmm.	0
 running with this s- Siemens virtual touch screen, which we don't  have  here.	1
 And so we're doing it via mouse, but the whole system was designed to work with this thing and it was - It was a lot of	0
 engineering stuff.	0
 No science in there whatsoever, but it's working now, and um,	1
 that's the good news. So everything else actually did prove to be language independent except for the parsing and the generation.	0
-Why - I had - I  did  need to chan- generate different trees than the German ones, mainly because you know like	0
+Why - I had - I  did  need to chan- generate different trees than the German ones, mainly because you know like	1
 uh, the gerund in - in German is automatically taken care of with just a regular verb,	0
 You have to switch it  on.	0
 Mm-hmm.	0
@@ -118,7 +118,7 @@ um	0
 decides that it wants to	0
 achieve the goal of greeting the user, and then magically it sort of s-	0
 Yeah -	0
-I mean, how does it know [MASK] to pull out, and all that?	0
+I mean, how does it know which syntactic structure to pull out, and all that?	0
 I thi-	0
 Yeah. So. I think it's not worth going over in the group, but sort of when you get	0
 R- uh Sure.	0
@@ -136,11 +136,11 @@ Um,	0
 was	0
 this, I - I think he talked about the idea of like, um - He was talking about these lexicalized	0
 O_K, you know how to do it?	0
-uh, uh, [MASK] where you sort of - for each word you, um - F	0
-[MASK] says what all the uh trees are that it can appear in. And	0
+uh, uh, tree adjoining grammars where you sort of - for each word you, um - For each lexical item,	0
+the lexical entry says what all the uh trees are that it can appear in. And	0
 of course,	0
 that's not v-	0
-That's the  opposite  of [MASK] That's, you know, that's -	0
+That's the  opposite  of constructional. That's, you know, that's - that's H_P_S_G or whatever. You know?	0
 Right.	0
 Right. Now, we're - we're not	0
 committed for our research	0
@@ -179,7 +179,7 @@ there's another serious demo requirement. That doesn't mean we don't  think  abo
 Oh O_K.	0
 Right.	0
 Right, yeah.	0
-Right.	1
+Right.	0
 So. The plan for this summer	0
 uh, really is to	0
 step back from the applied project,	0
@@ -187,16 +187,16 @@ keep the d- keep the  context  open, but actually go after the basic issues.	0
 Hmm.	0
 Oh O_K.	0
 And, so	1
-The idea is there's this	0
-uh,  other  subgroup that's worrying about formalizing	0
+The idea is there's this	1
+uh,  other  subgroup that's worrying about formalizing	1
 the nota- getting a  notation.  But	1
-sort of in  parallel  with that,	0
-uh, the hope is tha- in particularly  you  will work on	0
-[MASK] in English Ge- and German for this domain,	1
+sort of in  parallel  with that,	1
+uh, the hope is tha- in particularly  you  will work on	1
+constructions in English Ge- and German for this domain,	1
 Mm-hmm.	0
-but y-  not  worry about parsing them or fitting them into [MASK] or	1
+but y-  not  worry about parsing them or fitting them into SmartKom or	1
 Yeah.	0
-any of the other - anything lik- any  other  constraints	0
+any of the other - anything lik- any  other  constraints	1
 O_K.	0
 for the time  being.	1
 Got it.	0
@@ -211,7 +211,7 @@ Um. And  similarly  with the  parsing,	0
 uh	0
 we're gonna worry about  parsing	0
 uh, the  general  case	0
-you know, [MASK]	0
+you know, construction parser for  general  constructions.	0
 And, if we need a cut-down version for something, or whatever, we'll worry about that  later.	0
 O_K.	0
 So I'd like to, for the summer turn into science mode.	1
@@ -245,7 +245,7 @@ Absolutely.	1
 Yeah I mean, that's the  kind  of thing - That's the level at which	0
 you know we can just li- invite everybody and say "this is a project that we've been working on and here's a demo version of it" and stuff like that.	0
 Yeah.	0
-O_K.	0
+O_K.	1
 Well d- we - we do wanna have all the bugs out b- where you have to sort of	1
 pipe in extra X_M_L messages from left and right before you're -	1
 Uh-huh.	0
@@ -258,11 +258,11 @@ Yeah.	0
 O_K.	0
 But uh starting  next  meeting I think we want to	0
 flip into this mode where -	0
-Uh. I mean there are a  lot  of issues, what's [MASK]  look like, you know what do the  constructions  look like, what's the  execution  engine look like, mmm lots of  things.	1
+Uh. I mean there are a  lot  of issues, what's the  ontology  look like, you know what do the  constructions  look like, what's the  execution  engine look like, mmm lots of  things.	1
 Mm-hmm.	0
 Mm-hmm.	0
 But,  more  focused on	1
-uh an idealized version than	0
+uh an idealized version than	1
 just getting the demo out.	1
 Now  before  we do that,	0
 let's get back in - Oh!  But,	0
@@ -273,16 +273,16 @@ eventually get retro-fitted into or something.	0
 O_K, right.	0
 And Johno's already  done  that,	0
 Wa- uh -	0
-uh,  looked  at the dem- uh the -  looked  at [MASK]	0
-To some de- uh what - what part of th- [MASK]	0
+uh,  looked  at the dem- uh the -  looked  at the SmartKom stuff.	0
+To some de- uh what - what part of th- the SmartKom stuff?	0
 Well, the  parser,  and that stuff.	0
 Oh yeah - yeah.	0
 O_K. Anyway. So, the trip - the report on these - the last we- we sort of interrupted you guys telling us about what happened last week.	0
 Yeah. It's alright.	0
 Um.	1
 Maybe you're  done,  then.	0
-Well it was	0
-just amazing to - to see uh	0
+Well it was	1
+just amazing to - to see uh	1
 how - how instable the whole thing is, and if you just take the -	1
 And I g- I got the feeling that	1
 we are  the  only  ones right now who have a running system. I don't know what the guys in Kaiserslautern have running because	1
@@ -291,7 +291,7 @@ And you need to do a lot of	0
 stuff to make it work. And so it's -	0
 And even Tilman and Ralf sort of said "yeah	0
 there never was a really working version that uh	0
-did it without th- all the shortcuts that they built in for the uh October  @@  version". So we're actually maybe ahead of [MASK]   by now,	0
+did it without th- all the shortcuts that they built in for the uh October  @@  version". So we're actually maybe ahead of the   System Gruppe   by now,	0
 the system - the  integration  group.	0
 And it was, uh - It was fun to some extent, but the uh	0
 the outcome that  is  sort of of scientific interest is that I think both Ralf and Tilman -	0
@@ -305,13 +305,13 @@ server at E_M_L, make that open to all of us and them,	1
 so that whatever  we  discuss in terms of  parsing  and - and generating and constructions w-	1
 we - we sort of uh put it in there and they put what  they  do in there	1
 and maybe we can even	1
-um,	0
+um,	1
 get some overlap, get some synergy out of that.	1
 And um,	0
 the, uh -  If  I find someone at - in E_M_L that is interested in that, um I -	0
-I may even think that we could look - take constructions and - and  generate  from them because [MASK]  that - that Tilman is using is	1
-as you said nothing but a mathematical formalism. And you can just do  anything  with it, whether it's [MASK]	1
-[MASK] or whether it's  construction.	1
+I may even think that we could look - take constructions and - and  generate  from them because the tree adjoining  grammars  that - that Tilman is using is	1
+as you said nothing but a mathematical formalism. And you can just do  anything  with it, whether it's syntactic trees,	1
+H_P_S_ G-like  stuff, or whether it's  construction.	1
 So if  you  ever get to the  generation  side of constructing things and	1
 there might be something of interest there, but in the moment we're of course definitely	1
 focused on the  understanding,	0
@@ -325,30 +325,30 @@ And so we just push on and - and	0
 uh, do	0
 what we need to  do.	0
 And  one  of the things we need to do	1
-is the um,	0
-and this I think is relatively	0
-tight  -	0
-tightly  constrained,  is to finish up [MASK] So.	1
+is the um,	1
+and this I think is relatively	1
+tight  -	1
+tightly  constrained,  is to finish up this belief-net stuff. So.	1
 Uh. And I was going to switch to start talking about that unless there're m- other more  general  questions.	0
-O_K so here's where we are on [MASK]   as far as  I  understand it. Um.	0
+O_K so here's where we are on the belief-net  stuff   as far as  I  understand it. Um.	0
 Going back I guess  two  weeks ago	0
 uh Robert had	0
-laid out [MASK] missing  only  the connections. Right?	0
+laid out this belief-net, missing  only  the connections. Right?	0
 That is -  So, he'd put all th- all the dots down, and we	1
-went  through  this, and, I  think,   more  or less convinced ourselves that	0
+went  through  this, and, I  think,   more  or less convinced ourselves that	1
 at least the vast  majority  of the nodes that we needed for the demo level we were  thinking  of, were  in  there.	1
 Yeah  we may run across one or two more. But of course the  connections  weren't.	0
 So, uh Bhaskara and I went off and looked at some  technical  questions about	1
-were certain operations sort of  [MASK]  and was there some known  problem  with them	0
+were certain operations sort of  legitimate  belief-net  computations  and was there some known  problem  with them	1
 or had someone already uh, solved you know how to do this and stuff.	1
 And so Bhaskara tracked that down. The answer seems to be	1
 uh, "no, no one has done it, but yes it's a perfectly reasonable thing to do if that's what you set out to do".	1
 And, so the current  state  of things is that, again, starting  now,  um	0
-we'd like to actually get [MASK]	0
+we'd like to actually get a  running  belief-net	0
 for this particular  subdomain	0
 done  in the next few  weeks.	0
 So Bhaskara is switching projects as of the first of June, and	0
-uh, he's gonna  leave  us an  inheritance,  which is a uh - hopefully [MASK] that	0
+uh, he's gonna  leave  us an  inheritance,  which is a uh - hopefully a belief-net that	0
 does  these things.	0
 And there're two  aspects  to it, one of which is, you know,  technical,  getting the  coding  right, and making it  run,  and	1
 uh stuff like that. And the  other  is the actual	1
@@ -364,7 +364,7 @@ Is - is that right?	0
 I mean that's - that's both you guys' understanding of where we are? O_K.	0
 Absolutely.	0
 So, I guess, um - Is there like a latest version of the	0
-[MASK] -	0
+belief-net - of the proposed belief-net?	0
 Like -	0
 We had um decided -	0
 like -	0
@@ -379,12 +379,12 @@ Yeah, that should be fine.	0
 that should suffice.	0
 Yeah I mean, that's a  separate   problem.  We  do  in the long run wanna do  better    visualization  and all that stuff.	1
 Yeah, I -	0
-Yeah.	1
+Yeah.	0
 That's  separable, yeah.	0
 I   did  look  into  that, uh in terms of, you know, exploding the nodes out and down ag-	1
 Yep.	0
 Right.	0
-[MASK] does not support that.	1
+JavaBayes does not support that.	1
 I can	0
 imagine  a way of  hacking  at the code to  do  that.	0
 It'd probably take two weeks or so to actually go through and do it,	1
@@ -400,22 +400,22 @@ O_K, so then I'll go back and look at the ones on the list that -	0
 O_K. And you can  ask  Kevin.	0
 Yeah.	0
 But -	0
-Yeah, the one that uh people seem to use is uh [MASK] or whatever? How exp- I don't think it's - Is it free? Because I've seen it  advertised  in places so I - it seems to -	1
+Yeah, the one that uh people seem to use is uh Hugin or whatever? How exp- I don't think it's - Is it free? Because I've seen it  advertised  in places so I - it seems to -	1
 Mmm.	0
 But -	0
-[MASK] yeah that's free.	0
+Hugin, yeah that's free.	0
 Uh, it may be free to academics. Like I - I don't know.	0
 I have a co-  I have a  copy   that I l- I downloaded. So, at  one  point it was free.	0
 O_K.	0
 O_K.	0
-Uh but yo- I noticed people  do  use [MASK] so um,	0
+Uh but yo- I noticed people  do  use Hugin so um,	0
 How do you spell that?	0
 Why	0
 H_U_G_I_N.	0
 And Bhaskara can give you a pointer. So then, in any case, um - But paying a lit- You know, if i- if	0
 it's uh -  Probably  for university, it's - it's gonna be  real  cheap  anyway.	0
 But um, you know, if it's  fifty  thousand dollars we aren't gonna  do  it. I'm mean, we have no  need  for that.	0
-I - I also s- would suggest not to d- spend two weeks in - in - in changing the - [MASK] I - I will send you a pointer to a Java applet	1
+I - I also s- would suggest not to d- spend two weeks in - in - in changing the - the JavaBayes code. I - I will send you a pointer to a Java applet	1
 No, he's not gonna do that.	0
 Yeah.	0
 O_K.	0
@@ -464,13 +464,13 @@ Right.	0
 uh, hypothesize what the dependencies are and stuff.	0
 O_K.	0
 If it's done right,	1
-and  if you have data	0
+and  if you have data	1
 Yeah.	0
 then, there  are  techniques for learning the  numbers  given the  structure	1
 and there are  even  techniques for  learning  the  structure,  although	0
 that takes a lot more data, and it's not as  @@  and so forth and so on. So uh	0
 but for the  limited  amount of stuff	1
-we  have  for this  particular  exercise	0
+we  have  for this  particular  exercise	1
 I  think  we'll just  design  it.	1
 Alright.	0
 Yeah.	0
@@ -519,7 +519,7 @@ Ho- how was your	0
 thingy.	0
 Oh, um,	0
 I just wanted to, uh, s- like mention as an issue, um, you know last meeting I wasn't	0
-here because I went to a linguistics colloquium on [MASK] and that was pretty interesting and you know, I mean, seems to me that that will fairly obviously be of relevance to uh -	1
+here because I went to a linguistics colloquium on the fictive motion stuff, and that was pretty interesting and you know, I mean, seems to me that that will fairly obviously be of relevance to uh -	1
 Oh right.	0
 to what we're doing here because you know people are likely to give descriptions like	1
 you know, "What's that thing uh right where you start to go up the hill," or something like that, you know, meaning a few feet up the hill or whatever from some	0
@@ -545,7 +545,7 @@ Um.	0
 The uh - Well -	0
 I wa- I was on a uh - on a - on a different sidetrack. I mean,	0
 Oh, O_K.	0
-the - [MASK] which um is undergoing some renovation at - at the moment,	0
+the - the Deep  Map  project which um is undergoing some renovation at - at the moment,	0
 but this is a - a  three  language project: German, English, Japanese.	0
 O_K.	0
 And um,	0
@@ -559,19 +559,19 @@ so how - how, I mean it does sort of go d- all the way down to the conceptual le
 O_K.	0
 Um.	0
 So, where is this huge project?	0
-It's [MASK] It's the uh	1
+It's KLEIST. It's the uh Bielefeld	1
 Mm-hmm.	0
 generation of uh	0
 spatial descriptions and whatever.	0
 @@	0
 Well, that may be another thing that Keith wants to look at.	0
 O_K.	0
-But um, I - I think we should leave Japanese constructions maybe outside of the scope for - for now, but um	1
+But um, I - I think we should leave Japanese constructions maybe outside of the scope for - for now, but um	0
 Yeah.	0
 definitely it's interesting to look at - at	0
 Mm-hmm.	0
 cross	0
-the  bordered  there.	1
+the  bordered  there.	0
 Are - are you going to p- pay any attention to	0
 the relative position -	0
 of - of the direction relative - relative to the speaker?	0
@@ -601,11 +601,11 @@ Right.	0
 Yeah.	0
 Um.	0
 I think -	0
-Did you ever get to look at the - the rou- paper that I sent you on the - on that problem in English and German?	0
+Did you ever get to look at the - the rou- paper that I sent you on the - on that problem in English and German?	1
 Carroll, ninety-three.	1
 Um.	1
-I - There is a - a study	0
-on the differences between English and German on exactly that	0
+I - There is a - a study	1
+on the differences between English and German on exactly that	1
 problem.	1
 Hmm.	0
 So it's - they actually say "the monkey in front of the car, where's the monkey?"	0
@@ -614,20 +614,20 @@ And, um, they found statistically very significant differences in English and Ge
 so I - I - I - It  might  be, since there are only a finite number of ways of doing it, that -	0
 that German might be more like Hebrew in that respect.	0
 Hmm.	0
-The solution they proposed was that it  was  due to [MASK]	0
+The solution they proposed was that it  was  due to syntactic factors.	0
 That - but it wasn't - was -	0
-[MASK]  do  -  do  play a role there, wh- whether you're more likely,	0
+That syntactic facto- factors  do  -  do  play a role there, wh- whether you're more likely,	0
 Right.	0
 Mm-hmm.	0
 Right.	0
 you know ,	0
-to develop uh, choices that lead you towards using uh [MASK]	0
+to develop uh, choices that lead you towards using uh intrinsic versus extrinsic reference frames.	0
 Hmm.	0
 I mean , it seems to me that you can get  both  in - in English depending o- You know, like, "in front of the car" could you know - Like,	0
 here's the car sideways to me in between me and the car or something's in front of the car, or whatever. I could see that, but -	0
 Absolutely.	0
 But  anyway,  so you know, I mean, this was - this was a - a very good talk on those kinds of issues and so on. So uh.	0
-I can also give you uh, a pointer to a paper of  mine  which is the - the ultimate taxonomy of  [MASK] So.  I'm the only person in the world who actually  knows  how it works.	1
+I can also give you uh, a pointer to a paper of  mine  which is the - the ultimate taxonomy of  reference  frames. So.  I'm the only person in the world who actually  knows  how it works.	1
 Alright! Cool!	0
 Oh.	0
 Oh.	0
@@ -635,8 +635,8 @@ Not  really.	0
 Great.  No,  I've  not seen that.	0
 It's called a -	0
 What do you mean. Um.	0
-[MASK]	0
-It's - it's [MASK] You actually have only -	0
+"reference frames"?	0
+It's - it's spatial reference frames. You actually have only -	0
 uh	0
 uh	0
 Um.	0
@@ -707,7 +707,7 @@ Mm-hmm.	0
 He's  - he's very interested in that.	0
 Here	0
 O_K.	0
-So. Uh. Yeah. Well, why don't you just put it on the web page? There's this [MASK] Right?	0
+So. Uh. Yeah. Well, why don't you just put it on the web page? There's this E_D_U - Right?	0
 Me too.	0
 Yeah it's - or - or just - Yeah. It's also all on my - my home page at E_M_L. It's called "An Anatomy of a Spatial Description".  But  I'll send that link.	1
 Or a link to it.	0
@@ -715,11 +715,11 @@ Just	0
 O_K, great.	0
 Maybe just put a link on. Yeah. By the way, there - something that I didn't know until about	1
 Yep.    Yep.	0
-a week ago or so,	0
-is apparently,	0
-there are	0
-separate brain areas	0
-for	0
+a week ago or so,	1
+is apparently,	1
+there are	1
+separate brain areas	1
+for	1
 things within reach, and things that are  out  of reach.	1
 Huh.	0
 So there's - there's uh all this  linguistic  stuff about	0
@@ -809,12 +809,12 @@ Yeah.	0
 But there  seems  to be an actu-  really   deep   embodied	0
 neural  difference. And i- this is, um - So. In addition to the	0
 e-	0
-This is more [MASK]	0
+This is more proximal-distal.	0
 Yeah uh  exactly.  So in addition to e- ego and  allocentric	1
-uh which appear all over the place, you  also  apparently have this [MASK]	0
+uh which appear all over the place, you  also  apparently have this proximal-distal	1
 thing which is very deeply uh embedded.	1
 S-	0
-Well, Dan  Montello  sort of, he - he does the uh uh - th- the [MASK]	0
+Well, Dan  Montello  sort of, he - he does the uh uh - th- the cognitive map	0
 world , down in Santa Barbara.	0
 And he - he always talks about these -	0
 He - he already - well - i- probably  most  likely  without  knowing this - this evidence uh is talking about these small scale spaces that you can manipulate versus large scale environmental spaces.	0
@@ -822,9 +822,9 @@ Yeah.	0
 Well there's - there's uh been a  lot  of behavioral things o- on this, but that was the first neur- neuro-physiological thing I saw.	0
 Anyway yeah, so we'll - we'll look at this.	0
 And. So,  all  of these issues now - are now starting to come up. So, now - we're now done with demos. We're starting to do  science,  right? And so these issues about	1
-uh, reference, and -  [MASK] uh-uh-uh-uh   all  this sort of stuff,	0
+uh, reference, and -  spatial   reference,  discourse  reference, uh-uh-uh-uh   all  this sort of stuff,	1
 Mm-hmm.	0
-uh,  [MASK]  which is part of what you were talking about, um - So, all of this stuff is	1
+uh,  deixis  which is part of what you were talking about, um - So, all of this stuff is	1
 Mm-hmm.	0
 coming up essentially starting  now.	0
 So we gotta do all this. So there's  that.  And then there's also a set of  system  things that come up.	1
@@ -835,32 +835,32 @@ uh, in  addition  to the business about just getting the linguistics right, and 
 and uh, Johno is point person on the parser, analyzer, whatever that is, and we're gonna start on that in  parallel  with the	1
 um, the  grammar  stuff.  But	1
 Alright.	0
-to do  that	0
-we're gonna need to make some decisions like	0
-[MASK]	1
+to do  that	1
+we're gonna need to make some decisions like	1
+ontology,	1
 so, um - And so this is another thing where we're gonna, you know, have to get involved and make s-  relatively  early I think, make some decisions on	0
-uh, "is there [MASK]	0
-that - that" - There's a sort of standard way of getting things from [MASK] and we	0
-build the parser and stuff around  that,  or is there [MASK] that we're gonna standardize on, and if so - For example, is there something	0
+uh, "is there an ontology A_P_I	0
+that - that" - There's a sort of standard way of getting things from ontologies and we	0
+build the parser and stuff around  that,  or is there a  particular  ontology that we're gonna standardize on, and if so - For example, is there something	0
 that we can use  there.	0
-i- Does uh either [MASK] or one of the projects at E_M_L	1
-have something that we can just	0
+i- Does uh either the uh SmartKom project or one of the projects at E_M_L	1
+have something that we can just	1
 p- pull out, for  that.	1
 Uh, so there are gonna be some - some - some things  like  that, which are	0
 not science but  system.	0
 But we  aren't  gonna  ignore  those cuz we're - we're not only going - The plan is not only to	1
-lay  out  this thing, but to actually uh	0
-build	0
+lay  out  this thing, but to actually uh	1
+build	1
 some  of it.	1
 And  how  much we build, and - and  so  forth.	0
 I -	0
 Uh.  Part  of it, if it  works  right,	0
 is wh- It  looks  like we're now in a position	1
-that	0
-the	0
-[MASK] that we  want  for this	0
-applied  project	0
-can be the  same  as [MASK] that  Nancy  needs for the child  language  modeling.	1
+that	1
+the	1
+construction  analyzer that we  want  for this	1
+applied  project	1
+can be the  same  as the construction analyzer that  Nancy  needs for the child  language  modeling.	1
 So. It's  always  been out of phase but it  now  seems that	0
 um, there's a good  shot  at that. So we've talked about it, and	0
 the  hope	0
@@ -878,7 +878,7 @@ have a  shot  at - at that.	0
 O_K.	0
 So. The for-  So.  To - to come full  circle  on that, this  formalization  task,	1
 O_K? is trying to	1
-get  the formalism into - into a  shape  where it can actually	0
+get  the formalism into - into a  shape  where it can actually	1
 Yeah.	0
 uh d-	1
 Be of use to someone who's trying to do this, right?	1
@@ -905,7 +905,7 @@ O_K. So there's you know sort of, yeah, deep, really deep, emotional commitment 
 Oh, O_K.	0
 uh,  complete.	0
 You don't have a hidden purist streak?	0
-Oh no.	1
+Oh no.	0
 O_K. Just checking.	0
 We- well it hasn't it - it certainly hasn't been  observed,  in any case.	0
 No sir.	0
@@ -955,9 +955,9 @@ gotta be worked out,  hopefully  over the next few weeks, so that - that it beco
 uh, what piece	0
 uh, Robert wants to jump into.	0
 And, while we're  at   this level, uh,	1
-there's at  least  one new	0
-doctoral student in  computer  science who will be joining the project, either	0
-next week or the first of August, depending on	0
+there's at  least  one new	1
+doctoral student in  computer  science who will be joining the project, either	1
+next week or the first of August, depending on	1
 the blandishments of Microsoft. So, de-	1
 O_K.	0
 Uh. And her name is Eva.	0
@@ -969,7 +969,7 @@ Yeah.	0
 Is this person someone who's in first-year this year, or	0
 No, first year coming. So, she's - she's now  out  here she's moved, and she'll be a student as of	0
 O_K.	0
-then. And  probably  she'll pick up from you on [MASK] so sh- she'll be chasing you down and stuff like that.	0
+then. And  probably  she'll pick up from you on the belief-net stuff, so sh- she'll be chasing you down and stuff like that.	0
 O_K.	0
 Document.	0
 Uh.	0
@@ -991,14 +991,14 @@ first -   incoming  first-year graduate students who's expressed interest, so we
 Um,	0
 anyway,	0
 so,	1
-I  think  as far as	0
-this  group  goes,	0
-um,	0
-it's  certainly  worth  continuing	0
-for the next few  weeks	0
-to get  closure	0
-on the uh	0
-[MASK]  and the  ideas  that are involved in that, and what are th- what are the concepts.	1
+I  think  as far as	1
+this  group  goes,	1
+um,	1
+it's  certainly  worth  continuing	1
+for the next few  weeks	1
+to get  closure	1
+on the uh	1
+belief-net  and the  ideas  that are involved in that, and what are th- what are the concepts.	1
 We'll see	0
 whether	0
 it's gonna make sense to have this be separate from the other	0
@@ -1075,14 +1075,14 @@ O_K. So,	0
 uh, unless we wanna start	0
 digging into the -	0
 uh	0
-[MASK] and the decisions  now,  which would be fine, it's probably -	0
+the belief-net and the decisions  now,  which would be fine, it's probably -	0
 I - I tho- It's probably better if I come	0
 next week with the	0
 um	0
 version O_ point nine	0
 O_K. So, how about if you two guys between now and next week	1
 of the structure.	0
-come up with something that	0
+come up with something that	1
 is partially proposal, and  partially   questions, saying "here's what we think we understand, here are the things we think we  don't  understand".	1
 And that we as a group will try to - to finish it. What I'd like to do is shoot f- for finishing all this next Monday.	0
 Sure.	0

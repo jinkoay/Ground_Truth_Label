@@ -26,34 +26,34 @@ Should we plunge right into it?	0
 Yeah.	0
 So, would you like to -	0
 I think so.	0
-So what I've tried to do here is	0
-list all [MASK] that we have identified on this  side.	0
-Commented and -	0
-what they're about and sort of -	0
-the properties we may	0
+So what I've tried to do here is	1
+list all the decision nodes that we have identified on this  side.	1
+Commented and -	1
+what they're about and sort of -	1
+the properties we may	1
 um	0
-give them.	0
-And here are the uh -	0
-tasks to be implemented via our data collection. So all of these tasks -	0
+give them.	1
+And here are the uh -	1
+tasks to be implemented via our data collection. So all of these tasks -	1
 The reading is out of these tasks	0
 more or less imply that the user wants to go there,	0
 sometime or the other.	0
 And analogously	0
 for example, here we have	0
 our	0
-[MASK]	0
-um - intention.	0
-And these are the	0
-data tasks where w-	0
-we can assume the person would like to enter, view or just approach	0
-the thing. Analogously	0
+EVA	0
+um - intention.	1
+And these are the	1
+data tasks where w-	1
+we can assume the person would like to enter, view or just approach	1
+the thing. Analogously	1
 the same on the object information	0
 we can see that, you know, we have sort of	0
-created these tasks before we came up with [MASK] so there's a lot of things where we have no analogous	0
+created these tasks before we came up with our decision nodes so there's a lot of things where we have no analogous	1
 tasks, and  that may or may not be a problem. We can change the tasks slightly if we feel that we should have data for e- sort of for every	1
-[MASK] so - trying to im-	1
-um -	0
-implant the intention of going to a place now, going to a place later on the same tour, or trying to plant the intention of going sometime	0
+decision node so - trying to im-	1
+um -	1
+implant the intention of going to a place now, going to a place later on the same tour, or trying to plant the intention of going sometime	1
 on the next tour, or the next day or whenever.	0
 Right, right.	0
 But I think that might be overdoing it a little.	0
@@ -61,27 +61,27 @@ So -	0
 Yeah. So let me pop up a level.	0
 And uh	0
 s- s- make sure that we're all oriented	0
-the same. So	0
-What we're gonna do today is two related things.	0
-Uh one of them is to work on	0
-the semantics of [MASK] which is going to b	0
-uh making decisions. And decisions are going to turn out to be	0
-parameter choices for calls on other modules.	0
-so f- [MASK]	0
+the same. So	1
+What we're gonna do today is two related things.	1
+Uh one of them is to work on	1
+the semantics of the belief-net which is going to be the main inference engine for thi- the system	1
+uh making decisions. And decisions are going to turn out to be	1
+parameter choices for calls on other modules.	1
+so f- the natural language understanding thing	0
 is uh, we think	0
 gonna only have to choose parameters, but	0
 You know, a fairly large set of parameters. So to do that, we need to do two things. One of which is figure out what all the choices are, which we've done a fair amount.	0
 Then we need to figure out what influences its choices and finally we have to do some technical work on	0
-[MASK] and	0
+the actual belief relations and	0
 presumably estimates of the probabilities and stuff. But we aren't gonna do the probability stuff today.	0
 Technical stuff we'll do -	0
 uh -	0
 another day. Probably next week.	0
 But we are gonna worry about	0
-all the decisions and the things that pert- that contribute to them. And	0
-we're also, sort of uh in the same process,	0
-going to work with Fey on	0
-what there should be in the dialogues. So	0
+all the decisions and the things that pert- that contribute to them. And	1
+we're also, sort of uh in the same process,	1
+going to work with Fey on	1
+what there should be in the dialogues. So	1
 One of the s- steps that's coming up real soon is to actually get subjects	0
 uh - in here, and have them	0
 actually record like this.	0
@@ -104,7 +104,7 @@ and	0
 discreet values. So if - if we're right,	0
 you can get by with	0
 um	0
-just this middle column worth of decisions, and it's not all that many, and it's perfectly feasible technically to build [MASK]	0
+just this middle column worth of decisions, and it's not all that many, and it's perfectly feasible technically to build belief-nets	0
 that will do that. And he has a handout.	0
 Yeah. Maybe it was too fast plunging in there, because	0
 Yeah.	0
@@ -116,9 +116,9 @@ O_K.	0
 No.	0
 Not that much  you didn't .	0
 O_K. We were gonna put this in front of people. They give us some information on themselves.	1
-Then - then they will read uh - a task where lots of German words are sort of thrown in between.	0
+Then - then they will read uh - a task where lots of German words are sort of thrown in between.	1
 O_K.	0
-And um - and they have to read isolated proper names	0
+And um - and they have to read isolated proper names	1
 And these change -	0
 S-	0
 I don't see a release	0
@@ -126,18 +126,18 @@ No, this is not the release form. This is the speaker	0
 Got it. O_K, fine. O_K.	0
 information form. The release form is over there in that box.	0
 Alright, fair enough.	0
-And um -	0
-And then they gonna have to f-	0
-um	0
-um	0
-choose from one of these tasks, which are listed here. They - they pick a couple, say three - uh - uh six as a matter of fact.	0
+And um -	1
+And then they gonna have to f-	1
+um	1
+um	1
+choose from one of these tasks, which are listed here. They - they pick a couple, say three - uh - uh six as a matter of fact.	1
 Six different things they sort of think they would do if they were in Heidelberg or traveling someplace -	1
 and um -	1
 and they have a map.	1
 Hmm.	0
 Like this. Very sketchy, simplified map.	1
 And they can take notes on that map.	0
-And then they call this computer system that works perfectly, and understands everything.	0
+And then they call this computer system that works perfectly, and understands everything.	1
 O_K.	0
 And um -	0
 This is a fictional system obviously, huh.	0
@@ -145,7 +145,7 @@ The comp-	0
 Yeah, the computer system sits right in front of you, that's Fey.	0
 Yes. I've - I understand everything. Yes I do.	0
 And she does know everything.	0
-And she has a way of making this machine talk. So she can copy sentences into a window, or type really fast and this machine will use [MASK] to produce that. So if you ask "How do I get to the castle" then a m- s- several seconds later it'll come out of here "In order to get to the castle you do -"  O_K?	0
+And she has a way of making this machine talk. So she can copy sentences into a window, or type really fast and this machine will use speech synthesis to produce that. So if you ask "How do I get to the castle" then a m- s- several seconds later it'll come out of here "In order to get to the castle you do -"  O_K?	0
 Yeah.	0
 And um -	1
 And then after three tasks the system breaks down.	1
@@ -177,14 +177,14 @@ And um -	0
 I can report a - so I did this but I also tried to do	0
 this - so if I click on here, Isn't this wonderful?	0
 we get to the uh -	1
-uh [MASK] just focusing on - on the g-	0
-[MASK] uh - Analogously this would be sort	1
+uh belief-net just focusing on - on the g-	1
+Go-there node. uh - Analogously this would be sort of the reason node and the timing node and so forth. And what w-	1
 Mm-hmm.	0
-what happened is that	0
-um	0
-design-wise I'd sort of n- noticed that we can -	0
-we still get a lot of	0
-errors from a lot of points to one of [MASK]	1
+what happened is that	1
+um	1
+design-wise I'd sort of n- noticed that we can -	1
+we still get a lot of	1
+errors from a lot of points to one of these sub Go-there User Go-there Situation nodes.	1
 So I came up with a couple of additional nodes here where um whether the user is thrifty or not, and what his budget is currently like, is going to result in some financial state of the user. How much will he - is he willing to spend?	1
 Or can spend. Being the same at this - just the money available, which may influence us, whether he wants to go there if it is - you know - charging	0
 tons of dollars for admission or its gonna g- cost a lot of t- e-	0
@@ -201,26 +201,26 @@ and sort of noticing that	0
 everything that  happens   here - let's go to our	0
 favorite endpoint one	0
 is again	0
-more or less - we have - um - then [MASK]	0
-[MASK] contributing to the -	0
+more or less - we have - um - then the situation	0
+nodes contributing to the - the endpoint situation node, which contributes to the endpoint and so forth.	0
 um - I can now sort of draw straight lines from these to here, meaning it	1
-g- of course goes where [MASK]	0
-everything that comes from situation, everything that comes from user goes with [MASK] and whatever we specify	1
-parser, [MASK] um will contribute t	1
+g- of course goes where the sub-S_ -	1
+everything that comes from situation, everything that comes from user goes with the sub-U_, and whatever we specify for the so-called "Keith node", or the discourse, what comes from the - um -	1
+parser, construction parser, um will contribute to the D_ and the ontology to the sub-O_ node.	1
 And um	1
-one just s- sort of has to watch which -	0
-also final decision node so it doesn't make sense -	0
+one just s- sort of has to watch which -	1
+also final decision node so it doesn't make sense -	1
 t- to figure out whether he wants to enter, view or approach an object if he never wants to go there in the first place.	1
 But this makes the design thing fairly simple.	0
 And um	0
-now all w- that's left to do then is [MASK] the conditional probabilities, for the likelihood of a person having enough money, actually wanting to go a place if it costs, you know this or that.	0
+now all w- that's left to do then is the C_P_G's, the conditional probabilities, for the likelihood of a person having enough money, actually wanting to go a place if it costs, you know this or that.	0
 And um -	0
 O_K.	0
 and once um Bhaskara has finished his classwork that's where we're gonna end up doing. You get involved in that process too.	0
 And um -	1
-And for now uh-	0
-the - the question	0
-is "How much of these decisions do we want to build in explicitly into our	0
+And for now uh-	1
+the - the question	1
+is "How much of these decisions do we want to build in explicitly into our	1
 data collection?"	1
 So -	0
 Um, one could -	0
@@ -252,22 +252,22 @@ um, according to their preferences. "Ah, yeah, I usually visit zoos, or I usuall
 Yeah, yeah.	0
 Right, no no, but - but s- th- point is	1
 They're redundant.	0
-to - to y- to -	0
+to - to y- to -	1
 build a system that's got everything in it that might happen you do one thing.	1
 T- to build a system that um - had the most data	1
 on a relatively confined set of things, you do something else.	1
 And the speech people, for example, are gonna do better	1
-if they - if - things come up	0
+if they - if - things come up	1
 uh - repeatedly. Now, of course, if everybody says exactly the same thing then it's not interesting.	1
 So, all I'm saying is i- th- there's -	0
 there's a kind of question of what we're trying t- to accomplish.	0
 and -	0
 I think my temptation for the data gathering would be to	0
 uh, you know - And each person is only gonna do it once, so you don't have to worry about them being bored, so if - if it's one service, one luxury item, you know, one big-ish place, and so forth and so on, um -	1
-then	0
-my guess is that - that the data is going to be easier	0
+then	1
+my guess is that - that the data is going to be easier	1
 to handle. Now of course you have this	1
-I guess possible danger that somehow there're certain constructions that people use	0
+I guess possible danger that somehow there're certain constructions that people use	1
 uh when talking about a museum that they wouldn't talk about with a university and stuff,	1
 um -	0
 but I guess I'm - I- uh- m- my temptation is to go for simpler.	0
@@ -320,7 +320,7 @@ these s- six things they have to do	0
 Well - yeah.	0
 and they sh- can be done maybe in two days.	0
 Well I think th- th- yeah.	0
-So they make these decisions, "Can I go there tomorrow?" or - you know - influences	1
+So they make these decisions, "Can I go there tomorrow?" or - you know - influences	0
 Yeah.	0
 Mm-hmm.	0
 Well, I think it's easy enough to set that up if that's your expectation. So,	0
@@ -330,14 +330,14 @@ you know, let's first think about all the things you might like to do.	0
 So there - th- i- i- in - I mean - in - I th- I - I'm sure that if that's what you did then they would start telling you about that, and then you could get into um various things about ordering, if you wanted.	0
 Mm-hmm.	0
 Yeah.	0
-Yeah, but I think this is part of the instructor's job. And that can be done, sort of to say, "O_K now we've picked these six tasks."	1
+Yeah, but I think this is part of the instructor's job. And that can be done, sort of to say, "O_K now we've picked these six tasks."	0
 "Now you have- you can call the system and you have two days."	0
 I'm sorry. No, we have to help - we have to decide. Fey will p- carry out whatever we decide.	0
 And th- w-	0
 But we have to decide	0
 you know, what is the appropriate scenario.	0
 That's what we're gonna talk about t- yeah.	0
-Yep, yep.	1
+Yep, yep.	0
 But these are two different scenarios entirely. I mean, one is a planner -	0
 The other, it kind of give you instructions on the spot	0
 Yeah, but th- the - I don't - I'm not really interested in sort of "Phase planning" capabilities.  But it's more the - how do people phrase these planning requests?	0
@@ -349,7 +349,7 @@ Well, so Keith, what do you think?	0
 Well, um	0
 it seems that - Yeah, I mean,	0
 off the top of my head it kinda seems like you would probably just want, you know, richer data, more complex stuff going on, people trying to do more complex sets of things. I mean  you know, if our goal is to really sort of	1
-be able to handle a whole bunch of different stuff, then throwing harder situations at people will get them to do more linguistic - more interesting linguistic stuff.	0
+be able to handle a whole bunch of different stuff, then throwing harder situations at people will get them to do more linguistic - more interesting linguistic stuff.	1
 But I mean - I'm - I'm not really sure	1
 Uh, because I don't	0
 fully understand like what our choices are of ways to do this here yet.	0
@@ -370,15 +370,15 @@ Um, it is - already with this it got pretty - with this setup	0
 and that particular subject	0
 Mm-hmm.	0
 it got pretty complex. Maybe -	1
-I suggest we	0
-make some fine tuning of these,	0
+I suggest we	1
+make some fine tuning of these,	1
 get - sort of - run through ten or so subjects and then take a breather, and see whether we wanna make it more complex or not, depending on what - what sort of results we're getting.	1
 Mm-hmm.	0
 Right.	0
 Yeah. It - In fact, um,	0
 I am just	0
 you know - today, next couple days gonna start really diving into this data. I've basically looked at one of the files - you know one of these - l- y- y- y- you gave me those dozens of files and I looked at one of them which was about ten sentences,	1
-found [MASK] that we would have to look for and so on and like, "alright, well, let's start here." Um. So I haven't really gone into the, you know - looked at all of the stuff that's going on. So I don't really -	1
+found fifteen, twenty different construction types that we would have to look for and so on and like, "alright, well, let's start here." Um. So I haven't really gone into the, you know - looked at all of the stuff that's going on. So I don't really -	1
 Right, I mean,	0
 once I start doing that I'll have more to say about this kind of thing.	0
 O_K.	0
@@ -401,7 +401,7 @@ O_K.	0
 No question.	0
 Right.	0
 So -	0
-uh w- do we wanna get going beyond more, which is sort of the -	1
+uh w- do we wanna get going beyond more, which is sort of the -	0
 Well, O_K, so let's - let's take - let's I -	0
 I think your suggestion is good, which is	0
 we'll do a b- uh - a batch.	0
@@ -410,22 +410,22 @@ And, uh, Fey, How long is it gonna be till you have ten subjects?	0
 Couple days? Or thr- f- a-	0
 A week? Or - I don't - I don't have a feel for th-	0
 Um - I can - Yeah, I mean I s- I think can probably schedule ten people,	1
-uh,	0
+uh,	1
 whenever.	1
 Well, it's - it's up to you, I mean I j- I - uh- e- We don't have any huge time pressure. It's just - when you have t- Yeah.	0
 How long will it be? Um - I - I would say maybe two weeks.	1
 Oh, O_K.	0
 So let's do this. Let's plan next Monday,	1
-O_K, to have a review of what we have	0
+O_K, to have a review of what we have	1
 so far.	1
 and -	0
 This means audio, but -	1
 Huh?	0
-no transcriptions of course, yeah.	1
+no transcriptions of course, yeah.	0
 No, we won't have the transcriptions, but what we should	0
 be able to do	0
 and I don't know if, Fey, if you will have time to do this, but it would be great if you could, um,	1
-not transcribe it all, but pick out	0
+not transcribe it all, but pick out	1
 uh, some stuff. I mean we	1
 could lis- uh - just sit here and listen to it all.	0
 Are you gonna have the audio on the web site?	1
@@ -451,7 +451,7 @@ Well, I guess. I'm not sure how long it's actually going to take.	0
 The reading task is a lot shorter. That was cut by fifty percent. And the reading,	0
 nobody's interested in that except for the speech people.	0
 Right. No, we don't care about that at all.	0
-So.	0
+So.	1
 It's actually like five minutes dialogue.	1
 I- b- My guess is it's gonna be ten.	1
 People -	0
@@ -469,9 +469,9 @@ O_K, so that'll be - that'll be -	0
 And it's fun.	0
 um - on - on the web page.	0
 O_K.	0
-That's great.	0
+That's great.	1
 Um	1
-But anyway - yeah, so I think -	0
+But anyway - yeah, so I think -	1
 it's a good idea to start with the sort of relatively straight forward res- just response system.	1
 And then if we want to	1
 uh - get them to start doing - uh - multiple step planning with a whole bunch of things and then organize them an-	1
@@ -485,28 +485,28 @@ pretty straight forward.	0
 @@	0
 But were you saying that -	0
 I need those back by the way.	0
-O_K.	1
+O_K.	0
 O_K.	0
 Yeah.	0
 That's for -	0
 I'm sorry, Fey, what?	0
 That w-	1
-maybe one thing we should do is go through this list and sort of select things that are categories and then o-	0
+maybe one thing we should do is go through this list and sort of select things that are categories and then o-	1
 offer only one member of that category?	1
 That's what I was suggesting for the first round, yeah.	1
 O_K.	0
 So rather than having zoo and castle.	0
 And then, I mean, they could be alternate versions of the same -	0
-They could, but i- but i- uh- tha-	1
+They could, but i- but i- uh- tha-	0
 If you wanted data on different	0
-eh- they- c- yeah, but - uh -	1
+eh- they- c- yeah, but - uh -	0
 constructions.	0
 but -	0
 Like one person gets the version with the zoo as a choice, and the other person gets the -	0
 You could, but i- but I - I - I think in the short run, -	0
 And no, th- the per- the person don't get it. I mean, this is why we did it, because when we gave them just three tasks for w- part-A_ and three tasks for part-B_ a-	0
 Right.	0
-Yeah.	1
+Yeah.	0
 Well no, they could still choose. They just wouldn't be able to choose both zoo and say, touring the castle.	0
 Exactly. This is limiting the choices, but yeah.	0
 Right. O_K, sorry. But um I - I think this approach will	0
@@ -541,7 +541,7 @@ grouped	0
 according to the kind of activity, you would expect.	0
 Mm-hmm.	0
 But I mean i- it seem that um -	1
-there is a difference between going -	0
+there is a difference between going -	1
 to see something, and things like "exchange money" or "dine out" uh -	1
 Oh, absolutely. Yeah.	0
 Yeah, this is where - yeah - th- the function stuff is definitely different and the	0
@@ -585,7 +585,7 @@ the chart with all the decisions and stuff, and see	0
 how we're doing. Do - do people think that, you know this is - is gonna -	0
 um	0
 cover what we need, or should we be thinking about more?	0
-Okay, in terms of [MASK]	0
+Okay, in terms of decision nodes?	0
 Yep.	0
 I mean, Go-there is - is a yes or no.	1
 Right?	0
@@ -595,7 +595,7 @@ I'm also interested in th- in this "property" uh line here, so if you	1
 look at -	0
 sorry, look at that	0
 um ,	1
-timing was	0
+timing was	1
 um - I have these three. Do we need a final differentiation there?	1
 Now, later on the same tour, sometimes on the next tour.	1
 What's this idea of "next tour"? I mean -	0
@@ -615,7 +615,7 @@ current s- round of - of touristness or whatever, O_K.	0
 Right.	0
 Yeah. Yeah, probably between stops back at the hotel.	0
 O_K. Got it.	0
-I mean if you - if - if you wanted precise about it, uh you know, uh - and I think that's the way tourists do organize their lives.	1
+I mean if you - if - if you wanted precise about it, uh you know, uh - and I think that's the way tourists do organize their lives.	0
 Got it.	0
 Sure, sure, sure.	0
 You know, "O_K, we'll go back to the hotel and then we'll go off and -"	0
@@ -636,7 +636,7 @@ I - w- we will - we will not ask you more.	0
 Right.  That's enough.	0
 Right.	0
 I don't know. What is the uh - the - the English co- uh um	0
-[MASK] if you want, for   "Sankt Nimmerlandstag"?	0
+cognate if you want, for   "Sankt Nimmerlandstag"?	0
 Keine Ahnung	0
 Yeah.	0
 Sort of "We'll do it	0
@@ -682,7 +682,7 @@ What ab-	0
 What do you have in mind in terms of um - socializing? What kind of activities?	0
 Eh, just meeting people, basically.	0
 Oh -	0
-"I want to meet someone somewhere", which be- puts a very heavy constraint on [MASK]	0
+"I want to meet someone somewhere", which be- puts a very heavy constraint on the "EVA"	0
 Yeah.	0
 you know, because then if you're meeting somebody at the town hall, you're not entering it usually, you're just - want to approach it.	0
 So - I mean, does this capture, like, where do you put -	0
@@ -794,7 +794,7 @@ Yeah.	0
 Mm-hmm.	0
 If you wanna simulate it, for example, what parameters would you need for the simulation?	0
 And,	1
-Timing, uh,	0
+Timing, uh,	1
 uh, Length would definitely be part of it,	1
 "Costs",	1
 "Little money, some money, lots of money"?	1
@@ -874,7 +874,7 @@ um, top of my head. No - no research behind that.	0
 Yeah.	0
 Um - "Object information", "Do I - do I wanna know anything about that object?" is either true or false.	1
 And.	1
-if I care about it being open, accessible or not,	0
+if I care about it being open, accessible or not,	1
 I don't think there's any middle ground there.	1
 Um,	0
 either I wanna know where it is or not,	0
@@ -886,13 +886,13 @@ Maybe one could put scales in there, too. So I wanna know a l-	0
 Yeah, now ob-	0
 O_K, I'm sorry, go ahead, what were you gonna say?	0
 lot about it.	0
-One could put scales in there. So I wanna know a lot about the history, just a bit.	1
+One could put scales in there. So I wanna know a lot about the history, just a bit.	0
 Yeah, right well y- i- w- if we - w- right.	0
 So "object" becomes "entity", right?	1
 Yep, that's true.	0
 Yeah, but we don't have to do it now.	0
 Yep.	0
-That was the wrong shortcut anyhow.	1
+That was the wrong shortcut anyhow.	0
 And we think that's it, interestingly enough, that	0
 um,	0
 you know, th- or - or - or something very close to it is going to be uh -	0
@@ -902,8 +902,8 @@ Still wrong.	0
 Yeah.	0
 O_K.	0
 Alright, so um -	1
-So I think the order of things is that	0
-um,	0
+So I think the order of things is that	1
+um,	1
 Robert will clean this up a little bit, although it looks pretty good.	1
 And -	0
 What, well this is the part that - this is the part that needs the work.	0
@@ -914,13 +914,13 @@ um	0
 In parallel,	0
 uh - three things are going to happen.	0
 Uh Robert and Eva and Bhaskara are gonna actually -	1
-build [MASK] and, you know, tries to infer this from various kinds of information.	1
+build a belief-net that - that, um, has C_P_T's and, you know, tries to infer this from various kinds of information.	1
 And Fey is going to start collecting data,	1
-and we're gonna start thinking a- about - uh - what [MASK]	1
+and we're gonna start thinking a- about - uh - what constructions we want to elicit.	1
 And then w- go- it may iterate on	0
 uh, further data collection to elicit -	0
 D- Do you mean -	0
-Do you mean [MASK] Or do you mean like what kinds of things we want to get people talking about?	0
+Do you mean eliciting particular constructions? Or do you mean like what kinds of things we want to get people talking about?	0
 Well, yes.	0
 Semantically speaking, eh?	0
 Both.	0
@@ -934,16 +934,16 @@ And so - uh -	0
 I mean from my point of view I'm - I'm trying to care about the syntax, so you know -	0
 Well that too, but um -	0
 O_K.	0
-You know if th- if we in - if we you know, make sure that we get them talking about [MASK]	0
+You know if th- if we in - if we you know, make sure that we get them talking about temporal order.	0
 Yeah.	0
-O_K, that would be great and if th- if they use prepositional phrases or [MASK] or whatever, um -	0
+O_K, that would be great and if th- if they use prepositional phrases or subordinate clauses or whatever, um -	0
 Mm-hmm.	0
 Right. O_K.	0
 W- You know, whatever form they use	0
 is fine.	0
 O_K.	0
 But I - I think that probably we're gonna try to look at it as	0
-you know, s- what [MASK] d- do we - do we want them to uh do direc- you know, um,	0
+you know, s- what semantic constructions d- do we - do we want them to uh do direc- you know, um,	0
 O_K.	0
 "Caused motion", I don't know, something like that.	0
 O_K.	0
@@ -984,10 +984,10 @@ Nothing to write home about.	0
 O_K.	0
 And um -	0
 the - see this - this - this - uh - ontology node is probably something that I will	1
-try to expand. Once we have [MASK]	1
-what can we expect to get from [MASK]	0
+try to expand. Once we have the full ontology A_P_I,	1
+what can we expect to get from the ontology?	0
 And hopefully you can sort of also	1
-try to find out, you know, sooner or later	0
+try to find out, you know, sooner or later	1
 in the course of the summer what we can expect to get from the discourse that might, you know - or the - not the discourse, the utterance	1
 Mm-hmm.	0
 mm-hmm.	0
@@ -999,7 +999,7 @@ No, no, no, no, no. Uh, this is -	0
 Right, Right.	0
 O_K.	0
 We  are  expecting  Johno  to build a parser, but that's a -	1
-Yes.	1
+Yes.	0
 By the end of the summer, too.	0
 No.	0
 No.	0
@@ -1022,7 +1022,7 @@ Right.	0
 Um sometime, I have to talk to some subset of the people in this group, at least about um	0
 what sort of constructions I'm looking for. I mean, you know obviously like just	0
 again, looking at this one uh thing, you know, I saw y- things from -	0
-sort of [MASK] Oh, you know, I have to d	0
+sort of as general as argument structure constructions. Oh, you know, I have to do Verb Phrase. I have to do uh - uh - unbounded dependencies, you know, which have a variety of constructions in - uh - uh - instantiate that.	0
 On the other hand I have to have, you know, there's particular	0
 uh,	0
 fixed expressions, or semi-fixed expressions like "Get" plus path expression for, you know, "how d- ho- how do I get there?", "How do I get in?", "How do I get away?" and all that kind of stuff.	0
@@ -1035,12 +1035,12 @@ O_K, so this is - I think we're gonna mainly work on with George.	0
 O_K.	0
 O_K, and hi- let me f-	0
 th - say what I think is - is - so the idea is - uh - first of all	1
-I misspoke when I said	0
+I misspoke when I said	1
 we thought you should do the constructions. Cause apparently for a linguist that means to do completely and perfectly.	1
 So what I - yeah, O_K, - So what - what I meant was "Do a first cut at".	1
 er - that's what	0
 Yeah, yeah.	0
-O_K, Because uh - we do wanna get them r- u-	0
+O_K, Because uh - we do wanna get them r- u-	1
 perfectly - but I think we're gonna have to do a first cut at a lot of them to see how they interact.	1
 Of course.	0
 Right, exactly.	0
@@ -1053,16 +1053,16 @@ to do - sort of like Nancy did in some of the- er these papers where you do enou
 f- f- uh - have a complete story ov- of s- of some piece of dialogue.	1
 Mm-hmm.	0
 And that's gonna be much more useful	1
-than having all of [MASK] and nothing else, or - or - or something like that. So that the - the trick is going to be	1
+than having all of the clausal constructions and nothing else, or - or - or something like that. So that the - the trick is going to be	1
 Yeah. Sure.	0
 Yeah.	0
-t- to take this and pick a - some sort of lattice	0
+t- to take this and pick a - some sort of lattice	1
 Mm-hmm.	0
 of constructions, so- some lexical and some phrasal, and - and, you know, whatever you need in order to	1
 Mm-hmm.	0
-uh, be able to then,	0
-uh, by hand,	0
-you know, explain,	0
+uh, be able to then,	1
+uh, by hand,	1
+you know, explain,	1
 Mm-hmm.	0
 Yeah.	0
 some fraction of the utterances.	1
@@ -1071,7 +1071,7 @@ Mm-hmm.	0
 Sure.	0
 O_K. But I mean in terms of the s- th- sort of level of	0
 uh - of analysis, you know,	0
-these don't necessarily have to be more complex than like [MASK] where it's just like, you know, half a page on each one or something.	0
+these don't necessarily have to be more complex than like the "Out of" construction in the B_C_P paper where it's just like, you know, half a page on each one or something.	0
 Correct.	0
 Oh yeah - yeah. V- a half a page is - is what we'd like.	0
 Yeah.	0
@@ -1092,10 +1092,10 @@ demo dialogue, which is, you know, what the system survives and nothing but	0
 Mm-hmm.	0
 that. Um, we could also sor- sort of have the   analogen   of	0
 Mm-hmm.	0
-o- our sample sentences, the ideal sentences where we have [MASK]	1
-[MASK]	0
+o- our sample sentences, the ideal sentences where we have complete	1
+construction coverage	1
 Mm-hmm.	0
-and, sort of,	0
+and, sort of,	1
 they match nicely. So the -	1
 the "How do I get to X_?", you know, that's definitely gonna be	0
 Yeah.	0
@@ -1113,7 +1113,7 @@ eighty percent of the system's functionality.	0
 Ye-	0
 Right, but it's not covering eighty percent of the intellectual interest.	0
 Yeah.	0
-No, we can w- throw in [MASK] if you want to, but -	0
+No, we can w- throw in an "Out of Film" construction if you want to, but -	0
 No, no, no. Well the - th- the thing is there's a lot that needs to be done	0
 to get this right.	0
 O_K, I th-	0
@@ -1122,8 +1122,8 @@ We done?	0
 I have one bit of news. Um,	1
 Good.	0
 Good.	0
-the action planner guy has wrote -	0
-has written a -	0
+the action planner guy has wrote -	1
+has written a -	1
 a p-	0
 lengthy - proposal on how he wants to do the action planning.	1
 And I responded to him, also rather lengthy, how he should do the action planning.	1
@@ -1139,7 +1139,7 @@ Uh-huh, I'll be gone.	0
 Yeah. He- he's just in a conference somewhere and he is just swinging through town.	0
 Sure, O_K.	0
 And um -	0
-m- making me incapable of going to [MASK]	0
+m- making me incapable of going to N_A_A_C_L,	0
 for which I had funding.	0
 But.	0
 No, no Pittsburg this year.	0

@@ -12,23 +12,23 @@ our  data collection.  So -	0
 Uh, probably after today,	0
 that shouldn't come up in this meeting. Th- this - this is s-  should   be im- it isn't - There's another thing going on of gathering data,	0
 and that's pretty much independent of this.	0
-But, uh, I just want to make sure we're all together on this.	0
-What we think is gonna happen is that,	0
-uh, in  parallel  starting about now  we're gonna get Fey	0
-to,	0
-where you're working with me and Robert, draft a note that we're gonna send out to various CogSci c- and other classes saying, "here's an opportunity to be a subject.	0
+But, uh, I just want to make sure we're all together on this.	1
+What we think is gonna happen is that,	1
+uh, in  parallel  starting about now  we're gonna get Fey	1
+to,	1
+where you're working with me and Robert, draft a note that we're gonna send out to various CogSci c- and other classes saying, "here's an opportunity to be a subject.	1
 Contact Fey."	0
 And then there'll be a certain number of um, hours during the week which she will be available and we'll bring in	0
 people. Uh, roughly how many, Robert?	0
 We d- Do we know?	0
 Um, fifty was  our  - sort of our first -	0
-O_K. So, we're looking for a total of fifty people,  not necessarily by  any  means all students but we'll s- we'll start with - with that.	0
-In  parallel  with that, we're gonna need to actually do the  script.	0
+O_K. So, we're looking for a total of fifty people,  not necessarily by  any  means all students but we'll s- we'll start with - with that.	1
+In  parallel  with that, we're gonna need to actually do the  script.	1
 And, so, I guess there's a plan to have a meeting Friday afternoon	0
-Uh, with - uh, Jane, and maybe Liz and  whoever,  on actually getting the script worked out.	0
-But what I'd  like  to do, if it's O_ K,	0
-is to s-	0
-to, as I say, start the recruiting in parallel and possibly start running subjects next week.	0
+Uh, with - uh, Jane, and maybe Liz and  whoever,  on actually getting the script worked out.	1
+But what I'd  like  to do, if it's O_ K,	1
+is to s-	1
+to, as I say, start the recruiting in parallel and possibly start running subjects next week.	1
 The week after that's Spring Break, and maybe we'll look for them - some subjects next door or  i-	0
 Yeah .	0
 Yeah. Also,  Fey  will not be here during spring break. So.	0
@@ -38,7 +38,7 @@ So, is - Is  that	0
 make sense to everybody?	0
 Yeah. Also, um, F-  both Fey and I will, um,	0
 do something of which I may, eh -	0
-kindly ask you to - to do the same thing, which is we gonna check out [MASK] Meaning,	0
+kindly ask you to - to do the same thing, which is we gonna check out our  social  infrastructures for possible subjects. Meaning,	1
 um, kid children's gymnastic classes, pre-school parents and so forth.	0
 They also sometimes have flexible schedules.	0
 So, if you happen to be sort of in a non-student social setting, and you know people who may be interested in being subjects -	0
@@ -55,9 +55,9 @@ And why don't you also copy Jane on it?	0
 And, um,	0
 Are we - Have we concurred that, uh, these - these forms are sufficient for us, and necessary?	0
 Uh, th- I think they're  necessary.	0
-This - The  permission  form.	0
+This - The  permission  form.	1
 Mmm. Nuh.	0
-Uh, there  has  to  be  one, and I think we're just gonna use it as it is, and	0
+Uh, there  has  to  be  one, and I think we're just gonna use it as it is, and	1
 N_.	0
 Um	0
 You happy with that?	0
@@ -69,9 +69,9 @@ I- The last paragraph  "if you agree to participate you have the opportunity to 
 O_K?  Now  that,  we- had to be included for this	0
 other  one which might have, uh, meetings, you know,  about  something. In this case, it doesn't  really  make sense.	0
 Mm-hmm.	0
-Um, so what I'd  like  to do	0
-is  also  have  our  subjects sign a waiver	0
-saying "I don't want to see the final transcript".	0
+Um, so what I'd  like  to do	1
+is  also  have  our  subjects sign a waiver	1
+saying "I don't want to see the final transcript".	1
 Mm-hmm.	0
 And if they  don't  - If they say "no, I'm not willing to  sign  that", then we'll  show  them the final transcript. But, um.	0
 Yep . Makes sense.	0
@@ -102,7 +102,7 @@ it was finished.	0
 So.	0
 It, uh - I didn't measure it, but it was about an hour and ten minutes.	0
 Yep. Something like that.	0
-And, um - and now it's - We have a complete English parser that does everything the German parser does.	0
+And, um - and now it's - We have a complete English parser that does everything the German parser does.	1
 Which is  not a  lot.  But -	0
 That's the, uh, point.	0
 The - uh,  that's  not a  lot.	0
@@ -160,7 +160,7 @@ Well	0
 Ge- elaborate, or, more or less,  uh -	0
 Actually, it's a  little  tricky,	0
 in that there's some	0
-[MASK] which aren'	0
+allowable German orders which aren't allowable English orders and so forth. And it  is  order-based. So it - it -	0
 Isn't it?	0
 No.	0
 No.	0
@@ -170,7 +170,7 @@ It is not -	0
 Yeah. We were - I was afraid that, um -	0
 Oh!	0
 So it really  is  key word matching, basically.	1
-Really  a se-	1
+Really  a se-	0
 Um.	0
 e- yeah.  Mm-hmm.	0
 Oh,  wow.	0
@@ -197,8 +197,8 @@ Oh. This - are the reserve.	0
 Anyways.	0
 So.	0
 Um.	1
-These are the - sort of the ten different sentence types	0
-that the uh -	0
+These are the - sort of the ten different sentence types	1
+that the uh -	1
 the parser was able to do. And it still  is,  now in English.	1
 Mm-hmm.	0
 Yeah.	0
@@ -207,7 +207,7 @@ And, um	0
 you have already to make it a little bit more elaborate, right?	0
 Yeah, I mean I changed those sentences to make it, uh,	0
 more, uh, idiomatic.	1
-And, of course, you can have i-	0
+And, of course, you can have i-	1
 many  variations in those sentences, they will still parse fine.	1
 So, in a sense it's pretty broad.	0
 O_K.	0
@@ -224,7 +224,7 @@ Hmm.	0
 And, um.	0
 Y- i-	0
 One thing I was wondering, was,	1
-those functions there, are those things that modify [MASK] basically?	1
+those functions there, are those things that modify the M_-three-L_ basically?	1
 Yep.	1
 O_K.	0
 And that's - that's the next step, but we'll get to that in a second.	0
@@ -233,20 +233,20 @@ And so  this  means, um,	0
 Oh.	0
 "this" and "see" are not optional.	0
 "Want I like" is all  maybe  in there, but may also  not  be in there.	0
-So - so, the  point  is, if it says " this " and " see ", it also will work in " see " and " this "?	1
+So - so, the  point  is, if it says " this " and " see ", it also will work in " see " and " this "?	0
 S-	0
 In the other order?	0
 Yeah.	0
 with those two key words?	0
 Should we try it?	0
 "This is the one I want to see"	0
-or whatever.	1
+or whatever.	0
 O_K.	0
-[MASK]	0
+"Action watch",	0
 Hmm.	0
 whatever.  Nothing   was specialfi- specified.	0
-except  that it has some references to [MASK] here.	0
-[MASK]	0
+except  that it has some references to audio-visual media here.	0
+A_V medium.	0
 Yeah.	0
 Where it gets  that  from -  It's correct, but I don't know where it gets it from.	0
 " See ".	0
@@ -255,7 +255,7 @@ I mean it's sort of -	0
 Yeah. Yep. O_K.	0
 And "see this"	0
 is exactly the same thing.	0
-O_K, so it  is  [MASK] Alright.	1
+O_K, so it  is  set-based. Alright.	0
 One thing I was wondering was,	1
 those percentage signs, right?	1
 So, I mean,	0
@@ -265,7 +265,7 @@ Uh, I'll  tell  you why. Because it gives a - you a  score.	0
 Mm-hmm.	0
 Oh.	0
 And the value of the score is, v-  I  assume,	1
-I  guess, the more of these optional things that are actually in there, the higher [MASK]	0
+I  guess, the more of these optional things that are actually in there, the higher the r- score	1
 O_K.	0
 Right.	0
 It's a match.	0
@@ -280,7 +280,7 @@ I've just tried to	0
 Mm-hmm.	0
 Right.	0
 be nice.	0
-No, no. Fine. Yeah, yeah, yeah, flexible it  is.	1
+No, no. Fine. Yeah, yeah, yeah, flexible it  is.	0
 Right  - Yeah.	0
 But -	0
 O_K.	1
@@ -292,8 +292,8 @@ Alright.	0
 Right.	0
 I hope.	0
 And the next thing I would  like  to be able to do, and it seems like this would not be too difficult  either,  is	1
-to say, "O_K let's now pretend we  actually   wanted to not only change the -	0
-[MASK] but we also wanted to change - add a new sentence type and and make up some -	1
+to say, "O_K let's now pretend we  actually   wanted to not only change the -	1
+the  mapping  of - of, uh, words to the M_-three-L_ but we also wanted to change - add a new sentence type and and make up some - some new M_-three-L_ - s-"	1
 Yep.	0
 So-	0
 That'd be  great.  It would be a good exercise to just see	0
@@ -336,14 +336,14 @@ So when it encounts- encounters "Day",	0
 it will, uh,	0
 activate those h- classes in the - in the X_M_L stuff	0
 But, um -	0
-I  saw  those actions - uh, [MASK] somewhere.	0
+I  saw  those actions - uh, the "Goodbye" stuff somewhere.	0
 Hmm, hmm, hmm, hmm, hmm.	0
 Grep for it?	0
 Yeah .	0
 Let's do that.	0
 Oh.	0
 Mmm.	0
-[MASK]	0
+M_-three-L_ dot D_T_D?	0
 Yep.	0
 That's just a	0
 specification for the X_M_L	0
@@ -359,14 +359,14 @@ That function automatically generates an initialized	0
 X_M_L structure?	0
 I think each of those functions act on the current X_M_L structure, and	1
 I-	0
-change it in some way, for example, by adding a -	0
+change it in some way, for example, by adding a -	1
 y-	0
 a l- a  field  to it, or something.	1
-Yeah. They also seem to affect  state,  cause some of them -	0
+Yeah. They also seem to affect  state,  cause some of them -	1
 Mm-hmm.	0
 there were  other  actions	1
 Right.	0
-uh, that - that s- seemed to step - state variables somewhere, like the n- s- [MASK]	1
+uh, that - that s- seemed to step - state variables somewhere, like the n- s- " Discourse  Status Confirm".	1
 Yep.	0
 O_K. So that's going to be a call on the discourse and  confirm that it's -	0
 W- we- Mm-hmm	0
@@ -376,7 +376,7 @@ e-	0
 e- mmm	0
 Um, well i-	0
 When there's a feature.	0
-There is a feature called [MASK]	0
+There is a feature called "Discourse-Status",	0
 Yeah.	0
 And so whenever I just say, "Write",	0
 it will - it will put this in here.	0
@@ -393,11 +393,11 @@ e- I'm not sure - e- that -	0
 Um - well, we - we'll see, when we say,	0
 let's  test  something,	0
 "Goodbye",	0
-causes it to c- to create basically [MASK]  Which is a means of telling the system to shut down.	0
+causes it to c- to create basically an "Action Goodbye-End-Action".  Which is a means of telling the system to shut down.	0
 Right.	0
 Right.	0
 Now, if we know that "Write"	0
-produces [MASK]	0
+produces a "Feature Discourse-Status Confirm Discourse-Status".	0
 So if I now say "Write,	0
 Goodbye,"	0
 it should do that.	0
@@ -415,7 +415,7 @@ Right.	0
 O_K.	0
 Absolutely. Good point.	0
 It's - it's - the - It's under what sub-type you're doing it. Yeah.	0
-Mm-hmm.  Yeah .	1
+Mm-hmm.  Yeah .	0
 It's   mystery  functions.	1
 Well, they're  defined  somewhere, presumably.	1
 Well, sometimes it m- Sometimes, i-	0
@@ -433,29 +433,29 @@ So, it	0
 doesn't speak German anymore, but it does speak English.  And there is, here,	0
 a reference -	0
 So, this tells us that whatever is - has the I_D " zero " is referenced here -	0
-by  @@   [MASK]  and this is exa- "I want -"	0
+by  @@   the restriction  seed  and this is exa- "I want -"	0
 What was the sentence?	0
 "I want two seats here."	0
 "need two seats here."  Nuh .	0
 "And where is it playing?" There should also be a reference to something, maybe.	0
 Our d- This is re- um	0
 Mmm .	0
-Here, we change - and so, we - Here we add something to [MASK] that the user wants to change something that was sort of done before	0
+Here, we change - and so, we - Here we add something to the Discourse-Status, that the user wants to change something that was sort of done before	0
 And, uh -	0
 and that, whatever is being changed has something to do with the cinema.	0
-So then, whatever takes [MASK] is what actually changes the state, not the -	0
+So then, whatever takes this M_-three-L_ is what actually changes the state, not the -	0
 Yeah, O_K.	0
-No, right, [MASK] yeah.	0
+No, right, the Discourse Maintainer, yeah.	0
 Yeah.	0
-I  see. And it - and it runs around looking for [MASK]	0
+I  see. And it - and it runs around looking for Discourse Status	0
 tags,	0
 and doing whatever it does with them.	0
 And other people  ignore  those tags.	0
 Alright.	0
 So, yeah. I definitely think it's -	1
-It's worth	0
-the exercise of trying to	0
-actually add something	0
+It's worth	1
+the exercise of trying to	1
+actually add something	1
 that isn't there.	1
 Hmm?	0
 Uh	0
@@ -466,25 +466,25 @@ um, figuring out how to add our own	0
 tags,  and stuff like that.	0
 O_K.	0
 Point number  two.	0
-I got the, uh, [MASK] today.	1
+I got the, uh, M_-three-L_ for the routes today.	1
 Uh, so I got some more.	0
 This is sort of the uh,  um,	0
 Hmm. Interesting. It's just going  up,  it's not going	0
 back  down.	0
-So, this is - um, what I got today is  the - [MASK] for	0
+So, this is - um, what I got today is  the - the new  um  M_-three-L_ for	0
 um,   the Maps,	0
 Yep.	0
 uh, and with some examples - So, this is the X_M_L and this is sort of what it will look like later on,	0
 even though it - you can't see it on - on this resolution.	0
-And this is what it - sort of is the - [MASK]	0
+And this is what it - sort of is the - the structure of Map requests,	0
 um	0
 also not very interesting,	0
 and here is the  more  interesting stuff for us, is the routes,	0
-[MASK]	0
+route elements,	0
 and, again, as we thought it's really simple. This is sort of the, uh,	0
 um,  parameters. We have	0
 @@	0
-simple [MASK] and so forth,	0
+simple " from  objects" and " to  objects" and so forth,	0
 points of interest along the way -	0
 And, um,	0
 I asked them whether or not we could, um -	0
@@ -493,7 +493,7 @@ It seemed to me that this m- way of doing it is sort of a stack- a step backward
 It seems to me that some notions were missing.	0
 So these are - these are -	0
 S-	0
-So these are - these are your friends back at [MASK]	1
+So these are - these are your friends back at E_M_L.	1
 Yep. Who are doing this.	0
 So this is not a  complicated  negotiation.	0
 There's - there's not  seven  committees, or anything, right?	0
@@ -509,28 +509,28 @@ And, uh -	0
 However, the, uh -	0
 e- So that you understand, it is  really  simple. Uh - You - you have a  route,  and you cut it up in different pieces.	1
 And every -	1
-every  element  of that e- r- r- f- of that -	0
-Every  segment  we call [MASK]	1
+every  element  of that e- r- r- f- of that -	1
+Every  segment  we call a "route element".	1
 And so, from A_ to B_ we cut up in three different steps,	1
-and every step has [MASK] where you  start,	1
+and every step has a " from  object" where you  start,  a " to  object" where y- where  you sort of  end,  and some points of interest along the way.	1
 What w- I was sort of missing here, and uh, maybe it was just me being too stupid, is,  I didn't sort of get the - the notion of the global goal	0
 of the whole route. Really, s- was not straightforward visibly for me.	0
 And some  other  stuff. And I	1
 suggested that they should n- be - k- uh, kind enough to do s-  two  things for us, is one, um,	1
-Also allocating, uh, some tags for our [MASK]	1
+Also allocating, uh, some tags for our Action Schema Enter-Vista-Approach,	1
 and -	0
 And also,	0
 um, since  you  had suggested that -	0
-that, um, we figure out if we ever, for a  demo  reason, wanted to shortcut directly to [MASK]	0
+that, um, we figure out if we ever, for a  demo  reason, wanted to shortcut directly to the g- G_I_S and the Planner,	0
 of how we can do it.	0
 Now, what's the state of the art of getting to  entrances,  um, what's the syntax for that, how get- getting to   vista  points and calculating those on the spot.	0
-And [MASK] anyhow, is the default.	1
+And the  Approach  mode, anyhow, is the default.	1
 That's all they do it these days. Wherever you'll find a route planner it n- does nothing but get to the closest point where the street network is	1
 Mm-hmm.	0
 at minimal distance to the geometric center.	1
 @@	0
 So.	0
-So, well, let - Now, this is  important.  Let, uh - I want a- a- Again, [MASK]	0
+So, well, let - Now, this is  important.  Let, uh - I want a- a- Again, outside of m- almost  managerial  point,	0
 um -	0
 You're in the midst of this, so you know better. But it seems to me it's  probably	0
 a good idea to	0
@@ -563,7 +563,7 @@ Right.	0
 Right.	0
 one of these days,	0
 that would be - u- the - the perfect goal.	0
-That's right. So. So, Yeah. The problem isn't [MASK]	1
+That's right. So. So, Yeah. The problem isn't the  short  ra- range optimization.	1
 It's the sort of - o- one or two  year  kind of thing. O_K. What are the thl-  class  of things we think we might try to  do  in a year or two?	1
 How - how would we try to  characterize  those and what do we want to request  now	1
 that's leave enough space to  do  all that stuff?	1
@@ -595,19 +595,19 @@ action  end. Uh, at some point we're going to have to worry about the  language 
 uh, t- for this class of - of  things,  we might want to try to encompass.	0
 And -	0
 Then the scope of this is beyond	0
-[MASK] Yeah, yeah.	0
+Approach and Vis- or Vista. Yeah, yeah.	0
 Oh, yeah, yeah yeah yeah. This is - this is everything that - that,	1
-um,	0
-you know, um	0
+um,	1
+you know, um	1
 Yeah, yeah.	0
 we might want to do in the next couple years.	1
 Hmm?	0
 So what would - O_K.	0
-We don't - I mean, that's an  issue.  We don't  know  what, entirely.	1
+We don't - I mean, that's an  issue.  We don't  know  what, entirely.	0
 Uh, yeah. but I'm just -	0
 But the - Yeah, O_K. So I just -	0
 this	0
-X_M_L stuff  here  just has to do with [MASK]	0
+X_M_L stuff  here  just has to do with Source-Path-Goal type stuff,	0
 in terms of	0
 traveling through Heidelberg.	0
 Hmm.	0
@@ -617,10 +617,10 @@ So, but  this O-  Is the domain greater than  that?	0
 No. I think - I think the i- the idea is	0
 O_K.	0
 that -	0
-Oh. It's  beyond  [MASK] but I think we don't need to get beyond it  @@   -	1
+Oh. It's  beyond  Source-Path-Goal, but I think we don't need to get beyond it  @@   -	1
 tourists in Heidelberg.  It seems to me we can get	1
 O_K.	0
-all the complexity we want in actions and in language	0
+all the complexity we want in actions and in language	1
 without going outside of tourists in Heidelberg.	1
 O_K?	0
 But you know, i- depending on what people are interested in,	0
@@ -631,8 +631,8 @@ uh, what a tourist in Heidelberg might	0
 Mmm.	0
 ask.	0
 So, at least - unless somebody else wants t- to suggest  otherwise  I think	1
-the  general  domain	0
-we don't have t- to	0
+the  general  domain	1
+we don't have t- to	1
 uh,  broaden.	1
 That is,  tourists  in Heidelberg.	1
 And if there's something somebody comes up with that  can't  be done that way, then,  sure.  W- we'll - we'll look at that, but	0
@@ -647,17 +647,17 @@ O_K.	0
 O_K, so this is - his specialty is - reference,	0
 Mm-hmm.	0
 and - you know, what - what  are  these things referring to? Not  only	0
-[MASK] but, uh, more generally the,	0
+anaphora, but, uh, more generally the,	0
 uh -	0
 this  whole  issue of,	0
-uh,  [MASK] and, what is it that they're actually	1
-dealing  with in the world?	1
+uh,  referring  expressions, and, what is it that they're actually	0
+dealing  with in the world?	0
 Mm-hmm.	0
-And, again, this is li- in the databa- this is also  pretty  well formed because there is [MASK]	1
+And, again, this is li- in the databa- this is also  pretty  well formed because there is an ontology,	1
 and the database, and stuff. So it isn't like,	1
 um, you know, the Evening Star or stuff like that. I- i- it -	1
 Right.	0
-All  the entities	0
+All  the entities	1
 do  have concrete reference. Although th- the  To get at them from a language may not be trivial.	1
 Right.	0
 Right.	0
@@ -669,7 +669,7 @@ All  those things. Yeah. You have proper names, and descriptions.	0
 Mm-hmm.	0
 Right. O_K.	0
 Nuh.	0
-And  a l- and a lot - and - and [MASK] and pronouns, and	0
+And  a l- and a lot - and - and anaphora, and pronouns, and	0
 Right.	0
 Right.	0
 all those things.	0
@@ -713,9 +713,9 @@ dive  into.  What,	0
 uh, I think  I'm  gonna try to do,	0
 and I guess, pwww!	0
 let's say that by the end of spring break,	1
-I'll try to come up with some	0
-general  story about,	0
-um, [MASK] and what constructions we'd use and how all this might	1
+I'll try to come up with some	1
+general  story about,	1
+um, construction grammar, and what constructions we'd use and how all this might	1
 fit together. There's this whole  framework  problem that I'm feeling really uncomfortable about.	1
 And I haven't had a chance to	0
 think about it seriously. But I - I want to -	0
@@ -760,10 +760,10 @@ um -	0
 And - sort of - we don't know how to handle them,  too.  Right? I mean, it's -	0
 I d-	0
 It -	0
-We  don't  know how to handle [MASK]	0
+We  don't  know how to handle the  declarative  forms,	0
 @@	0
 really,	0
-and, then, [MASK] ah-oh.	0
+and, then, the interrogative forms, ah-oh.	0
 Uh.	0
 Ooo!	0
 Yeah. Nancy, it looked like you were s-	0
@@ -776,15 +776,15 @@ Help you create a mental model, blah-blah-blah.  Yeah.	0
 Yea- eh - y-  Yeah,  I  guess  so. And then here, y- you are j- uh, the person is getting information and they or may not be following some larger plan,	0
 Yes.	0
 you know, that we have to recognize or, you know, infer.	0
-And th- th- the - [MASK] probably	0
+And th- th- the - their discourse patterns probably	0
 don't follo- follow quite as many	0
 logical connec-  Yeah.	0
 Right. No, I think that's one of things that's interesting, is - is in this sort of	1
 over- arching  story we - we worked it out for th- as you  say,  this - the storytelling scenario.	1
 Mm-hmm.	0
 Mm-hmm.	0
-And I think it's really worth thinking  through	0
-what it looks like. [MASK] et cetera.	1
+And I think it's really worth thinking  through	1
+what it looks like. What is the simspec mean, et cetera.	1
 Mm-hmm. M-	0
 Right. Cuz for a while we were thinking, "well, how can we  change  the,  um, data to sort of illicit tha-  illicit, um, actions that are  more  like what we are used to?"	0
 But obviously we would rather, you know, try to figure out what's - what's, you know -	0
@@ -807,7 +807,7 @@ framework at  all.	1
 Th- there's  no  reason why we're c- we're constrained to  do  that.	0
 Mm-hmm.	0
 If  we can  use  all the, uh,	0
-[MASK]	0
+execution  engines,	0
 then we can,	0
 you know,  really	0
 try  things that	0
@@ -832,7 +832,7 @@ Yeah.	0
 Mm-hmm.	0
 You  might,  yeah.	0
 Mwa- Mm-hmm.	0
-um, this has been a - a - [MASK] that was - is - is part of the unresolved, and to-do's, and something for the future, is	0
+um, this has been a - a - a  Deep  Map  research  issue that was - is - is part of the unresolved, and to-do's, and something for the future, is	0
 how can we sort of	0
 run  our our  text,  our  content,  through a  machine   that will enable  us,  later, to	0
 Mm-hmm.	0
@@ -845,9 +845,9 @@ Who's going?	0
 what is the - the basic thing that - that you are, um, obligated to do, um, uh, by the summer before w- uh y- c- we can move -	1
 Ah!	0
 O_K. So - eh - Yeah. So, what  happened  is,	0
-there's this, eh, uh - Robert was describing	0
+there's this, eh, uh - Robert was describing	1
 the - There's two packages there's a,	1
-uh, [MASK] there's a particular  piece	1
+uh, quote parser, there's a particular  piece	1
 of this  big  system, which, in  German,	1
 uh, takes these t- sentence templates and produces X_M_L structures.	1
 Right.	0
@@ -856,18 +856,18 @@ Right.	0
 That,  these guys did in a - in a day.	1
 Right.	0
 The  other  thing is, at the  other  end,  roughly  at the same level,	1
-there's something that takes,	0
-uh, X_M_ L  structures,	0
+there's something that takes,	1
+uh, X_M_ L  structures,	1
 produces an  output  X_M_L structure which is	1
 instructions for the  generator.	1
 Right.	0
 O_K? And then there's a language  generator,  and then after that a s- a synthesizer that	1
-goes from an X_M_L structure to,	0
-uh,  language  generation, to	0
+goes from an X_M_L structure to,	1
+uh,  language  generation, to	1
 actual specifications for a  synthesizer.	1
 Right.	0
-Eh, but again, there's  one  module in which there's  one	0
-piece	0
+Eh, but again, there's  one  module in which there's  one	1
+piece	1
 that we have to convert to English.	1
 Right.	0
 Got it.	0
@@ -897,8 +897,8 @@ and, um, get a first draft of  that.	0
 Now, we have um just, I think  two  more  short  things.	0
 O_K.	0
 Um,	0
-y- you guys sort of started fighting, uh, on [MASK]	0
-[MASK]	0
+y- you guys sort of started fighting, uh, on the Bayes-net	0
+"Noisy-OR" front?	0
 Hmm.	0
 Yeah, I thought I should, um,	0
 talk a little bit about  that,  because that might be a good, uh,	0
@@ -908,8 +908,8 @@ O_K.	0
 you know, multiple inputs to a node.	0
 Good.	0
 And what's the  other  one? so that - just we know what the d- agenda is?	0
-Um, [MASK] I think maybe -	0
-Oh, yeah. I've got [MASK] as well. Uh, so I - I've been in contact with Wu, so,  probably  let's	0
+Um, the  Wu  paper, I think maybe -	0
+Oh, yeah. I've got a couple  new  Wu papers as well. Uh, so I - I've been in contact with Wu, so,  probably  let's	0
 put that off till I - I - till I understand better,	0
 uh, what he's doing. It's just a  little  embarrassing cause all this was in his thesis and I was on his thesis committee,	0
 and, so,  I r- really  knew  this at one time.	0
@@ -936,8 +936,8 @@ That's why they invented "pocket T_'s".	0
 They have clips!  Huh.	0
 exactly	0
 Yeah. So, um -  Recall that, uh,	1
-we want to have	0
-this kind of structure in [MASK]	1
+we want to have	1
+this kind of structure in our Bayes-nets.	1
 Namely, that, um -   You have these nodes that have several bands, right? So -	0
 Does  I mean, they sort of -	0
 the typical example is that, um, these are all a bunch of cues for something, and this is a certain effect that we'd like to conclude.	1
@@ -946,18 +946,18 @@ Like, let's just look at the case when, um, this is actually the - the final act
 you know,	0
 Y-	0
 touch, or - Sorry. Uh	0
-E_-  [MASK]	0
+E_-  EVA	0
 @@	0
-Yeah, E_-   [MASK] , right?	0
+Yeah, E_-   E_V_A , right?	1
 Yeah.	0
-[MASK] right?	1
+Enter, V- View, Approach, right?	1
 W- what was this? It - i- i- i- ehhh,  i- ehhh.	0
 So, this is -	0
 Wri- write it out for- for -	0
-Yeah. [MASK]	0
+Yeah. Enter,	0
 I mean -	0
-[MASK]	0
-[MASK]	0
+View,	0
+Approach.	0
 O_K. Right.	0
 Right.	0
 So, I mean, we'd like to - take all these various cues, right? So this one might be, say, uh -	0
@@ -979,32 +979,32 @@ Right? That's assuming these are all binary, which f- they may not be. For examp
 afternoon, evening, night". So, this could be more	0
 So, it's a  lot,  anyway.	0
 And, that's a lot of probabilities to put here, which is kind of a pain. So	1
-[MASK] are a way to, uh,	0
+Noisy-ORs are a way to, uh,	1
 sort of deal with this.	1
 Um	0
 Where should I put this?	0
 So, the idea is that, um,	0
-Let's call these, uh, [MASK] I guess.	0
+Let's call these, uh, C_one, C_two, C_three, and C_four, and E_, for Cause and Effect, I guess.	0
 The idea is to have these intermediate nodes.	0
 Right.	0
-Well, actually, the idea, first of all, is that each of these things has [MASK] which means that this is	0
+Well, actually, the idea, first of all, is that each of these things has a - quote-unquote  distinguished  state, which means that this is	0
 the state in which we don't  really   know anything about it. So - right?	0
 So, for example, if we don't really know  if the thing is a landmark or not,	1
-Or, i- if that just doesn't seem relevant, then that would be th- sort of [MASK] It's a really, you know,	1
+Or, i- if that just doesn't seem relevant, then that would be th- sort of the Disting- the Distinguish state. It's a really, you know,	1
 if there is something for the person talking about the admission fee,	0
-you know, if they didn't talk about it, that would be [MASK]	0
+you know, if they didn't talk about it, that would be the Distinguish state.	0
 S- so, this is a fanciful way of saying "default"?	0
 So -	0
 Yeah, yeah. That's just what they - the word they used in that paper.	0
 O_K.	0
 Mm-hmm.	0
-So, the idea is that, um,  you have these intermediate nodes, right? [MASK]	0
-So, this is [MASK] you're working with? Good.	1
+So, the idea is that, um,  you have these intermediate nodes, right? E_one, E_two, E_three and E_four?	0
+So, this is the Heckerman paper you're working with? Good.	1
 Yeah.	1
 So	1
-The idea is that, [MASK]	0
-is -	0
-represents  what  this would be -	0
+The idea is that, each of these E_I -	1
+is -	1
+represents  what  this would be -	1
 if  all  the other ones were in the distinguish state. Right?	1
 So, for example, suppose that the person - I mean, suppose the thing that they talked about is a landmark.	0
 But none of the other -  sort of cues really apply.	0
@@ -1022,22 +1022,22 @@ this is a deterministic function of these,	1
 so we don't  need   to specify any probabilities.	0
 We just have to, um, say what function this is, right?	0
 So we can let this be, um -	0
-[MASK]	0
-[MASK]	0
+G_ of E_one comma E_two.	0
+E_three, E_four.	0
 Right?	0
-and our example [MASK] would be, um,	0
+and our example G_ would be, um,	0
 a majority vote?	0
 Right?	0
 Well. O_K, so th- so the  important  point -	0
 is -	0
-W-  not  what [MASK] is.	0
+W-  not  what the G_ function is.	0
 The important point is -	1
-that -	0
-Um -	0
-There is a - a - a general kind of idea of shortcutting [MASK] Th- c- the full conditional probability table - with  some  function.	1
+that -	1
+Um -	1
+There is a - a - a general kind of idea of shortcutting the full C_P_T. Th- c- the full conditional probability table - with  some  function.	1
 O_K? Which y- w- you choose appropriately for each case. So, depending on  what your situation is,  there are  different functions which are most appropriate.	0
 And -	0
-So I gave - eh - Bhaskara a copy of this, eh - [MASK] D- and  you  got one, Robert. I don't know who else has seen it.	0
+So I gave - eh - Bhaskara a copy of this, eh - sort of "ninety-two"  paper. D- and  you  got one, Robert. I don't know who else has seen it.	0
 Mm-hmm.	0
 There's - I mean - yeah. it's Heckerman and Breese.	0
 It's short.	0
@@ -1054,7 +1054,7 @@ And - so, you other guys can decide how interested -  Anyway.  So the paper isn'
 O_K.	0
 Uh -	0
 One of the questions  just come at  Bhaskara is,	0
-"How much of this does [MASK] support?"	0
+"How much of this does JavaBayes support?"	0
 Yeah, it's a good question. Um	1
 The - so what we want, is basically JavaBayes to support deterministic, uh, functions.	1
 Right.	0
@@ -1062,29 +1062,29 @@ And, um -  In a sense it sup- we can make it supported by, um,  manually, uh, en
 Right. So the little handout that - The little thing that  I  sent - I sent a message saying,	0
 uh, here is a way to take -	0
 One thing you could do, which is kind of s- in a way, stupid, is take this deterministic function,	0
-and use it to build [MASK]	0
-So, if [MASK] won't do it  for  you,	1
+and use it to build the C_P_T.	0
+So, if Ba- JavaBayes won't do it  for  you,	1
 Mmm.	0
-that you can convert all that into what [MASK] would be.	0
+that you can convert all that into what the C_P_T would be.	0
 Um - and, what  I  sent out about a week ago, was an idea of how to  do  that,	0
 for,	0
-um, [MASK] So one of - one function that you  could  use as you	0
+um, evidence combination. So one of - one function that you  could  use as your "G_ function" is an e- e- Evidence-Combining. So you just take  the -	0
 uh, if each of th- if each of the ones has its own	0
 little table like that,  then you could take the,	0
-uh, strength of each of those, times its little table, and you'd add up [MASK]	0
+uh, strength of each of those, times its little table, and you'd add up the total evidence for "V_", "E_", and "A_".	0
 Mmm.	0
 I don't think you can do this, because -	0
 Mm-hmm.	0
 Yep.	0
-[MASK] is a function from	0
+G_ is a function from	0
 that	0
 to that.	0
 Right.	0
 Right? So there's no numbers. There's just -	0
-quadruplets of - well, [MASK]	0
+quadruplets of - well, N_duplets of, uh, E_Vs.	0
 I- i- i-	0
 No, no - But I'm saying is - There -	0
-There is a w- I mean, if y- if - if you decide what's - what is appropriate, is [MASK] you can write a function	0
+There is a w- I mean, if y- if - if you decide what's - what is appropriate, is probablistic evidence combination, you can write a function	0
 that does it. It's a  pui- it's  actually one of the examples he's got in there.	0
 But,  anyway,  s- skipping - skipping the question of  exactly  which functions -	0
 now is it  clear	0
@@ -1100,16 +1100,16 @@ So.	0
 Is - Oh, right. W- would not be ab- able to observe	0
 Mmm.	0
 What?	0
-I- if it's a - a - [MASK] we will have  nothing  in the discourse history.	0
+I- if it's a - a - a discar- Discourse Initial Phrase, we will have  nothing  in the discourse history.	0
 So, if - if we ever want to wonder what was mention-	0
 Oh -	0
 Oh. A- are you saying that we'll not be able to observe certain nodes? That's fine. That is sort of orthogonal thing.	0
-Yeah, so there's - there's  two  separate things, Robert.	0
-The f- the - the - [MASK] in general are quite good	1
+Yeah, so there's - there's  two  separate things, Robert.	1
+The f- the - the - the Bayes-nets in general are quite good	1
 at saying, "if you have no current information about this variable just take the prior for that."	1
-O_K? Th- that's what they're  real  good at.	0
+O_K? Th- that's what they're  real  good at.	1
 So, if you don't have any information about the discourse,	1
-you just use your priors of - of whatever -	0
+you just use your priors of - of whatever -	1
 eh- the - discourse -	1
 uh,	0
 eh, basically whatever w- it's - Probabilistically, whatever it would be. And it's - it's sort of not a  great  estimate, but -	0
@@ -1121,7 +1121,7 @@ And I think  that's  the one he was getting at.	0
 Yeah. So, specifically in this case you have to - f-	0
 have this many numbers, whereas in this case you just have to have three for this, three for this, three for this. Right?  So you have to have just	0
 Mm-hmm.	0
-[MASK]	0
+three N_?	0
 So, this is much smaller than that.	0
 Asymptotically.	0
 Mm-hmm.	0
@@ -1131,42 +1131,42 @@ U- yeah, yeah.	0
 So, you don't need da- data enough to cover - uh, nearly as much stuff.	0
 I mean -	0
 I don't know.	0
-So, really, i- What a - [MASK] seems to kind of	0
-[MASK]	0
-Eh - well- to- some- No, no. So, [MASK] is a funny	0
+So, really, i- What a - A Noisy-OR seems to kind of	0
+"neural-net-acize" these Bayes-nets?	0
+Eh - well- to- some- No, no. So, "Noisy-OR" is a funny	0
 way of referring to this, because	0
-[MASK] is only one instance.	0
-Yeah. This isn't [MASK] anymore.	0
-That one actually  isn't  [MASK] So we'll have to think of	0
+the Noisy-OR is only one instance.	0
+Yeah. This isn't a Noisy-OR anymore.	0
+That one actually  isn't  a Noisy-OR. So we'll have to think of	0
 Yeah.	0
 of a way t- t-	0
-it's [MASK]	0
+it's a Noisy-arg-max or a Noisy-whatever.	0
 Yeah, whatever. Yeah.  So -	0
 Eh -	0
 Um	0
-Well, my point was more that we just - eh - With [MASK] right, eh, things come in, you have a function that combines them and -	0
-Yeah, it - it - Tha- that's true. It is a- is also [MASK] although -	0
+Well, my point was more that we just - eh - With the neural net, right, eh, things come in, you have a function that combines them and -	0
+Yeah, it - it - Tha- that's true. It is a- is also more neural-net-like, although -	0
 Uh, it isn't  necessarily  sum -	0
 uh, s- you know,  sum  of weights or anything like that.	0
 Right.	0
-I mean i- You could have,	0
-uh, like [MASK]	1
+I mean i- You could have,	1
+uh, like the Noisy-OR function,	1
 really  is  one that's essentially says, uh, take the max.	1
-Well, [MASK]	0
+Well, the "OR".	0
 Same.	0
 Right. I guess you're right. Yeah.	0
 Uh	0
 But anyway. So -	0
 And, I thi- I think that's the  standard  way people	1
-get around the -	0
+get around the -	1
 uh	1
-There are a couple other ones. There are ways of breaking this up into s- to - to [MASK] and stuff like that. But, um	1
+There are a couple other ones. There are ways of breaking this up into s- to - to subnets and stuff like that. But, um	1
 The	0
 I think we definitely - I think it's a great idea tha- to - to pursue that.	1
 Yep. So	0
 Wha- still sort of leaves one question.	0
 It - I mean you - you can always uh - see easily that - that I'm not grasping  everything  correctly, but  what seemed attractive to  me  in im- uh in the last discussion we had, was	0
-that we find ou	0
+that we find out a means of -	0
 of getting these point four, point five, point one,	0
 of C_four,	0
 not  because, you know, A_ is a Landmark or not, but we - we - we label this whatever object type,	0
@@ -1175,31 +1175,31 @@ it's point three, point four, point two. If it's a castle, it's point eight, poi
 Right.	0
 And so forth.	0
 And we don't want to write this down -	0
-necessarily  every time for something but, uh -	1
+necessarily  every time for something but, uh -	0
 It'll be students -  Where else would it  be stored? That's the question.	0
 let's see.	0
-Well, in the beginning, we'll write up [MASK] We know we have twenty object types and we'll write it down in [MASK]	0
+Well, in the beginning, we'll write up a flat file. We know we have twenty object types and we'll write it down in a flat file.	0
 Oh.	0
 Yeah.	0
 No. So, i- is-	0
 Well, let me say something, guys, cuz there's not - There's a pretty point about this we might as well get in right now.	1
 Mm-hmm.	0
-Which is -	0
-The hierarchy that s- comes with [MASK]	0
+Which is -	1
+The hierarchy that s- comes with the ontology	1
 is  just  what you want for this. So that -	1
 Uh,  if  you know about it - let's say, a  particular  town hall -	0
 that, it's one that is a monument,	0
 then, that would be stored  there.	0
 If you  don't,  you look up the hierarchy,	0
 Eh - so, you - you - you may or - So, then you'd have this little vector of,	1
-um, you know,  [MASK] Let's - O_K, so we hav	1
+um, you know,  Approach  Mode or  E_V_A  Mode. Let's - O_K, so we have  the E_V_A vector for - for various kinds of landmarks.  If you know it for a  specific  landmark you put it there.	1
 If you  don't,  you just go up the hierarchy to the first place you find one.	1
 O_K.	0
-So, is the idea to put it in [MASK]	0
+So, is the idea to put it in the ontology?	0
 Absolutely.	0
 O_K.	0
 Uh, or, link to - or - but - but in any case - i- View it logically as being in the ontology. It's part of what you  know  about -	1
-a - an  object,   is [MASK]	1
+a - an  object,   is its E_V_A vector.	1
 O_K.  Mm-hmm.	0
 And, if yo- As I say, if you know about a specific  object,   you put it there. This is part of what Dekai was doing.	0
 So, when we get to Wu,	0
@@ -1212,22 +1212,22 @@ uh, you just take whatever your crude approximation is up at  that  level, which
 Right.	0
 Yeah.	0
 So, that's a very pretty relationship between	1
-these local vectors and [MASK]	1
+these local vectors and the ontology.	1
 And it seems to me the  obvious  thing to do, unless	0
 we find a reason to do something  different.	0
 Yeah.	0
 Does this make sense to  you?  Bhask- ?	0
 So -	0
 Yeah.	0
-So, we are - but we - we're not doing [MASK] so we have to get to whoever is doing the - u- ultimately,	0
+So, we are - but we - we're not doing the ontology, so we have to get to whoever is doing the - u- ultimately,	0
 Indeed. So, that's another thing we're gonna need to do, is - is, to,	0
 we have to get them to -	0
 either  -	0
-We're gonna need  some  way to either get [MASK]  in [MASK] or add  fields,  or -	1
+We're gonna need  some  way to either get a p-  tag  in the ontology, or add  fields,  or -	1
 some  way to associate - Or, w- It may be that all we can do is, um, some of our own hash tables that it -	0
 Th- the - th- you know, there's  always  a way to  do  that. It's a just a question of -	0
 i-	0
-Yeah, [MASK] or whatever.	0
+Yeah, hash on object name to, you know, uh, the probabilities or whatever.	0
 th-	0
 Yeah.	0
 e-	0
@@ -1238,43 +1238,43 @@ But it's, uh -  Well, it strikes me as a  What For-	0
 If we  get  the mechanism,	0
 that will be sort of the  wonderful  part. And then,	0
 how to make it  work  is - is the  second  part, in the sense that -	0
-I mean, m- the guy who was doing [MASK]	0
+I mean, m- the guy who was doing the ontology -	0
 eh, eh, s- ap- apologized that i- it will take him another through -	0
 two to three days because they're having really trouble getting the upper level	0
 straight, and	0
 right now.  The reason is,	1
-given the  craw bet  uh, the - the - the  projects	0
-that  all  carry [MASK]  and, on  all   history,	0
-they're really trying to build [MASK], and that's, uh, uh, sort of a tough cookie, a little bit tougher than they	1
+given the  craw bet  uh, the - the - the  projects	1
+that  all  carry their own  taxonomy  and, on  all   history,	1
+they're really trying to build one top level ontology ft- that covers all the E_M_L projects, and that's, uh, uh, sort of a tough cookie, a little bit tougher than they	1
 figured. I could have  told  them s- so. Uh.	0
 Right. Yeah.	0
 But, nevertheless, it's going to be there by n- by, uh,  next  Monday and I will show you what's - what some examples   from  that for towers, and stuff.	1
 And, um,	0
-what I don't think is  ever  going to be in [MASK]  is sort of, you know, the likelihood of, eh, people  entering  r-	1
+what I don't think is  ever  going to be in the  ontology,  is sort of, you know, the likelihood of, eh, people  entering  r-	1
 town halls, and  looking  at town halls, and  approaching  town halls,	1
-especially since we are b- dealing with [MASK]	1
+especially since we are b- dealing with a  case-based,  not an  instance-based  ontology.	1
 So, there will be  nothing  on - on  that  town hall, or on the  Berkeley  town hall, or on the	0
 Heidelberg  town hall, it'll just be information on town halls.	0
 Well, they - they - they - How ar- What are they gonna  do  with instances? I mean, you - y-	0
 But what -	0
 Well, that's - Hhh.	0
 That's - that's al- different question. I mean, th- the - first, they had to make a  design  question,	0
-"do we take [MASK] that  have  instances? or just one that does  not,  that just has the types?"	0
+"do we take ontologies that  have  instances? or just one that does  not,  that just has the types?"	0
 O_K.	0
 And, so, since the d- decision was on  types,  on a d- simply type-based,	1
 we now have to hook it up to  instances.	1
 I mean this is	0
 one -	0
-But what i- What  is    [MASK]  gonna do about that?	0
+But what i- What  is    SmartKom  gonna do about that?	0
 Cuz, they have instances  all  the  time.	0
-Yeah, but [MASK] is really n	0
+Yeah, but the ontology is really not a SmartKom	0
 thing,	0
 in - in and of itself. That's more something that	0
 I  kicked loose	0
-in - in [MASK] So it's a completely	0
+in - in E_M_L. So it's a completely E_M_L	0
 thing.	0
 But -	0
-Uh - uh -  [MASK]  g	0
+Uh - uh -  SmartKom's  gonna  need  an ontology.	0
 Yes, u- a w- a lot of people are aware of that.	0
 I  understand,   but is anybody  doing  anything about it?	0
 Um -	0
@@ -1283,8 +1283,8 @@ No, but - th- the r- eh - I th- I  still  think that	0
 there is  enough  information in there.	0
 For example, whether - O_K. So, th- it will know about the twenty object types there are in the world.	0
 Let's assume there are only  twenty  object types in this world.	0
-And it will know if  any  of those have  [MASK]	0
-So, in a sense, "I" used as [MASK] for some s- in some sense or the other.	0
+And it will know if  any  of those have  institutional  meanings.	0
+So, in a sense, "I" used as Institutions for some s- in some sense or the other.	0
 Which makes them -	0
 enterable.	0
 Right? In a sense. You know.	0
@@ -1302,29 +1302,29 @@ the - the instance - w- That we have to build our own	0
 instance, uh,	0
 Yeah, it's - Right, we can just assume -	0
 things, that,	0
-with their  types,  and then it goes off to [MASK] once you have its type. So we build a little  data  structure   And so what we would do in  that  case,	0
-is, in [MASK] have	0
-[MASK]	0
-And if we- d- there  isn't  one we'd get the  type  and then have [MASK]  So we'd have our own little,	0
-uh, [MASK]	0
+with their  types,  and then it goes off to the ontology once you have its type. So we build a little  data  structure   And so what we would do in  that  case,	0
+is, in our instance gadget have	0
+our E_V_As.	0
+And if we- d- there  isn't  one we'd get the  type  and then have the E_V_As for the  type.  So we'd have our own little,	0
+uh, E_V_A  tree.	0
 Yeah. Right.	0
 And then, for other,	0
 uh, vectors that we need. So, we'd have our own little  things so that whenever we needed one, we'd just use the ontology to get the type,	0
 Mm-hmm.	0
 Mm-hmm.	0
 and then would hash or whatever we do to say, "ah! If it's that type of thing,	1
-and we want [MASK]	0
+and we want its E_V_A vector, pppt-pppt!	1
 it's  that. "	1
-So, I- I think we can handle that. And then - But, [MASK]	1
-and whether we can put those in [MASK] and all that sort of stuff,	0
+So, I- I think we can handle that. And then - But, the  combination  functions,	1
+and whether we can put those in Java Bayes, and all that sort of stuff,	1
 is, uh - is the  bigger  deal.	1
 Yeah.	0
 I think  that's  where we have to get technically clever.	0
 Um -	0
-We could just steal the  classes  in  [MASK]  and then	0
+We could just steal the  classes  in  JavaBayes  and then	0
 interface  to them with our own  code.	0
 Well,  I me- ye    eh, yeah, the -	0
-That requires understanding [MASK] I guess.	0
+That requires understanding the classes in JavaBayes, I guess.	0
 Yeah, I mean, it's, uh, e- e- e- e- e-  cute.	0
 I mean, you've been around enough to -	0
 I mean -	0
@@ -1340,18 +1340,18 @@ be in a given form, and if you say, "hey, we're gonna	0
 make a  different  kind of  data  structure to stick in there -"	0
 Well, no, but that just means there's a  protocol,	0
 right? That you could -	0
-It may or may not. I don't know. That's the question is "to what extent does it allow us to put in these  [MASK]	1
+It may or may not. I don't know. That's the question is "to what extent does it allow us to put in these  G_  functions?"	1
 And I don't know.	0
 Well, no, but - I mean - What I  uh the  -	0
-So you could have four different [MASK] that you're running, and then run your own - write your own function that would take the output of those four,	0
-and make your own [MASK] is what I was saying.	0
+So you could have four different Bayes-nets that you're running, and then run your own - write your own function that would take the output of those four,	0
+and make your own "G_ function", is what I was saying.	0
 Yeah, that's  fine  if it's - if it comes only at the  end.  But suppose you want it  embedded?	0
-Well, then you'd have to break all of [MASK] int	0
+Well, then you'd have to break all of your Bayes-nets into smaller Bayes-nets, with all the -	0
 Oh,  that  - Yeah, that's a  truly  horrible way to do d- it. One would  hope  -	0
 Yeah, but I'm just -	0
 Mm-hmm.	0
 Yeah, yeah, yeah, yeah, yeah,  you bet .	0
-But, at  that  point you may say, "hey, [MASK] isn't the only package in town. Let's see if there's	0
+But, at  that  point you may say, "hey, Java Bayes isn't the only package in town. Let's see if there's	0
 another  package that's, eh, more  civilized  about this."	0
 @@ .	0
 Now,  Srini	0
@@ -1359,15 +1359,15 @@ Mmm.	0
 is worth talking to on this,	0
 cuz  he	0
 said that  he  actually  did	0
-hack [MASK] int	0
+hack some combining functions into JavaBayes.	0
 Ah!	0
 But he doesn't remember - at least when I talked to him, he didn't remember	0
 whether it was an e- an  easy  thing, a  natural  thing, or whether he had to do some violence to it to make it work.	0
 Uh. But he  did   do  it.	0
 Yeah.	0
-I don't see why the, uh, [MASK] have to be directly hacked int	1
+I don't see why the, uh, combining f- functions have to be directly hacked into JavaBayes. I mean, they're used to create tables so we can just make our own little functions that create tables in X_M_L.	1
 Well, I say that's  one  way to  do  it, is - is to just  convert  it	0
-int- into a - into [MASK]  that  you zip  -	0
+int- into a - into a C_P_ T  that  you zip  -	0
 It's  blown  up, and is a - it's, uh - it's  huge,  but -	0
 it doesn't require any	0
 Mm-hmm.	0
@@ -1383,16 +1383,16 @@ That was wi- that was my note.	0
 The little note I sent said that.	0
 Mm-hmm.	0
 It said, "Here's the way you'd take	0
-[MASK] and turn it int	0
+the logical f- G_ function and turn it into a C_P_T."	0
 Mm-hmm.	0
-I mean that - [MASK]	0
+I mean that - the Max- the Evidence-Combining function.	0
 So we could do that. And maybe that's what we'll  do.	0
 But, um	0
 don't know.	0
 So, I will, e-  e-  before  next week, uh,  @@	0
 p-  push   - push some more on - on this stuff that Dekai Wu did,	0
 and try to  understand  it.	0
-Uh, you'll make a couple of more copies of [MASK] to give	0
+Uh, you'll make a couple of more copies of the Heckerman paper to give	0
 p- Sure.	0
 Yeah, I - I would like a copy,  y- y- yeah .	0
 to people?	0
@@ -1402,7 +1402,7 @@ O_K.	0
 And, um	0
 I think -	0
 O_K. And I- I'll - I'll think s- through this, uh,	1
-eh - getting [MASK]   dynamically out of [MASK] one more time because I s- I - I - I'm not quite sure whether we all think of the same thing or not, here.	1
+eh - getting EVA  vectors   dynamically out of ontologies one more time because I s- I - I - I'm not quite sure whether we all think of the same thing or not, here.	1
 Well, you and I should talk about it.	1
 Yeah, uh-huh.	0
 O_K.	0

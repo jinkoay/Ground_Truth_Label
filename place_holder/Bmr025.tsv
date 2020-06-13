@@ -4,13 +4,13 @@ If we can't, we can't. But uh we're gonna try to make this an abbreviated meetin
 the next - next occupants were pushing for it, so.	0
 Um.	0
 So.	0
-Agenda is - according to this, is transcription status, [MASK]	0
+Agenda is - according to this, is transcription status, DARPA demos	0
 X_M_L tools, disks, backups, et cetera	0
-and [MASK]	0
+and CrossPads.	0
 Does anyone have anything to  add to the agenda?	0
 O_K.	0
 Should we just go in order? Transcription status? Who's - that's probably you.	0
-I can do that quickly. Um I hired several more transcribers, They're making great progress. Seve-  several,   several.	0
+I can do that quickly. Um I hired several more transcribers, They're making great progress. Seve-  several,   several.	1
 Seven?	0
 Oh.	0
 And uh -	0
@@ -19,10 +19,10 @@ uh I've been uh finishing up the uh double checking.	1
 I hoped to have had that done by today but it's gonna take one more week.	0
 Um	0
 I g-	0
-as a  somewhat  segue into the next topic, um	0
-could I get a hold of uh	0
-the data even if it's not really corrected yet just so I can get the data formats	0
-and make sure the information retrieval stuff is working?	0
+as a  somewhat  segue into the next topic, um	1
+could I get a hold of uh	1
+the data even if it's not really corrected yet just so I can get the data formats	1
+and make sure the information retrieval stuff is working?	1
 Certainly. Yeah I mean, it's in the same place it's been.	0
 So can you just -	0
 Oh,  it  is.  O_K. Just - So, "transcripts"	0
@@ -38,13 +38,13 @@ just - we'll have to remember to	0
 delete them once the corrections are made.	0
 O_K.	0
 O_K, wh-	0
-I also got anot- a short remark to the transcription. I've uh just processed the first five [MASK] and they are chunked up so they would - they probably can be sent to I_B_M	1
+I also got anot- a short remark to the transcription. I've uh just processed the first five E_D_U meetings and they are chunked up so they would - they probably can be sent to I_B_M	1
 whenever they want them.	1
-Well the second one of those	0
+Well the second one of those	1
 Cool.	0
-Yep. It's already at I_B_M, but the other ones - Yeah.	0
+Yep. It's already at I_B_M, but the other ones - Yeah.	1
 is already at I_B_M.	0
-That's the one that  we're waiting to hear from them on.	0
+That's the one that  we're waiting to hear from them on.	1
 Yeah.	0
 Yeah.	0
 O_K.	0
@@ -56,12 +56,12 @@ Yep.	0
 Excellent. Good.	0
 Yeah.	0
 Is my mike on? Yeah.	0
-And so as soon as we hear	0
+And so as soon as we hear	1
 from Brian	0
 that	0
 this one is O_K and we get the transcript back and we find out that	1
-hopefully there are no problems matching up the transcript	0
-with what we  gave	0
+hopefully there are no problems matching up the transcript	1
+with what we  gave	1
 them,	1
 then uh we'll be ready to go and we'll just send them the next four as a big batch,	1
 Excellent.	0
@@ -69,25 +69,25 @@ and let them work on that.	0
 And so we're doing those as disjoint from the ones we're transcribing here?	0
 Yes, exactly. We're sort of doing things in parallel, that way we can get as much done a- at once. Yeah.	1
 O_K, good.	0
-Yeah, I think that's the right way to do it, especially for the information retrieval stuff.	0
+Yeah, I think that's the right way to do it, especially for the information retrieval stuff.	1
 Anything else on transcription status?	0
 Hm-mmm.	0
 O_K.	0
-[MASK] we had the submeeting the other day.	1
+DARPA demos, we had the submeeting the other day.	1
 Right, which uh -	0
-So I've been working on using [MASK] to do information retrieval on meeting data	0
-and [MASK] are -	0
+So I've been working on using the THISL tools to do information retrieval on meeting data	1
+and the THISL tools are -	1
 there're two sets, there's a back-end and a front-end, so the front-end is the user interface and the back-end is the indexing tool and the querying tool.	1
-And so I've written some tools to convert everything into the right for- file formats.	0
-And the	0
-command line version of the indexing and the querying is now working.	0
-So at least on the  one  meeting that I had the  transcript  for	0
-uh  conveniently  you can now do information retrieval on it, do - type in a - a string and get back a list of start-end times for the meeting,	0
+And so I've written some tools to convert everything into the right for- file formats.	1
+And the	1
+command line version of the indexing and the querying is now working.	1
+So at least on the  one  meeting that I had the  transcript  for	1
+uh  conveniently  you can now do information retrieval on it, do - type in a - a string and get back a list of start-end times for the meeting,	1
 uh of hits.	0
 What - what kind of uh - what does that look like? The string that you type in. What are you - are you - are they keywords, or are they - ? O_K.	0
 Keywords.	0
 I see.	0
-Right? And so - and then it munges it to pass it to [MASK] which u	0
+Right? And so - and then it munges it to pass it to the THISL I_R which uses an S_G_M_L-like	0
 format for everything.	0
 I  see.	0
 And then	0
@@ -96,7 +96,7 @@ Um, right now, I have a tool that will  do  that on a command line using our sta
 Yeah.	0
 but my intention is to do a prettier user interface based  either  -	1
 So - so that's the other thing I wanted to  discuss,  is well what should we  do  for the user interface? We have	0
-two  tools that have already been written. Um [MASK] did a  web-based  one,	0
+two  tools that have already been written. Um the  SoftSound  guys did a  web-based  one,	0
 Mm-hmm.	0
 um, which I haven't used, haven't looked at. Dan says it's pretty good	0
 Mm-hmm.	0
@@ -105,19 +105,19 @@ Mm-hmm.	0
 And so it - it's pretty big and complex.	1
 Uh and it would be difficult to port to Windows because it means porting the  web  server to Windows.	1
 Mm-hmm.	0
-Uh the other option is Dan did [MASK]	1
+Uh the other option is Dan did the Tcl-T_K THISL GUI front-end	1
 Yeah.	0
 for Broadcast News which I think looks great. I think that's a nice demo.	1
 Um and that would be much easier to port to Windows.	0
 And so I think  that's  the way we should  go.	0
 I - Can I ask a question? So um	0
 Mm-hmm.	0
-as it stands within the - [MASK] it's  possible  to do a find and a play.	0
+as it stands within the - the Channeltrans interface, it's  possible  to do a find and a play.	0
 You can find a searched string and play. So e- Are you - So you're adding like um,	0
 I don't know, uh are they fuzzy matches or are they  uh - ?	0
 It's a sort of standard,	0
 text-retrieval-based -	0
-So it's uh [MASK]	0
+So it's uh term frequency, inverse document frequency scoring.	0
 O_K.	0
 Um	0
 and then there are all sorts of metrics for spacing how far apart they have to be and things like that.	0
@@ -129,9 +129,9 @@ the basically Windows-based -	0
 So i- it uses - So it pr- produces an index ahead of time so you don't - you're not doing a linear search through all the documents.	0
 O_K.	0
 Cuz you can imagine if - with - if we have the sixty hours' worth you do - wouldn't wanna do a search.	0
-Hm-mmm.	1
+Hm-mmm.	0
 Um you have to do preindexing and so that - these tools do all that.	0
-Good.	1
+Good.	0
 And so the work to get the  front-end  to work would be porting it -	0
 well -	0
 uh to get it to work on the  UNIX  systems,  our  side is just	0
@@ -143,8 +143,8 @@ sorta things like that.	0
 Mm-hmm.	0
 So what does the user see as the result of the query?	0
 On  which  tool?	0
-[MASK]	0
-[MASK] which is the one that Dan wrote, [MASK]	0
+THISL.	0
+The THISL GUI tool which is the one that Dan wrote, Tcl-T_K	0
 Yeah.	0
 um you type in a query and then you get back a list	0
 of hits	0
@@ -175,41 +175,41 @@ And it - it's looking pretty good, you know, the fact that I got the query syste
 So if we wanna just do a video-based one I think that'll be easy.	0
 Mm-hmm.	0
 If we wanna get it to Windows it's gonna be a little more work because the	0
-[MASK]	0
-[MASK] the information retrieval tool's - um, I had difficulty ju	0
+THISL	0
+I_R, the information retrieval tool's - um, I had difficulty just compiling them on Solaris.	0
 Mm-hmm.	0
 So getting them to compile on	0
 Windows might be challenging.	0
 Mm-hmm.	0
 But you were saying that - that the uh -	0
 So.	0
-that there's that set of tools, uh,  [MASK] that -	0
+that there's that set of tools, uh,  Cygnus  tools, that -	0
 It certainly helps. Um, I mean  without  those I wouldn't even  attempt  it.	0
 Uh-huh.	0
 Yeah.	0
 Mm-hmm.	0
-But what those - they - what those do is provide sort of [MASK]	0
+But what those - they - what those do is provide sort of a B_S_D compatibility layer,	0
 so that the normal UNIX function calls all work.	0
 Mm-hmm.	0
 Mm-hmm.	0
 Um,	0
 And you have to have all the o-	0
-But the  problem  is that - that [MASK] didn't use anything like [MASK]	0
+But the  problem  is that - that the THISL tools didn't use anything like Autoconf	0
 and so you have the normal porting problems of	0
 different header files and th- some things are defined and some things aren't	0
 and uh	0
 different compiler work-arounds and so on. So the fact that	0
-um it took me a day to get it c- to compile under  [MASK]  means it's probably gonna take me	0
+um it took me a day to get it c- to compile under  Solaris  means it's probably gonna take me	0
 s- significantly  more  than that to get it to compile under Windows.	0
-How about having it run under  [MASK]	0
+How about having it run under  free   B_S_D?	0
 Well what you need -	0
-[MASK] would probably be easier.	0
+Free B_S_D would probably be easier.	0
 All you need to do is say to Dan	0
-"gee it would be nice if this worked under  [MASK] " and it'll be done in a day.	0
+"gee it would be nice if this worked under  Autoconf " and it'll be done in a day.	0
 That's  true.	0
 Right?	0
 Uh -	0
-Actually you know I should  check  because he did port it to  [MASK]	0
+Actually you know I should  check  because he did port it to  SPRACHcore	0
 so he might have  done  that  already.	0
 Right.	0
 I - I - I wouldn't be surprised.	0
@@ -228,7 +228,7 @@ So, and I've been corresponding with Dan and also with uh	0
 It's amazing.	0
 Yeah.	0
 uh,	0
-[MASK] uh -	0
+SoftSound  guy, uh -	0
 Blanking on his name.	0
 Tony Robinson?	0
 Tony Robinson?	0
@@ -238,16 +238,16 @@ Or S- or Steve Renals.	0
 James Christie.	0
 Which one do I mean?	0
 Steve Renal- Steve Renals.	0
-Steve Renals is not [MASK] is he?	0
+Steve Renals is not SoftSound, is he?	0
 No.	0
-My brain is not working, I don't remember who I've been corresponding with.	1
+My brain is not working, I don't remember who I've been corresponding with.	0
 O_K.	0
 Steve wro- i- it's Ste- Steve Renals wrote	0
-[MASK]	0
+THISL I_R.	0
 Then it's Steve Renals.	0
 O_K.	0
 Oh, O_K.	0
-So uh just getting documentation and uh and f- and formats, so that's all going pretty well, I think we'll be O_K with that.	1
+So uh just getting documentation and uh and f- and formats, so that's all going pretty well, I think we'll be O_K with that.	0
 Yeah.	0
 Right.	0
 Assuming we're -	0
@@ -257,18 +257,18 @@ we have -	0
 Well,  that's  a good point too.	0
 Here's a - here's a crazy idea  actually.	0
 I don't know.	0
-Why don't you try and [MASK]	0
-Well this is one of the reasons -	1
-They're both [MASK]	0
+Why don't you try and merge  Transcriber  and THISL I_R?	0
+Well this is one of the reasons -	0
+They're both Tcl interfaces.	0
 This is the - one of the reasons that I'm gonna have uh Dave Gelbart - Gelbart -	0
 Having him volunteer to work on it is a really good thing	0
-because he's worked on [MASK]	0
+because he's worked on the Transcriber stuff	0
 Right.	0
-and he's more familiar with [MASK] than I am.	0
+and he's more familiar with Tcl-T_K than I am.	0
 And then you get - they - then you get the Windows media playing for free.	0
-Well that's  [MASK]  not - n	0
-Right.  But the point is that [MASK] and then you can - but you can use a - a lot of the same functionality and it's -	0
-Yeah, yeah, I mean, I - I think THISL - [MASK]	1
+Well that's  Snack,  not - not Transcriber.	0
+Right.  But the point is that the Transcriber uses Snack and then you can - but you can use a - a lot of the same functionality and it's -	0
+Yeah, yeah, I mean, I - I think THISL - THISL GUI  probably  uses Snack.	0
 And so my intention was just to base it on that.	0
 Yeah.	0
 Well my thought was is that it would be nice - it would be nice to have the running transcripts	0
@@ -277,7 +277,7 @@ um eh you know, from speaker to speaker.	0
 Right? Do you have - you have, you know, a speaker mark here and a speaker mark here?	0
 Right, we'll have to figure out a user interface for that, so.	0
 Right.	0
-Well that - eh my thought was if you had like [MASK] or whatever	0
+Well that - eh my thought was if you had like Multitrans or whatever	0
 do  it.	0
 Or whatever.	0
 Yeah.	0
@@ -285,15 +285,15 @@ It might be  fairly  difficult to get that to work in	0
 the little short segments we'd be talking about and having	0
 the search tools and so on. We - we can look into it, but -	0
 Yeah.	0
-The thing I was asking about with, um, [MASK] is that it might be easier to	0
+The thing I was asking about with, um, free B_S_D is that it might be easier to	0
 get PowerPoint shows	0
-running in [MASK] than to get this other package running in -	0
+running in free B_S_D than to get this other package running in -	0
 Yeah, I mean we have to - I have to sit down and  try  it before I make too many judgments, so uh	0
 Yeah.	0
 Um	0
 My experience with the Gnu compatibility library is  really	0
 it's just as hard and just as easy to port to any system.	0
-Right? The Windows system isn't any harder because it - it looks like [MASK]	0
+Right? The Windows system isn't any harder because it - it looks like a B_S_D system.	0
 Mm-hmm.	0
 It's just, you know, just like all of them, the "include" files are a little different and the function calls are a little different.	0
 Right.	0
@@ -301,21 +301,21 @@ So I - it  might  be a little easier but it's not gonna be a lot easier.	0
 O_K.	0
 So there was  that  demo, which was one of the main ones, then we talked about	0
 um some  other  stuff which would basically be	0
-um showing off the - [MASK]  itself  and as you say,  maybe  we could even  merge  those in some sense, but - but um,	0
-uh - and part of that was showing off what [MASK]  stuff that Thilo has done   s-   looks like.	0
+um showing off the - the Transcriber interface  itself  and as you say,  maybe  we could even  merge  those in some sense, but - but um,	0
+uh - and part of that was showing off what the speech-non- uh nonspeech  stuff that Thilo has done   s-   looks like.	0
 Yeah.	0
-Can I ask one more thing about [MASK]	0
+Can I ask one more thing about THISL?	0
 Mm-hmm.	0
-So with [MASK] then you end up with a somewhat prioritized um - ?	0
+So with the I_R stuff then you end up with a somewhat prioritized um - ?	0
 Mm-hmm, ranked.	0
 Excellent. Excellent.	0
 Yeah.	0
 So  another  idea I w- t- had	1
-just now actually for the  demo  was	0
-whether it might be of interest to sh- to show some of [MASK] uh	0
+just now actually for the  demo  was	1
+whether it might be of interest to sh- to show some of the prosody uh	1
 work that  Don's  been doing.	1
 Mm-hmm.	0
-Um actually show some of the  features  and then show for instance a task like [MASK]	1
+Um actually show some of the  features  and then show for instance a task like finding sentence boundaries or finding turn boundaries.	1
 Um,	0
 you know, you can show that  graphically,  sort of what the features are doing. It, you know, it doesn't work  great  but it's definitely giving us  something.	1
 Well I think at -	1
@@ -324,11 +324,11 @@ at the very least we're gonna want something  illustrative  with that cuz I'm go
 Yeah.	0
 it's much better than me just having a bullet point	1
 pointing at something I don't  know  much about, so.	0
-I mean, you're looking at this now - Are you looking at [MASK] or Matlab?	0
+I mean, you're looking at this now - Are you looking at Waves or Matlab?	0
 Um yeah I'm  starting  to and	0
 um -	0
 Yeah we can  probably  find some examples	1
-of different type of [MASK]	0
+of different type of prosodic	1
 Yeah def-	0
 events going on.	1
 S- so when we here were having this demo meeting, what we're  sort  of coming up with is that we wanna have all these pieces together, to first order, by the end of the month	1
@@ -347,7 +347,7 @@ Yeah.	0
 There's another one.	0
 Exactly.	0
 Uh -	1
-that'll - that'll give us -	0
+that'll - that'll give us -	1
 Sorry.	0
 that'll give us a week or so to uh - to port things over to my laptop and make sure  that  works, yeah.	1
 I think, I mean eh where -	0
@@ -373,7 +373,7 @@ general format for everything and I think that's definitely the right way to go 
 that let you do extraction and reformatting of X_M_L tools.	1
 Um.	0
 So yet again we should probably meet to talk about  transcription  formats in X_M_L because I'm not particularly  happy  with what we have now.	1
-I mean it works with  [MASK]  but it - it's a  pain  to use it in other tools	0
+I mean it works with  Transcriber  but it - it's a  pain  to use it in other tools	0
 uh because it doesn't mark start and end.	0
 Start and end of each - ?	0
 Uh -	0
@@ -387,17 +387,17 @@ And so - and also I'd like to do the indirect time line business.	0
 Um but  regardless,  I mean, w- that's something that you, me, and Jane can talk about later. Um,	0
 but I've installed X_M_L tools of various sorts in various languages and so if people are interested in doing -	0
 extracting any information from  any  of these files, either uh information on	0
-users  because the user database is that way -	0
-I'm converting [MASK] to X_M_L so that you can extract m- uh	1
+users  because the user database is that way -	1
+I'm converting the Key files to X_M_L so that you can extract m- uh	1
 Cool.	0
 various inf- uh sorted information on individual  meetings	1
 Yeah.	0
 and then also the  transcripts.  And so l- just let me know there - it's mostly Java and Perl	0
 but we can get other languages too if - if that's desirable.	0
 Oh, quick  question  on that. Is - do we have the -  the seat information?	1
-In - in [MASK] now?	0
+In - in the Key files now?	0
 Mm-hmm.	0
-The seat information is on [MASK] for the ones which	1
+The seat information is on the Key files for the ones which	1
 Ah.	0
 Oh in -	0
 it's been recorded, yeah.	0
@@ -406,7 +406,7 @@ Seat?	0
 Sea- yeah.	0
 Where - where you're sitting.	0
 Oh! Not - not the  quality  or anything. No. O_K.  I see.	0
-n-	1
+n-	0
 Right.  "It's pretty soft and squishy."	0
 Yeah.	0
 Alright .	0
@@ -423,7 +423,7 @@ I'm just trying to figure out, you know, when Morgan's voice appears on someone'
 Maybe we should bleep that out.	0
 Yeah.	0
 Mmm, yeah.	0
-Wait a minute, how - how w- eh  where  is it in [MASK]	0
+Wait a minute, how - how w- eh  where  is it in the Key file?	0
 Right.	0
 Yeah.	0
 The square bracket.	0
@@ -440,9 +440,9 @@ Some fall out of -	0
 Well  it-	0
 Yeah so we can go back and fill  them   in for the ones we have.	0
 Ooo.	0
-I mean they're on th- right,  these,  but I just hadn't ever been putting it in [MASK] And I don't think  Chuck  was either cuz -	1
+I mean they're on th- right,  these,  but I just hadn't ever been putting it in the  Key  files. And I don't think  Chuck  was either cuz -	1
 Yeah I - I never -	0
-I never knew we were supposed to put it in [MASK]	1
+I never knew we were supposed to put it in the Key file.	1
 I  had  told you guys about it but -	0
 Oh, so we're both sorry. So -	0
 Oh really?	0
@@ -456,7 +456,7 @@ or Key-edit - I think it's Edit-key,	0
 Edit-key.	0
 command -	0
 Did I show you guys that?	0
-Yep.	1
+Yep.	0
 I  did  show it to you, but I think you both said "no, you'll just use	0
 You  mentioned  it, yeah. Yeah.	0
 text file". Um it has it in there, a place to fill it in.	0
@@ -469,7 +469,7 @@ Right. Well I - I just realized I hadn't been doing it and probably - So -	0
 Yep.	0
 u-	0
 Yeah and then the other thing also that Thilo noticed is, on the microphone,	1
-on channel zero it says hand-held mike  or  [MASK]	1
+on channel zero it says hand-held mike  or  Crown mike,	1
 Yeah.	0
 Right.	0
 you actually have to  say  which  one.  So.	1
@@ -481,7 +481,7 @@ Takes me no time at all to edit these.	0
 But it's almost -	0
 Yeah.	0
 Yeah that's cuz you kn- I - I know  why.	0
-I'm not  doing  anything.	1
+I'm not  doing  anything.	0
 And I was - I was looking at  Chuck's,  like, "oh what did  Chuck  do, O_K I'll do  that ". So.	0
 And then uh also in a couple of places instead of filling the participants under "participants" they were filled in under "description".	1
 Ah, O_K.	0
@@ -532,8 +532,8 @@ Um I spoke with Dave Johnson about putting all the Meeting Recorder stuff on non
 and he pretty much said "yeah, you could do that if you want"	0
 but he thought it was a bad idea.	1
 In fact what  he  said is	1
-doing the manual one,	0
-doing uh [MASK] to copy it	0
+doing the manual one,	1
+doing uh N_W archive to copy it	1
 is a good idea	1
 and we should do that  and  have it backed up.	1
 He w- he's a firm believer in - in lots of different modalities of backup.	1
@@ -555,11 +555,11 @@ that we're getting a new backup system and we're far enough away from saturation
 Really?	0
 probably  O_K.	1
 And uh, so the only issue here is the timing between	1
-getting more disks and	0
+getting more disks and	1
 uh	0
 recording meetings.	1
 So I guess the idea is that we would be reserving the	1
-non-backed-up space for things	0
+non-backed-up space for things	1
 that took less than twenty-four hours to recreate or something like that, right?	1
 Things that are recreatable easily and also - Yeah, basically things that are  recreatable.	1
 Yeah.	0
@@ -592,18 +592,18 @@ fail  after a couple years.	0
 Alright.	0
 I  do  have uh uh - It's a different topic. Can I add one top- topic? We have time?	0
 I wanted to ask, I know that uh that Thilo you were, um,	1
-bringing [MASK] onto the Windows machine?	1
+bringing the Channeltrans interface onto the Windows machine?	1
 Yeah it's - it - Basically it's done, yeah.	1
 And I wanted to know is th-	0
 It's all done? That's g- wonderful. Great.	0
 Yeah.	0
-Yes, since [MASK]  runs  on it, basically	0
+Yes, since Tcl-T_K  runs  on it, basically	0
 Yeah it -	0
 things'll just work.	0
-Yeah, it was just a problem with [MASK] but	0
+Yeah, it was just a problem with the Snack version and the Transcriber version but	0
 it's solved. So.	0
 Does - and that - does that mean, I -	0
-maybe I should know this but I don't. Does this mean that the - that this could be por- uh ported to [MASK]- or some other type of uh -	0
+maybe I should know this but I don't. Does this mean that the - that this could be por- uh ported to a Think-Pad note- or some other type of uh -	0
 Yeah, basically uh I	0
 did install it on my laptop and yeah	0
 Wonderful.	0
@@ -611,7 +611,7 @@ it worked.	0
 Hmm!	0
 Wonderful.	0
 Good.	1
-[MASK]	0
+CrossPads?	0
 Uh got an email from uh	0
 James Landay who basically said "if you're not using them,	1
 could you return them?"	1
@@ -623,7 +623,7 @@ We used them once.	0
 We - we used them a couple times, but -	1
 Once?	0
 Mm-hmm.	0
-Them? There's more than one?	1
+Them? There's more than one?	0
 Couple times.	0
 Yeah, we have two.	0
 Yeah.	0
@@ -633,14 +633,14 @@ But -	0
 My  opinion on it is, first, I never take notes anyway	0
 so  I'm  not gonna use it,	0
 um and  second,  it's  another  level of infrastructure that we have to deal with.	0
-And I have - uh so my - my feeling on it is that I think in  principle  it's a really nice idea, and you have [MASK] which makes it  better  tha- than just taking ra-  raw  notes. On the  other  hand,	1
-I - the  down  side for  me  was that	0
+And I have - uh so my - my feeling on it is that I think in  principle  it's a really nice idea, and you have the  time  tags which makes it  better  tha- than just taking ra-  raw  notes. On the  other  hand,	1
+I - the  down  side for  me  was that	1
 I think the  pen  is really noisy.	1
 So you have ka- kaplunk, kaplunk, kaplunk.	0
 And I - and I don't know if it's audible on the -	0
-but I - I sort of thought that was a disadvantage. I  do  take notes, I mean, I could be taking notes on these things and I guess the  plus  with [MASK] would be the  time  markings but -	0
+but I - I sort of thought that was a disadvantage. I  do  take notes, I mean, I could be taking notes on these things and I guess the  plus  with the CrossPads would be the  time  markings but -	0
 I don't know.	0
-Uh, what  is  [MASK]	0
+Uh, what  is  a CrossPad?	0
 So it's - it's um - it's a regular pad, just a regular pad of paper but there's this  pen	0
 Thank you.	0
 which indicates  position.	0
@@ -648,7 +648,7 @@ And so you have time and position	0
 O_K.	0
 stuff  stored  so that you can - you have a record of whatever it is you've  written.	1
 O_K.	0
-And then you can download it and they have [MASK] and searching and all sorts of things.	0
+And then you can download it and they have O_C_R and searching and all sorts of things.	0
 O_K.	0
 O_K.	0
 So i- if you take notes it's a great little device.	1
@@ -714,16 +714,16 @@ Right.	0
 uh that you'd have if you had it live.	0
 And you don't have a lot of other  cues  that  might  be useful, so.	0
 Yeah.	0
-How do you [MASK]  and the time of the  recording?	0
+How do you synchronize the time in the  CrossPad  and the time of the  recording?	0
 I mean that was one of the issues we  talked  about  originally  and that- that's w-	0
-part of the  difficulty  is that we need an  infrastructure  for using the time - [MASK] and so that means synchronizing the time -	0
+part of the  difficulty  is that we need an  infrastructure  for using the time - the CrossPads and so that means synchronizing the time -	0
 Uh.	0
 Mm-hmm.	0
 You know you want it pretty  close  and there's a fair amount of  skew  because it's a hand-held unit with a  battery	0
 Well when - when I d-	0
 and so you -	0
 O_K.	0
-so you have to [MASK]	0
+so you have to synchronize at the beginning of each meeting all the pads that are being  used,	0
 so that it's synchronized with the time on  that  and then you have to	1
 download to an  application,  and then you have to	1
 figure out what the  data  formats are and convert it  over  if you wanna  do  anything with this information.	1
@@ -753,11 +753,11 @@ synchronize them and then do all the infrastructure but we could at least try it
 Well -	0
 one thing that we might try	0
 um	0
-is on some set of meetings, some collection of meetings, maybe [MASK] is the right one or maybe something else,	0
+is on some set of meetings, some collection of meetings, maybe E_D_U is the right one or maybe something else,	0
 we - we get somebody to buy into the idea of doing this as part of the task. I mean,	1
 Right.	0
-uh part of the reason - I think part of the reason that Adam was so interested in uh [MASK] from the beginning is he said from the beginning he hated taking notes and -	1
-Yep.	1
+uh part of the reason - I think part of the reason that Adam was so interested in uh the SpeechCorder sort of f- idea from the beginning is he said from the beginning he hated taking notes and -	1
+Yep.	0
 and so forth so and - and Jane  is  more into it but eh uh	0
 you know I don't know if you wanna really do -  do  this all the time so I think the thing is to -	0
 to get someone to actually buy  into  it and have at least  some  series of meetings where we  do  it.	0
@@ -783,7 +783,7 @@ So what kind of input would you be - ?	0
 so - so, I mean, if you're not worried about -	0
 Buttons.	0
 You'd just be pressing like a - a -	0
-Well - well you have a P_D_A and may- and you could have the same sort of [MASK] or whatever, I mean, you'd have to do a little eh a little bit of coding to do it.	0
+Well - well you have a P_D_A and may- and you could have the same sort of X_ interface or whatever, I mean, you'd have to do a little eh a little bit of coding to do it.	0
 Mm-hmm.	0
 But you could imagine, I mean, if - if  all  you really  wanted  was - you didn't want this	0
 Yeah, that be good.	0
@@ -805,22 +805,22 @@ Or like this is my "I'm supposed to do this" kind of button, like "I better reme
 Yeah.	0
 Action item.	0
 Yeah something like that or -	0
-I mean I think [MASK] is a good one.	0
+I mean I think the  CrossPad  idea is a good one.	0
 And then -	0
 Uh-huh.	0
 It's just a question of getting people to use it and getting the infrastructure set up in such a way that it's not a lot of extra work.	0
-I mean that's part of the reason why it hasn't happened is that	1
+I mean that's part of the reason why it hasn't happened is that	0
 Yeah.	0
-it's been a lot of extra work for  me	1
+it's been a lot of extra work for  me	0
 Right.	0
 and -	0
 Well, and not just for you. But it's also, it has this problem of having to	0
 W-	0
 go from an analog to a d-	0
 a digital record too, doesn't it? I mean -	0
-Well it's  digital  but it's in a format that	1
+Well it's  digital  but it's in a format that	0
 But I mean, say, if i- if -	0
-is not particularly  standard.	1
+is not particularly  standard.	0
 if you're writing - if you're writing notes in it does - it - it can't  do  handwriting recognition, right?	0
 No, no, but it's just - it's just storing the pixel	0
 O_K.	0
@@ -830,7 +830,7 @@ to a -	0
 I mean -	0
 Right.	0
 You don't have to -	0
-[MASK] is less errorful, yes.	0
+The transfer function is less errorful, yes.	0
 Yeah, yeah.	0
 Yeah.	0
 Oh, nicely put.	0
@@ -844,7 +844,7 @@ Well -	0
 w- we don't - we  certainly  don't have to return it, as I said. All - all  he  said is that if you're not using it could you return it, if you  are  using it feel free to  keep  it.	0
 The  point  is that we haven't used it at  all  and  are  we  going  to?	0
 So we have no but - uh by I - I would suggest you return one.	1
-O_K.	1
+O_K.	0
 Yeah.	0
 Because we - we you know, we - we  haven't  used it at all.	1
 We c-	0
@@ -856,7 +856,7 @@ s- project for something would be cool.	1
 Yep.	0
 I mean if we had them out and sitting on the table people might use them a little more	1
 Maybe Jeremy could sit in some meetings and press a button when there - when - when somebody laughed.	0
-although there is a little -	1
+although there is a little -	0
 Well, I'm -  yeah,  that's  not  a bad -	0
 Yeah, yeah.	0
 Yeah.	0
@@ -872,17 +872,17 @@ Breath and lau- "ha-ha-ha-ha".	0
 Well  dear.	0
 Um.	0
 Hmm.	0
-That reminded me of something. Oh well, too late.	1
+That reminded me of something. Oh well, too late.	0
 It slipped out.	0
 O_K.	0
 Oh,  equipment.	0
 You're - you're gonna  tease  me? O_K.	0
 Ordered - Uh, well I'm  always  gonna do  that.  W- uh -	1
-We ordered uh more	0
+We ordered uh more	1
 wireless,  and so they should be coming in at some point.	1
 Great.	0
 And then at the same time I'll probably rewire the room as per Jane's suggestion so that	1
-uh [MASK] eh are the m-	1
+uh the first N_ channels are wireless, eh are the m- the close-talking and the next N_ are far-field.	1
 You know what he means but isn't that funny sounding? "We ordered more  wireless. " It's like  wires  are the  things  so you're  wiring   - you're - you're -  you  - we're - we ordered more  absence  of the thing.	0
 That's a very philosophical	0
 statement from Morgan. I just - it's sort of a anachronism, I mean it's like -	0
@@ -894,7 +894,7 @@ Yeah.	0
 O_K.	0
 I mean there's - there's all this stuff going on uh between uh	1
 Andreas and - and - and Dave and Chuck and others with various kinds of runs uh um -	1
-[MASK] trying to figure things out about the features but it's -	1
+recognition  runs, trying to figure things out about the features but it's -	1
 it's all sort of in process, so there's not much to say	1
 right now.	0
 Uh why don't we start with our - our esteemed guest.	0

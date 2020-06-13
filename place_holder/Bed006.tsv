@@ -7,7 +7,7 @@ A couple times yeah. That's right, yeah.	0
 It's the uh twenty -	0
 Nineteenth?	0
 nineteenth.	0
-And you were [MASK] briefly,	0
+And you were my G_S_I briefly,	0
 @@	0
 Right, right.	0
 until I dropped the class.	0
@@ -75,7 +75,7 @@ O_K.	0
 Didn't take a vote? O_K.	0
 O_K, um, why don't we get started on  that  subject	0
 anyways.	0
-Um, so we're about to collect data and um	0
+Um, so we're about to collect data and um	1
 the uh s- the following things have happened since we last met. When will we three meet again? And um	0
 More than three of us.	0
 what happened is that um, "A_",  there was some confusion between you and Jerry with the - that leading to your talking to Catherine Snow,	0
@@ -107,11 +107,11 @@ thing that you wrote up.	0
 Yep.	0
 O_K.	0
 Wonderful.	0
-And um we have a little description of asking peop- subjects to contact Fey for you know recruiting them for our	0
-thing and um there was some confusion as to the consent form, which is basically that - that what what you just signed and since we have one already um -	0
+And um we have a little description of asking peop- subjects to contact Fey for you know recruiting them for our	1
+thing and um there was some confusion as to the consent form, which is basically that - that what what you just signed and since we have one already um -	1
 Right.	0
 Did Jerry talk to you about maybe using our class? the students in the undergrad class that he's teaching?	0
-Um well he said um we - definitely "yes", however there is always  more  people in a - in a facul- uh in a department than are just taking  his  class or anybody  else's  class at the moment and one should sort of reach out and try and get them all.	0
+Um well he said um we - definitely "yes", however there is always  more  people in a - in a facul- uh in a department than are just taking  his  class or anybody  else's  class at the moment and one should sort of reach out and try and get them all.	1
 e-	0
 Yeah.	0
 O_K, but th-	0
@@ -199,7 +199,7 @@ um that they have it with them and they can actually read them or sort of have t
 for the object because it's too hard to memorize all these st- strange German names.	0
 And then we're going to have another - we're gonna have w- another trial run I_E the first with that new setup tomorrow at two	1
 and we have a  real  interesting subject which is Ron Kay	0
-for who - those who know him, he's the founder of [MASK] So he'll - he's around seven- seventy years old, or something.	0
+for who - those who know him, he's the founder of I_C_I. So he'll - he's around seven- seventy years old, or something.	0
 I didn't know he was the founder. That's -	0
 O_K.	0
 And he also approached me and he offered to help  um our project and he was more thinking about some high level thinking tasks and  I said "sure we need help you can come in as a subject" and he said "O_K". So that's what's gonna happen, tomorrow,	0
@@ -287,7 +287,7 @@ So,	0
 you know, this is exactly getting someplace with the intention of entering and looking at pictures.	0
 Right.	0
 However,	1
-not only was - the common census were - among all participants of Friday's meeting was	0
+not only was - the common census were - among all participants of Friday's meeting was	1
 it's gonna be very laborious to - to make these drawings for each different things, all the different actions, if at all possible, and also people will get caught up in the pictures. So all of a sudden we'll get descriptions of pictures in there.	1
 Right.	0
 Right.	0
@@ -303,13 +303,13 @@ and kind of  chew  the task and then take the test away - the - the - the - the 
 Mm-hmm. Yeah.	0
 We will -	0
 by what  you  wrote, but can come up with their - with their own -	0
-Yeah, they will have no more [MASK] in front of them when they enter this room.	0
+Yeah, they will have no more linguistic matter in front of them when they enter this room.	0
 Right.	0
 O_K.	0
 Then I suggest we move on to the -	0
-to  we have um uh [MASK] let me make one more general remark, has sort of two - two side uh um	1
+to  we have um uh the E_D_U Project, let me make one more general remark, has sort of two - two side uh um	1
 actions, its um action items that we're do- dealing with,	1
-one is modifying [MASK] and the other one is modifying	1
+one is modifying the SmartKom parser and the other one is modifying the SmartKom natural language generation	1
 module.  And um	1
 this is not too complicated but I'm just mentioning it - put it in the framework because this is	0
 something we will talk about now.	0
@@ -323,7 +323,7 @@ Yeah.	0
 But not - not  any time part .	0
 O_K, so that's good. That's better than running into problems.	0
 O_K.	0
-And um I - I do have some good news for [MASK] however. And the good news is I guess it's done.	1
+And um I - I do have some good news for the natural language generation however. And the good news is I guess it's done.	1
 Uh,  meaning  that Tilman Becker, who does the German one, actually took out some time and already  did  it in English for us.	1
 And so the version he's sending us is already producing the English that's needed to get by in version one point one.	0
 So I take it that was similar to the - what - what we did for the parsing?	0
@@ -365,10 +365,10 @@ They're very dependent	0
 Not unless you really want to.	0
 And they're both nice guys so you may - may want to.	0
 O_K, that much from the parser and generator side, unless there are more questions on that.	0
-So, no [MASK] yet?	0
+So, no sample generator output yet?	0
 No.	0
 O_K.	0
-It - Just a mail that, you know, he's sending me the - the - the stuff soon and I was completely flabbergasted here and I - and that's also it's - it's going to produce [MASK] uh blah-blah-blah information for - necessary for one point one in English - based on the English, you know, in English. So.	0
+It - Just a mail that, you know, he's sending me the - the - the stuff soon and I was completely flabbergasted here and I - and that's also it's - it's going to produce the concept-to-speech uh blah-blah-blah information for - necessary for one point one in English - based on the English, you know, in English. So.	0
 This is being sent, mm-hmm.	0
 O_K.	0
 Mm-hmm.	0
@@ -381,9 +381,9 @@ Yeah.	0
 So the basic requirement fulfilled.	0
 Um, the basic requirement is fulfilled	1
 almost. When	1
-Andreas Stolcke and - and his gang, when they have um changed [MASK] then we can actually a- put it all together	1
+Andreas Stolcke and - and his gang, when they have um changed the language model of the recognizer and the dictionary, then we can actually a- put it all together	1
 Mm-hmm.	0
-Mm-hmm. So [MASK] also works. Uh-huh.	0
+Mm-hmm. So the speech recognizer also works. Uh-huh.	0
 Mm-hmm.	0
 and	0
 you  can speak into it and ask for T_V and  movie  information and then when if -  if  something actually happens and some answers come out, then we're done.	1
@@ -459,33 +459,33 @@ Yeah this is not an X_M_L this is sort of towards an -  a schema , nuh?  definit
 O_K.	0
 Right.	0
 The idea is, so, imagine we have a library of	1
-schema such as [MASK]	1
+schema such as the Source-Path-Goal	1
 and then we have forced uh motion,	1
-we have [MASK]	0
+we have cost action,	0
 Mm-hmm.	0
 Mm-hmm.	0
 we have a whole library of schemas.	0
-And they're gonna be, you know, fleshed out in - in their real ugly detail, [MASK] and there's gonna be s- a lot of stuff on the Goal and blah-blah-blah, that a goal can be and so forth.	1
+And they're gonna be, you know, fleshed out in - in their real ugly detail, Source-Path-Goal, and there's gonna be s- a lot of stuff on the Goal and blah-blah-blah, that a goal can be and so forth.	1
 What we think is -	0
 And all the names could - should be taken   "cum grano salis".   So. This is a -	0
-the fact that we're calling [MASK] right now should not entail that we are going to  continue  calling	0
-we have here first of all on the - in the - in the first iteration a stupid list of [MASK]	0
-Actions that can be categorized with - or that are related to [MASK]	0
+the fact that we're calling this "action schema" right now should not entail that we are going to  continue  calling this "action schema". But what that means  is	0
+we have here first of all on the - in the - in the first iteration a stupid list of Source-Path-Goal actions	0
+Actions that can be categorized with - or that are related to Source-Path-Goal.	0
 wi-	0
 O_K.	0
 to that schema	0
 Mm-hmm.	0
-and we will have you know [MASK]	0
+and we will have you know forced motion and cost action actions.	0
 And then those actions can be in multiple categories at the same time if necessary.	1
 So a push may be in - in - in both you know push uh in this or this uh -	0
-[MASK] for instance, O_K.	0
+Forced motion and caused action for instance, O_K.	0
 Exactly. Yeah.  Also,  these things may or may not	0
 get their own structure in the future.	0
-So  this  is something that, you know,  may  also be a res- As a result of  your  work in the future, we may find out that, you know, there're really s- these subtle differences between um  even   within  the domain of entering in the light of [MASK] that we need to put in - fill in additional structure up there.	0
+So  this  is something that, you know,  may  also be a res- As a result of  your  work in the future, we may find out that, you know, there're really s- these subtle differences between um  even   within  the domain of entering in the light of a Source-Path-Goal schema, that we need to put in - fill in additional structure up there.	0
 But it gives us a nice handle. So with this we can basically um you know s- slaughter the cow any- anyway we want.	0
 Uh.	0
 It - it is -	0
-It was sort of a - it gave us some headache, how do we avoid writing down that we have sort of [MASK] that this -	0
+It was sort of a - it gave us some headache, how do we avoid writing down that we have sort of the Enter Source-Path-Goal that this -	0
 But this sort of gets the job done in that respect and maybe it is even conceptually somewhat adequate in  a   sense that	0
 um we're talking about two different things. We're talking more on the sort of  intention  level, up  there,   and more on the - this is the - your basic bone um schema, down there.	1
 Uh one question, Robert. When you point at the screen is it your  shadow  that I'm supposed to look at? O_K. Whereas I  keep   looking where your hand is,	0
@@ -497,8 +497,8 @@ Yeah.	0
 Basically, what this is - is that there's an interface between what we are doing and the action planner	1
 Spit right here.	0
 and right now the way the interface is	1
-"action go" and then they have the -	0
-what the person claimed was the source and the person claimed as the goal	0
+"action go" and then they have the -	1
+what the person claimed was the source and the person claimed as the goal	1
 passed on.	1
 Mm-hmm.	0
 And the problem is, is that the current system does not distinguish between goes of type "going into", goes of type "want to go to a place where I can take a picture of", et cetera.	1
@@ -511,10 +511,10 @@ Currently.	0
 Yeah, well -	0
 Like are we adapting to it?	0
 Or -	0
-No. We - This is the output, sort of, of [MASK] right?	0
+No. We - This is the output, sort of, of the natural language understanding, right?	0
 Oh, yeah.	0
 Uh-huh.	0
-the input into [MASK] as it is now.	0
+the input into the action planning, as it is now.	0
 Mm-hmm.	0
 Mm-hmm.	0
 And what  we  are going to do, we going to - and you can see here, and again for Johno please - please focus the  shadow,	0
@@ -541,15 +541,15 @@ Right? that doesn't hurt the current way.	0
 Mm-hmm.	0
 Mm-hmm.	0
 which is -	0
-Which - which we're abbreviating as [MASK]	0
+Which - which we're abbreviating as " RAD ".	0
 Good.	0
 Hmm.	0
 Rad!	0
-So um you had like an action schema and [MASK] right? So how d	0
+So um you had like an action schema and a Source-Path-Goal schema, right? So how does this Source-Path-Goal schema fit into the uh action schema? Like is it one of the tags there?	0
 Hmm.	0
 Hmm. Mm-hmm.	0
 Yeah can you go back to that one?	0
-So [MASK] in this case,	0
+So the Source-Path-Goal schema in this case,	0
 I've - if I understand how we described - we set this up,	0
 um cuz we've been arguing about it all week,	0
 but uh we'll hold the - the -	0
@@ -564,42 +564,42 @@ So the fillers of the role source.	0
 the f- we'll fill those in fill those roles in, right?	0
 O_K.	0
 Yeah.	0
-[MASK] basically have extra -	0
+The S- Action-schemas basically have extra -	0
 See we - so those are - schemas exist because in case we need extra information	0
 instead of just making it an attribute and which - which is just one thing we - we decided to make it's own entity so that we could	1
-explode it out later on	0
+explode it out later on	1
 in case there is some structure that - that we need to exploit.	1
 O_K, so th- sorry I just don't kn- um um um - This is just	0
-uh X_M_L mo- notational but um the fact that it's [MASK] and then sort	0
+uh X_M_L mo- notational but um the fact that it's action schema and then sort of slash action schema that's a whole entit- That's a block,	0
 That's a block, yeah.	0
 whereas source is just an attribute? Is that -	0
 No, no, no. Source is just not spelled out here. Source meaning - Source will be uh will have a name, a type,	0
 Oh, O_K, O_K.	0
-maybe [MASK] mayb	0
+maybe a dimensionality, maybe  canonical	0
 Uh-huh, uh-huh.	0
 uh orientation -	0
 O_K could it - it could also be blocked out then as - O_K.	0
 Yeah, the - So - Yeah.	0
-s- Source it will be, you know we'll f- we know a lot about sources so we'll put all of that in Source. But it's independent whether we are using [MASK]	0
+s- Source it will be, you know we'll f- we know a lot about sources so we'll put all of that in Source. But it's independent whether we are using the S_P_G schema in an Enter, View, or Approach mode, right? This is just properties of the S_P_G  schema.	0
 O_K.	0
 Mm-hmm.	0
-We can talk about Paths being the fastest, the quickest, the nicest and so forth, uh or - or - and [MASK] should be coming in there as well.	0
+We can talk about Paths being the fastest, the quickest, the nicest and so forth, uh or - or - and the Trajector should be coming in there as well.	0
 O_K.	0
 And then G- the same about Goals.	0
-O_K. So I guess the question is when you actually fill one of these out, it'll be under [MASK] Those are -	0
+O_K. So I guess the question is when you actually fill one of these out, it'll be under action schema? Those are -	0
 It's gonna be one - y- you'll pick one of those for - O_K these are - this is just a layout of the  possible  that could go - play that role. O_K, go it. Uh-huh.	0
 Right.	0
 Right, so the - the - the roles will be filled in with the schema and then what actual a-	1
 Hmm?	0
 O_K.	0
-action is	0
+action is	1
 O_K.	0
-chosen is - will be in the - in [MASK]	1
+chosen is - will be in the - in the action schema section.	1
 S- S-	0
 O_K, so one question. This was - in this case it's all um clear, sort of obvious,	0
-but you can think of [MASK] as each having their roles, right? the -	0
+but you can think of the Enter, View and Approach as each having their roles, right? the -	0
 I mean it's - it's implicit that the person that's moving is doing entering viewing and approaching,	0
-but you know the usual thing is we have bindings between sort of - they're sort of like action specific roles and the more general [MASK]	0
+but you know the usual thing is we have bindings between sort of - they're sort of like action specific roles and the more general Source-Path-Goal specific roles.	0
 So are we worrying about that or not for now? O_K.	0
 Yes, yes. Since you bring it up now, we will worry about it. Tell us more about it.	0
 O_K.	0
@@ -610,7 +610,7 @@ Hmm.	0
 Hmm.	0
 and  that - that may or may not be what you guys intended.	0
 But if it  is,  then the top block is sort of like	1
-um, you know, you have to list exactly what [MASK]	0
+um, you know, you have to list exactly what X_schema or  in this  action schema, there'll be a certain one,	0
 that has its own s- structure and maybe it has stuff about that specific to entering or viewing or approaching,	1
 but those could include roles like the thing that you're viewing, the thing that you're entering, the thing that you're whatever, you know,	0
 So very specific role names are "viewed thing", "entered thing" -	0
@@ -618,15 +618,15 @@ that - which are - think - think of enter, view and approach as frames and they 
 Yeah.	0
 Mm-hmm.	0
 Yeah.	0
-and you can also describe them in a general way as [MASK] and maybe there'	1
+and you can also describe them in a general way as Source-Path-Goal schema and maybe there's other image schemas that you could you know add after this that you know,	1
 Mm-hmm.	0
-how do they work in terms of you know [MASK] or how do they work in f- terms of other things. So all of those have um	1
+how do they work in terms of you know a force dynamics or how do they work in f- terms of other things. So all of those have um	1
 Mm-hmm, Mm-hmm, Mm-hmm.	0
-basically f- either specific - frame specific roles or more general	0
+basically f- either specific - frame specific roles or more general	1
 frame specific roles that might have binding. So the question is are um - how to represent when things are linked in a certain way.	1
 So we know for Enter that there's Container potentially involved and it's not -	0
 Mm-hmm.	0
-uh I don't know if you wanna have in the same level as [MASK] it - it's somewhere in there that you need to represent that there is some container and the interior of it corresponds to some part of [MASK]	1
+uh I don't know if you wanna have in the same level as the action schema S_P_G schema it - it's somewhere in there that you need to represent that there is some container and the interior of it corresponds to some part of the Source-Path-Goal	1
 um you know goal - uh goal I guess in this case. So uh is there an easy way in this notation to show when there's  identity  basically between things and I di- don't know if that's something we need to invent or you know just -	1
 Mm-hmm.	0
 Yeah.	0
@@ -634,9 +634,9 @@ The - wa- wasn't there supposed to be a link in the	0
 Right.	0
 I don't know if this answers your question, I was just staring at this while you were talking, sorry.	0
 It's O_K.	0
-Uh a link between [MASK]	0
+Uh a link between the action schema,	0
 a field in the s- in the	0
-schema for [MASK] that would link us t	0
+schema for the image schemas that would link us to which action schema we were supposed to use so we could -	0
 Yeah.	0
 Um, well that's - that's one - one thing is that	0
 we can link up,	0
@@ -648,39 +648,39 @@ that we may f- find sort of	0
 concepts floating around i- in the a- action description of the action f- "Enter" frame up there that are,	0
 e- when you talk about the  real  world, actually identical to the goal of the -	0
 Exactly.	0
-[MASK] and	0
+the S- Source-Path-Goal schema, and	0
 Right, right.	0
 do we have means of - of telling it within that a- and the answer is absolutely.	1
 Right.	0
 Yeah.	0
-The way - we absolutely have those means that are even part of [MASK]	0
+The way - we absolutely have those means that are even part of the M_-three-L_ A_  A_P_I,	0
 Oh great. s- Uh-huh.	0
 meaning we can reference. So meaning -	1
 Great. That's exactly what is necessary.	0
-And um. This referencing thing however is of  temporary  nature because sooner or later [MASK] will be	0
+And um. This referencing thing however is of  temporary  nature because sooner or later the W_-three-C_ will be	0
 Yeah.	0
 St-	0
-finished with [MASK] uh,	0
+finished with their X_path, uh,	0
 um,	0
 specification and then it's going to be even  much  nicer. Then we have  real  means of  pointing  at an  individual   instantiation   of one of our elements here and link it to another one, and this not only  within  a document but also  via  documents,	1
 Mm-hmm.	0
 Mm-hmm.	0
 Mm-hmm.	0
 O_K.	0
-and - and all in [MASK]	0
+and - and all in a v- very easy e- homogenous framework.	0
 So you know - happen to know how - what - what "sooner or later" means like in practice?	0
-That's  @@  but it's soon. So it's g- it's - the spec is there and it's gonna part of [MASK] filed by the end of this year so that this means we can start using it basically now. But this is a technical detail.	0
+That's  @@  but it's soon. So it's g- it's - the spec is there and it's gonna part of the M_-three-L_ A_P - A_P_I filed by the end of this year so that this means we can start using it basically now. But this is a technical detail.	0
 Or estimated. O_K, O_K.	0
 Mm-hmm.	0
 So a pointer - a way to really say pointers.	0
-Basically references from the roles in the schema - the bottom schemas to [MASK] is wha- uh I'm assuming.	0
+Basically references from the roles in the schema - the bottom schemas to the action schemas is wha- uh I'm assuming.	0
 Yeah.	0
 O_K, yeah.	0
 Yeah.	0
 Yeah, I mean  personally,  I'm looking even  more  forward	1
 O_K.	0
-to the day when we're going to have  [MASK] which l- is a form of notation where it allows you to say	0
-that if [MASK] up there is  Enter,	0
+to the day when we're going to have  X_  forms, which l- is a form of notation where it allows you to say	1
+that if the S_P_G action up there is  Enter,	1
 Uh-huh.	0
 then the  goal  type can never be a statue.	1
 Right.	0
@@ -698,23 +698,23 @@ Or the Gateway Arch in St. Louis. So.	0
 Yeah?	0
 S-	1
 Yeah.	0
-So um,	0
-like are you gonna have similar schemas for [MASK] lik	1
+So um,	1
+like are you gonna have similar schemas for F_M like forced motion and caused action and stuff like you have for S_P_G?	1
 Yeah.	1
-And if so like can - are you able to enforce that you know if - if it's - if it's [MASK] then you have that schema, if it'	0
+And if so like can - are you able to enforce that you know if - if it's - if it's S_P_G action then you have that schema, if it's a forced motion then you have the other schema	0
 present in the -	0
 Um we have absolute - No. We have absolutely no means of enforcing that,	0
-so it would be considered valid if we have [MASK] and n	1
+so it would be considered valid if we have an S_P_G action "Enter" and no S_P_G schema, but a forced  action  schema.	1
 Could  happen.	0
 Whi- which is not  bad,  because I mean, that there's multiple sens- I mean that particular case, there's mult- there - there's a forced side of -	0
 of that verb as well.	0
-Hmm. It - maybe it means we had nothing to  say  about [MASK]	0
+Hmm. It - maybe it means we had nothing to  say  about the Source-Path-Goal.	0
 O_K.	0
 What's  also  nice, and for a- i- for me in my mind it's - it's crucially necessary, is that we can have multiple schemas and multiple action schemas in parallel.	1
 Right.	0
 And um we started thinking about going through our  bakery  questions, so when I say "is there a bakery here?"	0
-you know I  do   ultimately  want our module to be able to first of all f- tell the rest of the system "hey this person actually wants to  go  there" and "B_",  that person actually wants to buy something to eat there. Nuh? And if these are two different schemas, I_E [MASK] of getting there and then the buying snacks schema, nuh? -	0
-Would they both be listed here in - O_K. Under so o- under [MASK] there's a list that can include both -	0
+you know I  do   ultimately  want our module to be able to first of all f- tell the rest of the system "hey this person actually wants to  go  there" and "B_",  that person actually wants to buy something to eat there. Nuh? And if these are two different schemas, I_E the Source-Path-Goal schema of getting there and then the buying snacks schema, nuh? -	0
+Would they both be listed here in - O_K. Under so o- under action schema there's a list that can include both -	0
 Yes.	0
 ye- Yeah, they they would -  both  schemas would appear, so what is the uh is - is there a "buying s- snacks" schema? What is the uh -	0
 Right.	0
@@ -732,13 +732,13 @@ I-	0
 Yeah, a "commercial event" or something. Yeah? So uh -	0
 d- f-	0
 Yeah I - I -	0
-so we would - we would instantiate [MASK] with [MASK] blah-blah-blah and the buying event	0
+so we would - we would instantiate the S_P_G schema with a Source-Path-Goal blah-blah-blah and the buying event	0
 I see.	0
 Uh-huh.	0
 Uh-huh.	0
 you know at which - however that looks like,	0
 the place f-	0
-Interesting. Would you say that the - like -	0
+Interesting. Would you say that the - like -	1
 thing to buy.	0
 I mean you could have a flat structure and just say these are two independent things,	1
 but there's also this sort of like causal, well, so one is really facilitating the other and it's part of a compound action of some kind, which has structure.	1
@@ -752,17 +752,17 @@ r-	0
 I mean there are truly times when you have two totally independent goals that they might express at once, but in  this  case it's really like	0
 Yes.	0
 there's a purpo- means that you know f- for achieving some other purpose.	0
-Well, if I'm - if I'm recipient of such a message and I get [MASK] where the goal is a bakery and then I get a commercial action which takes place in a bakery, right?	0
+Well, if I'm - if I'm recipient of such a message and I get a Source-Path-Goal where the goal is a bakery and then I get a commercial action which takes place in a bakery, right?	0
 Uh-huh.	0
 and - and - and they - they are obviously, via identifiers, identified to be the same thing here.	0
 Yeah. See that - that bothers me that they're the same thing.	0
 No, no, just the - Yeah?	0
 Yeah because they're two different things one of which is l- you could think of one a sub you know pru- whatever pre-condition for the second.	0
 Yeah, yeah!	0
-Right. Yeah, yeah. So. So. O_K.	0
+Right. Yeah, yeah. So. So. O_K.	1
 So there's like  levels  of granularity. So uh there's - there's um a  single  event of which they are	1
 both a part. And they're -  independently  they - they are events which have	0
-very different characters as far as [MASK] whatever. So when you identify [MASK] and	0
+very different characters as far as Source-Path-Goal whatever. So when you identify Source-Path-Goal and	0
 Mm-hmm, yeah.	0
 whatever, there's gonna to be a desire, whatever, eating, hunger, whatever other frames you have involved,	0
 they have to match up in - in nice ways. So it seems like each of them has its own  internal  structure and mapping to these	0
@@ -772,8 +772,8 @@ But you know that's just -	0
 That's just me.	0
 Like -  I - I -	0
 Well,	1
-I think we're gonna	0
-hit a lot of interesting	0
+I think we're gonna	1
+hit a lot of interesting	1
 problems and as I prefaced it	1
 this is the result of one week of arguing	0
 Mm-hmm.	0
@@ -794,7 +794,7 @@ Yeah.	0
 yeah that would be - that would be nice.	0
 and - and this is on - on a - on - on my list of things until next - next week.	1
 O_K.	0
-It's also a question of the recursiveness and - and a hier- hierarchy	0
+It's also a question of the recursiveness and - and a hier- hierarchy	1
 Yeah. Yeah.	0
 um in there. Do we want the schemas just blump blump blump blump?	1
 I mean it's - if we can actually you know get it so that we can, out of  one  utterance, activate  more  than one  schema,  I mean, then we're already pretty good, right?	0
@@ -843,12 +843,12 @@ Mm-hmm.	0
 Right.	0
 Yep.	0
 Well.	0
-I have a question about [MASK] S	0
+I have a question about the slot of the S_P_G action. So  the Enter-View-Approach the - the - the EVA um, those are fixed slots in this particular action. Every action of this kind	0
 It's like  -	0
 will have a choice.	0
 Or - or - or - or will it just	0
 um uh - is it change -	0
-[MASK] either is an Enter or a View or an Approach, right? O_K.	0
+Every S_P_G - every S_P_G action either is an Enter or a View or an Approach, right? O_K.	0
 Right, right. So - so I - I mean for -	0
 Mm-hmm.	0
 for each particular action that you may want to characterize	0
@@ -863,48 +863,48 @@ sensible to me to r- to view them as mutually exclusive	0
 um	0
 maybe even  not.	0
 J-	0
-Do you mean within [MASK] Those three?	0
+Do you mean within the Source-Path-Goal actions? Those three?	0
 uh	0
 Yeah.	0
 ye- uh uh b- I- uh I - u- I understand uh but -	0
 And um how - how where is the end? So that's -	0
 No, no. There - a- a- actually by I think my question is simpler than that, um	0
-is - O_K, so you have [MASK] and - and it has three different um uh aspects um	0
+is - O_K, so you have an S_P_G action and - and it has three different um uh aspects um	0
 because you can either enter a building or view it or - or approach it and touch it or something.	0
 Um now you define uh  another  action, it's - it's called um	0
-[MASK]	0
-uh s- [MASK] that has to do with writing a letter, let's say. I mean not even within this context, but	0
+Forced action or forced motion.	0
+uh s- S_P_G_one action that has to do with writing a letter, let's say. I mean not even within this context, but	0
 Yeah.	0
 a different action. Um and this - uh action-two would have various variable possibilities of interpreting what you would like to do.	0
-And - i- in - in a way similar to either [MASK] you may want to send a letter, read a letter, or dictate a letter, let's say.	0
+And - i- in - in a way similar to either Enter-View-Approach you may want to send a letter, read a letter, or dictate a letter, let's say.	0
 Oh the - O_K  uh maybe I'd -	0
 So, h-	0
 The uh -	0
 These actions - I don't know if I'm gonna answer your question or not with this, but	0
-the categories inside of [MASK] so, [MASK] is a  category.	0
+the categories inside of action schemas, so, S_P_G action is a  category.	0
 Real- although I think what we're specifying here is this is a category where the	0
-actions "enter, view and approach" would fall into because they have a related [MASK] in our tourist domain.	0
+actions "enter, view and approach" would fall into because they have a related Source-Path-Goal schema in our tourist domain.	0
 Cuz viewing in a tourist domain is going up to it and - or actually going from one place to another to take a picture, in this - in a -	0
 Right.	0
 Oh, s- so it's sort of automatic derived fr- from the structure that - that is built elsewhere.	0
 derived  I don't know if I u-	0
-This is a cate- this a category structure here, right? [MASK]	1
+This is a cate- this a category structure here, right? Action schema.	1
 Right.	0
-What are some types of [MASK] Well one of the types	1
+What are some types of action schemas? Well one of the types of action schemas is Source-Path-Goal action.	1
 And what are some types of  that?  And an Enter,	1
 Right.	0
-Hmm.	1
-a View, an Approach. Those are all [MASK]	1
+Hmm.	0
+a View, an Approach. Those are all Source-Path-Goal actions.	1
 Inside of Enter there will be roles that can be filled	1
 basically. So if I want to go from outside to inside	1
-then you'd have the roles that need to filled, where you'd have [MASK]	0
+then you'd have the roles that need to filled, where you'd have a Source-Path-Goal	1
 set of roles. So you'd the Source would be outside and Path is to the door or whatever, right?	1
 Right.	0
 So if you wanted to have a new type of action you'd create a new type of category.	1
 Then this category would - we would put it - or not necessarily - We would put	0
 a new action in the m- uh in the categories that -	0
 in which it has the um - Well, every action has a set of related schemas	0
-like [MASK] or force, whatever, right?	0
+like Source-Path-Goal or force, whatever, right?	0
 Mm-hmm.	0
 Right.	0
 So we would put "write a letter" in the categories uh that - in which it had - it w- had uh	0
@@ -914,11 +914,11 @@ Mm-hmm.	0
 Exactly. Schemas uh that of that type.	0
 And then later,	0
 you know, there - the -	0
-we have [MASK] where we'd define it down there as -	0
+we have a communication event action where we'd define it down there as -	0
 Hmm.	0
-So there's a bit a redundancy, right? in - in which the things that go into a particular - You have categories at the top under [MASK] and the things that go under a particular category are um	1
+So there's a bit a redundancy, right? in - in which the things that go into a particular - You have categories at the top under action schema and the things that go under a particular category are um	1
 supposed to have a corresponding schema definition for that type. So I guess what's the function of having it up there too?	0
-I mean I guess I'm wondering whether - You  could  just have under [MASK] you could just sort of say whatever you know it's gonna be Enter, View or Approach or whatever number of things and pos- partly because	0
+I mean I guess I'm wondering whether - You  could  just have under action schema you could just sort of say whatever you know it's gonna be Enter, View or Approach or whatever number of things and pos- partly because	0
 Mm-hmm.	0
 you  need  to know somewhere that those things fall into some categories. And it  may  be multiple categories as you say which is um the reason why it gets a little messy um but if it has -	0
 Yeah.	0
@@ -942,9 +942,9 @@ Ri-   You'd  like - so you're saying you could practically turn this structure i
 Um	0
 No basically w-	0
 Ye- I see what you mean by that, but I - I don't if I would - I would need to have t- have that.	0
-Get - get rid of [MASK]	0
+Get - get rid of the sort of S_P_G slash something	0
 Right.	0
-uh or [MASK] because what does that tell us?	0
+uh or the sub-actions category, because what does that tell us?	0
 Uh-huh.	0
 Yeah.	0
 Um and I  agree  that you know this is something we need to discuss, yeah.	1
@@ -953,7 +953,7 @@ you could say "here, list all the kinds of schemas that -	0
 on the category that -	0
 List all the  parent  categories.	0
 you know i- list all the parent categories". It's just like	1
-[MASK] right? like you hav	1
+a frame hierarchy, right? like you have these blended frames. So you would say enter and you'd say  my  parent	1
 Yeah.	0
 Mm-hmm.	0
 frames are such-and-such, h- and then those are the ones that actually you then actually define and say how the roles bind to your  specific  roles which will probably be f- richer and fuller and have other stuff in there.	0
@@ -979,9 +979,9 @@ Um.	0
 I just don't see why you would -	0
 I mean does th-	0
 Who uses this uh - this data structure?	0
-You know? Like, do you say "alright I'm going to uh -  do [MASK]	0
-And then you know somebody ne- either the computer or the user says "alright, well, I  know  I want to do [MASK] so what are my choices among  that? "	0
-And "oh, O_K, so I can do [MASK]". It's not  like  that, right?	0
+You know? Like, do you say "alright I'm going to uh -  do an S_P_G action".	0
+And then you know somebody ne- either the computer or the user says "alright, well, I  know  I want to do a Source-Path-Goal action so what are my choices among  that? "	0
+And "oh, O_K, so I can do an Enter-View-Approach". It's not  like  that, right?	0
 It's more like you say "I want to, uh -  I want to do an Enter." And then you're more interested in knowing what the parent categories are of  that.	0
 Well only one of -	0
 Right? So that	0
@@ -1044,9 +1044,9 @@ this is one wa- so this is a way to link	0
 uh	0
 the way these roles are filled out to the action.	0
 Mm-hmm.	0
-Because if we know that Enter is a t- is [MASK] right?	0
+Because if we know that Enter is a t- is an S_P_G action, right?	0
 Mm-hmm.	0
-we know to look for [MASK] and put the appropriate - fill in the appropriate roles later on.	0
+we know to look for an S_P_G schema and put the appropriate - fill in the appropriate roles later on.	0
 Mm-hmm.	0
 Yeah.	0
 And you could have  also  indicated that by saying "Enter, what are the kinds of action I am?"	0
@@ -1060,11 +1060,11 @@ Yes because nobod- no- the modules don't - This is -	1
 Yeah. uh	0
 this is a schema that defines X_M_L messages that are passed from one module to another,	1
 Mm-hmm.	0
-mainly meaning from [MASK] or fr	1
+mainly meaning from the natural language understanding, or from the  deep  language understanding to the action planner.	1
 Mm-hmm.	0
 Now the -	1
-the reason for - for not	0
-using  this  approach is because	0
+the reason for - for not	1
+using  this  approach is because	1
 you always will have to go back,	1
 each module will try - have to go back to look up which uh you know entity can have	1
 which uh, you know, entity can have which parents, and then -	1
@@ -1099,11 +1099,11 @@ And	0
 um	0
 is there more to be said?  I think um -	0
 In  principle  what I - I think that this approach  does,	0
-and e- e- whether or not we take [MASK] and we all throw up - up the ladder	0
+and e- e- whether or not we take the Enter-View and we all throw up - up the ladder	0
 um wha- how do how does Professor  Peter  call that? The uh	0
 Yeah.	0
 hhh,	0
-[MASK]	0
+silence su- sublimination?	0
 Throwing somebody up the stairs?	0
 Have you never read the Peter's Principle anyone here?	0
 Nope.	0
@@ -1119,8 +1119,8 @@ Oh!	0
 um.	0
 Promote them, yeah.	0
 Yeah.	0
-O_K, so we can promote [MASK] all - all up a bit and and get rid of the uh blah-blah-X_blah uh	0
-asterisk [MASK] altogether.	0
+O_K, so we can promote Enter-View all - all up a bit and and get rid of the uh blah-blah-X_blah uh	0
+asterisk sub-action item altogether.	0
 O_K.	0
 No - no problem with that and we - w-	0
 we - we will play around with all of them but the  principal  distinction between having the - the pure schema and their instantiations on the one hand, and adding some whatever,	1
@@ -1234,12 +1234,12 @@ or, better,  speech.  So.	0
 This is it and um	0
 The other good thing about it is Jerry can be on here on Friday and he can weigh in as well.	0
 Yeah.	0
-and um if you can get [MASK] also maybe with a nice example that would be helpful for Johno and me.	1
+and um if you can get that  binding  point also maybe with a nice example that would be helpful for Johno and me.	1
 Oh yeah uh	0
 O_K.	0
 let's uh	0
 yeah they're -	0
-Give us -	1
+Give us -	0
 No problem, yeah.	0
 I think you've got one on hand, huh?	0
 I have several in my head, yeah.	0
@@ -1265,14 +1265,14 @@ So actually I'm not sure - I would be curious to see	0
 how separate the intention	0
 part and the action part	0
 are in the system.	0
-Like I know the whole thing is like [MASK] or something like that, right? So	0
+Like I know the whole thing is like intention lattice, or something like that, right? So	0
 Mm-hmm.	0
-is the ri- right now are the ideas the rich - rich [MASK]	0
+is the ri- right now are the ideas the rich - rich the R_A_D	0
 or whatever	0
 is one	0
 you know potential block inside intention. It's still -	0
 Yeah.	0
-it's still mainly [MASK] and then that's just one way to describe the - the action part of it. O_K.	0
+it's still mainly intention hypothesis and then that's just one way to describe the - the action part of it. O_K.	0
 Yeah.	0
 Yeah.	0
 It's -	0
@@ -1280,7 +1280,7 @@ It's an a- attempt to refine it basically.	0
 And yeah, it's an - an - it's - it's sort of -	0
 O_K, great uh-huh.	0
 Not just that you want to go from here to here, it's that	0
-the action is what you intend and this action consists of all com- complicated modules and [MASK] and whatever. So.	0
+the action is what you intend and this action consists of all com- complicated modules and image schemas and whatever. So.	0
 Yeah.	0
 Yeah. And - and there will be a - a - a  relatively  high level of redundancy in the sense that	0
 Mm-hmm.	0
@@ -1289,7 +1289,7 @@ um	0
 ultimately	0
 one -	0
 so th- so that	0
-if we want to get  really  cocky we we will say "well if you really look at it, you just need [MASK] ."	0
+if we want to get  really  cocky we we will say "well if you really look at it, you just need our  RAD ."	0
 You can throw the rest away,	0
 Mm-hmm.	0
 right?	0
@@ -1305,11 +1305,11 @@ So.	0
 H-	0
 But w- we'll see that then, and how - how it sort of evolves.	0
 Mm-hmm.	0
-I mean if - if people  really  like our - [MASK] I mean w- what might	0
+I mean if - if people  really  like our - our RAD, I mean w- what might	0
 happen is that they will get rid of that action thing  completely,	0
 you know, and leave it up	0
 for us to get the parser input	0
-Mmm. We know the things that make use of this thing so that we can just change them so that they make use of [MASK]	0
+Mmm. We know the things that make use of this thing so that we can just change them so that they make use of RAD.	0
 um	0
 Yeah.	0
 Yeah.	0
@@ -1317,10 +1317,10 @@ I can't believe we're using this term.   So I'm like	0
 You don't have to use the acronym.	0
 RAD! Like every time I say it, it's horrible.	0
 O_K.	0
-Mm-hmm.	1
+Mm-hmm.	0
 I see what you mean.	0
 Is the -	0
-[MASK] a  great  term.	0
+RAD's a  great  term.	0
 But what is the "why"?	0
 It's  rad,  even!	0
 Why?	0
@@ -1332,7 +1332,7 @@ Yeah. That's - doesn't make it a great term. It's just like those jokes where yo
 ye- no but i- but if you - if you - if you  work  in th- in  that  X_M_L community it is a  great  acronym because it e- evokes	0
 Just think of it as - as "wheel" in German.	0
 Oh.	0
-whatever [MASK] is the biggest thing right? That's the rich - sort	0
+whatever R_D_F - R_D_F is the biggest thing right? That's the rich - sort of "Resource Description Framework"	0
 Oh "rich de-"	0
 Oh.	0
 and um - and also - So,  description,  having the word d- term "description" in there is wonderful,	0

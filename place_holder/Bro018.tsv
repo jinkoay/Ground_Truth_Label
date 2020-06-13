@@ -1,28 +1,28 @@
-O_K. So uh, he's not here, so you get to -	0
+O_K. So uh, he's not here, so you get to -	1
 So.	0
-Yeah, I will try to explain the thing that I did this - this week - during this week.	0
+Yeah, I will try to explain the thing that I did this - this week - during this week.	1
 Yeah.	0
-Well eh you know that I work - I begin to work with a new feature to detect [MASK]	0
+Well eh you know that I work - I begin to work with a new feature to detect voice-unvoice.	1
 Mm-hmm.	0
-What I trying two [MASK]	0
-to - to the - with this new feature and the fifteen feature	0
-uh from the	0
-eh bus- base system	0
-The - [MASK]	0
-No,  satly  the mes- [MASK] the new base system - the new base system.	0
-Oh the - O_K, [MASK]  system.	0
-Yeah, we - yeah [MASK] with the new filter,	0
+What I trying two M_L_P	1
+to - to the - with this new feature and the fifteen feature	1
+uh from the	1
+eh bus- base system	1
+The - the mel cepstrum?	0
+No,  satly  the mes- the Mel Cepstrum, the new base system - the new base system.	0
+Oh the - O_K, the  Aurora  system.	0
+Yeah, we - yeah the Aurora system with the new filter,	0
 O_K.	0
-[MASK] or something like that. And I'm trying tw	1
+V_A_D or something like that. And I'm trying two M_L_P, one	1
 one that only have t- three output,  voice, unvoice, and silence, and	1
 Mm-hmm.	0
-other one that have fifty-six output.	0
-The probabilities  of the allophone . And	0
-I tried to do some experiment of recognition with that	0
-and only have result with - with [MASK] with the three output.	0
-And I put together the fifteen features and the three [MASK] output.	0
-And, well, the result are	0
-li- a little bit better, but more or less similar.	0
+other one that have fifty-six output.	1
+The probabilities  of the allophone . And	1
+I tried to do some experiment of recognition with that	1
+and only have result with - with the M_L_P with the three output.	1
+And I put together the fifteen features and the three M_L_P output.	0
+And, well, the result are	1
+li- a little bit better, but more or less similar.	1
 Uh, I - I'm - I'm slightly confused. What - what feeds the uh - the three-output net?	0
 Hmm.	0
 Voice, unvoice, and si-	0
@@ -32,9 +32,9 @@ The inputs are the fifteen - the fifteen uh	0
 bases  feature.	0
 the - with the new code.	0
 Uh-huh.	0
-And the other three features are [MASK] the variance of the difference between the two spectrum,	0
+And the other three features are R_, the variance of the difference between the two spectrum,	0
 Uh-huh.	0
-the variance of the auto-correlation function, except the - the first point, because half the height value is  [MASK]  and	0
+the variance of the auto-correlation function, except the - the first point, because half the height value is  R_zero  and also R_zero,	0
 Mm-hmm.	0
 Mm-hmm.	0
 Mm-hmm.	0
@@ -42,14 +42,14 @@ Mm-hmm.	0
 the first coefficient of the auto-correlation function. That is like the energy	0
 Right.	0
 with these three feature, also these three feature.	0
-You wouldn't do like [MASK] over [MASK] or something like that?	0
-I mean usually for [MASK] you'd do - yeah, you'd do something - you'd do energy but then you have something like spectral slope, which is you get like [MASK] ov- over [MASK] or something like that.	0
+You wouldn't do like R_one over R_zero or something like that?	0
+I mean usually for voiced-unvoiced you'd do - yeah, you'd do something - you'd do energy but then you have something like spectral slope, which is you get like R_one ov- over R_zero or something like that.	0
 Yeah.	0
 Uh yeah.	0
 What are the R_'s?	0
 I'm sorry I missed it.	0
 R_ correlations.	0
-No, R_ c- No.	1
+No, R_ c- No.	0
 Oh.	0
 Auto-correlation? Yes, yes, the variance of the auto-correlation function that uses that  @@	0
 Ye-	0
@@ -57,16 +57,16 @@ Well that's the  variance,  but if you just say "what is -" I mean, to first ord
 um yeah one of the differences between voiced, unvoiced and silence is energy.	0
 Another one is - but the other one is the spectral  shape.	0
 Yeah, I- I'll -	0
-The spectral shape, yeah.	1
-Yeah, and so [MASK] over [MASK] is what you typically use for that.	0
+The spectral shape, yeah.	0
+Yeah, and so R_one over R_zero is what you typically use for that.	0
 No, I don't use that - I can't use -	0
 No, I'm saying that's what people us- typically use.	0
-Mmm.	1
+Mmm.	0
 See, because it - because this is - this is just like a single number to tell you	0
 um	0
 "does the spectrum look like  that  or does it look like  that ".	0
 Mm-hmm.	0
-Oh. R_ - [MASK]	0
+Oh. R_ - R_zero.	0
 Right?	0
 Mm-hmm.	0
 So if it's - if it's um - if it's low energy uh but the - but the spectrum looks	0
@@ -75,10 +75,10 @@ Mm-hmm.	0
 it's probably  silence.	0
 Uh but if it's low energy and the spectrum looks like  that,	0
 it's probably  unvoiced.	0
-Yeah.	1
+Yeah.	0
 So if you just - if you just had to pick	0
-two features to determine [MASK]	0
-you'd pick something about the spectrum like uh [MASK]	0
+two features to determine voiced-unvoiced,	0
+you'd pick something about the spectrum like uh R_one over R_zero,	0
 Mm-hmm, O_K.	0
 um and R_zero	0
 or i- i- you know you'd have some other energy measure and like in the old days people did like uh zero crossing	0
@@ -92,20 +92,20 @@ everything is more or less the similar - more or less similar.	0
 But um	0
 It's not quite better.	0
 Right, but it seemed to me that what you were	0
-what you were getting at before was that there is something about the difference between the original signal or the original [MASK] and with the filter which is what - and the variance was one take uh on it.	0
+what you were getting at before was that there is something about the difference between the original signal or the original F_F_T and with the filter which is what - and the variance was one take uh on it.	0
 Yeah, I used this too.	0
 Right. But it - it could be something else. Suppose you  didn't  have anything like that. Then in that case, if you have two nets,	0
 Alright, and this one has three outputs,	0
 Mm-hmm.	0
 and this one has f-	0
-whatever, fifty-six, or something, if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence  here,  we've found in the past you'll do  better  at [MASK] than you do with  this  one.	0
+whatever, fifty-six, or something, if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence  here,  we've found in the past you'll do  better  at voiced-unvoiced-silence than you do with  this  one.	0
 Mm-hmm.	0
 So just  having  the three output thing doesn't - doesn't really  buy  you anything.	0
 Yeah.	0
 The issue is what you  feed  it.	0
 Yeah, I have - yeah.	0
 So uh	0
-So you're saying take the features that go into [MASK]  net and feed those into the  other  one,	0
+So you're saying take the features that go into the voiced-unvoiced- silence  net and feed those into the  other  one,	0
 No -	0
 w-	0
 as additional inputs, rather than having a separate -	0
@@ -119,8 +119,8 @@ And something different in some fundamental  way.  And so the kind of thing that
 was looking at something uh ab- um -	0
 something	0
 uh about the difference between the - the uh um	0
-[MASK] uh	0
-and the log magnitude uh F_F_- spectrum uh and the um uh [MASK]	0
+log F_F_T uh log power uh	0
+and the log magnitude uh F_F_- spectrum uh and the um uh filter bank.	0
 Yeah.	0
 And so the filter bank	0
 is  chosen  in fact to sort of integrate out the effects of pitch and she's saying you know trying - So the particular measure that she chose was the variance of this m- of this difference,	0
@@ -135,7 +135,7 @@ This is f-	0
 You have the log magnitude spectrum,	0
 Yeah. Mm-hmm.	0
 and you were looking at that	0
-and the difference between [MASK] and - and c- c- computing the variance.	0
+and the difference between the filter bank and - and c- c- computing the variance.	0
 Mm-hmm.	0
 That's a  clever  thing to do. What if you stopped being  clever?	0
 Mm-hmm.	0
@@ -168,34 +168,34 @@ But, it's kind of  crazy,  cuz we know how to multiply and you - you'd be you kn
 But suppose you don't really  know  what the right thing is. And that's what these sort of dumb machine learning methods are  good  at. So.	0
 Um.  Anyway.  It's just a thought.	0
 How long does it take, Carmen, to train up one of these nets?	0
-Oh, not too much.	1
+Oh, not too much.	0
 Yeah.	0
 Mmm, one day or less.	0
 Hmm.	0
 Yeah, it's probably worth it.	0
 What are - what are your f- uh frame error rates for - for this?	0
 Eh fifty-f- six	0
-uh no, the  frame  error rate? Fifty-six I think.	1
+uh no, the  frame  error rate? Fifty-six I think.	0
 O-	0
 Is that - maybe that's accuracy?	0
 Percent.	0
 The accuracy.	0
-Fif- fifty-six percent accurate for v- [MASK]	0
+Fif- fifty-six percent accurate for v- voice-unvoice	0
 Mm-hmm.	0
 No for, yes f-	0
-I don't remember for [MASK] maybe for the other one.	1
+I don't remember for voice-unvoice, maybe for the other one.	0
 Oh, O_K.	0
-Yeah, [MASK]  hopefully  would be a lot  better.	0
+Yeah, voiced-unvoiced  hopefully  would be a lot  better.	0
 O_K.	0
 for voiced. I don't reme-	0
 Should be in  nineties  somewhere.	0
-Better. Maybe for [MASK] This is for the other one. I should -	1
+Better. Maybe for voice-unvoice. This is for the other one. I should -	0
 Right.	0
-I can't show that.	1
+I can't show that.	0
 O_K.	0
 But I think that fifty-five was for the - when the output are the fifty-six phone.	0
 Mm-hmm.	0
-That I look in the - with the other - nnn the other [MASK] that we have are more or less the same number.	0
+That I look in the - with the other - nnn the other M_L_P that we have are more or less the same number.	0
 Silence  will be better but more or less the same.	0
 I think at the frame level for fifty-six that was the kind of number we were getting for - for uh um reduced band width uh	0
 I think that - I - I - I think that for the other one, for the three output, is sixty- sixty-two, sixty-	0
@@ -203,7 +203,7 @@ stuff.	0
 Mm-hmm.	0
 three more or less. It's -	0
 That's all?	0
-Yeah.	1
+Yeah.	0
 That's pretty  bad.	0
 Yeah,  because it's  noise   also.	0
 Aha!	0
@@ -211,7 +211,7 @@ Oh yeah.	0
 And we have-	0
 Aha!	0
 Yeah. Yeah. O_K.	0
-I  know.	1
+I  know.	0
 But even i- in -	0
 Oh yeah, in  training.   Still,	0
 Uh.	0
@@ -220,15 +220,15 @@ Um, if you're getting fifty-six percent over here, uh that's in noise  also,  ri
 Yeah, yeah, yeah.	0
 Oh O_K.	0
 If you're getting fifty-six  here,	0
-try adding together the probabilities of all of [MASK] here and all	0
+try adding together the probabilities of all of the voiced phones here and all of the unvoiced phones	0
 will be -	0
 and see what you get  then.	0
 Yeah.	0
 I bet you get better than sixty- three.	0
 Well I don't know, but -	0
 I th- I - I think that we - I have the result more or less. Maybe. I don't know.	0
-I don't - I'm not sure but	1
-I remember  @@  that I can't show that.	1
+I don't - I'm not sure but	0
+I remember  @@  that I can't show that.	0
 O_K, but that's a -	0
 That is a - a good check point, you should do that anyway, O_K?	0
 Yeah.	0
@@ -244,19 +244,19 @@ But -	0
 uh, they come from forced alignments?	0
 Uh,	0
 no.	0
-[MASK] canonical ma- mappings.	0
+TIMIT canonical ma- mappings.	0
 TIMIT.	0
 Ah!	0
-Oh.  So, this is trained on  [MASK]	0
+Oh.  So, this is trained on  TIMIT.	0
 O_K.	0
 Yeah.	0
-Yeah,  noisy  [MASK]	0
+Yeah,  noisy  TIMIT.	0
 O_K.	0
 Yeah this for TIMIT.	0
 But  noisy  TIMIT?	0
 Right.	0
-Noisy [MASK] We have noisy [MASK] with the noise of the - the	0
-[MASK] And now we have another noisy [MASK] also with the noise of uh Italian database.	0
+Noisy TIMIT. We have noisy TIMIT with the noise of the - the	0
+T_I-digits. And now we have another noisy TIMIT also with the noise of uh Italian database.	0
 I see.	0
 Yeah.	0
 Well there's gonna be - it looks like there's gonna be a noisy uh -	0
@@ -267,7 +267,7 @@ I forget what it'll be, resource management, Wall Street Journal, something. Som
 Hmm!	0
 preparing.	0
 For what -	0
-For  [MASK]	0
+For  Aurora?	0
 Yeah.	0
 Oh!	0
 Yeah, so the uh -	0
@@ -285,14 +285,14 @@ O_K, thanks.	0
 This is the work that I did during this date and also mmm	1
 Uh-huh.	0
 I - H- Hynek last week say that if I have time I can to begin to - to study	1
-well  seriously [MASK] proposal to look at the code and something like that	1
+well  seriously the France Telecom proposal to look at the code and something like that	1
 Mm-hmm.	0
 to know exactly what they are doing because maybe that we can have some ideas	0
 Mm-hmm.	0
 but not only to read the proposal. Look insi- look i-	0
 carefully what they are doing with the program  @@  and I begin to - to work also in that.	1
 But the first thing that I don't understand is that they	1
-are using R_-	0
+are using R_-	1
 the uh log energy that this quite - I don't know why they have some	1
 constant in the expression of the lower energy. I don't know what that means.	1
 They have a  constant  in there, you said?	0
@@ -375,12 +375,12 @@ Oh, he was gone these first few days, and then he's here for a couple days befor
 Mm-hmm.	0
 He's - I think that he is in Las Vegas or something like that.	0
 Yeah.	0
-Yeah.	0
+Yeah.	1
 So he's - he's going to I_CASSP which is good. I - I don't know if there are many people	1
 who are going to I_CASSP	0
 Yeah.	0
 so - so I thought, make sure  somebody  go.	0
-Yeah.	1
+Yeah.	0
 Do - have -	0
 Have people sort of stopped going to I_CASSP in recent years?	0
 Um,	0
@@ -392,11 +392,11 @@ it's -	0
 I think for engineering students of any  kind,  I think it's - it's if you haven't been there much, it's good to go to,	0
 uh to get a  feel  for things, a range of things, not just  speech.  Uh.	0
 Hmm.	0
-But I think for - for sort of dyed-in-the-wool speech people, um I think that I_C_S_L_P and [MASK] are much more targeted.	0
+But I think for - for sort of dyed-in-the-wool speech people, um I think that I_C_S_L_P and Eurospeech are much more targeted.	0
 Mm-hmm.	0
-Uh. And then there's these other meetings, like [MASK] and - and uh	0
+Uh. And then there's these other meetings, like H_L_T and - and uh	0
 Mmm.	0
-[MASK] -	0
+A_S_R_U -	0
 so there's - there's actually plenty of meetings that are really relevant to -	0
 to uh	0
 computational uh speech processing of one sort or another.	0
@@ -419,32 +419,32 @@ So I'm - I - I just need to ask um	0
 Malek.	0
 One more.	0
 Um.	0
-Tsk.	0
+Tsk.	1
 Then uh I talked a little bit about	1
 um continuing with these dynamic ev- um acoustic events,	1
 and um	1
-we're - we're - we're	0
-thinking about a way to test the completeness of	0
+we're - we're - we're	1
+thinking about a way to test the completeness of	1
 a - a set of um dynamic uh events.	1
 Uh, completeness in the - in the sense that	1
-um if we - if we pick these X_ number of acoustic events,	0
-do they provide sufficient coverage	0
-for the phones that we're trying to recognize	0
+um if we - if we pick these X_ number of acoustic events,	1
+do they provide sufficient coverage	1
+for the phones that we're trying to recognize	1
 or - or the f- the words that we're gonna try to recognize later on.	1
 And so Morgan and I were uh discussing	1
-um s- uh s-	0
-a form of a cheating experiment	0
-where we get -	0
-um we have uh	0
+um s- uh s-	1
+a form of a cheating experiment	1
+where we get -	1
+um we have uh	1
 um	0
 a chosen set of features, or acoustic events,	1
 and we train up a hybrid	1
-um system to do  phone  recognition on  [MASK]	1
+um system to do  phone  recognition on  TIMIT.	1
 So i- i- the idea is if we get good phone recognition results,	0
 using um these set of acoustic events,	0
 then	0
 um that - that says that these acoustic events are g- sufficient to cover	0
-a set of phones, at least found in  [MASK]	0
+a set of phones, at least found in  TIMIT.	0
 Um so i- it would be a -	0
 a measure of	0
 "are we on the right track with - with the -	0
@@ -458,11 +458,11 @@ Actually, let me - Hold that thought. Let me back up while we're still on it. Th
 Yeah.	0
 O_K, sure.	0
 uh, maybe the first thing to do is just to  count	0
-and uh count co-occurrences and get probabilities for a discrete [MASK]	0
+and uh count co-occurrences and get probabilities for a discrete H_M_M	0
 cuz that'd be pretty simple because it's just - Say, if you had ten - ten events,	0
 uh that you were  counting,  uh each frame would only have a thousand possible  values  for these ten bits,	0
 and uh so you could make a table that would - say, if you had thirty-nine phone categories, that would be a thousand by thirty-nine, and just count the co-occurrences and divide them by the - the uh - uh uh occ- uh	0
-count the co-occurrences between the event and the phone and divide them by the number of occurrences of the phone, and that would give you the likelihood of the - of the event given the phone. And um then just use that in a very simple [MASK] and uh	0
+count the co-occurrences between the event and the phone and divide them by the number of occurrences of the phone, and that would give you the likelihood of the - of the event given the phone. And um then just use that in a very simple H_M_M and uh	0
 you could uh do phone recognition then and uh wouldn't have any of the issues of the uh training of the net or - I mean, it'd be on the  simple  side, but	0
 Mm-hmm.	0
 uh	0
@@ -481,12 +481,12 @@ If you just do this by counting, then you should be able to find out in a pretty
 So that was - that was the idea. And then the other thing that we were discussing was - was um	0
 O_K, how do you get the - your  training  data.	0
 Mm-hmm.	0
-Cuz uh [MASK] uh uh you know was	0
+Cuz uh the  Switchboard  transcription  project uh uh you know was	0
 half a dozen people, or so working off and on over a couple years, and	0
-uh similar -  similar amount of data  to what you're talking about with [MASK] training. So,	0
+uh similar -  similar amount of data  to what you're talking about with TIMIT training. So,	0
 it seems to me that the only reasonable starting point is	0
 uh to automatically translate the uh	0
-current [MASK] markings into the markings you want.	0
+current TIMIT markings into the markings you want.	0
 And uh	0
 it won't have the kind of characteristic that you'd like, of catching funny kind of things that maybe aren't	0
 Mm-hmm.	0
@@ -512,7 +512,7 @@ Right.	0
 h- if it really even makes a  difference.	0
 You can get a little feeling for it that way, yeah that is probably right.	0
 Yeah.	0
-I mean uh my - my guess would be that this is - since [MASK] read speech that this would be less of a big deal, if you went and looked at spontaneous speech it'd be more - more of one.	0
+I mean uh my - my guess would be that this is - since TIMIT's read speech that this would be less of a big deal, if you went and looked at spontaneous speech it'd be more - more of one.	0
 Mm-hmm.	0
 Right.	0
 Right.	0
@@ -553,7 +553,7 @@ they recognized	0
 um	0
 a set of phonological features	0
 um	0
-and made a mapping from the [MASK] to these phonological features, so I'm gonna	0
+and made a mapping from the M_F_C_C's to these phonological features, so I'm gonna	0
 do a similar thing with -	0
 with support vector machines and see if -	0
 So what's the advantage of support vector machines? What -	0
@@ -609,20 +609,20 @@ That's another way of doing it.	0
 Mmm.	0
 Right? So - so it - I mean I - I guess it's -	0
 Sort of an equivalent.	0
-You know, it - it goes back to [MASK]  sort of thing, right? Um,	0
+You know, it - it goes back to nearest-neighbor  sort of thing, right? Um,	0
 Mm-hmm.	0
 i- i- if - is it eh w-	0
-When is [MASK] good? Well, [MASK] good - is good if you have lots and lots of examples.	0
-Um but of course if you have lots and lots of examples, then it can take a while to - to  use  [MASK] There's lots of look ups.	0
+When is nearest-neighbor good? Well, nearest-neighbor good - is good if you have lots and lots of examples.	0
+Um but of course if you have lots and lots of examples, then it can take a while to - to  use  nearest-neighbor. There's lots of look ups.	0
 So a long  time  ago people talked about things where you would have	0
-uh a  condensed  [MASK] where you would - you would - you would pick out uh some representative examples which would uh be sufficient to represent - to - to correctly classify everything that came in.	0
+uh a  condensed  nearest-neighbor, where you would - you would - you would pick out uh some representative examples which would uh be sufficient to represent - to - to correctly classify everything that came in.	0
 Oh.	0
 Mm-hmm.	0
 I - I think s- I think support vector stuff sort of goes back to -	0
 to  that  kind of thing.	0
 I  see.	0
 Um.	0
-So rather than doing [MASK] where you compare to every single one,	0
+So rather than doing nearest neighbor where you compare to every single one,	0
 you just pick a few	0
 critical ones, and -	0
 Yeah.	0
@@ -670,18 +670,18 @@ Yeah.	0
 Yeah, they -	0
 they had a - had a way to translate the distances into - into probabilities with the - with the simple	0
 um	0
-uh [MASK]	0
-Yeah, and d- did they use  [MASK]	0
+uh sigmoidal function.	0
+Yeah, and d- did they use  sigmoid  or a  softmax  type thing? And didn't they like exponentiate or something and then  divide by the sum of them, or - ?	0
 Um	0
 Yeah, there's some - there's like one over one plus the exponential or something like that.	0
 Oh it - i-	0
-Oh, so it  is  [MASK]	0
+Oh, so it  is  a sigmoidal.	0
 Yeah.	0
 O_K.	0
 Alright.	0
 Did the - did they get	0
 good results with that?	0
-I mean , they're O_K, I - I don't - I don't think they were earth - [MASK] but I think that	0
+I mean , they're O_K, I - I don't - I don't think they were earth - earth shattering, but I think that	0
 Hmm.	0
 uh	0
 this was a couple years ago, I remember them doing it at some meeting, and - and um	0
@@ -709,14 +709,14 @@ um is just a bunch of	0
 um	0
 binary valued features.	0
 Let's say, is this voicing, or is this not voicing, is this	0
-[MASK] not [MASK] and	0
+sonorants, not sonorants, and	0
 O_K.	0
 stuff like that. So.	0
 Did you find any more mistakes in their tables?	0
 Oh! Uh I haven't gone through the entire table,  yet. Yeah, yesterday I brought Chuck	0
 the table and I was like, "wait, this - is -	0
 Is the mapping from N_ to - to this phonological feature called um "coronal" ,	0
-is - is - should it be - shouldn't it be a one? or should it - should it be you know [MASK] instead of not coronal as it was labeled in the paper?"	0
+is - is - should it be - shouldn't it be a one? or should it - should it be you know coronal instead of not coronal as it was labeled in the paper?"	0
 So I ha- haven't hunted down all the - all the mistakes yet, but -	0
 Uh-huh.	0
 But a- as I was saying, people  do  get probabilities from these things, and - and uh	0
@@ -747,14 +747,14 @@ And so when you do your wh- I'm - what is the task for the class project? To	0
 Um	0
 come up with the phones? or to come up with these vectors to see how closely they match the phones, or - ?	0
 Oh.	0
-Right, um to come up with a mapping from um [MASK] or s- some feature set,	0
+Right, um to come up with a mapping from um M_F_C_C's or s- some feature set,	0
 Mm-hmm.	0
 um to	0
 uh w-	0
 to whether there's existence of a particular phonological feature.	0
 And um yeah, basically it's to learn a mapping	0
 from -	0
-from [MASK] to	0
+from the M_F_C_C's to	0
 uh phonological features.	0
 Is it - did that answer your question?	0
 I  think  so.	0
@@ -777,7 +777,7 @@ So King and - and Taylor	0
 Yeah.	0
 um did this with uh recurrent neural nets, and this i- their - their idea was to first find	0
 Mm-hmm.	0
-a mapping from [MASK] to	0
+a mapping from M_F_C_C's to	0
 uh phonological features and then later on, once you have these	0
 phonological features,	0
 Mm-hmm.	0
@@ -804,9 +804,9 @@ this um thing we talked about yet with the uh -	1
 um	0
 Insertion penalty?	0
 Uh. No actually I was going a different - That's a good question, too, but I was gonna ask about the -	1
-the um	0
-changes to the data in comparing [MASK]	0
-for [MASK]	0
+the um	1
+changes to the data in comparing P_L_P and mel cepstrum	1
+for the S_R_I	1
 system.	1
 Uh.	0
 Well what I've been -	0
@@ -814,25 +814,25 @@ Well what I've been -	0
 Right.	0
 So we talked on the phone about this, that -	1
 Yeah.	0
-that there was still a difference of a -	0
-of a few percent	0
+that there was still a difference of a -	1
+of a few percent	1
 Right.	0
 and	1
 you told me that there was a difference in how the normalization was done.	1
 And I was asking if you were going to do -	1
-redo it	0
+redo it	1
 Mm-hmm.	0
-uh for [MASK] with the normalization done as it had been done	1
+uh for P_L_P with the normalization done as it had been done for the mel cepstrum.	1
 Uh	0
 right, no I haven't had a chance to do that.	1
 What I've been  doing  is	1
 O_K.	0
-uh	0
+uh	1
 trying to figure out - it just seems to me like there's a um -	1
 well it seems like there's a bug,	1
 because	1
-the difference	0
-in performance is -	0
+the difference	1
+in performance is -	1
 it's not gigantic	1
 but it's big enough that it - it seems wrong.	1
 Yeah, I  agree,  but I thought that the normalization difference was one of the	1
@@ -893,7 +893,7 @@ But -	0
 roughly   equivalent,	0
 um	0
 I mean again	0
-the Cambridge folk found [MASK] actually to be a little better.	0
+the Cambridge folk found the P_L_P actually to be a little better.	0
 Right.	0
 Uh	0
 So it's -	0
@@ -907,23 +907,23 @@ Yeah see one thing that's a little bit um -	0
 I was looking - I've been studying and going through the logs for the system that um Andreas created.	0
 And um	0
 his uh - the way that the -	0
-[MASK]  system looks like it  works  is that it reads the wavefiles  directly,	0
+S_R_ I  system looks like it  works  is that it reads the wavefiles  directly,	0
 uh	0
 Right.	0
 and does all of the cepstral computation stuff on the fly.	0
 Right.	0
 And,	0
 so there's no place where these -	0
-where [MASK] files are stored, anywhere that I can go look at and compare	0
-to [MASK] ones, so	0
+where the cepstral files are stored, anywhere that I can go look at and compare	0
+to the P_L_P ones, so	0
 whereas with  our  features, he's actually storing	0
-[MASK] on disk, and he reads  those  in. But it looked like he had to give it -	0
+the cepstrum on disk, and he reads  those  in. But it looked like he had to give it -	0
 Right.	0
-uh even though [MASK] is already computed, he has to give it	0
+uh even though the cepstrum is already computed, he has to give it	0
 uh	0
 a front-end parameter file. Which talks about the kind of	0
 uh	0
-com- computation that his [MASK]  thing does, so	0
+com- computation that his mel  cepstrum  thing does, so	0
 Uh-huh.	0
 i-	0
 I - I don't know if that - it  probably  doesn't mess it up, it probably just  ignores  it if it determines that it's already	0
@@ -946,10 +946,10 @@ on his project and then I've been trying to track down this bug	0
 in uh the ICSI front-end features.	0
 Uh-huh.	0
 So one thing that I  did  notice, yesterday I was studying the um -	0
-the uh [MASK]	0
+the uh RASTA code	0
 Uh-huh.	0
 and it looks like we don't have any way to um	0
-control the frequency range that we use in our analysis. We basically - it looks to me like we do [MASK] um and then we just take all the bins	0
+control the frequency range that we use in our analysis. We basically - it looks to me like we do the F_F_T, um and then we just take all the bins	0
 and we use  everything.	0
 We don't have any set of parameters where we can say	0
 you know, "only process from	0
@@ -958,18 +958,18 @@ Um -	0
 At least I couldn't see any kind of control for that.	0
 Yeah, I don't think it's in  there,  I think it's in the uh uh	0
 uh the  filters.	0
-So, [MASK]  is on everything, but the  filters	0
+So, the F_F_ T  is on everything, but the  filters	0
 um, for instance, ignore the - the lowest	0
 bins	0
 and the highest bins.	0
 And what it does is it - it copies	0
 The - the filters? Which filters?	0
 um	0
-The  filter  bank which is created by integrating over [MASK]  bins.	0
+The  filter  bank which is created by integrating over F_F_ T  bins.	0
 Mm-hmm.	0
 um	0
 When you get the mel -	0
-When you go to [MASK]	0
+When you go to the mel scale.	0
 Right.	0
 Yeah, it's bark scale, and it's - it -	0
 it um -	0
@@ -1009,15 +1009,15 @@ Um, I don't remember there being an independent way of saying "we're just gonna	
 make them from here to here".	0
 Use  this  analysis bandwidth or something.	0
 But I - I - I don't know, it's actually been awhile since I've looked at it.	0
-Yeah, I went through [MASK] and then	0
+Yeah, I went through the Feacalc code and then	0
 looked at	0
-you know just calling [MASK] libs  and thing like that. And I didn't - I couldn't see any wh- place where that kind of thing was done.	0
+you know just calling the RASTA libs  and thing like that. And I didn't - I couldn't see any wh- place where that kind of thing was done.	0
 But	0
 um	0
 I didn't quite understand  everything  that I saw, so -	0
 Yeah, see I don't know  Feacalc  at all.	0
 Mm-hmm.	0
-But it calls [MASK] with some options, and	0
+But it calls RASTA with some options, and	0
 Right.	0
 um	0
 But I - I think in -	0
@@ -1031,9 +1031,9 @@ not going to affect	0
 phonetic classification at  all.	0
 Another  thing I was thinking about was um is there a -	0
 I was wondering if there's maybe um	0
-certain settings of the parameters when you compute [MASK] which would basically cause it to output	0
-[MASK]	0
-So that, in effect, what I could  do  is use our code but produce [MASK]	0
+certain settings of the parameters when you compute P_L_P which would basically cause it to output	0
+mel cepstrum.	0
+So that, in effect, what I could  do  is use our code but produce mel  cepstrum	0
 and compare that directly to -	0
 Well, it's not precisely.	0
 Yeah. I mean, um,	0
@@ -1041,10 +1041,10 @@ Hmm.	0
 um	0
 what you can do	0
 is um	0
-you can definitely change the - [MASK] from being uh	0
+you can definitely change the - the filter bank from being uh	0
 a uh trapezoidal integration to a - a - a triangular one,	0
 Mm-hmm.	0
-which is what the typical mel - [MASK] uh	0
+which is what the typical mel - mel cepstral uh filter bank does.	0
 Mm-hmm.	0
 And some people have claimed that they got some better performance doing that, so you certainly could do that	0
 easily.	0
@@ -1053,13 +1053,13 @@ There's a cubic root that happens, right?	0
 Yeah, but, you know, as opposed to the log in the other case. I mean	0
 the fundamental d- d- difference that we've seen any	0
 kind of difference from  before,  which is  actually  an  advantage  for the P_L_ P  i- uh, I  think,  is that the - the smoothing at the end is auto-regressive instead of being cepstral -	0
-uh,  from [MASK]	0
+uh,  from cepstral  truncation.	0
 So um it's a little more noise robust.	0
 Hmm.	0
 Um, and that's - that's why when	0
 people started getting databases that had a little more noise in it, like -	0
 like uh um	0
-Broadcast News and so on, that's why c- Cambridge switched to [MASK] I think.	0
+Broadcast News and so on, that's why c- Cambridge switched to P_L_P I think.	0
 Mm-hmm.	0
 So um	0
 That's a difference that I don't	0
@@ -1073,7 +1073,7 @@ that	0
 um	0
 it	0
 uh they got some better results with the triangular filters rather than the trapezoidal. So that  is  an option	0
-in  [MASK]	0
+in  RASTA.	0
 Hmm.	0
 Uh and you can certainly	0
 play  with  that.	0
@@ -1087,21 +1087,21 @@ You know, you're sort of getting most of the way there, but there's a -	0
 So I started going through and looking -	0
 One  of the things that I  did   notice  was that the um	0
 log likelihoods coming out of the log recognizer	0
-from [MASK] data	0
+from the P_L_P data	0
 were much	0
 lower,	0
 much smaller,	0
-than for [MASK] stuff,	0
+than for the mel cepstral stuff,	0
 and that the	0
 average amount of  pruning  that was happening	0
 was therefore a little bit  higher	0
-for [MASK] features.	0
+for the P_L_P features.	0
 Oh-huh!	0
-So, since he used the same exact  [MASK] for both,	0
+So, since he used the same exact  pruning  thresholds for both,	0
 I was wondering if it could be that we're getting more  pruning.	0
 Oh!	0
 He - he -	0
-He  used  [MASK] even though the s- the  range  of p- of the likeli-	0
+He  used  the  identical   pruning  thresholds even though the s- the  range  of p- of the likeli-	0
 Yeah.	0
 Oh well  that's  -	0
 Right.	0
@@ -1115,7 +1115,7 @@ Right.	0
 Well, what I was gonna do is I was gonna take	0
 um a couple of the utterances that  he  had run through,	0
 then	0
-run them through again but modify [MASK] and see if it	0
+run them through again but modify the pruning threshold and see if it	0
 you know,	0
 affects the score.	0
 Yeah.	0
@@ -1124,7 +1124,7 @@ So.	0
 But I mean you could - uh if -	0
 if - if that looks  promising  you could, you know, r- uh run	0
 the overall test set	0
-with a - with a few different uh [MASK] for both,	0
+with a - with a few different uh pruning thresholds for both,	0
 Mm-hmm.	0
 Right.	0
 and  presumably  he's running at some pruning threshold that's -	0
@@ -1136,11 +1136,11 @@ Right. I mean, yeah, generally in these things you -	0
 you turn back pruning really far, so	0
 I - I didn't think it would be that big a deal because I was figuring well you have it turned back so far that	0
 you know it -	0
-But you may be in the wrong  range  for [MASK]  features for some  reason.	0
+But you may be in the wrong  range  for the P_L_ P  features for some  reason.	0
 Yeah.	0
 Yeah.	0
 Yeah.	0
-And the uh the - the run time of the recognizer on [MASK] features is longer	0
+And the uh the - the run time of the recognizer on the P_L_P features is longer	0
 which sort of implies that the networks are bushier,	0
 you know, there's more things it's considering	0
 which goes along with the fact that the matches aren't as good.	0
@@ -1178,35 +1178,35 @@ as far as  my  stuff goes,	1
 What's - what's on -	0
 yeah, well I	1
 Yeah.	0
-tried this [MASK] Um. Due to Avendano,	1
-I'm taking s- um	0
+tried this mean subtraction method. Um. Due to Avendano,	1
+I'm taking s- um	1
 six seconds of speech, um	1
-I'm using two second	0
-[MASK] analysis frames,	0
+I'm using two second	1
+F_F_T analysis frames,	1
 stepped by a half second	1
 so it's a quarter length step and I -	0
 I take  that  frame and four f- the four - I take - Sorry, I take the current frame and the four past frames and the	0
 four  future  frames and that adds up to six seconds of speech.	0
 And I calculate um	1
-the spectral mean,	0
-of the log magnitude spectrum  over that [MASK]	1
+the spectral mean,	1
+of the log magnitude spectrum  over that N_.	1
 I use that to normalize the s- the current center frame	1
-by [MASK]	1
+by mean subtraction.	1
 And I then - then I move to the next frame and I -	0
 I do it again.	0
 Well, actually I calculate all the means first and then I do the subtraction.	0
 And um	1
-the - I tried that with [MASK]	1
+the - I tried that with H_D_K, the Aurora setup of H_D_K training on clean T_I-digits,	1
 and um	1
 it - it helped um in a phony reverberation case	1
-um	0
-where I just used the simulated impulse response	0
-um	0
-the error rate went from something like eighty	0
-it was from something like eighteen percent	0
+um	1
+where I just used the simulated impulse response	1
+um	1
+the error rate went from something like eighty	1
+it was from something like eighteen percent	1
 to um four percent.	1
 And on meeting rec- recorder far mike digits, mike -	1
-on channel F_, it went from um	0
+on channel F_, it went from um	1
 forty-one percent error to eight percent error.	1
 On - on the real data, not with artificial reverb?	0
 Right.	0
@@ -1224,21 +1224,21 @@ on the far field uh -	0
 on - on the far field  data	0
 uh for - recorded in - in  meetings.	0
 Oh um actually um	0
-Adam ran [MASK] recognizer.	0
+Adam ran the S_R_I recognizer.	0
 Did he ?	0
 On the  near  field, on the ne-	0
-On the  far  field  also.  He did one [MASK] channel and	0
+On the  far  field  also.  He did one P_Z_M channel and one P_D_A channel.	0
 Oh  did  he?	0
 Oh! I didn't  recall  that.	0
 What kind of numbers was  he  getting with that?	0
 I -	0
-I'm not  sure,  I think it was about five percent error for [MASK] channel.	0
+I'm not  sure,  I think it was about five percent error for the P_Z_M channel.	0
 Five.	0
 f- I think. Yeah.	0
 So why were you getting forty- one  here? Is this -	0
 Um.	0
 I - I'm g- I'm guessing it was the - the training data.	0
-Uh, clean [MASK] is, like,	0
+Uh, clean T_I-digits is, like,	0
 pretty pristine	0
 training data, and if they trained	0
 the S_R_I system on this	0
@@ -1246,7 +1246,7 @@ T_V broadcast type stuff, I think it's a much wider range of channels and it -	0
 No, but  wait  a minute. I -	0
 I - I th -	0
 I think he -	0
-What am I saying here? Yeah, so that was [MASK]	0
+What am I saying here? Yeah, so that was the S_R_I system.	0
 Maybe  you're  right.  Yeah. Cuz it was getting like one percent -	0
 So it's  still   this   kind of ratio. It was - it was getting  one  percent or something on the  near  field.  Wasn't  it?	0
 Mm-hmm, or	0
@@ -1261,7 +1261,7 @@ So	0
 So probably it should be something we should try then is to - is to see if -	0
 is  at some point just to take -	0
 i- to transform the data and then -	0
-and then uh use th- use it for [MASK]	0
+and then uh use th- use it for the S_R_I system.	0
 b- You me- you mean um ta-	0
 So you're - so you have a system which for one reason or another is relatively poor,	0
 Yeah.	0
@@ -1275,7 +1275,7 @@ O_K.	0
 So the question is	0
 how close to that  one  can you get	0
 if you transform the data using  that  system.	0
-r- Right, so - so I guess this [MASK] is trained on a lot of s- Broadcast News or Switchboard data.	0
+r- Right, so - so I guess this S_R_I system is trained on a lot of s- Broadcast News or Switchboard data.	0
 Yeah.	0
 Is that right? Do you know which one it is?	0
 It's trained on a lot of different things. Um.	0
@@ -1300,7 +1300,7 @@ Yeah.	0
 That's a good point.	0
 So um -	0
 O_K, so it's  then - then it's - it's -	0
-it's reasonable to expect it would be helpful if we used it with [MASK] system and	0
+it's reasonable to expect it would be helpful if we used it with the S_R_I system and	0
 Yeah, I mean,  as  helpful - I mean,	0
 so  that's  the question.	0
 Yeah, w- we're often  asked  this when we work with a system that - that isn't - isn't sort of industry - industry standard great,	0
@@ -1348,4 +1348,4 @@ Then I can be out of here  quickly.	0
 Yeah. That'll work.	0
 That's alright. I just have to run for another appointment.	0
 O_K, did I t- Yeah. I left it on.	0
-O_K.	1
+O_K.	0

@@ -11,8 +11,8 @@ What does your thing say on the back?	0
 Nnn, five.	0
 Testing.	0
 Alright, I'm five.	0
-[MASK]	0
-[MASK]   Three, three.	0
+Sibilance.	0
+Sibilance.   Three, three.	0
 I am three.	0
 Eh.	0
 See, that matches the  seat  up  there.  So.	0
@@ -63,24 +63,24 @@ Are  you  in charge?	0
 Sure.	0
 Um.	0
 Well,  I  sort of had  informal  talks with	0
-most  of you. So, Eva just reported she's really happy about [MASK] being in the same order in the X_M_L as in the	0
+most  of you. So, Eva just reported she's really happy about the  C_B_T's being in the same order in the X_M_L as in the	0
 Yeah.	0
 um - be- Java declaration format so you don't have to	0
 The e-	0
 Uh, yeah.	0
 do too much in the style sheet	0
 Yeah, so.	0
-transversion .	0
-The - uh, Java - [MASK]  wants to take input - uh, uh,	1
-and	0
-Eva is using [MASK] to conv	0
-for the - into the, uh, [MASK]	0
+transversion .	1
+The - uh, Java - the embedded Bayes  wants to take input - uh, uh, a Bayes-net - in - in some Java notation	1
+and	1
+Eva is using the Xalan style sheet processor to convert the X_M_L that's output by the Java Bayes	1
+for the - into the, uh, E_Bayes input.	1
 Mmm.	0
 Actually, maybe I could try, like,  emailing  the guy and see if he has any- something already.	1
 Sure.	0
 Hmm.	0
 That'd be weird, that	0
-he has both [MASK] in -	0
+he has both the Java Bayes and the embedded Bayes in -	0
 Yeah.	0
 But that's some sort of conversion program?	0
 Yeah.	0
@@ -93,9 +93,9 @@ No, I think it's a good idea that you may as well  ask.   Sure.	0
 Yeah.	0
 And, um, well  pretty mu- pretty much on t- on the  top  of my list, I would have asked Keith how the "where is X_?"  hand parse is standing.	0
 Um.  But we'll skip that.	0
-Uh, there's good news from Johno. The generation templates are done.	0
+Uh, there's good news from Johno. The generation templates are done.	1
 So the trees  for -	0
-the X_M_L trees for the - for the gene- for the synthesizer	0
+the X_M_L trees for the - for the gene- for the synthesizer	1
 are written. So I just need to  do the, uh - write a new set of  tree combining rules.  But	1
 I think those'll be pretty similar to the old ones.	1
 So.	0
@@ -111,21 +111,21 @@ But  Nancy  doesn't.	0
 Hiring  somebody.	0
 We - w- um -	0
 The guy.	0
-O_K, so	0
+O_K, so	1
 No.	0
-natural language generation  produces	0
-not a - just a surface string that is fed into a text-to-speech	0
+natural language generation  produces	1
+not a - just a surface string that is fed into a text-to-speech	1
 Yeah.	0
-but, [MASK] that's fed int	0
+but, a  surface string with a  syntax  tree that's fed into a  concept-to-speech.	1
 Mm-hmm.	0
-Now and [MASK] has  certain rules on how  if you get the following syntactic	1
+Now and this concept-to-speech module has  certain rules on how  if you get the following syntactic	1
 Better.	0
-structure, how to map this onto  [MASK]	1
+structure, how to map this onto  prosodic   rules.	1
 Mm-hmm.	0
 Sure .	0
 Mm-hmm.	0
 And  Fey  has foolheartedly agreed to  rewrite	1
-uh, the  German  concept- uh  [MASK] -	1
+uh, the  German  concept- uh  syntax-to-prosody  rules -	1
 I didn't know she spoke German.	0
 No, she  doesn't.   But she speaks  English.	0
 Oh, O_K.	0
@@ -134,14 +134,14 @@ Into English.   And um	0
 therefore  the, uh -	0
 if it's O_K that we give her a couple of more hours per week, then  she'll do that.	0
 O_K, got it.	0
-What   language  is that  written i- Is that [MASK] that you showed me?	0
+What   language  is that  written i- Is that that Scheme thing that you showed me?	0
 Yeah.	0
-That's [MASK]	1
-She knows how to program in [MASK]  I hope?	0
+That's the LISP-type scheme.	1
+She knows how to program in Scheme?  I hope?	0
 No, I -  @@	0
 My  guess is - I - I asked for a commented version of that file?	0
-If we get that, then it's  doable, even without getting into it, even though [MASK] is really well docu	0
-Well, I guess if you're not used to functional programming, [MASK] can be completely incomprehensible.	1
+If we get that, then it's  doable, even without getting into it, even though the Scheme li- uh, stuff is really well documented in the  Festival.	0
+Well, I guess if you're not used to functional programming, Scheme can be completely incomprehensible.	1
 Cuz, there's no -	0
 Like  there's lots of unnamed functions and -  You know?	0
 Syntax.	0
@@ -153,7 +153,7 @@ Oh, so this was -	0
 You know, on the  generation  thing,	0
 um	0
 if	0
-sh- y- she's really going to  do  that, then we should be able to get [MASK] as  well.  So it'll say it's nonsense with	0
+sh- y- she's really going to  do  that, then we should be able to get prosody as  well.  So it'll say it's nonsense with	0
 perfect  intonation.	0
 Are we gonna - Can we change the voice	0
 of the - of the thing, because right now the voice sounds like a murderer.	0
@@ -164,14 +164,14 @@ Oh.	0
 That's good to know.	0
 "I have your reservations."	0
 But I will  not  give them to you unless you come into my lair.	0
-It is - Uh, we have the choice between the, uh, usual [MASK] which I already t	1
-[MASK]	0
+It is - Uh, we have the choice between the, uh, usual Festival voices, which I already told the SmartKom people we  aren't  gonna use because they're really bad.	1
+Festival?	0
 It's the name of some  program,   the - the  synthesizer.	0
 Oh, oh. Got it. O_K.	0
 But, um	0
 You know, the usual party voices.	0
 Yeah, I know.  That doesn't sound,  exactly right either.	0
-[MASK] has, uh, crafted a couple	1
+O_G_I has, uh, crafted a couple of diphone	1
 type voices that are really nice and we're going to use  that. We can still, um, d- agree on a  gender,  if we want.	1
 So we still have male or female.	0
 I think -	0
@@ -179,7 +179,7 @@ Well, let's just pick whatever sounds best.	0
 Hmm?	0
 Whatever sounds best.	0
 Uh.	0
-Does [MASK] stand for - ?	0
+Does O_G_I stand for - ?	0
 Unfortunately, probably male voices, a bit more research on. So.	0
 Orego-	0
 Original German Institute?	0
@@ -198,15 +198,15 @@ In fact, there's this guy who's basically got a joint appointment,  Hynek  Herma
 He's- spends a fair amount of time here.  Anyway.	0
 Leave it.  Won't be a problem.	0
 O_K.  And it's probably also absolutely uninteresting for all of you to, um	1
-learn that as of twenty minutes ago, David and I, per accident, uh managed to get	0
-[MASK] running on the - uh, ICSI Linux machines with	1
-thereby increasing the number of [MASK] in this house from  one on my laptop to  three.	0
+learn that as of twenty minutes ago, David and I, per accident, uh managed to get	1
+the whole SmartKom system running on the - uh, ICSI Linux machines with the ICSI N_T machines	1
+thereby increasing the number of running SmartKom systems in this house from  one on my laptop to  three.	0
 Mmm, that's good.	0
 How was this by accident?	0
 Yeah, I know. Tha- that's the part I didn't understand.	0
 Um, I suggested to try something that was really kind of - even though against better knowledge shouldn't have worked, but it worked.	0
 Hmm!	0
-Intuition.  Maybe - maybe - maybe a bit for [MASK]	0
+Intuition.  Maybe - maybe - maybe a bit for the A_I i- intuition thing.	0
 Will it work  again,  or - ?	0
 Yeah.	0
 Yeah.	0
@@ -223,7 +223,7 @@ O_K.	0
 Um - I was gonna ask you where something is	0
 and what we know about that.	0
 Where - O_K.	0
-Where [MASK] is.	0
+Where the "where is" construction is.	0
 Where is X_?	0
 What - what thing is this?	0
 O_K.	0
@@ -256,7 +256,7 @@ Right, or some- Anyway.	0
 Right.	0
 So - But anyway, yeah.	0
 I- so I - I  did  see that.	0
-Oh wha- Yeah. Before we get started on this st-  so I also had a nice email correspondence with Daphne Kohler, who said yes indeed she would love to work with us on the, um, - you know, using [MASK] and stuff	1
+Oh wha- Yeah. Before we get started on this st-  so I also had a nice email correspondence with Daphne Kohler, who said yes indeed she would love to work with us on the, um, - you know, using these structured belief-nets and stuff	1
 but  starting in August, that she's also got a new student working on this and that we should get in touch with them again in August and then we'll figure out a way for you - uh - you to get seriously connected with, um	1
 their group. So	1
 that's, uh - looks	0
@@ -268,7 +268,7 @@ we're now at a good point to do something - start working on something really  h
 We've been so far working on things that are easy.	0
 Oh!	0
 Uh, w- Which is	1
-[MASK] and uh -	0
+mental spaces and uh -	1
 Hmm!	0
 and-or -	1
 It's hard.	0
@@ -276,26 +276,26 @@ Huh?	0
 Yeah, it's hard. Yeah.	0
 It's a hard puzzle.  But  the other  part  of it is the way they connect to	1
 Yeah.	0
-these, uh, [MASK]	1
-So  there's  all  the problems that the  linguists  know about, about [MASK] and the  cognitive  linguists know about, but then there's this problem of the	1
-[MASK]  people have only done a  moderately  good job of dealing with	1
+these, uh, probabilistic relational models.	1
+So  there's  all  the problems that the  linguists  know about, about mental spaces, and the  cognitive  linguists know about, but then there's this problem of the	1
+belief-net  people have only done a  moderately  good job of dealing with  temporal  belief-nets.	1
 Uh, which they call dynamic -	0
-they  incorrectly  call  [MASK] So there'	0
+they  incorrectly  call  dynamic  belief-nets. So there's a term " dynamic  belief-net",  doesn't  mean that. It means  time  slices. And Srini used those and people use them.	0
 Mmm.	0
 Uh.	0
 But	0
 one of the things I w- would  like  to do over the next, uh, month, it may take more,  is to st- understand to what extent we can not only figure out the constructions for them	1
 for multiple worlds	1
 and	1
-uh sort of what the formalism will look like and where the slots and fillers will be, but also what that would translate into in terms of [MASK] and the  inferences.	1
-So the  story  is that if you  have  these [MASK]  they're set up, in  principle,  so that you can make new instances and instances connect to each other, and all that sort of stuff, so it  should  be feasible	0
-to set them up in such a way that if you've got the past tense and the present tense and each of those is a separate  uh,  [MASK]	0
+uh sort of what the formalism will look like and where the slots and fillers will be, but also what that would translate into in terms of belief-net and the  inferences.	1
+So the  story  is that if you  have  these probabilistic relational  models,  they're set up, in  principle,  so that you can make new instances and instances connect to each other, and all that sort of stuff, so it  should  be feasible	0
+to set them up in such a way that if you've got the past tense and the present tense and each of those is a separate  uh,  belief  structure	0
 that they do their inferences with  just  the couplings that	0
 are  appropriate.	0
 But that's g- that's, as far as I can tell, it's - it's putting together two  real  hard problems. One is	1
-the  linguistic  part of	0
+the  linguistic  part of	1
 what  are  the couplings and - and when you have a certain, uh, construction, that implies certain couplings and other couplings, you know, between let's say between the past and the present, or any other one of these things	1
-and then we have this  inference  problem of exactly technically how does [MASK]  work	1
+and then we have this  inference  problem of exactly technically how does the belief-net  work	1
 if it's got	0
 um, let's say one in - in, you know, different tenses or my beliefs and  your  beliefs, or any of these other ones of - of multiple models. So	0
 um	0
@@ -310,7 +310,7 @@ Yeah.	0
 um -	0
 We'll  see.  But  anyway,  so that's, um -	0
 Oh yeah, like uh, I solved the - the problem of um - we were talking about how do you -	0
-various issues of how come a plural noun gets to quote "count as a noun phrase", you know, occur as [MASK] bu	0
+various issues of how come a plural noun gets to quote "count as a noun phrase", you know, occur as an argument of a higher construction, but a bare singular stem doesn't get to act that way. Um,	0
 Right.	0
 and it would take a really long time to explain it now, but I'm about to write it up this evening.	0
 I solved that at the same time as "how do we keep adjectives from floating to the left of determiners and how do we keep all of that from floating outside the noun phrase" to get something like "I the kicked dog". Um.	0
@@ -319,9 +319,9 @@ Did it - did it at once. So maybe - maybe it'll be a similar thing.	0
 Yeah.	0
 Cool.	0
 No, I know, I th- I- I think that  is  gonna be	1
-sort of	0
+sort of	1
 the  key  to this wh- to th- the  big  project of the summer of - of getting the  constructions  right is that	1
-people  do  manage to do this so there probably are some, uh, relatively clean  rules,  they're just not [MASK]	1
+people  do  manage to do this so there probably are some, uh, relatively clean  rules,  they're just not context-free  trees.	1
 Right.	0
 And if we - if the formalism is - is  good,  then we should be able to	0
 have, you know, sort of  moderate  scale thing. And that by the way is - is, Keith, what I encouraged George to be	0
@@ -340,8 +340,8 @@ Hmm.	0
 Uh, sorry. In a - in a friendly moment.	0
 Same thing.	0
 Anyway, uh, that we were - that we're gonna try to get a	1
-uh, [MASK] by the end of next week.	1
-O_K? Probably  skipping  [MASK]	0
+uh, first cut at the revised formalism by the end of next week.	1
+O_K? Probably  skipping  the mental spaces part.	0
 Alright.	0
 Seems  -	0
 Right.  I do.	0
@@ -397,7 +397,7 @@ O_K.	0
 So, uh	0
 Can we - ?	0
 Is it worth  thinking of an example out of our	0
-tourism thing domain, that involves a - a - [MASK]  or setting up -	0
+tourism thing domain, that involves a - a - a decent mental  space shift  or setting up -	0
 I think it is, but - uh - but I interrupted before Keith got to tell us what happened with	1
 "where is the Powder-Tower?" or whatever	1
 Right.	0
@@ -410,7 +410,7 @@ two alternative ways of representing it. One is sort of a - has a	0
 um	0
 It's gone.	0
 um	0
-The question of [MASK]	1
+The question of whether the polysemy is sort of like in the construction or pragmatic.	1
 One of them was th-	0
 Right.	0
 or comes - is resolved	0
@@ -421,7 +421,7 @@ Yeah.	0
 Um, so d'you - Is it clear what we're talking about here?	0
 I agree.	0
 Uh -	0
-The question is [MASK] between asking for location and asking for path. Um	1
+The question is whether the construction is semantic or like ambiguous between asking for location and asking for path. Um	1
 It's -	0
 So you might be - yeah, y-	1
 And asking for directions.	1
@@ -429,26 +429,26 @@ Should we have a - a - a -	0
 or - or whether the construction semantically, uh, is clearly only asking for location but pragmatically that's construed as meaning "tell me how to get there".	1
 Uh -	0
 Mm-hmm.	0
-So  assume these are two, uh, nodes we can observe in [MASK] So these are either	0
+So  assume these are two, uh, nodes we can observe in the Bayes-net. So these are either	0
 Yep.	0
 Yeah.	0
 Right.	0
 true or false and it's also just true  or false.	0
-If we encounter a phrase such as "where is X_?", should that set  this  to true  and  this to true, and [MASK] figures out which under the c- situation in general is more  likely?	0
+If we encounter a phrase such as "where is X_?", should that set  this  to true  and  this to true, and the Bayes-net figures out which under the c- situation in general is more  likely?	0
 Um, or should it just activate	0
-this,  have this be  false,  and [MASK] figures out whether this  actually  now means - ?	0
+this,  have this be  false,  and the Bayes-net figures out whether this  actually  now means - ?	0
 Uh w- that's a s- O_K, so that's a - that's a  separate  issue. So I a- I I th- I agree with you that, um, it's a disaster to try to make separate constructions for every	1
 Slightly different.	0
 O_K.	0
-uh, [MASK]	0
-[MASK] although there are  some  that will need to  be  there.	1
+uh, pragmatic	1
+reading, although there are  some  that will need to  be  there.	1
 Mm-hmm.	0
 Good.	0
 Mm-hmm.	0
 Right.	0
 Right.	0
 I mean, there- there's some that -	0
-Or have every construction list all the possible [MASK] of the same one.  Right.	0
+Or have every construction list all the possible pragmatic implications of the same one.  Right.	0
 You can't do that either. Yeah.	0
 But, you know, c- um - almost certainly "can you pass the salt" is a construction worth	0
 Yeah.	0
@@ -472,8 +472,8 @@ Exactly. Yeah.	0
 Might be, yeah.	0
 And I guess, see, the more  important  thing at  this  stage is that we should be able to know how we would handle it in ei-	0
 f- in the  short  run it's more important to know	1
-how we would treat -	0
-technically what we would do if we decided A_ and what we would do if we decided B_, than it is t- to decide A_ or B_ r-	0
+how we would treat -	1
+technically what we would do if we decided A_ and what we would do if we decided B_, than it is t- to decide A_ or B_ r-	1
 Right.	0
 O_K, right.	0
 Right.	0
@@ -490,35 +490,35 @@ what the two alternatives would  be.	0
 O_K.	0
 And then the-  we had another idea floating around	0
 um, which we wanted to, uh, get your input on, and that concerns the -	0
-But the  nice  thing is w- we  would  have a person that would like to  work  on it, and that's Ir- Irina  Gurevich   from [MASK]  who is going to be visiting us, uh, the week before, uh, August	1
+But the  nice  thing is w- we  would  have a person that would like to  work  on it, and that's Ir- Irina  Gurevich   from E_M_L  who is going to be visiting us, uh, the week before, uh, August	1
 and a little bit into August.	0
-And she would like to  apply [MASK] that is, um	1
-being crafted at [MASK] That's not the one I sent you. The one I sent you was fr	1
+And she would like to  apply the  ontology that is, um	1
+being crafted at E_M_L. That's not the one I sent you. The one I sent you was from G_M_D, out of a European CRUMPET.	1
 It was terrible.	0
 Agreed.	0
 Um, and one of the reas- one of the - those ideas was,	0
 so,	0
 back to the old Johno observation that if y- if you have a dialogue history  and it said	1
-the word " admission  fee"	0
-was	0
-uh, mentioned	0
+the word " admission  fee"	1
+was	1
+uh, mentioned	1
 um, it's more likely that the person actually wants to  enter   than just take a picture of it	1
 from the outside.	0
 Now what  could  imagine - to, you know, have a list for each construction of things that one should look up in the discourse history, yeah? That's the  really  stupid way.	0
 Then there is the  really  clever  way that was suggested by  Keith   and then there is the, uh,  middle  way that  I'm  suggesting  and that is you - you  get   X_ , which is whatever, the castle.	1
-[MASK] will tell us that castles have opening hours, that they have admission fees, they have whatever.	1
+The ontology will tell us that castles have opening hours, that they have admission fees, they have whatever.	1
 And then, this is - We go via a thesaurus	0
 and look up  certain linguistic surface structures  that are related to these concepts  and feed  those  through the dialogue history and check dynamically	1
 for each e- entity. We look it up	1
-check whether any of these were mentioned	0
-and then activate the corresponding nodes on the discourse	0
+check whether any of these were mentioned	1
+and then activate the corresponding nodes on the discourse	1
 side.	1
 But Keith suggested that a - a much cleaner way would be -  is,   you know, to keep track of the discourse in such a way that you - if you  know  that something like that ha- has been mentioned  before,  this just a- continues to add up, you know, in th- in a -	1
-So if someone mentions admission f- fees, that activates [MASK] which sticks around for a little while in your rep- in the representation of what's being talked about. And then when someone asks "where is X_?" you've already got the -	0
+So if someone mentions admission f- fees, that activates an Enter schema which sticks around for a little while in your rep- in the representation of what's being talked about. And then when someone asks "where is X_?" you've already got the - the Enter schema activated and you're able to - to conclude on it. Yeah.	0
 Mm-hmm.	0
 Kind of a priming	0
 Yeah.	0
-[MASK]	1
+priming a spreading activation	1
 Right.	0
 Yeah. So that's certainly  more  realistic. I m- I mean  psychologically.  Now  technically	0
 Right.	0
@@ -530,22 +530,22 @@ I mean, cuz it would - the - the thread would know what nodes  like, needed to b
 Yeah.	0
 You  could  do that. Um.	0
 But	0
-here's - here's a way - in th- in the bl-  [MASK]  you could - you could  think  about it this way, that if	1
+here's - here's a way - in th- in the bl-  Bayes-net  you could - you could  think  about it this way, that if	1
 um  at the time "admissions fee" was mentioned  you could increase the probability  that someone wanted to  enter.	1
 Turn prior on .	0
 We- yeah - th- th- that's what I wa- I wasn't - I was -	0
-I wasn't thinking in terms of [MASK] I was just -	0
+I wasn't thinking in terms of Enter schemas. I was just -	0
 Fair enough, O_K, but, but, in terms of the c- c- the current implementation - right?	0
 so that	0
 um	0
 It would already be higher in the  context.	0
 th- that th- the - the - the conditional probability that someone -	0
 So at the time you  mentioned  it -	0
-This is - this is essentially [MASK] equivalent	0
+This is - this is essentially the Bayes-net equivalent	0
 Mm-hmm.	0
-of [MASK] It's -	0
+of the spreading activation. It's -	0
 Yeah.	0
-In some ways it's not as good but it's  the implementation we  got.  We don't  have  [MASK]	0
+In some ways it's not as good but it's  the implementation we  got.  We don't  have  a connectionist implementation.	0
 Yeah, sure. No, I mean	0
 Now -	0
 Now my  guess  is that it's  not  a question of time but it	0
@@ -556,9 +556,9 @@ I mean, we could look at dialo- this is - Of course the  other  thing we ha- we 
 Yeah.	0
 which probably will blow all our theories, but -  but skipping that - so - so - but my guess is what - what'll  probably  will happen,	1
 Yeah, right.	0
-Here's a - here's a proposed design.	0
-is that there're certain constructions which, uh, for our purposes do	0
-change [MASK] and various other kinds	1
+Here's a - here's a proposed design.	1
+is that there're certain constructions which, uh, for our purposes do	1
+change the probabilities of EVA decisions and various other kinds	1
 and	0
 th- that	1
 the, uh,  standard  way that - that the- these contexts work is sort of stack-like or whatever, but that's sort of the most recent  thing.	1
@@ -569,8 +569,8 @@ re- re- essentially re-initiali- you know, re-i- essentially re-initialize the  
 Mmm.	0
 Mm-hmm.	0
 And of course i- if we had a  fancier  one with multiple worlds	1
-you could have - uh, you could keep track of what	0
-someone was  uh	0
+you could have - uh, you could keep track of what	1
+someone was  uh	1
 saying about this and that. You know, "I wanna go - in the morning I wanna -"	1
 Yeah.	0
 "Here's my plan for today. Here's my plan for tomorrow." hypothetically.	0
@@ -621,10 +621,10 @@ Yeah.	0
 Now, uh - But I think Ro- Robert's  right,  that to  determine  that,	1
 O_K? you may well want to go through a th- thesaurus and - and -	1
 So, if the issue is, if - so now th- this construction has been matched and you say "O_K.	1
-Does  this actually  have  any  implications  for our  decisions? "	0
-Then there's another piece of code	0
+Does  this actually  have  any  implications  for our  decisions? "	1
+Then there's another piece of code	1
 that presumably   does  that  computation.	1
-So, sort of [MASK] in a way, rather than  backward. O_K.	0
+So, sort of forward chaining in a way, rather than  backward. O_K.	0
 Yeah.	0
 Yeah.	0
 But - but what's  Robert's  saying is - is,	0
@@ -652,9 +652,9 @@ Oh, wel-	0
 Well, the ar- the - The argument is that	0
 you're gonna have the -	0
 If you've recognized the word,	0
-you've recognized the  word,  which means you have [MASK] for it, so you could just as well tag	1
-[MASK] with the fact that it's a	0
-uh, you know, thirty percent increase in	0
+you've recognized the  word,  which means you have a  lexical   construction for it, so you could just as well tag	1
+the lexical construction with the fact that it's a	1
+uh, you know, thirty percent increase in	1
 probability of  entering.	1
 You - So you could - you could - you could invert -  invert  the whole thing, so you s- you tag  that  information on to  the lexicon since you	0
 Mmm.	0
@@ -663,12 +663,12 @@ had to recognize it  anyway.	0
 That  - that's the argument in the other direction.	0
 at - at -	0
 Yeah, and this is -	0
-Even though uh [MASK]	0
-[MASK] itself - out - out of context,	0
+Even though uh the lexical	0
+construction itself - out - out of context,	0
 uh, won't  do  it. I mean, y- you have to keep track whether the person says	0
 "But I- but I'm  not  interested in the opening times"	0
 Yeah.	0
-is sort of a- more [MASK]	0
+is sort of a- more a V_ type.	0
 Yeah there's, yeah ther- there's that as well.	0
 Yep.	0
 Hmm.	0
@@ -679,12 +679,12 @@ uh, we have time to -	0
 This   is  a  s-	0
 just a sidetrack, but uh	0
 I think it's also something that people have not done before, is	1
-um, sort of abuse [MASK] for these kinds of, uh, inferences, on	1
+um, sort of abuse an ontology for these kinds of, uh, inferences, on	1
 whether anything relevant to the current something has been -	1
 uh, has crept up in the dialogue history already, or not.	1
 And, um	0
 I have the, uh -	1
-If we  wanted  to have that  function  in the dialogue hi- [MASK] I have the written consent of   Jan   to put it in there.	1
+If we  wanted  to have that  function  in the dialogue hi- dialogue module of SmartKom, I have the written consent of   Jan   to put it in there.	1
 Good.	0
 O_K.	0
 Well, this - this is highly relevant to someone's thesis.	0
@@ -715,10 +715,10 @@ Oh, right.	0
 Um.	0
 Yeah. So I think  in fact,	0
 That's the other thing.  uh, this is - this is,	1
-speaking of hard problems,  this is a  very  good time	0
-um, to start trying to make explicit where [MASK] comes in and - you know, where c- where the construction	1
+speaking of hard problems,  this is a  very  good time	1
+um, to start trying to make explicit where construal comes in and - you know, where c- where the construction	1
 per- se	0
-ends   and where [MASK] comes in, cuz this is  clearly   part  of th- Huh?	1
+ends   and where construal comes in, cuz this is  clearly   part  of th- Huh?	1
 Mm-hmm.	0
 Mm-hmm.	0
 Yeah, we've - we've done  quite  a bit of that.  We've been doing quite a bit of that.	0
@@ -744,7 +744,7 @@ No,  they're  decisions.   O_K.	0
 Yes.  Excuse me.	0
 Yeah, that -  That's  the point, is - is th-	0
 Yeah.	0
-Constraints.  Let's call them constraints, around which one has to -	1
+Constraints.  Let's call them constraints, around which one has to -	0
 Yeah.	0
 Actually, yeah.  There's a problem with that word, too, though.	0
 Yeah.   Anyway. But so that's that's w-	0
@@ -800,8 +800,8 @@ Good luck.  Really.	0
 Uh	0
 So that, so th- thi- this - I mean, so this is the point, is we - we're going to have to cycle through this, but	0
 Yeah.	0
-th- the draft of the p- proposal on the  constructions  is - is going to tell us a  lot  about  what  we think needs to be done by  [MASK]	0
-O_K.	0
+th- the draft of the p- proposal on the  constructions  is - is going to tell us a  lot  about  what  we think needs to be done by  construal.	0
+O_K.	1
 And, um, we oughta be  doing  it.	0
 Yeah, we need - we need some - Then we need to make some dates.	1
 Um.	0
@@ -811,7 +811,7 @@ I just talked to Ami. It's- it's a coincidence that he  can't  do -  couldn't  d
 @@	0
 Usually, he can.	0
 Usually he has no real constraints. So -	0
-And [MASK] moved to  Wednesday,  cuz of - of, uh	0
+And the N_T_L meeting moved to  Wednesday,  cuz of - of, uh	0
 Yeah, it was just an  exception.	0
 Yeah, you weren't here, but - but - but - s- uh, - And so, if that's O_K with you, you would -	0
 It's i- Is it staying basically at the Wednesday noon?	0
@@ -883,7 +883,7 @@ So.	0
 And the s-	0
 Do you want to meet again here bef-	0
 I mean w-	0
-Is [MASK] still at - on Tuesdays?	0
+Is the Speech-Gen meeting still at - on Tuesdays?	0
 Well, actually we- w- we- we  did  scrap our  Monday  time just because  Bhaskara  couldn't	0
 Hhh.  Maybe I  do  need a Palm Pilot.	0
 come Monday. So there's -  Nothing's  impeding  Monday  anymore   either.	0
@@ -918,7 +918,7 @@ What I think Robert's saying is that	0
 Earlier in the week	0
 earlier we - At least for next week, there's a lot of stuff we want to get done, so why don't we plan to meet Monday and  we'll see if we want to meet any more than that.	1
 Mm-hmm. Yeah.	0
-Mmm.	1
+Mmm.	0
 O_K.	0
 What time?	0
 O_K.	0
@@ -931,7 +931,7 @@ Here I'm  blissfully  agreeing to things and realizing that I actually  do  have
 Sure. Sounds great.	0
 Uh, so that's the eighteenth.	1
 You guys will still remind me, right?	0
-No way!	1
+No way!	0
 Y- you'll come and take all the -  the headph- the good headphones first and  then  remind me.	0
 W- why do you - ?	0
 Yeah, exactly.	0
@@ -974,7 +974,7 @@ O_K, and	0
 we'll -	0
 So the idea is on Monday at two we'll -	1
 You wanna m-	0
-we'll see an intermediate version of the formalism for the constructions, and do an on-line merging with my [MASK]	1
+we'll see an intermediate version of the formalism for the constructions, and do an on-line merging with my construal  ideas.	1
 Yeah.	0
 So that's O_K for you -	0
 Sure, sure.	0
@@ -999,16 +999,16 @@ O_K.	0
 I already sent you my fi-  my bib file. So.	0
 O_K. And, um.	0
 Sounds  good.	0
-Someday we also have to - we should probably talk about the other side of [MASK] which is the issue of, um, how do you simulate questions? What d	1
+Someday we also have to - we should probably talk about the other side of the "where is X_" construction, which is the issue of, um, how do you simulate questions? What does the simspec look like for a question?	1
 Yeah.	0
 Mm-hmm.	0
 Because  it's a little different. We had to - we had an idea for this which seemed like it would  probably  work.	0
 Yeah.	0
 Yeah, now, we- we w-	0
-Great. O_K. Yeah. [MASK] may need - we may n- need to re-name that.	0
+Great. O_K. Yeah. Simspec may need - we may n- need to re-name that.	0
 I - Yeah. I -	0
 Yeah.	0
-O_K? So let's think of a name for - for whatever the - this intermediate structure is. Oh, we talked about  [MASK]	1
+O_K? So let's think of a name for - for whatever the - this intermediate structure is. Oh, we talked about  semspec,  for "semantic spec- specification" and that seems -	1
 Mmm.	0
 Um.	0
 It's more general  @@	0
@@ -1026,8 +1026,8 @@ And, yeah, we absolutely need to find -	0
 Part  of what was  missing  were markings of all  sorts  that weren't in there, incl- including the questions - We didn't - we never did figure out how we were gonna do emphasis	1
 Mm-hmm.	0
 Yeah.	0
-in - in	0
-uh, [MASK]	1
+in - in	1
+uh, the semspec.	1
 Yeah, we've talked a little bit about  that, too, which -	0
 uh, uh, it's hard for me to figure out with  sort of  our general linguistic issues, how they map onto this particular one, but -	0
 Yeah.	0
@@ -1047,30 +1047,30 @@ And I have  not  gotten them out of the way yet. Surprise. So, um.	0
 Mm-hmm.	0
 Yeah.	0
 So, I have not really approached a lot of the data, but I mean obviously like these - the - the question one, since we have this idea about the indefinite pronoun thing and all that, you know, I ca- can try and, um	1
-run with  that,  you know, try and do some of [MASK] now. It would make sense.	1
+run with  that,  you know, try and do some of the sentence constructions now. It would make sense.	1
 O_K. Do you wanna run the indefinite pronoun idea past Jerry?	1
 O_K.	0
 Oh yeah, the basic idea is that um,	0
 uh  you know - Uh,  let's see  if I can  formulate this.	0
 So  Mary fixed the car with a wrench.	0
 Yeah.	0
-So you  perform [MASK]  and then, you know, " who  fixed the car with a wrench?"	1
+So you  perform the mental sum  and then, you know, " who  fixed the car with a wrench?"	1
 You  basically are told, to - to do this	0
 In the - in - analogously to the way you would do " someone  fixed the car with a wrench". And then you hand it back to your hippocampus and find out  what that, you know,	1
 Means.	0
-means, and then  come up with that - so  who  that someone was.	1
+means, and then  come up with that - so  who  that someone was.	0
 The W_H question has this as sort of extra thing which says "and when you're done, tell me who fills that slot" or w- you know. So, um.	1
 Mm-hmm.	0
-And, you know, this is sort of a nice way to do it, the idea of sort of saying that you treat - from the simulation point of view or whatever - you treat, uh, [MASK] similarly to	1
+And, you know, this is sort of a nice way to do it, the idea of sort of saying that you treat - from the simulation point of view or whatever - you treat, uh, W_H constructions similarly to	1
 uh, indefinite pronouns like "someone fixed the car" because  lots of languages, um, have W_H questions with an indefinite pronoun in situ or whatever, and you just get intonation to tell you that it's a question.	1
 Use actually the same one.	0
 Alright, which is	0
 So it makes sense  um	0
-[MASK]	1
+Skolemization.	1
 Hmm?	0
 In - in logic, it's - it's -  @@   it's actual- Huh? What?	0
 Mmm.	0
-Right.  Let's put a Skolem -  [MASK] in, yeah.	0
+Right.  Let's put a Skolem -  Skolem constant in, yeah.	0
 Yeah.	0
 shko-	0
 Sure.	0
@@ -1082,7 +1082,7 @@ Right. No. Of course.	0
 that - that - the logicians have - have, uh -	0
 Mmm.	0
 That's right.	0
-come up with this	1
+come up with this	0
 It makes sense from that point of view, too, which is actually better. So yeah, um.	0
 Anyway, but just that kind of thing and we'll figure out exactly how to write that up and so on, but	1
 Good.	0
@@ -1096,7 +1096,7 @@ Mm-hmm.	0
 Well, if you - if you	0
 do  wanna discuss focus  background	0
 and then	0
-get  me  into that because - I mean, I wo- I w- scientifically worked on that for - for almost two years.	1
+get  me  into that because - I mean, I wo- I w- scientifically worked on that for - for almost two years.	0
 Yeah.	0
 O_K, then certainly we will. Good.	0
 Yeah, you should definitely, um	0
@@ -1129,13 +1129,13 @@ Yeah.	0
 Yeah.	0
 O_K. This is consistent with	1
 And, so.  Right. So.	0
-um	0
+um	1
 the role I had suggested that he - he  play,	1
 Ah.	0
 Mm-hmm.	0
 O_K, which was  that	1
-o- one of the things I would like to see happen	0
-is a paper that was tentatively called "Towards [MASK]"	1
+o- one of the things I would like to see happen	1
+is a paper that was tentatively called "Towards a formal cognitive semantics"	1
 which was addressed to	1
 these linguists  uh  who haven't been following  this stuff at all.	1
 Yeah.	0
@@ -1198,10 +1198,10 @@ Right.	0
 Yeah.	0
 Yeah.   Great. And then we're gon- we're gonna - because of this  other  big thing we haven't talked about is  actually implementing this stuff?	0
 So that I guess the three of us are gonna connect tomorrow about that.	0
-Yeah, we could talk tomorrow.	0
+Yeah, we could talk tomorrow.	1
 I was just gonna say, though, that, for instance, there was - you know, out of a meeting with Johno	1
-came the suggestion that " oh,	0
-could it be that [MASK] really  aren't  used for selection?" which has sort of been implicit  in the parsing  strategy we talked about. In which case we w- we can just say that they're the  effects  or the  bindings.	1
+came the suggestion that " oh,	1
+could it be that the  meaning  constraints really  aren't  used for selection?" which has sort of been implicit  in the parsing  strategy we talked about. In which case we w- we can just say that they're the  effects  or the  bindings.	1
 Right.	0
 Which  uh,  so  far, in terms of like putting up all the constraints as, you know, pushing them into  type  constraints, the - when I've, you know, propo- then proposed it to linguists who  haven't  yet given me - you know, we haven't yet thought of a reason that that wouldn't work.	1
 Right? As long as we allow our type constraints to be reasonably  complex.	1
@@ -1215,7 +1215,7 @@ uh, in your initial matching	0
 Mm-hmm.  Mm-hmm.	0
 then you'll match some things - I mean, I - I d- I don't think there's any way that it could  completely  fail. It - it could be that	0
 uh, you wind up - I mean -	0
-The original  bad  idea of purely [MASK]	0
+The original  bad  idea of purely context-free grammars	0
 died because  there were just  vastly  too many parses.	0
 You know,  exponentially  num- num- many parses. And so th- the  concern  might be that - not that it would  totally  fail, but that -	0
 Mm-hmm.	0

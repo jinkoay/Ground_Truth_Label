@@ -22,41 +22,41 @@ All  today,  huh?	0
 Yeah.	0
 Oh.	0
 Um.	0
-Yeah. So there was this conference call this morning,	0
-um,	0
-and the only topic on the agenda was just to discuss	0
-a- and to	0
+Yeah. So there was this conference call this morning,	1
+um,	1
+and the only topic on the agenda was just to discuss	1
+a- and to	1
 come at -	0
-uh, to get a decision about this latency problem.	0
-No, this - I'm sorry, this is a conference call between different  [MASK]  people or just - ?	0
+uh, to get a decision about this latency problem.	1
+No, this - I'm sorry, this is a conference call between different  Aurora  people or just - ?	0
 Uh, yeah. It's the conference call between the Aurora,  uh, group.	0
 It's the main conference call.	0
 O_K.	0
-Uh, yeah. There were like two hours of  discussions,	0
-and then suddenly,	0
-uh, people were tired, I guess, and they decided on	0
-a number,  two hundred and twenty,	0
+Uh, yeah. There were like two hours of  discussions,	1
+and then suddenly,	1
+uh, people were tired, I guess, and they decided on	1
+a number,  two hundred and twenty,	1
 um,	0
-included e- including everything.	0
+included e- including everything.	1
 Uh, it means that it's like eighty milliseconds  less than before.	0
 Um.	0
 And what are we sitting at currently?	0
-So, currently d- uh, we have system that has two hundred and thirty. So,	0
+So, currently d- uh, we have system that has two hundred and thirty. So,	1
 Yeah .	0
 that's fine.	0
 Two thirty.	0
 Yeah.	0
 So that's the system that's described on the second point of  this  document.	0
 So it's -	0
-we have to reduce it by ten milliseconds somehow.	0
+we have to reduce it by ten milliseconds somehow.	1
 Yeah. But that's - Yeah. That's not a problem, I - I guess.	1
 O_K.	0
 Um.	0
-W-	0
-It's - it's p- d- primary - primarily determined by the [MASK] at this point, right?	0
+W-	1
+It's - it's p- d- primary - primarily determined by the V_A_D at this point, right?	1
 Yeah.	0
 Yeah. At this point, yeah.	0
-S- so we can make the V_A_D a little shorter. That's -	0
+S- so we can make the V_A_D a little shorter. That's -	1
 Yeah, uh-huh.	0
 Yeah. We probably should do that pretty soon so that we don't get used to it being a certain way.	1
 Uh-huh.	0
@@ -77,44 +77,44 @@ Uh, yeah. So,	1
 the second thing is the system that we have currently.	1
 Oh, yes. We have, like, a system that gives sixty-two percent	1
 improvement, but	1
-if you want to stick to the -	0
+if you want to stick to the -	1
 this latency -	1
-Well, it has a latency of two thirty, but	0
-if you want also to stick to the number	0
-of features that - limit it to sixty,	0
-then we go a little bit down but it's still sixty-one percent.	0
-Uh, and if we drop [MASK] then we have fifty-seven percent.	0
-Uh, but th- the two th- two thirty includes [MASK]	0
+Well, it has a latency of two thirty, but	1
+if you want also to stick to the number	1
+of features that - limit it to sixty,	1
+then we go a little bit down but it's still sixty-one percent.	1
+Uh, and if we drop the tandem network, then we have fifty-seven percent.	1
+Uh, but th- the two th- two thirty includes the tandem network?	1
 Yeah.	0
 O_K.	0
-And i- is [MASK] uh, small enough that it will fit on the terminal size in terms of - ?	0
-Uh, no, I don't think so.	0
+And i- is the tandem network, uh, small enough that it will fit on the terminal size in terms of - ?	1
+Uh, no, I don't think so.	1
 No.	0
 No.	0
 O_K.	0
-It's still - in terms of computation, if we use, like, their way of computing the -	0
-the maps - the - [MASK]	0
+It's still - in terms of computation, if we use, like, their way of computing the -	1
+the maps - the - the MIPs,	1
 Mm-hmm.	0
 Mm-hmm.	0
 I think it fits, but it's, uh, m- mainly a problem of memory.	1
 Right.	0
 Um,	0
 and I don't know how much  this can be discussed or not,	1
-because it's - it could be in [MASK] so it's maybe not that expensive. But -	1
-Ho- how much memory d- ? H- how many - ?	0
+because it's - it could be in ROM, so it's maybe not that expensive. But -	1
+Ho- how much memory d- ? H- how many - ?	1
 I d- I d- uh, I - I don't kn- remember exactly, but -	1
 Uh. Yeah, I c- I - I have to check that.	0
-Yeah. I'd like to  see that, cuz maybe I could	0
-think a little bit about it, cuz we-	0
-maybe we could make it a little smaller or - I mean, it'd be - it'd be neat if we could fit it all.	0
+Yeah. I'd like to  see that, cuz maybe I could	1
+think a little bit about it, cuz we-	1
+maybe we could make it a little smaller or - I mean, it'd be - it'd be neat if we could fit it all.	1
 Uh-huh.	0
-Uh, I'd like to see how far off	0
+Uh, I'd like to see how far off	1
 Mm-hmm.	0
-we are.	0
-But I guess it's still within their rules to have -	0
-have it	0
-on the, uh,	0
-t- uh, server side. Right?	0
+we are.	1
+But I guess it's still within their rules to have -	1
+have it	1
+on the, uh,	1
+t- uh, server side. Right?	1
 Yeah.	0
 Yeah.	0
 O_K.	0
@@ -126,8 +126,8 @@ Yeah, there were small tricks to make this tandem network work.	1
 Uh,	0
 mmm,	0
 and one of the trick was to,	1
-um, use	0
-some kind of hierarchical structure where  the silence probability is not computed by  the final [MASK] but by th	1
+um, use	1
+some kind of hierarchical structure where  the silence probability is not computed by  the final tandem network but by the V_A_D network.	1
 Um,	0
 so apparently it looks better when,	1
 uh, we use the silence probability from the V_A_D network	1
@@ -182,9 +182,9 @@ Mmm -	0
 Are you - you were going to say why - what made you -	0
 wh- what led you to do that.	0
 Yeah. Uh, there was a p-	1
-problem that we observed,	0
-um,	0
-that there was - there were, like,	0
+problem that we observed,	1
+um,	1
+that there was - there were, like,	1
 many insertions in the - in the system.	1
 Mm-hmm.	0
 Mmm.	0
@@ -245,7 +245,7 @@ features that are more	0
 suited to	0
 a voice activity detection.	0
 Working on the second stream. Of course we have ideas on this also, but -	0
-w- we need to try different things and -	1
+w- we need to try different things and -	0
 Uh, but their noise estimation, um -	0
 uh -	0
 I mean, back on the second stream, I mean, that's something we've talked about for a while. I mean,	0
@@ -271,7 +271,7 @@ that -	0
 that, uh,	0
 Mm-hmm.	0
 might be good.	0
-Mmm.	1
+Mmm.	0
 Yeah.	0
 Um -	0
 Yeah, and the other thing,  that  noise estimation and th- um,	0
@@ -283,10 +283,10 @@ um,	0
 try to  argue   about that because	0
 then in some cases we have the same noises in - for training the network  than the noises that are used for testing, and -	0
 Right.	0
-So we have t- n-	1
+So we have t- n-	0
 uh, to try to get rid of these -	0
 Yeah. Maybe you just put in some  other  noise, something that's different.	0
-this problem.	1
+this problem.	0
 Mm-hmm.  Yeah.	0
 I mean, it - it's probably helpful to have - have a little noise there.	0
 Uh-huh.	0
@@ -312,19 +312,19 @@ Yeah.	0
 Getting close.	0
 it's just one subject, but -	0
 but  still,  uh,	1
-what happens is - is that,	0
-uh, the digit error rate	0
+what happens is - is that,	1
+uh, the digit error rate	1
 on this is around one percent,	1
 Yeah.	0
 while our system is currently at seven percent.	1
 Um, but what happens also is that if	1
-I listen to the, um -	0
-a re-synthesized version of	0
+I listen to the, um -	1
+a re-synthesized version of	1
 the speech	1
-and  I re-synthesized this using a white noise that's filtered by [MASK]	1
+and  I re-synthesized this using a white noise that's filtered by a L_P_C,	1
 Yeah.	0
 uh, filter -	1
-Um,	0
+Um,	1
 well, you can  argue,   that, uh - that this is not speech, so the ear is not	1
 Yeah.	0
 trained to recognize this. But s- actually it sound like  whispering, so we are -	1
@@ -332,20 +332,20 @@ Well, I mean, it's -	0
 eh -	0
 There's  two  problems there. I mean - I mean, so - so the first is	1
 Uh-huh.	0
-that by doing L_P_C-twelve with synthesized speech w- like you're saying, uh, it's -	0
+that by doing L_P_C-twelve with synthesized speech w- like you're saying, uh, it's -	1
 i- i- you're - you're adding other degradation.	1
 Right? So it's not just the noise but you're adding in fact some degradation because it's only an approximation.	1
 Um,	0
 and the  second  thing is - which is	1
-m- maybe more  interesting  -	0
-is that, um,	0
-if you do it with  [MASK]	0
+m- maybe more  interesting  -	1
+is that, um,	1
+if you do it with  whispered  speech,	1
 you get this number.	1
 What if you had  done analysis  re-synthesis and taken the  pitch  as  well?	1
 Alright? So now you put the pitch  in.	1
 Uh-huh.	0
 What would the percentage be  then?	1
-Um -	1
+Um -	0
 See,  that's  the question.	1
 So, you see, if it's - if it's -	0
 if it's, uh - Let's say it's  back down to one percent again.	0
@@ -361,7 +361,7 @@ You know?	0
 Uh-huh.	0
 So I- I- I'm not sure -	0
 I'm not sure how we can conclude from this anything about - that our system is close to	0
-Ye-	1
+Ye-	0
 Yeah. Well, the point is that  eh- l- ey-  - the point is that, um,	0
 the human performance.	0
 what I - what I listened to when I re-synthesized the L_P- the L_P_C-twelve  spectrum	0
@@ -373,7 +373,7 @@ That's what we do with our system.	0
 And	0
 Well, you're not doing the L_P_C - I mean, so - so what if you did a -	0
 in this case -	0
-Well, it's not L_P_C, sure, but -	1
+Well, it's not L_P_C, sure, but -	0
 What if you did L_P_C-twenty?	0
 L_P_C - ?	0
 Twenty.	0
@@ -384,7 +384,7 @@ representation of speech.	1
 Mm-hmm.	0
 So, all I'm saying is that you have in addition to the w- the,	0
 uh, removal of pitch,	0
-Mm-hmm.	1
+Mm-hmm.	0
 you also are doing,	0
 uh, a particular parameterization,	0
 which, um,	0
@@ -406,7 +406,7 @@ couldn't you, um,	0
 test the human performance on just the original  audio?	0
 This is the one percent number.	0
 Yeah, it's one percent. He's trying to remove the pitch information	0
-Mm-hmm.	1
+Mm-hmm.	0
 Oh, oh. O_K, I see.	0
 Mm-hmm.	0
 and make it closer to what - to what we're seeing as the feature vectors.	0
@@ -458,7 +458,7 @@ also the - the pitch	0
 that, uh,	0
 @@	0
 has the information that  people  can use, anyway."	0
-Mmm.	1
+Mmm.	0
 But from  this  it's pretty safe to say that	0
 the system is with- either	0
 two to seven percent	0
@@ -509,10 +509,10 @@ Yeah. I mean, it's probably not worth your  time.  It's - it's a side thing and 
 Uh-huh, yeah.	0
 Mm-hmm.	0
 that's what I would wanna  test.	0
-Uh, I wan- would wanna drive it with a - a - [MASK] rather than a - th	0
+Uh, I wan- would wanna drive it with a - a - a two-source system rather than a - than a one-source system.	0
 Mm-hmm.	0
 Mm-hmm.	0
-And then that would  tell  you whether in fact it's -  Cuz we've talked about, like, this [MASK] or	0
+And then that would  tell  you whether in fact it's -  Cuz we've talked about, like, this harmonic tunneling or	0
 other things that people have done based on pitch,	0
 maybe that's  really  a key element.	0
 Maybe - maybe, uh,	0
@@ -539,7 +539,7 @@ Yeah.	0
 Um.	0
 Yeah, that's it.	0
 Yeah. That  look-	0
-Yeah.	1
+Yeah.	0
 That's - that's - I mean, one - one percent is sort of what I would -	0
 I would figure.	0
 If somebody was	0
@@ -567,21 +567,21 @@ Well, yeah. These numbers, I mean.	0
 Mmm.	0
 Good.	0
 Um, while we're still on Aurora stuff  maybe you can	1
-talk a little about the	0
-status with the, uh,	0
+talk a little about the	1
+status with the, uh,	1
 Wall Street Journal  things for it.	1
 So I've, um, downloaded,	1
-uh,	0
+uh,	1
 a couple of things from Mississippi State.	1
 Um, one is their	0
 software - their,	0
-uh, [MASK]	0
+uh, L_V_C_S_R system.	0
 Downloaded the latest version of that.	0
 Got it compiled and everything.	0
 Um, downloaded	0
 the scripts. They wrote some scripts that sort of make it easy to run	1
-the system on the Wall Street Journal,	0
-uh,	0
+the system on the Wall Street Journal,	1
+uh,	1
 data.	1
 Um,	1
 so I haven't run the scripts yet.	1
@@ -594,7 +594,7 @@ they -	0
 on their web site they, uh, did this little  table  of where their system performs relative to	0
 other systems that have done this - this task.	0
 And, um, the Mississippi State system	0
-using [MASK]	0
+using a bigram grammar,	0
 uh, is at about eight point two percent.	0
 Other comparable systems from,	0
 uh -	0
@@ -628,7 +628,7 @@ So -	0
 W- what's - what's some of the lower error rates on - on - on -	0
 uh, some of the  higher  error rates on, uh,	0
 some of these w- uh, uh,	0
-highly mismatched difficult conditions? What's a - ?	1
+highly mismatched difficult conditions? What's a - ?	0
 Uh. Yeah, it's around fifteen to twenty percent.	0
 Correct?	0
 And the baseline, eh -	0
@@ -656,7 +656,7 @@ So.	0
 Yeah.	0
 So, yeah, that's probably what it is then.	0
 Yeah. So they have a lot of different conditions that they're gonna be filling  out .	0
-It's a  bad  sign when you - looking at the numbers, you can't tell whether it's accuracy or error rate.	1
+It's a  bad  sign when you - looking at the numbers, you can't tell whether it's accuracy or error rate.	0
 Yeah.	0
 Yeah. It's - it's gonna be hard.	0
 Um,	0
@@ -670,7 +670,7 @@ But their s-	0
 Uh -	0
 I beli-  Yes,  for the training  also.	0
 O_K.	0
-And, um, they're supposed to be coming out with it any time, the multi-C_P_U one.	0
+And, um, they're supposed to be coming out with it any time, the multi-C_P_U one.	1
 O_K.	0
 So, as soon as they get that, then I'll - I'll grab those too and so w-	1
 Yeah. Cuz we have to get started, cuz it's - cuz, uh,	1
@@ -678,7 +678,7 @@ Yeah.	0
 Yeah. I'll go ahead and try to run it though with just the single C_P_U one, and - I - they - they,	1
 if the -	0
 um, released like a  smaller  data set that you can use that only takes like sixteen hours to train and stuff.	1
-So I can - I can run it on that just to make sure that the -	0
+So I can - I can run it on that just to make sure that the -	1
 Oh! Good.	0
 Yeah.	0
 the thing works and everything.	1
@@ -732,7 +732,7 @@ anyway.	0
 Yeah. I'm - I'm wondering about that because	0
 there's this whole issue about,	0
 you know,	0
-simple [MASK] like word insertion penalties.	0
+simple tuning parameters, like word insertion penalties.	0
 Mm-hmm.	0
 And  whether or not those are	0
 going to be tuned or not, and -	0
@@ -765,13 +765,13 @@ Uh, he's been putting this stuff out on their web site and - for people to grab 
 I haven't heard too much about	0
 what's happening.	0
 So it  could  be - I mean, Chuck and I had actually talked about this a couple times, and - and - over some lunches, I think,	1
-that, um,	0
+that, um,	1
 one thing that we might wanna do -	1
 The- there's this question about, you know, what do you wanna scale?	1
-Suppose y- you  can't  adjust	0
-these [MASK] and so forth, so you have to do everything at the level of the features. What could you do?	1
+Suppose y- you  can't  adjust	1
+these word insertion penalties and so forth, so you have to do everything at the level of the features. What could you do?	1
 And, uh, one thing I had suggested at an earlier time was maybe some sort of scaling, some sort of root or - or something of	1
-the, um,	0
+the, um,	1
 uh,  features.	1
 But the problem with that is that isn't  quite  the same, it occurred to me later,	1
 because what you really want to do is scale the,	1
@@ -805,7 +805,7 @@ at the other end. So,	0
 um,  my thought was maybe - I mean, they're  not  used as probabilities,	0
 but	0
 the log probabilities -	0
-we're taking advantage of the fact that something like [MASK] has more of a Gaussian shape than Gaus- than	0
+we're taking advantage of the fact that something like log probabilities has more of a Gaussian shape than Gaus- than	0
 probabilities, and so we can model them better. So,  in a way we're	0
 taking advantage of the fact that they're probabilities, because	0
 they're this  quantity  that	0
@@ -841,10 +841,10 @@ uh,	0
 decides that - that -	0
 Well, we can probably use the  real  thing, can't we? And then jus- just, uh,	0
 Yeah. Oh, yeah.	0
-use it on a [MASK] or something.	0
+use it on a reduced test set or something.	0
 That's true.	0
 Yeah.	0
-And then we just use that to determine some  [MASK] that we use.	0
+And then we just use that to determine some  scaling  factor that we use.	0
 Yeah. So I mean, I- I think that that's a reasonable thing to do and the only question is what's the actual knob that we use? And the knob that we use should -	0
 Mm-hmm.	0
 uh, uh, unfortunately, like I say, I don't know the analytic solution to this cuz what we really want to do is change the scale of the likelihoods, not the cha- not the scale of the -	0
@@ -856,17 +856,17 @@ Yeah.	0
 Out of curiosity, what - what kind of recognizer  is the one from Mississippi State?	0
 Uh, w- what do you mean when you say "what kind"?	0
 Is it - ?	0
-Um, is it like a  [MASK]	0
+Um, is it like a  Gaussian mixture model?	0
 Yeah.	0
 Gaussian mixture model.	0
 O_K.	0
-It's the same system that they use  when they participate in [MASK] It's a,	0
+It's the same system that they use  when they participate in the Hub-five evals. It's a,	0
 um -	0
 sort of  came out of, uh -	0
-uh, looking a lot like [MASK] I mean, they started off with - um, when they were building their system they were always comparing to H_T_K to make sure they were getting similar results. And so,	0
-it's [MASK]	0
+uh, looking a lot like H_T_K. I mean, they started off with - um, when they were building their system they were always comparing to H_T_K to make sure they were getting similar results. And so,	0
+it's a Gaussian mixture system,	0
 uh -	0
-Do they have the same sort of [MASK] sort of procedure, where they	0
+Do they have the same sort of mix-down sort of procedure, where they	0
 start off with a small number of some things and - ?  Yeah.	0
 I don't know.	0
 Yeah. And then  divide the mixtures in half. I don't know if they do that. I'm not really sure.	0
@@ -888,7 +888,7 @@ They're - they're trying to put in sort of all of the  standard  features	0
 that people use nowadays.	0
 Mm-hmm.	0
 So the other, uh, Aurora thing maybe is - I- I dunno if any of this is gonna	0
-come in in time to be relevant, but, uh, we had talked about, uh,  [MASK]	0
+come in in time to be relevant, but, uh, we had talked about, uh,  Guenter	0
 playing around,	0
 uh,	0
 Mm-hmm.	0
@@ -899,26 +899,26 @@ uh,  it  wasn't going to work for him to do C_V_S.	0
 Yeah.	0
 Yeah. So now he has a version of the software.	0
 So he just has it all sitting there. Yeah.	0
-Yeah. Um -  Mm-hmm.	1
+Yeah. Um -  Mm-hmm.	0
 So if he'll -	0
 he might work on improving the noise estimate  or on	0
 some histogram things, or -	0
-Yeah. Mm-hmm.	1
-Yeah. I just saw [MASK] - We - we didn't talk about it at our meeting but I just saw the - just read the paper.	0
+Yeah. Mm-hmm.	0
+Yeah. I just saw the Eurospeech - We - we didn't talk about it at our meeting but I just saw the - just read the paper.	0
 Someone, I forget the name,  and - and Ney, uh, about histogram	0
-[MASK]	0
+equalization?	0
 Did you see that one?	0
 Um, it was a  poster.  Or -	0
 Yeah. I mean, I just read the paper. I didn't see the poster.	0
 Yeah.	0
 Yeah.	0
 Um -	0
-It was something  similar to n-  on-line normalization finally - I mean, in  the idea of - of normalizing -	1
+It was something  similar to n-  on-line normalization finally - I mean, in  the idea of - of normalizing -	0
 Yeah. But it's a little more - it - it's a little finer, right? So they had like ten quantiles and -	0
 Yeah.	0
 Right.	0
 and they adjust the distribution. So you - you have the distributions from the training set,	0
-N-	1
+N-	0
 and then, uh -	0
 So this is just a - a histogram of - of	0
 the  amplitudes,  I guess. Right? And then -	0
@@ -931,8 +931,8 @@ you adjust it so that the histogram of the  new  data looks like the  old  data.
 uh,  some  kind of piece-wise approximation. They did a -	0
 uh  one version that was piece-wise linear and another that had a power law thing between  them   -	0
 between the  points. And, uh,	0
-they said they s- they sort of see it in a way as s- for the speech case  - as being kind of [MASK] in a way, because, you know, in spectral subtraction you're trying to	1
-get rid of this excess energy. Uh, you know, it's not supposed to be there.	1
+they said they s- they sort of see it in a way as s- for the speech case  - as being kind of a generalization of spectral subtraction in a way, because, you know, in spectral subtraction you're trying to	0
+get rid of this excess energy. Uh, you know, it's not supposed to be there.	0
 Uh -  and, uh, this is sort of   adjusting it for - for a  lot  of different levels. And then they have s- they have some kind of,	0
 uh,  a floor or something, so if it gets too low you don't -	0
 Hmm.	0
@@ -950,9 +950,9 @@ One -	0
 So, one histogram per frequency bin.	0
 One per critical -	0
 Yeah, I guess.	0
-But I should read the paper. I just went  through the poster quickly, and I didn't -	1
+But I should read the paper. I just went  through the poster quickly, and I didn't -	0
 And that's -	0
-Yeah. And I don't remember whether it was  filter bank things or whether it was [MASK] or -	1
+Yeah. And I don't remember whether it was  filter bank things or whether it was F_F_T bins or -	0
 So th-	0
 Oh.	0
 Huh.	0
@@ -989,10 +989,10 @@ Cuz we - you know, one thing that w- that,	0
 Mm-hmm.	0
 uh, Stephane and Sunil seemed to find,	0
 uh, was, you know, they could actually make a unified piece of software that handled a  range  of different things that people were talking about, and it was really just sort of setting of different  constants.	0
-And it would turn, you know, one thing into another. It'd turn [MASK] int	0
+And it would turn, you know, one thing into another. It'd turn Wiener filtering into spectral subtraction, or whatever.	0
 But there's other things that we're  not  doing. So, we're  not  making any use of pitch,	0
 uh, uh, which again, might - might be important,	0
-uh, because the stuff between the harmonics is probably a [MASK] And - and the,	0
+uh, because the stuff between the harmonics is probably a schmutz. And - and the,	0
 uh, transcribers will have fun with that.	0
 Uh -	0
 And, um,	0
@@ -1012,12 +1012,12 @@ I dunno. I don't have feedback from him, but	0
 Yeah.	0
 I guess he's gonna, maybe -	0
 Well, he's  got  it anyway, so he  can.	0
-Yeah.	1
+Yeah.	0
 Uh-huh.	0
 So potentially if he came up with something that was useful, like a diff- a better noise estimation module or something, he could ship it to you guys  u-  up there and	0
 Yeah.	0
 we could put it in.	0
-Mm-hmm.  Mm-hmm.	1
+Mm-hmm.  Mm-hmm.	0
 Yeah.	0
 Yeah. So,	0
 that's good.	0
@@ -1033,14 +1033,14 @@ and then Barry can say something about  what  - what we're talking about.	0
 O_K.	0
 So Michael Kleinschmidt, who's a P_H_D student from Germany,	1
 showed up  this  week. He'll be here for about six months. And he's done some work using	1
-an  auditory  model	0
-of, um,	0
+an  auditory  model	1
+of, um,	1
 human hearing,	1
 and  using that f- uh, to generate speech recognition features.	1
 And  he did  work back in Germany	1
-with, um, a  toy  recognition system	0
-using, um, isolated	0
-digit recognition  as the task. It was actually just [MASK]	1
+with, um, a  toy  recognition system	1
+using, um, isolated	1
+digit recognition  as the task. It was actually just a  single-layer   neural  network	1
 that classified words - classified digits,	0
 in fact.	0
 Um, and  he tried that on - I  think  on some Aurora data and got results that he thought  seemed respectable. And	0
@@ -1051,14 +1051,14 @@ maybe I should say a little more about these features,	0
 although I don't understand them  that  well.	0
 The - I think it's a two-stage idea. And, um,	0
 the first stage of these features	0
-correspond to what's called the [MASK]	0
+correspond to what's called the peripheral  auditory system.	0
 And	0
 I guess  that  is like	0
-a filter bank with [MASK]	0
+a filter bank with a compressive nonlinearity.	0
 And	0
 I'm- I'm not sure  what  we have	0
 @@   in  there that isn't already modeled in something like,	0
-um,  [MASK] I should learn more about that.	0
+um,  P_L_P. I should learn more about that.	0
 And then	0
 the  second  stage  is, um,	0
 the  most  different thing, I think, from what we usually do. It's, um -	0
@@ -1069,7 +1069,7 @@ sort of like based on diffe- different w- um, wavelet basis functions	0
 used to analyze	0
 the input.	0
 @@	0
-So th- he uses analysis functions called  [MASK]	0
+So th- he uses analysis functions called  Gabor functions,	0
 um,  which have a certain	0
 extent, um,	0
 in time and in frequency.	0
@@ -1093,11 +1093,11 @@ and, um, some which have a lot  shorter,  and	0
 so it would be like  a set of  multi-scale  features.	0
 So he's interested in, um -	0
 Th- this is -  because  it's, um - there are these different parameters for the shape of these	1
-basis functions,	0
-um -	0
+basis functions,	1
+um -	1
 there are a  lot  of different possible basis functions. And so he -	1
-he actually does	0
-an optimization procedure to choose an -	0
+he actually does	1
+an optimization procedure to choose an -	1
 an optimal set of basis functions out of all the possible ones.	1
 Hmm.  H-	0
 What does he do to choose those?	0
@@ -1110,24 +1110,24 @@ I mean, he t- he tries, um,	1
 using  just M_ minus one of them.	1
 So there are M_ possible subsets of this	1
 length-M_ vector.  He tries classifying, using each of the M_	1
-Hmm.	1
+Hmm.	0
 possible  sub-vectors.	1
 Whichever sub-vector,	1
-um,	0
-works the -	0
-the  best,  I guess, he says -	0
+um,	1
+works the -	1
+the  best,  I guess, he says -	1
 Y- yeah.	0
-the - the fe- feature  that  didn't use	0
+the - the fe- feature  that  didn't use	1
 Gets thrown out.	0
 was the most useless feature,	1
 Yeah.	0
 so we'll throw it out and we're gonna randomly select	1
-another feature	0
+another feature	1
 from the set of possible basis functions.	1
 Hmm!	0
 Yeah.  So i- so it's actuall-	0
 So it's a -	0
-it's a  little  bit like [MASK] or something in a way.	0
+it's a  little  bit like a genetic algorithm or something in a way.	0
 It's like a greedy -	0
 Well, it's - it's much simpler. But it's - but it's - uh, it's - there's a lot - number of things I like about it, let me just say.	0
 Greedy.	0
@@ -1141,27 +1141,27 @@ m- maybe a bit more  systematic  than what we've done,	0
 uh, and a b- a  bit  more inspiration from - from auditory things. So it's - so I think it's a neat thing to try.	0
 The  primary  features,	0
 um,  are  in fact -	0
-Yeah, essentially, it's - it's, uh, you know, [MASK] or -	0
+Yeah, essentially, it's - it's, uh, you know, P_L_P or - or mel cepstrum, or something like that. You've - you've got some,	0
 uh,  compression.  We always have some compression. We always have some - you know, the - the -	0
 the kind of filter bank with a kind of	0
-[MASK]	0
-Um,  if you put in - if you also include the  [MASK]  in it - i- RASTA - the filtering being done in the log domain	0
+quasi-log scaling.	0
+Um,  if you put in - if you also include the  RASTA  in it - i- RASTA - the filtering being done in the log domain	0
 has an A_G_C-like, uh, characteristic, which, you know, people typi- typically put in these kind of,	0
 uh,  um,	0
 uh, auditory front-ends. So it's very, very similar,	0
 uh, but it's not exactly the same.	0
 Um,	0
-I would agree that the second one is - is  somewhat  more different but,	1
+I would agree that the second one is - is  somewhat  more different but,	0
 um, it's  mainly  different in that the things that we have been  doing   like that	0
 have been -	0
 um,	0
 had a different kind of motivation and have ended up with different kinds of constraints.	0
-So, for instance, if you look at [MASK] stuff,	0
-you know,  basically  what they do is they - they look at the different [MASK] out of the L_D_A and they form filters out of it. Right?	0
+So, for instance, if you look at the L_D_A RASTA stuff,	0
+you know,  basically  what they do is they - they look at the different eigenvectors out of the L_D_A and they form filters out of it. Right?	0
 And those   filters  have different, uh, kinds of temporal extents and temporal characteristics.	0
 And so in fact they're multi- scale.	0
 But, they're not sort of systematically multi-scale, like "let's start here and go to there, and go to there, and go to there", and so forth. It's more like,	0
-you run it on this, you do [MASK] and you find out what's helpful.	0
+you run it on this, you do discriminant analysis, and you find out what's helpful.	0
 I- it's multi-scale because you use several of these in parallel, is that right? Of -	0
 @@	0
 Yeah. They use several of them. Yeah.	0
@@ -1178,31 +1178,31 @@ the  feature  selection thing, it's a  simple  method,	0
 but I kinda  like  it. Um,	0
 there's a -  a old, old method for feature selection. I mean,	0
 eh, uh, I remember people referring to it as old when I was playing with it twenty years ago, so I know it's pretty old,	0
-uh, called [MASK] in which you - which - I think it's used in social sciences a lot.	0
+uh, called Stepwise Linear Discriminant Analysis in which you - which - I think it's used in social sciences a lot.	0
 So, you - you - you - you pick the best feature.	0
 And then	0
 you take - y- you find the next feature that's the best in  combination  with it.	0
 And then so on and so on.	0
 And what - what  Michael's  describing seems to me  much,  much  better,	0
 because the  problem  with the stepwise discriminant analysis is that you don't know that - you know, if you've  picked the right	0
-set of features. Just because something's a good feature doesn't mean that you should be  adding  it. So,	1
+set of features. Just because something's a good feature doesn't mean that you should be  adding  it. So,	0
 um,	0
-uh,  here  at least you're starting off with  all  of them,  and you're  throwing out  useless  features. I think that's - that seems, uh -  that seems like a lot better idea.	1
+uh,  here  at least you're starting off with  all  of them,  and you're  throwing out  useless  features. I think that's - that seems, uh -  that seems like a lot better idea.	0
 Uh, you're  always  looking at things in combination with other features.	0
 Um,	0
 so the only thing is, of course, there's this - this	0
 artificial question of - of, uh,	0
 exactly how you -	0
 how you a- how you assess it and if - if your order had been different in throwing them out.	0
-I mean, it still isn't necessarily really  optimal,  but it seems like a pretty good heuristic.	1
+I mean, it still isn't necessarily really  optimal,  but it seems like a pretty good heuristic.	0
 Hmm.	0
 So I th- I think it's - it's - I think it's kinda neat stuff. And - and - and, uh,	1
 the thing that  I  wanted to - to add to it also was to have us use this in a multi-stream way.	1
 Hmm.	0
 Um,	0
 so - so that, um,	1
-when you come up with these different things,	0
-and these different functions,	0
+when you come up with these different things,	1
+and these different functions,	1
 you don't necessarily just put  them   all into one huge vector,	1
 but perhaps  you	1
 have some of  them   in one stream and some of  them   in another stream, and so forth.	1
@@ -1210,8 +1210,8 @@ And, um,	0
 um,	0
 um -	0
 And we've also talked a little bit about, uh,	0
-uh, Shihab Shamma's stuff, in which	1
-you - the way you look at it is that there's these different mappings and some of them emphasize, uh,  [MASK]	1
+uh, Shihab Shamma's stuff, in which	0
+you - the way you look at it is that there's these different mappings and some of them emphasize, uh,  upward  moving,	0
 uh, energy and fre- and frequency. And some are emphasizing  downward  and	0
 fast  things and  slow  things and -	0
 and  so forth. So.	0
@@ -1232,7 +1232,7 @@ So, like, if we have,	0
 Hmm .	0
 um -	0
 we have our - we have our RASTA features and -	0
-and  presumably  [MASK] are - are learning some sort of a nonlinear mapping,	0
+and  presumably  the neural nets are - are learning some sort of a nonlinear mapping,	0
 uh, from the - the - the features	0
 to - to this - this  probability  posterior space.	0
 Mm-hmm.	0
@@ -1247,7 +1247,7 @@ the, uh,  um,  the  best  features,	0
 you know, you can take out -  you can  do the - do this, uh, brain surgery by taking out,  um,  hidden  units that don't really help at all. And this is k- sorta like -	0
 Mm-hmm.	0
 Or the - or  features.	0
-Right?	1
+Right?	0
 I mean, y- actually, you make me think a - a very important  point  here is that, um,	0
 Yeah.	0
 if we a- again try to look at how is this different from what we're already  doing,	0
@@ -1260,7 +1260,7 @@ that, uh, in fact is  combining  over time and frequency,	0
 and is coming up with its own - you know,  better  than Gabor functions  - its, you know,  neural  net functions, its -   whatever it finds to be  best.	0
 Mm-hmm.	0
 @@	0
-Um, so you could argue that in fact it -  But I - I don't actually  believe  that argument because I know that, um,	1
+Um, so you could argue that in fact it -  But I - I don't actually  believe  that argument because I know that, um,	0
 you can, uh -	0
 computing features is useful,	0
 even though	0
@@ -1270,8 +1270,8 @@ You know, uh, if you've - you've processed it in some way you've typically lost 
 you've  lost  information and yet it does  better	0
 with -  with features than it does with the waveform. So,	0
 uh, I - I know that i- sometimes it's useful to -	0
-to  constrain  things. So that's	1
-why it really seems like the  constraint  - in - in  all  this stuff it's the constraints that  are  actually what matters.	1
+to  constrain  things. So that's	0
+why it really seems like the  constraint  - in - in  all  this stuff it's the constraints that  are  actually what matters.	0
 Because if it wasn't  the constraints that mattered, then we would've  completely  solved this problem long  ago,  because long  ago  we already knew how to put waveforms into powerful statistical mechanisms.	0
 So.	0
 Yeah. Well, if we had infinite processing power and  data,	0
@@ -1297,13 +1297,13 @@ So maybe just briefly, uh -	0
 Well, that sort of  segues  into  what - what  I'm  doing.	1
 Yeah.	0
 Um,	1
-so, uh, the big picture is k-	0
-um,  come up with a set of,	0
-uh, intermediate categories, then build intermediate [MASK] then do  recognition,	1
+so, uh, the big picture is k-	1
+um,  come up with a set of,	1
+uh, intermediate categories, then build intermediate category classifiers, then do  recognition,	1
 and, um, improve speech recognition in that way.	0
 Um, so right now I'm in - in the phase where  I'm looking at - at, um, deciding on a initial set of intermediate categories. And	1
-I'm looking  for data- data-driven	0
-methods that can help me find,	0
+I'm looking  for data- data-driven	1
+methods that can help me find,	1
 um, a set of intermediate categories  of speech that, uh, will help me to discriminate  later down the line.	1
 And  one  of the ideas,  um, that was to take a - take a  neural  net -	1
 train - train an ordinary neural net	1
@@ -1350,13 +1350,13 @@ Um.	0
 Yeah, so - so that's the - that's the first part - uh, one - one of the ideas to get at some -	0
 some  patterns  of intermediate categories.	0
 Um,  the other one  was,	1
-um, to,	0
-uh, come up with a - a - a model -  um, a graphical model,	0
-that treats  [MASK]	0
-as  hidden  - [MASK] that we don't know anything  about,	1
+um, to,	1
+uh, come up with a - a - a model -  um, a graphical model,	1
+that treats  the intermediate categories	1
+as  hidden  - hidden variables, latent variables, that we don't know anything  about,	1
 but that  through,	1
-um, s- statistical training and [MASK]  um, at the end of the  day,   we have, um -	0
-we have  learned  something about these - these latent, um - latent variables which  happen  to correspond to  [MASK]	1
+um, s- statistical training and the E_M algorithm,  um, at the end of the  day,   we have, um -	1
+we have  learned  something about these - these latent, um - latent variables which  happen  to correspond to  intermediate categories.	1
 Um.	0
 Yeah, and so those are the - the two directions that I'm - I'm looking into right now.  And, uh,	0
 um -	0

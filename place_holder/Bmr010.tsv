@@ -19,16 +19,16 @@ if - if that's too  practical  for what we're  focused on.	0
 Yeah, we only want th-  useless  things. Yeah.  No, why don't we talk about  practical  things? Sure.	0
 I mean, we don't want anything too practical.  Yeah, that would be -	0
 O_K.	0
-Well, um, I can  give you an update on the  transcription effort.	0
+Well, um, I can  give you an update on the  transcription effort.	1
 Great.	0
-Uh, maybe  raise the issue of microphone, uh,  um  procedures	0
+Uh, maybe  raise the issue of microphone, uh,  um  procedures	1
 b-	0
-with reference to the  cleanliness of the recordings.	0
+with reference to the  cleanliness of the recordings.	1
 O_K,  transcription,  uh, microphone issues -	0
-And  then  maybe  ask, th- uh,  these  guys. The - we have great - great, uh, p- steps forward in terms of the nonspeech-speech pre-segmenting of the signal.	0
+And  then  maybe  ask, th- uh,  these  guys. The - we have great - great, uh, p- steps forward in terms of the nonspeech-speech pre-segmenting of the signal.	1
 O_K.	0
 Well, we have  steps  forward.	0
-Well, it's a - it's a big improvement.	0
+Well, it's a - it's a big improvement.	1
 Yeah.	0
 Yes.	0
 I would prefer this.	0
@@ -38,15 +38,15 @@ We talk about the -  the results of	0
 You have some -	0
 Yeah.	0
 O_K.	0
-I have a little bit of [MASK] stuff but  I'm not sure if that's of general interest or not.	0
+I have a little bit of I_RAM stuff but  I'm not sure if that's of general interest or not.	0
 use -	0
-Uh, [MASK]	0
-[MASK] .	0
-[MASK] .	0
-[MASK]	0
+Uh, bigram?	0
+I_RAM .	0
+I_RAM .	0
+I_RAM.	0
 Well, m- maybe.	0
-[MASK] you know.	0
-[MASK]	0
+I_RAM, bigram, you know.	0
+Bi- Bigram.	0
 Yeah, let's - let's see where we are at three-thirty. Um -	0
 Hmm.	0
 Since, uh - since I have to leave as usual at three-thirty, can we do the interesting stuff first?	0
@@ -79,7 +79,7 @@ Um.	0
 As a simplification, he originally did this only using   silence	0
 as, uh, a  putative, uh, speaker  change  point.	0
 Yeah.	0
-And, uh, he did not, say, look at points where you were changing broad sp- uh, [MASK] for instance.	0
+And, uh, he did not, say, look at points where you were changing broad sp- uh, phonetic class, for instance.	0
 And for Broadcast News, that was fine.	0
 Here  obviously it's  not.	0
 Yeah.	0
@@ -97,7 +97,7 @@ a - a difference of  opinion  because I - I thought that it was - it's  interest
 Yeah.	0
 But, uh, on the other hand I saw that the - they had a good point that, uh,	0
 if we had something that worked for many cases before, maybe starting from there a little bit - Because  ultimately  we're gonna end up	0
-with some s- su- kind of structure  like  that, where you have some kind of simple [MASK] and you're testing the hypothesis that,	0
+with some s- su- kind of structure  like  that, where you have some kind of simple H_M_M and you're testing the hypothesis that,	0
 Yeah.	0
 Yeah.	0
 uh, there is a  change.  So -	0
@@ -112,24 +112,24 @@ Uh-huh. Yeah.	0
 Um, so, uh, what we basically did so far was using the mixed file to - to detect s- speech or nonspeech  portions in that.	1
 Mm-hmm.	0
 And	1
-what I did so far is I just used our old [MASK] which	1
+what I did so far is I just used our old Munich system, which is an H_M_M-ba- based system with Gaussian mixtures for s- speech and nonspeech.	1
 And it  was  a system which used only one Gaussian for silence and one Gaussian for speech. And now I added, uh, multi-mixture possibility for -	1
 Mm-hmm.	0
 Mm-hmm.	0
 for speech and nonspeech. And I did some	1
-training on - on one dialogue, which was transcribed	0
+training on - on one dialogue, which was transcribed	1
 by -	1
 Jose.	0
-Yeah. We - we did a nons- s- speech-nonspeech transcription. Adam, Dave, and I, we did,	0
+Yeah. We - we did a nons- s- speech-nonspeech transcription. Adam, Dave, and I, we did,	1
 for that dialogue and I trained it on that.	0
-And I did some pre-segmentations for - for Jane. And I'm not sure how good they are or what - what the transcribers say. They -	0
+And I did some pre-segmentations for - for Jane. And I'm not sure how good they are or what - what the transcribers say. They -	1
 they can use it or - ?	0
-Uh, they - they think it's a terrific improvement. And, um, it real- it just makes a - a world of difference.	0
+Uh, they - they think it's a terrific improvement. And, um, it real- it just makes a - a world of difference.	1
 Hmm.	0
 And, um, y- you also did some- something in  addition  which was, um, for those in which there  was, uh,  quiet  speakers in the mix.	0
 Yeah. Uh, yeah. That - that was one - one - one thing,	0
 uh,	0
-why I added more mixtures for - for the speech. So I saw that there were	0
+why I added more mixtures for - for the speech. So I saw that there were	1
 Mm-hmm.	0
 loud - loudly speaking speakers and quietly speaking speakers. And so I did two mixtures, one for the loud speakers and one for the quiet speakers.	1
 And did you  hand-label  who was loud and who was quiet, or did you just - ?	0
@@ -185,7 +185,7 @@ but we saw, uh, when we used it, uh, f- for our close-talking microphone, which 
 yeah, for our - for our recognizer in Munich -	1
 we saw that w- it's - it's not - it's not so necessary. It - it works as well f-	1
 O_K.	0
-with - with - without, uh, [MASK] or something.	1
+with - with - without, uh, a L_D_A or something.	1
 O_K. No, I was j-  curious. Yeah, I don't think it's a big deal for this application, but - but - Yeah, it's a -	0
 Yeah.	0
 Mm-hmm.	0
@@ -196,13 +196,13 @@ O_K. But then there's  another  thing that also Thilo's involved with, which is,
 O_K, and - and also Da- Dave  Gelbart.  So there's this - this problem	0
 of - and w- and - so we had this meeting. Th- the  - also Adam, before the - the - before you went away.	0
 Uh  we, um - regarding the representation  of overlaps, because at  present,	1
-um, because  of the limitations of	0
+um, because  of the limitations of	1
 th- the  interface  we're using, overlaps are, uh, not being  encoded by  the transcribers in as complete  and, uh,	1
 detailed  a way as it  might  be,  and as might be  desired  -  I  think would be desired in the corpus ultimately.	1
 Mm-hmm.	0
 So we don't have start and end points  at each point where there's an overlap. We just have the - the  overlaps  encoded in a simple bin.	1
 Well, O_K. So   @@  the limits of the  over- of - of the interface are	1
-such that we were - at this meeting we were entertaining how we might either expand  the - the	0
+such that we were - at this meeting we were entertaining how we might either expand  the - the	1
 interface or find other tools which already   do  what would be  useful.  Because what would ultimately be,	1
 um, ideal in my - my view and I think - I mean, I had the sense that it was consensus, is that, um,	1
 a thorough-going musical score notation would be  the best way to go.	1
@@ -236,26 +236,26 @@ Yeah.	0
 we'll arrange Windows machines to be available.	1
 Mm-hmm. We could - uh, potentially  so. I also wanted to be sure -	0
 So.	0
-I mean, I've - I've  seen  the - this - this is called Praat, [MASK]  which I guess means spee- speech in Dutch or something.	1
+I mean, I've - I've  seen  the - this - this is called Praat, P_R_A_A_T,  which I guess means spee- speech in Dutch or something.	1
 Yep.	0
 Yeah, but then I'm not sure  that's the right thing for us.	0
-But -	1
+But -	0
 In terms  of it being  Windows  versus - But I'm just wondering, is - ?	0
 Yeah.	0
 No, no.  Praat  isn't - Praat's multi-platform.	1
 No. No, Praat -	0
 Yeah. Yeah.	0
-Oh! I  see.  Oh,  I  see. So Praat may not be -	1
+Oh! I  see.  Oh,  I  see. So Praat may not be -	0
 Yeah.	0
 That's not Praat. It's called "trans- transedit"  I think. The - the, uh - the tool from - from  Susanne.	0
 It's a different one.	0
 I  see. Oh, I  see.	0
-O_K. O_K. Alright.	1
+O_K. O_K. Alright.	0
 The other thing, uh, to keep in mind, uh - I mean,	0
 we've been very concerned to get all this rolling so that we would actually have data,	0
 Mmm, yeah.	0
 but, um, I think our outside sponsor  is   actually  gonna kick in and ultimately that path will be smoothed out. So I don't know	0
-Mm-hmm.	1
+Mm-hmm.	0
 if we have a long-term need to do lots and lots of transcribing. I think we had a very quick need to get something out	0
 and we'd like to be able to do  some  later because just it's inter- it's interesting.	0
 But as far a- you know, uh, with - with any luck we'll be able to wind down the larger project.	0
@@ -269,10 +269,10 @@ And - and do what we can later  to clean that up if we need to.	0
 Mm-hmm.	0
 Right.	0
 And - and I was just thinking that, um,	1
-if it were  possible  to bring that in, like,	0
+if it were  possible  to bring that in, like,	1
 you know, this week,  then  when they're encoding the overlaps	1
 Uh-huh.	0
-it would be nice for them to be able to specify	0
+it would be nice for them to be able to specify	1
 when - you know, the start points and end points of overlaps.	1
 uh  Th- they're  making really quick progress.	1
 Yeah.	0
@@ -285,18 +285,18 @@ I sent  it to,  um - who did I send that to? I sent it to a list and I thought  
 e- to the local list. You saw that?	0
 Meeting Recorder.	0
 Oh, you did? O_K. So you probably did get that.	0
-So Brian  did  tell  me that  in fact what  you  said, that,  uh - that  our -	1
+So Brian  did  tell  me that  in fact what  you  said, that,  uh - that  our -	0
 that they are  making progress and that he's going - that  they're  going - he's gonna  check  the f- the output of the  first  transcription and -	0
 I mean, basically it's - it's all the difference in the world. I mean, basically he's - he's  on  it now.	0
 and -	0
 Yeah.	0
-Oh, that's - this is a new development.  O_K.	1
+Oh, that's - this is a new development.  O_K.	0
 So - so - so this is - so i- it'll happen.	0
 Super. Super. O_K. Great.	0
 Yeah. I mean, basically it's just saying that one of our - one of our best people is on it,	0
 you know, who just doesn't happen to be  here  anymore. Someone else pays him. So -  So.	0
 Yeah.	0
-Isn't that great?	1
+Isn't that great?	0
 But about the need for transcription, I mean, don't we - didn't we previously	0
 Yeah.	0
 decide that the  I_B_M  transcripts would have to be  checked anyway and possibly augmented?	0
@@ -305,7 +305,7 @@ Mm-hmm.	0
 So, I think having a good  tool  is worth something no matter  what.	0
 Yeah. S- O_K. That's - that's a good point.	0
 Yeah, and Dave Gelbart did volunteer, and since he's not here, I'll repeat it -	0
-Good.	1
+Good.	0
 to at least modify Transcriber, which, if we don't have something else that works, I think that's a pretty good way of going.	0
 Mmm.	0
 Mm-hmm.	0
@@ -322,7 +322,7 @@ No. They can only display one, but they can listen to different ones.	1
 Oh, yes,  but  -	0
 Well,  uh, yes, but  what I mean is  that, uh, from the  transcriber's   perspective, uh,	1
 those  two functions are separate. And Dan Ellis's hack handles the,	1
-um, choice  - the ability to choose different waveforms	0
+um, choice  - the ability to choose different waveforms	1
 from moment to moment.	1
 But only to  listen  to, not to  look  at.	0
 Um -	0
@@ -331,7 +331,7 @@ The waveform you're looking at doesn't change.	0
 Yeah.	0
 That's true. Yeah, but  that's - that's O_K, cuz they're - they're,	0
 Yeah.	0
-you know, they're focused on the ear anyway. And then - and then	0
+you know, they're focused on the ear anyway. And then - and then	1
 Right.	0
 Hmm.	0
 the hack to	1
@@ -369,7 +369,7 @@ I mean Dan - Dan is very interested in doing some other things,	0
 Right.	0
 Yeah. Yeah.	0
 Well, I think it's important both	0
-and collections at [MASK] So -	0
+and collections at NIST. So -	0
 for the notation and the machine representation to be the same.	0
 Yeah.	0
 So.	0
@@ -383,7 +383,7 @@ a - a - as a basis for the separation.	1
 Oh, yeah. He was talking - he was talking - I mean, uh, we - he had -	0
 @@   Cross-correlation.	1
 Cross-	0
-Yeah, [MASK] I had mentioned this a couple times before, the c- the commercial devices that do, uh,	1
+Yeah, cross-correlation. I had mentioned this a couple times before, the c- the commercial devices that do, uh,	1
 Cross-	0
 Uh-huh.	0
 uh, voice, uh - you know, active miking,	1
@@ -402,7 +402,7 @@ and, uh, those - if -	0
 Boy, the guy I knew who built  them,   built  them   like twenty -	0
 twenty years ago, so they're -  it's - the - the techniques work pretty well.	0
 Hmm.	0
-Fantastic.	0
+Fantastic.	1
 So.	0
 Cuz there is one thing that we don't have right now and that is the automatic, um,	1
 channel  identifier.	1
@@ -440,16 +440,16 @@ Yeah.	0
 Look like, uh, you t- you explaining in the blackboard? The - ? Yeah? Yeah.	0
 Yes, exactly. That hasn't changed. So it  i- the - it's basically a two-tiered structure	1
 where the first one is  whether   the person who's interrupted  continues  or not. And then	1
-below that there're  subcategories, uh, that have more to do with,  you know, is it,	0
+below that there're  subcategories, uh, that have more to do with,  you know, is it,	1
 Mm-hmm.	0
 uh, simply  backchannel  or is  it, um, someone	1
 completing someone else's thought,  or is it someone in- introducing a new thought.	1
 Right.	0
 Huh.	0
 And I  hope	1
-that if we do a forced alignment with the close-talking mike, that will be enough to recover	0
+that if we do a forced alignment with the close-talking mike, that will be enough to recover	1
 Yeah.	0
-at least  some  of the time	0
+at least  some  of the time	1
 the time information of when the overlap occurred.	1
 Mm-hmm. Well,  one  would  -	0
 Yeah.	0
@@ -551,7 +551,7 @@ But -	0
 Well, I think that that's - that's a good	0
 back-off position. That's what I was saying  earlier, th- that, you know, we  are  gonna get some	0
 recordings that are  imperfect  and, hey, that's  life.  But I - I think that it - it doesn't  hurt,	1
-uh, the naturalness of the situation	0
+uh, the naturalness of the situation	1
 to try to have people  wear the microphones properly, if possible, because,	1
 Mm-hmm.	0
 um, the  natural  situation is  really  what we have with the microphones on the  table.  I mean, I think,	0
@@ -564,7 +564,7 @@ And, uh, it's gonna make -	0
 Yeah.  @@	0
 You know, if - if An- Andreas plays around with language modeling, he's  not  gonna be m- wanna be messed up by people breathing into the microphone. So it's - it's, uh, uh -	0
 Right.	0
-Well, I'll dig through the documentation to [MASK] and ste- s- see if they still have the little  form.	0
+Well, I'll dig through the documentation to DragonDictate and ste- s- see if they still have the little  form.	0
 But it does  happen.  Right? I mean, and any -	0
 Yeah.	0
 It's interesting, uh,	0
@@ -658,7 +658,7 @@ About what?	0
 About the transcribers or anything or - ? I don't know.	0
 Well, the other - why don't we do that?	0
 But, uh, just to - to, um -	0
-One more remark, uh, concerning [MASK] Um.	1
+One more remark, uh, concerning the S_R_I recognizer. Um.	1
 It is useful to transcribe and then ultimately train models for things like breath, and also laughter is very, very frequent and important to -	1
 Mm-hmm.	0
 to model.	0
@@ -849,7 +849,7 @@ Then you'd put a little tick at the beginning of the word, and that just signals
 Yeah.	0
 And, um, and other than  that,  it's w- word level. But, you know, the fact that they  noticed,	0
 you know, the " nnn ". "He said " nnn ", not " and ". What shall I  do  with that?" I mean, they're very perceptive.	0
-And - and s- several of them are trained in [MASK]  C- they really  could  do phonetic transcription if - if we wanted  them   to.	0
+And - and s- several of them are trained in I_P_A.  C- they really  could  do phonetic transcription if - if we wanted  them   to.	0
 Mm-hmm.	0
 Right. Well -	0
 But -	0
@@ -863,7 +863,7 @@ m- I	0
 think they know that the data p- source is  limited  and I may not be able to keep  them   employed till the end of the month even, although I  hope  to.	0
 The other thing we could do, actually, uh, is,	1
 And -	0
-uh, use them for	0
+uh, use them for	1
 a more detailed analysis of the  overlaps.	1
 Oh, that'd be so super. They would be so - s- so terrific.	0
 Right?	0
@@ -941,7 +941,7 @@ Yeah.	0
 I think it would also be interesting to have, uh,	1
 a couple of the meetings have more than one transcriber do,	1
 Mm-hmm.	0
-cuz I'm curious about [MASK]	1
+cuz I'm curious about inter-annotator agreement.	1
 Yeah.	0
 O_K.	0
 Yeah. Th- that'd be -	0
@@ -1036,10 +1036,10 @@ I have the results, eh, of the study of different energy without the  law length
 Eh, um, eh,  @@  in the - in the measurement, uh, the average, uh, dividing by the - by the, um, variance.	0
 Yeah.	0
 Um, I -	0
-th- i-	0
+th- i-	1
 the other, uh - the - the last w- uh, meeting -	1
 eh, I don't know if you  remain   - we have problem to - with the -	1
-with - with the parameter - with t[MASK]	1
+with - with the parameter - with the representations of parameter,	1
 Yes.	0
 because the - the valleys and the peaks in the signal, eh, look like, eh, it doesn't follow to the - to the energy in the signal.	1
 Right.	0
@@ -1069,7 +1069,7 @@ Yeah.	0
 Yeah.	0
 but you don't want to keep, uh - keep knocking at it if it's - if you're not getting any - any  result  with that.	1
 But, I mean, the other things that we talked about is, uh,	1
-[MASK] so - which we thought also should be some kind of a reasonable indicator.	1
+pitch-related things and harmonicity-related things, so - which we thought also should be some kind of a reasonable indicator.	1
 Yeah.	0
 Um -	0
 But, uh,	0
@@ -1078,10 +1078,10 @@ Yeah.	0
 which is to say, don't worry so much about the, uh, features.	1
 Yeah.	0
 That is to say, use, you know, as - as you're doing with the speech, uh, nonspeech, use some very  general  features.	1
-Yeah.	1
+Yeah.	0
 And, uh, then, uh, look at it  more  from the aspect of  modeling.	1
 Yeah.	0
-You know, have a - have [MASK] and -	1
+You know, have a - have a couple Markov models and -	1
 Yeah.	0
 Yeah.	0
 and, uh, try to indi- try to determine, you know, w- when is th- when are you  in  an overlap, when are you  not  in an overlap.	1
@@ -1121,7 +1121,7 @@ I see.	0
 eh, tracking in - with the program.	1
 Ha- h- have you ever looked at the, uh, uh - Javier's, uh,	0
 And, nnn, nnn -	0
-[MASK]	0
+speech segmenter?	0
 No.	0
 Oh. Maybe m- you could, you kn-  uh   show  Thilo that.	0
 No.	0
@@ -1132,7 +1132,7 @@ Cuz again the idea is there - the limitation there again was that he was - he wa
 I -	0
 Yeah.	0
 split point between speakers. But if you included, uh,	0
-O_K.	1
+O_K.	0
 broadened classes then  in principle maybe you can  cover the overlap cases.	0
 Yeah.	0
 Mmm, yeah.	0
@@ -1142,12 +1142,12 @@ overlap with - with the s-  detector I - I - I used up to now, the - to speech-n
 Mm-hmm.	0
 I think with -	0
 Ah.	0
-it's only speech or it's - it's - it's nonspeech. So.	1
+it's only speech or it's - it's - it's nonspeech. So.	0
 That's right. But I think Javier's -	0
 Yeah.	0
 Mm-hmm.	0
 N- n-	0
-I think Javier's  might  be able to. It doesn't have [MASK] which is I think a  drawback.	0
+I think Javier's  might  be able to. It doesn't have the same Gaus- uh, H_M_ M  modeling, which is I think a  drawback.	0
 Yeah.	0
 O_K.	0
 But, uh -	0
@@ -1160,7 +1160,7 @@ for each - ?	0
 Yeah.	0
 Yeah.	0
 Hmm.	0
-Mm-hmm.	1
+Mm-hmm.	0
 Yeah.	0
 And then  he ch- you choose optimal splitting.	0
 Oh, it doesn't have - it doesn't have any temporal, uh - ? I thought it -	0
@@ -1240,24 +1240,24 @@ Yeah.	0
 Right.	0
 So those are all things that  should  be there. So far,	1
 Mm-hmm.	0
-Yeah.	1
+Yeah.	0
 um, uh, Jose has - has been -	1
 By the way, I was  told  I  should  be calling you  Pepe,  but -	0
 by your  friends,  but-	0
 Yeah.	0
 Oh.	0
-Anyway,   um,	0
+Anyway,   um,	1
 Yeah .	0
 uh, the - has - has, uh,	1
 been exploring, uh, e-  largely  the energy issue and,	1
-um,	0
+um,	1
 as with a  lot  of things, it is not - uh, like this, it's not as simple as it  sounds.  And then there's, you know - Is it  energy?  Is it  log  energy? Is it L_P_C  residual  energy? Is it - is it -	1
 Yeah.	0
 is it, uh,  delta  of those things? Uh, what is it no- Obviously, just a simple number -	1
 absolute  number  isn't gonna work. So	0
 it should be with - compared to  what?  Should there be a long window for the	1
 normalizing  factor and a short window for what you're  looking  at? Or, you know, how b- short should they be? So,	1
-Yeah.	1
+Yeah.	0
 th- he's been playing around with a lot of these different things and - and so far at least has not come up with	1
 Hmm.	0
 any  combination that really gave you an  indicator.  So	1
@@ -1282,12 +1282,12 @@ Yeah.	0
 or cepstrum or something, um -	0
 Eee  it's in there  somewhere  probably.	0
 But, eh, what did you think about the possibility of  using  the Javier  software?	1
-Eh, I mean, the, uh - the, uh - the  [MASK] the - the - t- to train the - the Gaussian,	0
+Eh, I mean, the, uh - the, uh - the  BIC   criterion, the - the - t- to train the - the Gaussian,	0
 eh, using the - the mark, eh, by hand, eh, eh, to distinguish be- mmm, to train overlapping zone and speech zone. I mean,	1
 eh,  I - I - I think that an interesting, eh, experiment, eh, could be,	0
 th- eh, to prove that, mmm, if s- we suppose that, eh, the - the first step -	0
 I mean, the - the classifier	0
-what were the classifier from Javier or classifier from [MASK]	0
+what were the classifier from Javier or classifier from Thilo?	0
 W- What happen with the second step?	0
 I - I mean, what - what happen with the, eh - the, uh, clu- the, uh - the clu- the clustering process?	0
 Mm-hmm.	0
@@ -1309,7 +1309,7 @@ Yeah. But is - is - if -	0
 pretty good boundaries. But this was just very anecdotal sort of thing.	0
 But it's possible with my segmentation by  hand   that we have information about the - the overlapping, uh - Yeah.	1
 Right. So if we - if we	1
-fed the hand-segmentation to Javier's	0
+fed the hand-segmentation to Javier's	1
 The -	0
 N- n- Yeah. No.	0
 and it  doesn't   work,  then we know something's wrong.	1
@@ -1320,7 +1320,7 @@ Uh, we can prove that the -	0
 Whether it'll work or not.  Yeah.	0
 this kind o-	0
 Yeah.	0
-emph-  emphasizes  parameter and [MASK] -	0
+emph-  emphasizes  parameter and Gaussian -	0
 Yep.	0
 Y- do you know where his software is? Have you used it at all?	0
 I yeah have. I have.	0

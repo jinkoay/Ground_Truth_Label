@@ -7,15 +7,15 @@ Hmm.  Let's see.	0
 Move it bit.  Test?	0
 Test? O_K, I guess it's alright.	0
 So, let's see.	0
-Yeah, Barry's not here and Dave's not here. Um, I can say about -	0
-just q- just quickly to get through it, that Dave and I submitted this A_S_R_U.	0
+Yeah, Barry's not here and Dave's not here. Um, I can say about -	1
+just q- just quickly to get through it, that Dave and I submitted this A_S_R_U.	1
 This is for A_S_R_U.	0
 Yeah. So.	0
 Um.	0
 Yeah, it's -	0
-it's interesting. I mean, basically we're dealing with rever- [MASK]	1
-and, um, when we deal with [MASK] the technique he's using works really, really well.	1
-Uh, and when they had the reverberation  here,  uh, we'll measure the [MASK] and it's, uh, abou	0
+it's interesting. I mean, basically we're dealing with rever- reverberation,	1
+and, um, when we deal with pure reverberation, the technique he's using works really, really well.	1
+Uh, and when they had the reverberation  here,  uh, we'll measure the signal-to-noise ratio and it's, uh, about nine D_B.	0
 So, um,	0
 Hmm.	0
 a fair amount of -	0
@@ -24,22 +24,22 @@ k-	0
 Yeah.	0
 It's nine D_B?	0
 Yeah. Um -	0
-And actually it brought up a question which may be relevant to the [MASK] stuff too.	0
-Um, I know that when you figured out the  filters  that we're using for [MASK]	0
-there was some experimentation that went on at - at, uh - at [MASK]	0
+And actually it brought up a question which may be relevant to the Aurora stuff too.	1
+Um, I know that when you figured out the  filters  that we're using for the Mel scale,	1
+there was some experimentation that went on at - at, uh - at O_G_I.	1
 Um,	0
-but one of the differences that we found between the two systems that we were using,  the - [MASK]	0
-and the system that we were - the - the uh,  other  system we were using, the uh, [MASK]	0
-was that [MASK] had maybe a, um, hundred hertz high-pass.	0
+but one of the differences that we found between the two systems that we were using,  the - the Aurora H_T_K system baseline system	1
+and the system that we were - the - the uh,  other  system we were using, the uh, the S_R_I system,	1
+was that the S_R_I system had maybe a, um, hundred hertz high-pass.	1
 Yep.	0
-And the, uh, [MASK] it was like twenty.	0
+And the, uh, Aurora H_T_K, it was like twenty.	0
 S- sixty-four.	0
 Uh.	0
 S- sixty-four.	0
 Sixty-four? Uh.	0
 Yeah, if you're using the baseline.	0
 Is that the ba- band center?	0
-No, [MASK]	0
+No, the edge.	0
 The edge is really, uh, sixty-four? For some reason, uh,	0
 Yeah .   @@	0
 So the, uh, center would be somewhere around	0
@@ -47,7 +47,7 @@ Dave thought it was  twenty,  but.	0
 like hundred and -	0
 hundred and - hundred - hundred and - maybe - it's like - fi- hundred hertz.	0
 But do you know, for instance, h- how far down it would be at twenty hertz?	0
-What the - how much [MASK] would there be at twenty hertz, let's say?	0
+What the - how much rejection would there be at twenty hertz, let's say?	0
 At twenty hertz.	0
 Yeah, any idea what the curve looks like?	0
 Twenty hertz frequency -	0
@@ -63,15 +63,15 @@ Is this - oh, from the - from -	0
 It -	0
 This is the filter bank	0
 in the frequency domain that starts at sixty-four. Yeah.	0
-Oh, so you, uh - so you really set it to zero, [MASK]	0
+Oh, so you, uh - so you really set it to zero, the F_F_T?	0
 Yeah, yeah. So it's - it's a weight on the  ball  spectrum.	0
-[MASK]	0
+Triangular weighting.	0
 Right. O_K.	0
 Um -	0
 O_K. So that's - that's a little different than Dave thought, I think. But - but, um,	0
-still,  it's possible that we're getting in some more  noise.	0
-So I wonder, is it -  @@  Was there - their experimentation	0
-with, uh, say, throwing away that filter or something? And, uh -	0
+still,  it's possible that we're getting in some more  noise.	1
+So I wonder, is it -  @@  Was there - their experimentation	1
+with, uh, say, throwing away that filter or something? And, uh -	1
 Uh, throwing away the first?	0
 Yeah.	0
 Um, yeah, we - we've tried including the full -  full  bank.	0
@@ -85,22 +85,22 @@ Yeah.	0
 I t- I think I've tried a hundred and it was	0
 more or less the same, or slightly worse.	0
 On what test set?	0
-On the same, uh, [MASK] Aurora.	0
-Um, it  was  on [MASK]	0
+On the same, uh, SpeechDat-Car, Aurora.	0
+Um, it  was  on the SpeechDat-Car.	0
 Yeah.	0
 So I tried a hundred to four K_. Yeah.	0
 Um,	0
 So it was -	0
 and on - and on the, um, um,	0
 T_I-digits  also?	0
-No, no, no. I think I just tried it on [MASK]	0
+No, no, no. I think I just tried it on SpeechDat-Car.	0
 Mmm. That'd be something to look at sometime because what,	0
 um,	0
 eh, he was looking at was performance in  this  room.	0
 Mm-hmm.	0
 Would that be more like -	0
-Well, you'd  think  that'd be more like [MASK] I guess, in terms of the noise.	0
-[MASK] is more, uh, sort of	0
+Well, you'd  think  that'd be more like SpeechDat-Car, I guess, in terms of the noise.	0
+The SpeechDat-Car is more, uh, sort of	0
 roughly stationary, a lot of it. And -	0
 Yeah.	0
 and T_I-digits maybe is not so much as - Yeah.	0
@@ -113,14 +113,14 @@ Anyway, that was just something we wondered about.	0
 But, um, uh, certainly a lot of the noise,	0
 uh, is, uh, below a hundred hertz. Uh, the	0
 Yeah.	0
-signal-to-noise ratio, you know, looks a fair amount better if you - if you [MASK] from this room.	0
+signal-to-noise ratio, you know, looks a fair amount better if you - if you high-pass filter it from this room.	0
 But, um - but it's  still  pretty noisy. Even - even for a hundred hertz up, it's - it's still fairly noisy. The signal-to-noise ratio is - is -	0
 Mm-hmm.	0
 is actually still pretty bad.	0
 So, um, I mean, the main - the - the -	0
 Hmm.	0
-So that's on th- that's on the f- [MASK] ones though, right? Yeah.	0
-Yeah, that's on [MASK] Yeah, the near field's pretty good.	0
+So that's on th- that's on the f- the  far  field ones though, right? Yeah.	0
+Yeah, that's on the far field. Yeah, the near field's pretty good.	0
 So wha- what is, uh - what's  causing  that?	0
 Well, we got a - a video projector in here,	0
 uh, and, uh - which we keep on during every - every session we record, which, you know, I - I -	0
@@ -139,9 +139,9 @@ uh, for the stationary kind of stuff.	0
 Mmm.	0
 Um,	0
 but, um, it, uh - I guess, I - maybe I said this last week too but it - it - it really became apparent to us that we need to - to take account of noise.	0
-And, uh, so I think when - when he gets done with his prelim study I think  one of the next things we'd want to do is to	0
-take this, uh - uh, noise, uh, processing stuff and - and,	0
-uh - uh, synthesize some speech from it. And then -	0
+And, uh, so I think when - when he gets done with his prelim study I think  one of the next things we'd want to do is to	1
+take this, uh - uh, noise, uh, processing stuff and - and,	1
+uh - uh, synthesize some speech from it. And then -	1
 When are his prelims?	0
 Um, I think in about, um,	0
 a little less than two weeks.	0
@@ -162,14 +162,14 @@ Yeah.	0
 Yeah.	0
 So, uh - Yep. I mean, that - that was sort of one - I mean,	0
 the overall results seemed to be first place in - in - in the case of either,	0
-um, [MASK]	0
+um, artificial reverberation	0
 or a modest sized training set.	0
 Uh, either way,	0
 uh, i- uh, it helped a lot.	0
 And - But if you had a - a really big training set,	0
 a recognizer, uh, system that was capable of taking  advantage  of a really large training set -	0
-I thought that -  One thing with the [MASK] is that is has the - as we're  using  - the configuration we're  using	0
-is w- s- is - being bound by the terms of [MASK] we have	0
+I thought that -  One thing with the H_T_K is that is has the - as we're  using  - the configuration we're  using	0
+is w- s- is - being bound by the terms of Aurora, we have	0
 all those parameters just set as they  are.  So even if we had a hundred times as much data, we wouldn't	0
 go out to, you know,	0
 ten or t- or a hundred times as many Gaussians or anything. So,	0
@@ -195,9 +195,9 @@ So.	0
 That's sort of what we found.	0
 Hmm.	0
 I, um -	1
-uh, started working on the	0
-uh -	0
-Mississippi State	0
+uh, started working on the	1
+uh -	1
+Mississippi State	1
 recognizer.	1
 Oh, O_K.	0
 So, I got in touch with Joe and -	1
@@ -210,7 +210,7 @@ There were two things,	1
 uh, that they had to download.	1
 One was the, uh, I guess the software.	0
 And another  wad   - was a, um,	0
-sort of like a sample - a sample run.	0
+sort of like a sample - a sample run.	1
 So I downloaded the software and compiled all of that. And it	1
 Eight.	0
 compiled fine. No problems.	1
@@ -239,9 +239,9 @@ Yeah. Yeah.	0
 Cuz  they have it -	0
 Maybe I'll send it to the list.	0
 Yeah.	0
-Cuz they have, uh, already frozen those in i- [MASK]and all  those  stuff is what - I feel. Because they have this document	1
+Cuz they have, uh, already frozen those in i- insertion penalties and all  those  stuff is what - I feel. Because they have this document	1
 Uh-huh.	0
-explaining the recognizer.	0
+explaining the recognizer.	1
 And they have these tables with,	1
 uh, various language model weights, insertion penalties.	1
 u-	0
@@ -261,12 +261,12 @@ Mm-hmm.	0
 So they are actually trying to, uh,	0
 fix that - those values using the clean,	0
 uh, training part of the Wall Street Journal. Which is - I mean, the  Aurora.	0
-[MASK] has a clean subset. I mean, they want to train it and then this - they're going to run some evaluations.	0
+Aurora has a clean subset. I mean, they want to train it and then this - they're going to run some evaluations.	0
 Right.	0
 So they're set- they're setting it based on that?	0
 Yeah.	0
 O_K. So  now,  we may come back to the situation where	1
-we may be looking for a modification of the features to account for the fact	0
+we may be looking for a modification of the features to account for the fact	1
 that we can't modify these parameters. But, um,	1
 Yeah.	0
 Yeah.	0
@@ -295,8 +295,8 @@ Yeah, O_K. Because he - there was some mail r- saying that it's - may not be sta
 Yep.	0
 Yeah.	0
 Yeah, i- that was a particular  version.	0
-[MASK]  yeah.	0
-Yeah,  [MASK]  or whatever it was but we don't have that. So.	0
+SUSI  yeah.	0
+Yeah,  SUSI  or whatever it was but we don't have that. So.	0
 Yeah, yeah.	0
 Yeah, O_K.	0
 O_K, that's fine. Yeah.	0
@@ -315,35 +315,35 @@ So - And Jeff, uh - the two Jeffs were	0
 Who's the second Jeff?	0
 Uh - Oh, uh, do you know Geoff Zweig?	0
 No.	0
-Oh. Uh, he - he, uh - he was here for a couple years and he, uh - got his P_H_D. He -	1
+Oh. Uh, he - he, uh - he was here for a couple years and he, uh - got his P_H_D. He -	0
 Oh, O_K.	0
 And he's, uh, been at I_B_M for the last couple years.	0
 Oh, O_K.	0
-So. Uh, so he did - he did his P_H_D on [MASK] uh,	1
+So. Uh, so he did - he did his P_H_D on dynamic Bayes-nets, uh,	0
 Wow.   That  would be neat.	0
-for - for speech recognition. He had some continuity built into the model,	1
+for - for speech recognition. He had some continuity built into the model,	0
 presumably to handle some, um,	0
 inertia in the - in the production system, and,	0
 um -	0
 Hmm.	0
 So.	0
 Hmm.	0
-Um, I've been playing with, first, the, um, [MASK]	1
+Um, I've been playing with, first, the, um, V_A_D.	1
 Um,  so it's exactly the same approach, but	1
-the features that [MASK] use are, uh,	1
+the features that the V_A_D neural network use are, uh, M_F_C_C after noise compensation.	1
 Oh, I think I have the results.	0
-What was it using before?	1
+What was it using before?	0
 Before it was just	1
 @@	0
-[MASK] So.	1
+P_L_Ps. So.	1
 Yeah, it  was  actually - No. Not - I mean, it was just the noisy features I guess. Yeah, yeah, yeah,  not   compensated .	1
 Yeah, noisy - noisy features.	0
 Um -	0
 This is what we get after -	0
-This - So, actually, we,  yeah,   here  the features are noise compensated and there is also the [MASK]	0
+This - So, actually, we,  yeah,   here  the features are noise compensated and there is also the L_D_A filter.	0
 Um, and then it's a pretty small neural network which use,	0
 um,  nine frames of -	0
-of six features from [MASK] plus the first derivatives.	0
+of six features from C_zero to C_fives, plus the first derivatives.	0
 And it has one hundred hidden units.	0
 Is that nine frames u- s- uh, centered around the current frame? Or -	0
 Yeah. Mm-hmm.	0
@@ -363,8 +363,8 @@ It should be O_K.	0
 So the previous syst-  It's based on the system that has a fifty-three point sixty-six percent improvement.	1
 and what you -	0
 It's the same system. The only	1
-thing that changed is the n-	0
-a p- eh - a es- the estimation of [MASK]	1
+thing that changed is the n-	1
+a p- eh - a es- the estimation of the silence probabilities.	1
 Ah. O_K.	0
 Which now is based on, uh, cleaned features.	1
 And,  it's a l- it's a lot  better.	1
@@ -375,15 +375,15 @@ So it's - it's not  bad,  but the problem is still that the latency is too large
 What's the latency?	0
 Because -	0
 um -	0
-the - the latency of [MASK] is two hundred and twenty milliseconds.	1
+the - the latency of the V_A_D is two hundred and twenty milliseconds.	1
 And, uh, the V_A_D is used	0
 uh, i- for on-line normalization,	0
-and it's used before [MASK]	0
+and it's used before the delta computation.	0
 So if you add	0
 these components it goes t- to a hundred and seventy, right?	0
 I - I'm confused. You started off with two-twenty and you ended up with one-seventy?	0
 With two an- two hundred and seventy.	0
-If - Yeah, if you add the c- delta comp- [MASK] which is done afterwards.	0
+If - Yeah, if you add the c- delta comp- delta computation which is done afterwards.	0
 Two-seventy.	0
 Oh.	0
 Um -	0
@@ -392,7 +392,7 @@ frames? Is that why? Is it after downsampling? or -	0
 The two-twenty is one hundred milliseconds for the um - No, it's forty milliseconds for t- for the, uh,	0
 uh,	0
 cleaning of the speech.	0
-Um - then there is, um, [MASK] which use	0
+Um - then there is, um, the neural network which use	0
 nine frames. So it adds forty milliseconds.	0
 a-	0
 O_K.	0
@@ -418,7 +418,7 @@ forty p-	0
 So it's two hundred actually.	0
 Uh -	0
 Yeah, there are twenty that comes from -	0
-There is ten that comes from [MASK] also. Right?	0
+There is ten that comes from the L_D_A filters also. Right?	0
 Oh, O_K.	0
 Uh, so it's	0
 two hundred and ten, yeah.	0
@@ -443,8 +443,8 @@ Yeah.	0
 Yeah.	0
 So it's like s- five, six cepstrum plus delta at nine - nine frames of -	0
 And then ten milliseconds for -	0
-Fi- There's [MASK]	0
-ten milliseconds for [MASK]	0
+Fi- There's an L_D_A filter.	0
+ten milliseconds for L_D_A filter,	0
 and t- and ten -  another  ten  milliseconds   you said for the frame?	0
 For the frame I guess. I computed two-twenty - Yeah, well, it's -	0
 I guess it's for the fr - the -	0
@@ -458,9 +458,9 @@ um, delta and double-deltas, which is fifty milliseconds.	0
 Yeah. No, I mean, the - after the noise part, the forty - the - the other hundred and eighty -	0
 Well, I mean,	0
 hhh,	0
-Wait a minute.  Some  of this is, uh - is, uh - is in  parallel,  isn't it? I mean, [MASK] -	0
-Oh, you have [MASK] as part of the V_D_- uh, V_A_D? Or -	0
-[MASK] use, uh,	0
+Wait a minute.  Some  of this is, uh - is, uh - is in  parallel,  isn't it? I mean, the L_D_A -	0
+Oh, you have the L_D_A as part of the V_D_- uh, V_A_D? Or -	0
+The V_A_D use, uh, L_D_A filtered features also.	0
 Oh, it  does?	0
 Mm-hmm.	0
 Ah.	0
@@ -469,16 +469,16 @@ Uh -	0
 No. There is,	0
 um,	0
 just downsampling, upsampling,	0
-and [MASK]	0
-Um, so [MASK] at the  end  is how much?	0
+and the L_D_A.	0
+Um, so the delta at the  end  is how much?	0
 It's -	0
 It's fifty.	0
 Fifty.	0
 Alright. So -	0
 But well, we could probably put the delta, um,	1
-before [MASK] It should not that make a big difference, because -	1
+before on-line normalization. It should not that make a big difference, because -	1
 What if you used a smaller window for the delta?	1
-Could  that  help a little bit?	0
+Could  that  help a little bit?	1
 I mean, I guess there's a  lot  of things you could do to -	1
 Yeah.	0
 Yeah.	0
@@ -487,7 +487,7 @@ So- Yeah. So if you - if you put the delta before the, uh, ana- on-line - If - Y
 Mm-hmm. Cuz i-	0
 Yep.	0
 Yeah, cuz the time constant of the on-line normalization is	1
-pretty long compared to the	0
+pretty long compared to the	1
 O_K.	0
 delta window, so.	1
 It should not make -	0
@@ -503,7 +503,7 @@ Well, we don't know. They're still arguing about it.  I mean, if it's two - if -
 Two hundred?	0
 @@	0
 Oh.	0
-if it's two-fifty,	0
+if it's two-fifty,	1
 then we could keep the delta where it is if we shaved off twenty. If it's two hundred,	1
 if we shaved off twenty, we could - we could, uh, meet it by moving the delta back.	1
 So, how do you know that what you have is too  much  if they're still deciding?	1
@@ -518,24 +518,24 @@ But  still,  that's - that's a pretty big, uh,  win.  And it doesn't seem like y
 delay,  you're, uh, that -	0
 He added a bit on, I  guess,  because  before  we were - we were - had - were able to have the noise,	0
 Hmm.	0
-uh, stuff, uh, and [MASK] be in  parallel.  And now he's - he's requiring it to be done first.	0
+uh, stuff, uh, and the L_V_A be in  parallel.  And now he's - he's requiring it to be done first.	0
 Well, but- I think the main thing, maybe, is the cleaning of the speech, which takes forty milliseconds or so.	0
 And -	0
 Right. Well, so you say - let's say ten  milliseconds   - seconds for the L_D_A.	0
-and - but - [MASK] is, well, pretty  short  right now. Yeah.	0
+and - but - the L_D_A is, well, pretty  short  right now. Yeah.	0
 Well, ten.	0
 And then forty for the other.	0
-Yeah, [MASK] - L_D_A - we don't know, is, like - is it very crucial for the features, right?	0
+Yeah, the L_D_A - L_D_A - we don't know, is, like - is it very crucial for the features, right?	0
 No. I just -	0
 This is the first try. I mean, I - maybe the L_D_A's not very useful then.	0
 Yeah.	0
 S- s- h-	0
 Right, so you could start pulling back, but -	0
 Yeah, l-	0
-But I think you have - I mean, you have twenty for [MASK] which y- now you're sort of doing twice, right? But yo- w- were you doing that before?	0
+But I think you have - I mean, you have twenty for delta computation which y- now you're sort of doing twice, right? But yo- w- were you doing that before?	0
 Mmm.	0
 On the - in the - Mm-hmm.	0
-Well, in the proposal, um, the input of [MASK] were	0
+Well, in the proposal, um, the input of the V_A_D network were	0
 Just -	0
 just three frames, I think.	0
 Yeah, just the static, no delta.	0
@@ -568,10 +568,10 @@ Yeah. Uh-	0
 And our system was	0
 forty-nine, but with the neural network.	0
 Wow. So  this  is almost ten  percent.	0
-With the f-  with  [MASK] Yeah, and r- and -	0
+With the f-  with  the neural net. Yeah, and r- and -	0
 Yeah, so this is - this is like the  first  proposal. The proposal- one.  It was forty-four, actually.	0
 It would-	0
-Yeah. Yeah. And we still don't have [MASK] in. So - so it's - You know. So it's -	0
+Yeah. Yeah. And we still don't have the neural net in. So - so it's - You know. So it's -	0
 Wow.	0
 We're - we're doing  better.  I mean, we're getting	0
 This is - this is really good.	0
@@ -585,7 +585,7 @@ you know. So.	0
 Um,	0
 Yeah.  So, our,	0
 um -	0
-Yeah, you can see the kind of - kind of numbers that we're having, say, on [MASK] which is a hard task, cuz	0
+Yeah, you can see the kind of - kind of numbers that we're having, say, on SpeechDat-Car which is a hard task, cuz	0
 it's really, um - I  think  it's just sort of -	0
 sort of reasonable numbers,	0
 starting   to be.	0
@@ -599,14 +599,14 @@ Good!	0
 Um,	0
 Yeah.	0
 So actually, this is in between	0
-what we had with the previous [MASK] and	0
-what Sunil did with [MASK]	0
+what we had with the previous V_A_D and	0
+what Sunil did with an I_D_L V_A_D.	0
 Which gave sixty-two percent improvement, right?	0
 Yeah, it's almost that. It's almost an average somewhere around - Yeah.	0
 So -	0
 Yeah.	0
 What was that? Say that last part again?	0
-So, if you use, like, [MASK]	0
+So, if you use, like, an I_D_L V_A_D,	0
 o- o-	0
 uh, for dropping the frames,	0
 Or the best we can get.	0
@@ -618,9 +618,9 @@ Yeah.	0
 So that would be even - That wouldn't change this number down here to  sixty-two?	0
 Yeah.	0
 Yeah. So you - you were get-	0
-If you add a g- good v-  very  [MASK]	0
+If you add a g- good v-  very  good V_A_D,	0
 Yeah.	0
-that works as well as [MASK] working on clean speech,	0
+that works as well as a V_A_D working on clean speech,	0
 Yeah.	0
 then you wou- you would go -	0
 So that's sort of the best you could hope for.	0
@@ -640,28 +640,28 @@ for the decision	0
 Yeah.	0
 from the committee.	0
 Uh, but I started to play with the, um,	1
-uh, [MASK]	1
+uh, tandem neural network.	1
 Mmm	0
 I just did the configuration that's very similar to	1
 what we did for the February proposal.	1
 And -	0
 Um. So. There is a f- a first feature stream that use uh straight	1
-[MASK]	1
+M_F_C_C features.	1
 Mm-hmm.	0
 Well, these features actually.	0
-And the other stream is the output of [MASK] using as input, also, these,	1
-um,	0
-cleaned	0
+And the other stream is the output of a neural network, using as input, also, these,	1
+um,	1
+cleaned	1
 M_F_C_C.	1
 Um -	0
 I don't have the comp- Mmm?	0
-Those are th- those are th- what is going into [MASK]	0
+Those are th- those are th- what is going into the tandem net?	0
 Those two?	0
 So there is just  this  feature stream,  the fifteen M_F_C_C plus delta and double-delta.	0
 No.	0
 Yeah?	0
-Um, so it's - makes forty-five features  that are used as input to [MASK]	0
-And then, there is - there are more inputs that comes from [MASK]	0
+Um, so it's - makes forty-five features  that are used as input to the H_T_K.	0
+And then, there is - there are more inputs that comes from the tandem M_L_P.	0
 Oh, oh. O_K. I see.	0
 Yeah, h- he likes to use them  both,  cuz then it has one part that's discriminative, one part that's not.	0
 Uh- huh.	0
@@ -669,7 +669,7 @@ Yeah. Um -	0
 Right. O_K.	0
 So, um,	0
 uh, yeah. Right now it seems	0
-that - i- I just tested on SpeechDat-Car while the experiment are running on  your  - on [MASK]	0
+that - i- I just tested on SpeechDat-Car while the experiment are running on  your  - on T_I-digits.	0
 Well, it improves on the well-matched and the mismatched conditions, but it	1
 get worse on the highly mismatched.	1
 Um,	0
@@ -679,20 +679,20 @@ Um, like, on the well-match and medium mismatch, the gain is around five percent
 y-	0
 but it goes down	0
 a lot more, like	0
-fifteen percent on [MASK]	0
+fifteen percent on the H_M case.	0
 You're just using the full ninety features?	1
 @@	0
 The -	0
 Y- you have ninety features?	0
 i-	0
-I have, um -	0
+I have, um -	1
 From the networks, it's twenty-eight. So -	1
 And from the other side it's forty-five. So it's - you have seventy-three features,	1
 So, d- i- It's forty-five. Yeah.	0
 Yeah.	0
 and you're just feeding them like that.	0
 Mm-hmm.	0
-There isn't any [MASK] or anything?	0
+There isn't any K_L_T or anything?	0
 There's a K_L_T after the neural network, as - as before.	1
 That's how you get down to twenty-eight?	1
 Yeah.	0
@@ -751,15 +751,15 @@ Mm-hmm.	0
 So I wonder, um,	0
 Well, what's your - what's your thought about what to do next with it?	1
 Um, I don't know. I'm surprised, because	1
-I expected [MASK] to help more	0
-when there is more mismatch, as	0
+I expected the neural net to help more	1
+when there is more mismatch, as	1
 it was the case for the -	1
 So, was the training set same as the p- the February proposal?	0
-Mm-hmm.	1
+Mm-hmm.	0
 @@	0
-Yeah, it's the same training set, so it's [MASK] with	0
+Yeah, it's the same training set, so it's TIMIT with	0
 O_K.	0
-[MASK] uh, noises,	0
+the T_I-digits', uh, noises,	0
 Mm-hmm.	0
 uh, added.	0
 Um -	0
@@ -769,23 +769,23 @@ Mm-hmm.	0
 The rest of it is different, right? So, um,	1
 uh,	0
 For instance, what's the effect of just putting	1
-[MASK] on without the o- other - other path?	1
+the neural net on without the o- other - other path?	1
 Mm-hmm.	0
 Yeah.	0
 I mean, you know what the  straight  features do. That gives you  this.	1
 Mm-hmm.	0
 You know what it does in  combination.	0
 You don't necessarily know what -	0
-What if you did the -  Would it make sense to do the [MASK]	0
+What if you did the -  Would it make sense to do the K_L_T	0
 on the full set of  combined  features?	0
 Instead of just on the -	0
 Yeah. I g- I  guess.  Um. The reason I did it this ways is that	0
 in February, it - we - we tested different things like that,	0
-so, having two [MASK] having ju	0
-or having [MASK]	0
+so, having two K_L_T, having just a K_L_T for a network,	0
+or having a global K_L_T.	0
 Oh, I see.	0
 And -	0
-So you  tried  [MASK] before and it didn't really -	0
+So you  tried  the global K_L_T before and it didn't really -	0
 Well -	0
 Yeah. And, uh, th- Yeah. The differences between these configurations were not huge, but -	0
 I see.	0
@@ -828,7 +828,7 @@ So I - I - I don't understand, because i-	0
 hundred bits is for transmission of some features.	0
 I mean, if you're only using h-	0
 And generally, i- it - s- allows you to transmit like, fifteen,	0
-uh, [MASK]	0
+uh, cepstrum.	0
 The  issue  was that, um, this is supposed to be a standard that's then gonna be fed to somebody's recognizer somewhere	0
 which might be, you know, it - it might be a concern how many parameters are use - u- used and so forth. And so,	0
 uh, they felt they wanted to set a limit.	1
@@ -846,12 +846,12 @@ And, um,	0
 they're being fed into these, uh, variants, only Gaussians and so forth, and - and, uh,	0
 Mm-hmm.	0
 so maybe it would be	0
-a better idea now than it was before to, uh, have, uh, one [MASK] over everything,	0
+a better idea now than it was before to, uh, have, uh, one K_L_T over everything,	0
 Mm-hmm.	0
 to de-correlate it.	0
 Yeah, I see.	0
 Maybe.   You know .	0
-What are [MASK] in the training set,	0
+What are the S_N_Rs in the training set, TIMIT?	0
 It's, uh, ranging from	0
 zero to clean?	0
 Mm-hmm.	0
@@ -869,17 +869,17 @@ using that, than -	0
 Of course, you  do  have the problem that,	0
 um,	0
 u- i-	0
-we are not able to increase [MASK] uh, or anything to, uh,	0
+we are not able to increase the number of Gaussians, uh, or anything to, uh,	0
 uh,	0
 to  match  anything. So we're only improving the training of our feature set, but that's still probably something.	0
-So you're saying, add [MASK]	0
+So you're saying, add the Macrophone data to the training of the neural net? The tandem net?	0
 Yeah, that's the only place that we can  train.  We can't train the other stuff with anything other than the standard amount, so.	0
 Yeah.	0
 Right.	0
 Um,	0
 um -	0
 What -  what  was it trained on again? The one that you used?	0
-It's [MASK] with noise.	0
+It's TIMIT with noise.	0
 Uh-huh.	0
 So, yeah, it's rather a small -	0
 Yeah.	0
@@ -896,33 +896,33 @@ So is it - is it  though  the performance,	0
 Yeah.  @@ ?	0
 big relation in the high ma- high mismatch has something to do with the,	0
 uh, cleaning up	0
-that you - that is done on [MASK] after adding noise? So -	0
-it's - i- All the noises are from [MASK] right?	0
+that you - that is done on the TIMIT after adding noise? So -	0
+it's - i- All the noises are from the T_I-digits, right?	0
 Yeah.	0
 So you - i-	0
 Um -	0
-Well, it- it's like the high mismatch of [MASK]	0
+Well, it- it's like the high mismatch of the SpeechDat-Car	0
 They - k- uh -	0
 after cleaning up, maybe having more noise than the -	0
-the training set of [MASK] after clean - s- after you do the noise clean-up.	0
+the training set of TIMIT after clean - s- after you do the noise clean-up.	0
 Mmm.	0
 I mean,  earlier  you never  had  any compensation, you just trained it straight away.	0
 Mm-hmm.	0
-So it had like all these different conditions of [MASK]	0
+So it had like all these different conditions of S_N_Rs,	0
 Mm-hmm.	0
-actually in their training set of [MASK]	0
+actually in their training set of neural net.	0
 Mm-hmm.	0
-But after cleaning up you have now a different set of [MASK] right?	0
-For the training of [MASK]	0
+But after cleaning up you have now a different set of S_N_Rs, right?	0
+For the training of the neural net.	0
 Yeah.	0
 Mm-hmm.	0
 And -	0
 is it something to do with the mismatch that - that's created  after  the cleaning up, like the high mismatch -	0
 You mean the - the most noisy	0
-occurrences on [MASK] might be	0
+occurrences on SpeechDat-Car might be	0
 Mm-hmm.	0
 a lot more noisy than -	0
-Of - that - I mean, [MASK] after the noise compensation of the SpeechDat-Car.	0
+Of - that - I mean, the S_N_R after the noise compensation of the SpeechDat-Car.	0
 Oh, so - Right. So the training - the - the  neural net   is being trained with noise compensated	0
 Maybe.	0
 @@	0
@@ -935,23 +935,23 @@ ones are  still  going to be,	0
 Yeah.	0
 even after our noise compensation, are still gonna be pretty noisy.	0
 Mm-hmm.	0
-Yeah, so now [MASK] is seeing a different set	0
-Of [MASK] Because in [MASK] it was zero to some clean.	0
+Yeah, so now the after-noise  compensation  the neural net is seeing a different set of S_N_Rs than that was originally there in the training set.	0
+Of TIMIT. Because in the TIMIT it was zero to some clean.	0
 Right.	0
-So the net saw all [MASK]  @@	0
+So the net saw all the S_N_R  @@	0
 Yes.	0
-conditions. Now after cleaning up it's a different set of [MASK]	0
+conditions. Now after cleaning up it's a different set of S_N_R.	0
 Right.	0
 Right.	0
-And [MASK] may not be, like, com- covering the whole set	0
-Right, but [MASK] that you're seeing is  also  reduced in noise by the  noise  compensation.	0
+And that S_N_R may not be, like, com- covering the whole set of S_N_Rs that you're getting in the SpeechDat-Car.	0
+Right, but the SpeechDat-Car data that you're seeing is  also  reduced in noise by the  noise  compensation.	0
 Yeah, yeah, yeah, yeah, it  is.  But, I'm saying, there could be some -	0
 Yeah.	0
 So.	0
 Mm-hmm.	0
 some issues of -	0
 Yeah.	0
-Well, if the initial range of [MASK] is different, we - the problem was already there before. And -	0
+Well, if the initial range of S_N_R is different, we - the problem was already there before. And -	0
 Yeah.	0
 Because -	0
 Mmm -	0
@@ -971,16 +971,16 @@ noise compensation process may be  imperfect,	0
 but.  Uh, so maybe it's treating some things differently.	0
 Well, I -	0
 Yeah, uh -	0
-I don't know. I - I just - that could be seen from [MASK] uh, testing condition because, um, the noises are from [MASK] right? Noise -	0
+I don't know. I - I just - that could be seen from the T_I-digits, uh, testing condition because, um, the noises are from the T_I-digits, right? Noise -	0
 Yeah. So -	0
-So cleaning up [MASK] and if the performance	0
-goes  down   in  [MASK] mismatch -  high  mismatch like this -	0
+So cleaning up the T_I-digits and if the performance	0
+goes  down   in  the T_I-digits mismatch -  high  mismatch like this -	0
 Clean training, yeah.	0
-on a clean training, or [MASK]	0
+on a clean training, or zero D_B testing.	0
 Yeah, we'll - so we'll see. Uh. Maybe.	0
 Yeah. Then it's something to do.	0
 Mm-hmm.  Yeah.	0
-I mean, one of the things about - I mean, the [MASK]	0
+I mean, one of the things about - I mean, the Macrophone data,	0
 um, I think, you know, it was recorded over many different telephones.	0
 Mm-hmm.	0
 And, um, so, there's lots of different kinds of acoustic conditions.	0
@@ -989,7 +989,7 @@ So it's not the same. I don't think there's  anybody  recording over a car	0
 from a car, but - I think it's - it's varied enough that if - if doing this adjustments, uh, and playing around with it	0
 doesn't, uh, make it better, the most - uh, it seems like the most obvious thing to do is to improve the training set.	0
 Um - I mean, what we were -	0
-uh - the condition - It - it gave us an  enormous  amount of improvement in what we were doing with  [MASK] even though	0
+uh - the condition - It - it gave us an  enormous  amount of improvement in what we were doing with  Meeting  Recorder digits, even though	0
 there,  again,  these m- Macrophone	0
 digits were very, very  different  from, uh,	0
 what we were going on  here.  I mean, we weren't talking over a telephone here.	0
@@ -998,13 +998,13 @@ acoustic conditions was just a good thing.	0
 Mm-hmm.	0
 Mmm.	0
 Yep.	0
-Yeah, actually  to s- eh, what I observed in [MASK]	1
-case is that	0
-the number of deletion	0
+Yeah, actually  to s- eh, what I observed in the H_M	1
+case is that	1
+the number of deletion	1
 dramatically increases. It -	1
 it doubles.	1
 Number of   deletions.	0
-When I added the num- [MASK] it doubles the number of deletions.	1
+When I added the num- the neural network it doubles the number of deletions.	1
 Yeah, so I don't you know	1
 how to interpret that, but, mmm -	1
 Yeah. Me  either.	1
@@ -1033,15 +1033,15 @@ subtracting off  speech.   Wh-	0
 Separating .	0
 Yeah.	0
 But - Yeah.	0
-I mean, but without [MASK] it's - well, it's better. It's just when w	0
+I mean, but without the neural network it's - well, it's better. It's just when we add the neural networks. The feature are the same except that -	0
 Yeah, right. Uh, that's right, that's right. Um -	0
 Well that - that says that, you know, the, um -	0
 the models in - in, uh,	0
-the recognizer are really paying attention to [MASK] features.	0
+the recognizer are really paying attention to the neural net features.	0
 Yeah.  Mm-hmm.	0
 Uh.	0
 But, yeah,  actually  -	0
-[MASK] noises  are sort of a range of noises and they're not so much the stationary	0
+the TIMIT noises  are sort of a range of noises and they're not so much the stationary	0
 driving kind of noises, right? It's - it's pretty different. Isn't it?	0
 Uh, there  is  a car noise. So there are f- just four noises. Um,	0
 uh, "Car", I think,	0
@@ -1062,11 +1062,11 @@ the other two are rather stationary also.	0
 Well, I - I think that	0
 if you run it -	0
 Actually, you - maybe you remember this. When you - in - in the  old  experiments when you ran	1
-with [MASK] only, and didn't have this side path,	0
-um, uh, with the - the pure features as well,	0
+with the neural net only, and didn't have this side path,	1
+um, uh, with the - the pure features as well,	1
 Mm-hmm.	0
 did it	0
-make things  better  to have [MASK] Was it about the  same?	1
+make things  better  to have the neural net? Was it about the  same?	1
 Uh, w- i-	0
 It was -	1
 b- a little bit worse.	1
@@ -1077,30 +1077,30 @@ until you put the second path in with the pure features, the neural net wasn't h
 Mm-hmm.	0
 Well,  that's  interesting.	0
 It was helping,	1
-uh, if the features are b-	0
+uh, if the features are b-	1
 were bad, I mean.	1
 Yeah.	0
-Just plain [MASK]	0
+Just plain P_L_Ps or M_F_C_Cs.	0
 Yeah.	0
 But	1
-as soon as we added [MASK] and	0
+as soon as we added L_D_A on-line normalization, and	1
 all these things, then -	1
 They were doing similar enough things.	1
-Well, I  still  think it would be k- sort of interesting to see	0
-what	0
-would happen if you just had [MASK] without the side thing. And - and the thing I - I have in mind is,	1
+Well, I  still  think it would be k- sort of interesting to see	1
+what	1
+would happen if you just had the neural net without the side thing. And - and the thing I - I have in mind is,	1
 Yeah, mm-hmm.	0
 uh,  maybe  you'll see that the results are  not  just a little bit worse. Maybe that	1
 they're a  lot  worse.	1
 You know? And, um -	0
 But if on the ha- other hand,	1
-uh, it's, say, somewhere in  between  what you're seeing now and - and - and, uh, what you'd have with just the pure features,	0
-then maybe there  is  some problem of a -	0
-of a, uh, combination	0
+uh, it's, say, somewhere in  between  what you're seeing now and - and - and, uh, what you'd have with just the pure features,	1
+then maybe there  is  some problem of a -	1
+of a, uh, combination	1
 of these things, or correlation between them somehow.	1
 Mm-hmm.	0
 If it really is that the  net  is  hurting  you at the moment, then	1
-I think the issue is to	0
+I think the issue is to	1
 focus on - on, uh, improving the - the  net.	1
 Yeah, mm-hmm.	0
 Um.	0
@@ -1135,61 +1135,61 @@ Yeah, it should be pretty close to cancelled out.	0
 Yeah.	0
 Mm-hmm.	0
 You know,  I've  been wondering about something. In the, um - a lot of the, um -	1
-the Hub-five systems, um, recently have been using [MASK]	1
+the Hub-five systems, um, recently have been using L_D_A.	1
 and - and they, um -	1
-They run [MASK] on the features right before they train the models.	1
-So there's the - [MASK] is - is right there b	0
+They run L_D_A on the features right before they train the models.	1
+So there's the - the L_D_A is - is right there before the H_M_Ms.	0
 Yeah.	0
-So, you guys are using [MASK] but it seems like it's pretty far back in the process.	0
-Uh, [MASK] is different from [MASK] that you are talking abou	1
-saying is, like, you take a block of features, like nine frames or something,	0
+So, you guys are using L_D_A but it seems like it's pretty far back in the process.	0
+Uh, this L_D_A is different from the L_D_A that you are talking about. The L_D_A that you -	1
+saying is, like, you take a block of features, like nine frames or something,	1
 Yeah.	0
 Uh-huh.	0
-and then do [MASK] on it, and then redu	1
+and then do an L_D_A on it, and then reduce the dimensionality to something like twenty-four or something like that.	1
 And then feed it to H_M_M.	0
 Yeah, you c- you c- you  can.  I mean, it's - you know, you're just basically i-	0
 Yeah, so this is like a two d-	0
 two dimensional  tile .	0
 You're shifting the feature space.  Yeah.	0
 So this is a two dimensional  tile .	1
-And [MASK] that we are f- applying is only in time, not in frequency -	1
+And the L_D_A that we are f- applying is only in time, not in frequency -	1
 high  cost frequency. So it's like - more like a filtering in time, rather than	1
 Ah. O_K.	0
 doing a r-	0
 So what i- what about, um - i- u-	0
 what i- w- I mean, I don't know if this is a good idea or  not,  but what if you put - ran the  other  kind of L_D_A,	1
-uh, on your features right before they go into	0
+uh, on your features right before they go into	1
 Uh, it -	0
 the H_M_M?	1
 m-	0
-Mm-hmm. No, actually, I think - i- Well. What do we do with [MASK] is -	0
+Mm-hmm. No, actually, I think - i- Well. What do we do with the A_N_N is -	0
 is something like that except that it's not linear. But	1
 Yeah.	0
-it's - it's like [MASK] But.	1
+it's - it's like a nonlinear discriminant analysis. But.	1
 Right, it's the - It's - Right. The - So - Yeah, so it's sort of like - The  tandem  stuff is kind of like i-	1
 Yeah. It's -	0
-[MASK]  I g-  Yeah.	1
+nonlinear L_D_A.  I g-  Yeah.	1
 Yeah.	0
 Yeah.	0
 Uh.	0
 But I mean, w- but the  other  features that you have, um,	1
-th- [MASK]	1
+th- the non- tandem  ones,	1
 Mm-hmm.	0
 Yeah, I know. That - that - Yeah. Well, in the proposal, they were	1
-transformed u- using [MASK] but -	1
+transformed u- using P_C_A, but -	1
 Uh-huh.	0
-Yeah, it might be [MASK]	1
+Yeah, it might be that L_D_A	1
 The a- the  argument  i- is kind of i- in - and it's not like we really  know,   but the  argument  anyway is that, um,	0
 could be better.	1
-uh, we  always  have the prob- I mean, discriminative things are good. [MASK]	0
+uh, we  always  have the prob- I mean, discriminative things are good. L_D_A, neural nets, they're good.	0
 Yeah.	0
 Uh, they're good because you - you - you learn to distinguish between these categories that you want to be good at distinguishing between.	0
-And [MASK] doesn't do that. It - P_A_C- P_C_A -	0
-[MASK] throws away pieces that are	0
+And P_C_A doesn't do that. It - P_A_C- P_C_A -	0
+low-order P_C_A throws away pieces that are	0
 uh, maybe not - not gonna be helpful just because they're  small,  basically.	0
 Right.	0
 But, uh, the problem is, training sets aren't perfect and testing sets are different.	0
-So you f- you - you face the  potential  problem with discriminative stuff, be it [MASK] that you are training	0
+So you f- you - you face the  potential  problem with discriminative stuff, be it L_D_A or neural nets, that you are training	0
 to discriminate between categories in  one  space but what you're  really  gonna be g- getting is - is something  else.	0
 Uh-huh.	0
 And so, uh,  Stephane's  idea was,	0
@@ -1213,8 +1213,8 @@ the discriminative stuff is gonna  help  you.	0
 Mm-hmm.	0
 And  some  of the time it's going to  hurt  you, and by combining two information sources if, you know - if - if -	0
 Right.	0
-So you wouldn't necessarily then want to do [MASK] on	0
-[MASK] because	0
+So you wouldn't necessarily then want to do L_D_A on	0
+the non-tandem features because	0
 That i- i-	0
 now you're doing something to them that -	0
 I think that's counter to that idea. Now, again, it's - we're just trying these different things. We don't really know what's gonna work best. But	0
@@ -1223,18 +1223,18 @@ if that's the hypothesis, at least it would be counter to that hypothesis to do 
 Right.	0
 Um, and in  principle  you would  think  that the neural net would do	0
 better	0
-at the  discriminant  part than [MASK]	0
+at the  discriminant  part than L_D_A.	0
 Right.	0
 Yeah. Well - y-	0
 Though, maybe  not.	0
-Yeah.   Exactly.  I mean, we, uh - we were getting ready to do the tandem, uh, stuff for [MASK]	0
+Yeah.   Exactly.  I mean, we, uh - we were getting ready to do the tandem, uh, stuff for the Hub- five  system,	0
 and, um, Andreas and I  talked  about it, and	0
 the idea w- the  thought  was, "Well,	0
-uh, yeah, that i- you know - th- [MASK] should be  better,  but we should at least have	0
-uh, a  number,  you know, to show that we did try [MASK]	0
-in  place  of [MASK] so that we can	0
+uh, yeah, that i- you know - th- the neural net should be  better,  but we should at least have	0
+uh, a  number,  you know, to show that we did try the L_D_A	0
+in  place  of the neural net, so that we can	0
 Right.	0
-you know, show a clear  path.  You know, that you have it  without  it, then you have [MASK] then you have [MASK] and you can see,	0
+you know, show a clear  path.  You know, that you have it  without  it, then you have the L_D_A, then you have the neural net, and you can see,	0
 theoretically. So.	0
 I was just wondering - I - I -	0
 Well, I think that's a good idea.	0
@@ -1248,20 +1248,20 @@ We just want to  show.  I mean, it - everybody  believes  it, but you know, we j
 Oh, no it's a g-	0
 No, no, but it might not - not even be  true.  I mean, it's - it's - it's - it's - it's a great idea. I mean,	0
 Yeah.	0
-one of the things that always disturbed me, uh, in the - [MASK] that happened in the eighties was that, um,	0
-a lot of people - Because [MASK] were pretty easy to - to use -	0
+one of the things that always disturbed me, uh, in the - the resurgence of neural nets that happened in the eighties was that, um,	0
+a lot of people - Because neural nets were pretty easy to - to use -	0
 Yeah.	0
 a lot of people were just using them for all sorts of things without,	0
 uh, looking at  all  into the linear, uh - uh,  versions  of them. And,	0
 Mm-hmm.	0
 Yeah.	0
-uh, people were doing [MASK] but not looking	0
+uh, people were doing recurrent nets but not looking at I_I_R filters, and - You know, I mean, uh, so I think, yeah, it's definitely a good idea to try it.	0
 Yeah, and everybody's putting that on their   systems  now, and so, I- that's what made me wonder about	0
 Well, they've been putting them in their systems off and on for ten years, but - but - but, uh,	0
 this, but.	0
-Yeah, what I mean is it's - it's like in [MASK] you know, and you read the system descriptions and	0
+Yeah, what I mean is it's - it's like in the Hub-five evaluations, you know, and you read the system descriptions and	0
 And now they all have that.	0
-everybody's  got,  you know, [MASK] on their features. And so. Uh.	0
+everybody's  got,  you know, L_D_A on their features. And so. Uh.	0
 I see.	0
 Yeah.	0
 It's the transformation they're estimating on -	0
@@ -1273,14 +1273,14 @@ Mm-hmm.	0
 Mm-hmm.	0
 I - I don't know enough about it, but - Um.	0
 Mm-hmm.	0
-I mean,  part  of why - I - I think part of why you were getting into [MASK] - Y- you were	0
+I mean,  part  of why - I - I think part of why you were getting into the K_L_T - Y- you were	0
 describing to me at one point that you wanted to	0
 see if,	0
 uh, you know, getting good orthogonal features was - and  combining  the - the different	0
 temporal	0
 ranges  - was the key thing that was happening or whether it was this discriminant thing, right? So you were just trying -	0
 I think you r- I mean, this is - it doesn't have the	0
-[MASK] aspect but th- as far as the	0
+L_D_A aspect but th- as far as the	0
 orthogonalizing transformation, you were trying  that  at one point, right?	0
 Mm-hmm.	0
 Mm-hmm.	0
@@ -1289,8 +1289,8 @@ Yeah.	0
 Does  something.  It doesn't work as well.	0
 Yeah.	0
 Yeah.	0
-So, yeah, I've been exploring [MASK] withou	0
-less latency using [MASK]	0
+So, yeah, I've been exploring a parallel V_A_D without neural network with, like,	0
+less latency using S_N_R and energy,	0
 um, after the cleaning up.	0
 So what I'd been trying was, um,	0
 uh -	0
@@ -1306,17 +1306,17 @@ Mm-hmm.	0
 One - more than one percent  relative   improvement. So, from fifty-three point six it went to fifty f- four point eight. So it's, like,	0
 only  slightly more than a percent improvement, just like -	0
 Mm-hmm.	0
-Which means that it's - it's doing a slightly better job than the previous [MASK]	0
+Which means that it's - it's doing a slightly better job than the previous V_A_D,	0
 Mm-hmm.	0
 uh, at a l- lower delay.	0
 Mm-hmm.	0
 Um, so, um - so - u-	0
-But - i- d- I'm sorry, does it still have [MASK] stuff?	0
+But - i- d- I'm sorry, does it still have the median  filter stuff?	0
 It  still  has the median filter. So -	0
 So it still has  most  of the delay, it just doesn't -	0
 Yeah, so d- with the delay, that's gone is the  input,  which is the sixty millisecond.	0
 The forty plus  twenty.	0
-At the input of [MASK] you have this, uh, f- nine frames of context plus the delta.	0
+At the input of the neural net you have this, uh, f- nine frames of context plus the delta.	0
 Well, w- i-	0
 Mm-hmm.	0
 Oh, plus the delta, right. O_K.	0
@@ -1327,7 +1327,7 @@ Mm-hmm. Mm-hmm.	0
 Um.	0
 So. Yeah. So the - the - di- the biggest -	0
 The problem f- for me was to find a consistent threshold that works  well across the different databases, because I t-	0
-I try to make it work on tr- [MASK] and it fails	0
+I try to make it work on tr- SpeechDat-Car and it fails on T_I-digits, or if I try to make it work on that it's just the Italian or something, it doesn't work on the Finnish.	0
 Mm-hmm.	0
 Mm-hmm.	0
 So, um.	0
@@ -1345,9 +1345,9 @@ Now this - this - this, uh,	0
 That - that, it - you th- think that the, uh - the -	0
 i- it appears to be a good feature, right?	0
 Mm-hmm. Yeah.	0
-What about using it in [MASK]	0
+What about using it in the  neural  net?	0
 Yeah, eventually we could - could just	0
-Yeah, so - Yeah, so that's the - Yeah. So we've been thinking about putting it into [MASK] also.	0
+Yeah, so - Yeah, so that's the - Yeah. So we've been thinking about putting it into the neural net also.	0
 Yeah.	0
 Because they did - that itself -	0
 Then you don't have to worry about the thresholds and -	0
@@ -1364,9 +1364,9 @@ Uh.	0
 Oh, I just - I just h- put the second stream in place and, uh	0
 ran one experiment, but just like - just to know that everything is fine.	0
 Uh-huh.	0
-So it was like, uh, forty-five [MASK] plus twenty-three mel -  log  mel.	0
+So it was like, uh, forty-five cepstrum plus twenty-three mel -  log  mel.	0
 Yeah.	0
-And - and , just, like, it gave me the baseline performance of [MASK] which is like	0
+And - and , just, like, it gave me the baseline performance of the Aurora, which is like	0
 zero improvement.	0
 Yeah.	0
 Yeah.	0
@@ -1380,21 +1380,21 @@ Right? And then -	0
 But, yeah, we're - we're not quite there yet. So we have to  figure out the neural nets, I guess.	0
 Yeah.	0
 The uh,  other  thing I was wondering was, um,	1
-if [MASK] um, has any - because of the different noise con- unseen noise conditions for the	0
+if the neural net, um, has any - because of the different noise con- unseen noise conditions for the	1
 neural net, where, like, you train it on those four noise conditions,	1
 Mm-hmm.	0
-while you are feeding it with, like,	0
+while you are feeding it with, like,	1
 a- additional - some four plus some - f- few more conditions which it hasn't seen, actually,	1
-from the - f- f- while testing. Um -	0
+from the - f- f- while testing. Um -	1
 Yeah, yeah. Right.	0
 instead of just h- having c-	1
-uh, those cleaned up t- cepstrum, sh- should we feed some additional information, like -	0
-The - the - We  have  [MASK]  I mean, should we f- feed the V_A_D flag, also, at the input so that it - it has some additional discriminating information at the input?	1
+uh, those cleaned up t- cepstrum, sh- should we feed some additional information, like -	1
+The - the - We  have  the V_A_D  flag.  I mean, should we f- feed the V_A_D flag, also, at the input so that it - it has some additional discriminating information at the input?	1
 Hmm- hmm!  Um -	0
 Wh- uh, the - the V_A_D what?	0
-We have [MASK] information also available at the  back-end.	1
+We have the V_A_D information also available at the  back-end.	1
 Uh-huh.	0
-So if it is something [MASK] is not able to discriminate the classes -	1
+So if it is something the neural net is not able to discriminate the classes -	1
 Yeah.	0
 I mean -	0
 Because most of it is sil-	0
@@ -1407,9 +1407,9 @@ Th-	0
 So, by having an additional, uh, feature which says "this is speech and this is  nonspeech ", I mean, it certainly helps in some unseen noise conditions for the  neural  net.	1
 What -	0
 Do y- do you have that feature available for the  test  data?	0
-Well, I mean, we have - we are transferring [MASK] to the  back-end  -  feature  to the  back-end.  Because we are dropping it at the  back-end  after everything - all the features are computed. So -	0
+Well, I mean, we have - we are transferring the V_A_D to the  back-end  -  feature  to the  back-end.  Because we are dropping it at the  back-end  after everything - all the features are computed. So -	0
 Oh, oh,  I  see.  I  see.	0
-so the neural - so that is coming from a separate neural net or  some  [MASK]	0
+so the neural - so that is coming from a separate neural net or  some  V_A_D.	0
 O_K. O_K.	0
 Which is - which is certainly	0
 giving a	0
@@ -1419,14 +1419,14 @@ the neural net. Yeah.  Yeah.	1
 Right.	0
 You could feed it into the neural net. The  other  thing  you could do	1
 So that -	0
-is just, um, p-	0
-modify the, uh,  output  probabilities of the - of the, uh,	0
-uh,	0
-um, [MASK]	1
+is just, um, p-	1
+modify the, uh,  output  probabilities of the - of the, uh,	1
+uh,	1
+um, neural net,  tandem  neural net,  based on the fact that you have a  silence  probability.	1
 Mm-hmm.	0
 Right?	0
 Mm-hmm.	0
-So you have [MASK] of what the silence probability is,	0
+So you have an independent estimator of what the silence probability is,	0
 and you could  multiply  the two things, and renormalize.	0
 Uh, I mean, you'd have to do the	0
 Yeah.	0
@@ -1444,7 +1444,7 @@ I mean,  I mean, i- Doesn't - ? I think - I think the  second  one sounds a lot 
 What -	0
 what if you -  Right.	0
 So, what if you then, uh - since you  know  this, what if you only	0
-use [MASK] on the  speech  portions?	0
+use the  neural  net on the  speech  portions?	0
 Well, uh,	0
 That's what -	0
 Well, I guess that's the  same.  Uh, that's  similar.	0
@@ -1455,10 +1455,10 @@ to - to - to generate, that it's - it has to distinguish  between.	0
 Speech.	0
 But I mean, if you're gonna - if you're going to multiply the output of the net by this other  decision,	0
 uh,	0
-would - then you don't  care  about whether [MASK] makes that distinction, right?	0
+would - then you don't  care  about whether the net makes that distinction, right?	0
 Well, yeah. But this  other  thing isn't  perfect.	0
 Ah.	0
-So that you bring in  some  information from [MASK]  itself.	0
+So that you bring in  some  information from the net  itself.	0
 Right, O_K. That's a good point.	0
 Yeah. Now the only thing that - that bothers me about all this is that I - I - I -	1
 The - the fact -	1
@@ -1468,7 +1468,7 @@ But -	1
 So I might maybe look at,	1
 is it due to the fact that	1
 um, the probability of the silence at the output of the network, is,	1
-uh,	0
+uh,	1
 Is too  high.	0
 too - too high or -	1
 If it's the case, then multiplying it again by -	0
@@ -1492,12 +1492,12 @@ Yeah.	0
 Yeah, like the entropy of the - the output, or -	0
 Yeah.	0
 Yeah, for instance.	0
-It - it seems that [MASK] doesn't - Well,	0
+It - it seems that the V_A_D network doesn't - Well,	0
 But I - bu-	0
 it doesn't drop,	0
 uh, too many frames because the dele- the number of deletion is reasonable.	0
-But it's just when we add [MASK]	0
-[MASK] and then -	0
+But it's just when we add the tandem,	0
+the final M_L_P, and then -	0
 Yeah. Now the  only  problem is you  don't  want to ta- I guess  wait  for the  output  of the V_A_D	0
 u-	0
 before you can put something  into  the other  system,  cuz that'll shoot up the latency a  lot,  right? Am I  missing  something here?	0
@@ -1508,7 +1508,7 @@ Right.	0
 Yeah. So that's maybe a  problem  with what I was just saying. But -	0
 but - I- I guess -	0
 But if you were gonna  put  it in as a  feature  it means you already  have  it by the time you get to the  tandem  net, right?	0
-Um, well. We - w- we don't have it, actually, because it's - it has a high  rate energy  - [MASK] has a -	0
+Um, well. We - w- we don't have it, actually, because it's - it has a high  rate energy  - the V_A_D has a -	0
 No.	0
 Ah.	0
 Yeah.	0
@@ -1516,25 +1516,25 @@ O_K.	0
 It's  kind  of done in - I mean,  some  of the things are,	0
 not in parallel,  but	0
 certainly,	0
-it would be in parallel with the - with [MASK]	0
+it would be in parallel with the - with a  tandem  net.	0
 Right.	0
 In time.	0
 So maybe, if that doesn't work, um -	0
 But it would be interesting to see if that was the problem, anyway.	0
-And - and - and then I guess another alternative  would  be to take the feature that you're feeding into [MASK]	0
+And - and - and then I guess another alternative  would  be to take the feature that you're feeding into the V_A_D,	0
 Mm-hmm.	0
 and feeding it into the other one as well.	0
 Mm-hmm.	0
 And then maybe it would just learn -  learn  it better.	0
-Um -	1
+Um -	0
 But that's - Yeah, that's an interesting thing to try to  see,  if what's going on	0
 is that in the highly mismatched condition,	0
 it's, um, causing deletions by having this silence probability up - up too high,	0
 Mm-hmm.	0
-at some point where [MASK] is saying it's actually speech.	0
+at some point where the V_A_D is saying it's actually speech.	0
 Yeah. So, m-	0
 Which is probably  true.	0
-Cuz - Well, the V_A_- if [MASK] said - since [MASK] is - is - is  right  a lot,  uh -	0
+Cuz - Well, the V_A_- if the V_A_D said - since the V_A_D is - is - is  right  a lot,  uh -	0
 Yeah.	0
 Hmm. Anyway.	0
 Might  be.	0
@@ -1544,14 +1544,14 @@ Mm-hmm.	0
 Yeah, and the other thing - Well, there are other issues maybe for the tandem, like,	0
 uh, well, do we want to, w- uh n-	0
 Do we want to work on the targets? Or,	0
-like, instead of using phonemes, using more [MASK]	0
+like, instead of using phonemes, using more context dependent	0
 units?	0
-For [MASK] you mean? Hmm.	0
+For the tandem net you mean? Hmm.	0
 Well, I'm -	0
 Yeah. I'm thinking, also, a w- about	0
 Dan's work	0
 where he -	0
-he trained  [MASK] not on phoneme targets but on the H_M_M state targets.	0
+he trained  a network, not on phoneme targets but on the H_M_M state targets.	0
 And -	0
 it was giving s- slightly better	0
 results.	0
@@ -1564,14 +1564,14 @@ Yeah.	0
 um,	0
 Uh -	0
 Mmm. I was just thinking maybe about,	0
-I think -	1
-like, [MASK] and -	0
+I think -	0
+like, generalized diphones, and -	0
 come up with a -	0
 a reasonable,	0
-not too large, [MASK] and -	0
+not too large, set of context dependent units, and -	0
 and -	0
 Yeah.	0
-And then anyway we would have to reduce this with [MASK] So. But -  I don't know.	0
+And then anyway we would have to reduce this with the K_L_T. So. But -  I don't know.	0
 Yeah.	0
 Yeah.  Well, maybe.	0
 Mm-hmm.	0
@@ -1591,9 +1591,9 @@ Yeah.	0
 Around five percent  better,  I guess. If -	0
 y- Like sixty?	0
 if - i-	0
-Well, we don't know what's it's gonna be [MASK] yet. He hasn't got the results back yet.	0
+Well, we don't know what's it's gonna be the T_I-digits yet. He hasn't got the results back yet.	0
 Yeah.	0
-If you extrapolate [MASK] well-matched and medium-mismatch,	0
+If you extrapolate the SpeechDat-Car well-matched and medium-mismatch,	0
 Uh-huh.	0
 Yeah.	0
 it's around, yeah, maybe five.	0
@@ -1609,7 +1609,7 @@ Well, it's around five  percent,  because it's - s- Right? If everything is five
 Yeah. Yeah.	0
 Mm-hmm.	0
 All the  other  ones were five percent, the -	0
-I d- I d- I just have [MASK] right now, so -	0
+I d- I d- I just have the SpeechDat-Car right now, so -	0
 Yeah.	0
 Yeah.	0
 It's running - it shou- we should have the results today during the afternoon, but -	0
@@ -1617,7 +1617,7 @@ Hmm.	0
 Well.	0
 Hmm.	0
 Well -	0
-Um -	0
+Um -	1
 So I won't be here	1
 for -	1
 When -	0
@@ -1642,7 +1642,7 @@ Uh, you'll  both  be gone  from  here.	1
 So there'll be no - definitely no meeting on - on September sixth.	0
 Uh, and -	0
 What's September sixth?	0
-Uh, that's during  [MASK]	0
+Uh, that's during  Eurospeech.	0
 Oh, oh, right. O_K.	0
 So, uh, Sunil will be in Oregon. Uh, Stephane and I will be in Denmark.	0
 Uh -	0
@@ -1654,9 +1654,9 @@ I guess,	0
 just -	0
 I mean, you guys should probably meet. And maybe Barry - Barry will be around. And -	0
 and then uh,	1
-uh, we'll start up again with	0
-Dave and - Dave and Barry and Stephane	0
-and us on the, uh,	0
+uh, we'll start up again with	1
+Dave and - Dave and Barry and Stephane	1
+and us on the, uh,	1
 twentieth.	1
 No.	0
 Thirteenth?	0

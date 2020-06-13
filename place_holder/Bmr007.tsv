@@ -105,15 +105,15 @@ O_K.	0
 basically  the same.	0
 Same idea?	0
 But, same idea. So, if you've looked at this you've seen it before, so  Basically,  um	1
-as you know, uh	0
-part of the encoding	0
+as you know, uh	1
+part of the encoding	1
 includes a mark that indicates  an overlap.	1
 It's not indicated	1
-with, um  uh, tight  precision,  it's just indicated that -	0
-O_K, so,	0
-It's indicated to - to - so the people know	0
-what  parts of sp-	0
-which - which stretches of speech were in the  clear,	0
+with, um  uh, tight  precision,  it's just indicated that -	1
+O_K, so,	1
+It's indicated to - to - so the people know	1
+what  parts of sp-	1
+which - which stretches of speech were in the  clear,	1
 versus being overlapped by others. So, I	1
 used this mark and, um	0
 and, uh  uh,	0
@@ -126,29 +126,29 @@ you know, minute zero, of course, is the first minute up to	0
 sixty seconds.	0
 O_K .	0
 And, um	1
-What you can see is the number of overlaps	0
-and then	0
+What you can see is the number of overlaps	1
+and then	1
 to the right,	0
 whether they involve  two  speakers,  three  speakers, or  more  than three speakers.	1
-And,	0
-um  and,	0
-what I was looking for sp- sp- specifically  was  the question of	0
-whether they're distributed  evenly  throughout or whether they're	0
-bursts  of them.	0
+And,	1
+um  and,	1
+what I was looking for sp- sp- specifically  was  the question of	1
+whether they're distributed  evenly  throughout or whether they're	1
+bursts  of them.	1
 Um.	0
 And  it looked to me as though -	0
 uh, you know - y- this is just -	1
-eh - eh, this would - this is  not  statistically	0
-verified,	0
-but it	0
-did  look to me as though there are bursts  throughout,  rather than being	0
+eh - eh, this would - this is  not  statistically	1
+verified,	1
+but it	1
+did  look to me as though there are bursts  throughout,  rather than being	1
 localized to a particular region.	1
 The  part  down there, where there's the  maximum  number of -	1
-of, um  overlaps is an area where we were discussing	0
-whether or not it would be useful to indi- to s- to	0
-code	0
-stress,	0
-uh,  sentence  stress	0
+of, um  overlaps is an area where we were discussing	1
+whether or not it would be useful to indi- to s- to	1
+code	1
+stress,	1
+uh,  sentence  stress	1
 as possible indication of, uh   information  retrieval.	1
 So it's like,	0
 you know, rather,	0
@@ -172,18 +172,18 @@ And  couple times there  are not. So, i- it seems like it goes through bursts	0
 Mm-hmm.	0
 but, um  that's kind of it. Now,	1
 Mm-hmm.	0
-Another  question is	0
-is there - are there	0
+Another  question is	1
+is there - are there	1
 individual differences in whether you're likely to  be  overlapped  with  or to overlap with  others.	1
 And, again  I want to emphasize this is just one  particular	0
 um -	0
 one particular meeting, and also there's been no statistical  testing  of it all, but	0
 I, um	0
 I took the coding of	0
-the - I, you know, my - I had this script	0
-figure out, um	0
-who	0
-was the first speaker, who was the second speaker involved in a two-person overlap, I didn't look at the ones involving three or more.	0
+the - I, you know, my - I had this script	1
+figure out, um	1
+who	1
+was the first speaker, who was the second speaker involved in a two-person overlap, I didn't look at the ones involving three or more.	1
 And, um	0
 this is how it breaks down in the individual cells of	0
 who tended to be overlapping most often with who -	0
@@ -202,14 +202,14 @@ and got overlap-	0
 Hmm!	0
 overlapped  with by somebody.	0
 Mm-hmm.	0
-And,  then if you look down in the  summary  table,	0
-then you see that, um	0
-th- they're differences in	0
-whether a person got overlapped  with  or	0
-overlapped	0
+And,  then if you look down in the  summary  table,	1
+then you see that, um	1
+th- they're differences in	1
+whether a person got overlapped  with  or	1
+overlapped	1
 Is this uh  just raw  counts  or is it -	0
-by.	0
-Raw counts.	0
+by.	1
+Raw counts.	1
 So it would be interesting to see	0
 how much each person  spoke.	0
 Mm-hmm.	0
@@ -219,20 +219,20 @@ Yeah.	0
 very  true - very true  it would be good to normalize with respect to that. Now on the table I did	0
 Normalized to how much -	0
 Yeah	0
-take one step toward, uh   away  from the [MASK] by putting,	0
+take one step toward, uh   away  from the raw frequencies by putting,	0
 uh   percentages.  So that the percentage of time	0
 of the - of the times that a person spoke,	0
 what percentage	0
 eh, w- so.	1
-Of the times a person spoke  and  furthermore was involved in a two- two-person overlap,	0
+Of the times a person spoke  and  furthermore was involved in a two- two-person overlap,	1
 what percentage of the time were they the  overlapper  and what percent of the time were they th- the  overlappee?	1
 And  there,  it looks like you see some  differences,	0
 um,	1
-that some people tend to be overlapped	0
+that some people tend to be overlapped	1
 with  more often than they're  overlapped,  but, of course,	1
-uh i- e-  this is just  one  meeting,	0
-uh  there's  no  statistical testing involved, and that would be	0
-required for a - for a  finding   of  any  kind of	0
+uh i- e-  this is just  one  meeting,	1
+uh  there's  no  statistical testing involved, and that would be	1
+required for a - for a  finding   of  any  kind of	1
 S- so, i- it would be  statistically  incorrect to conclude from this that Adam talked too much or something.	0
 scientific  reliability.	1
 No - no actually, that would be  actually  statistically  correct,  but	0
@@ -264,7 +264,7 @@ Yeah.	0
 you know, different  styles,  different speaker styles.	1
 Oh  sure.	0
 And  it would be, you know  of course,	1
-there's also the question of what type of overlap	0
+there's also the question of what type of overlap	1
 was  this, and w- what were they, and	1
 i- and I - and I  know  that I can distinguish at least three types and, probably more, I mean, the	1
 general	0
@@ -298,11 +298,11 @@ ack- acknowledge the influence of	0
 sub- of subcultural norms and	0
 cross-cultural norms and things.	0
 So, um	1
-Then it beco-	0
-though - so - just - just superficially to give	0
+Then it beco-	1
+though - so - just - just superficially to give	1
 um  a couple ideas of the  types  of overlaps involved, I have at the bottom several that  I  noticed. So,	1
 uh, there are backchannels, like what Adam just did now and, um	1
-um, anticipating the end of a  question	0
+um, anticipating the end of a  question	1
 and  simply answering it earlier, and there are several of those in this - in these data where -	1
 Mm-hmm.	0
 because we're	0
@@ -310,21 +310,21 @@ people who've talked to each other,	0
 um  we know	0
 basically what the topic is, what the possibilities are and w- and we've spoken with each other so we know basically what the other person's  style  is likely to be and so	0
 and t- there are a number of places where someone just answered  early.	0
-No problem.	0
+No problem.	1
 And places  also	1
 which I thought were interesting, where two or  more  people gave exactly th- the same answer in unison - different words of course but you know, the - basically,	1
 you know	0
 everyone's saying "yes" or - you know, or	0
 ev- even more sp-  specific  than that.	0
 So, uh, the point is that, um	1
-overlap's not necessarily a bad  thing  and that it would be im-	0
+overlap's not necessarily a bad  thing  and that it would be im-	1
 i- useful to subdivide these further and see if there are individual differences in styles with respect to the types involved.	1
 And that's all I wanted to say on that,	0
 unless  people have questions.	0
 Well, of course th- the biggest,  um	1
-result here, which is one we've -	0
+result here, which is one we've -	1
 Yep.	0
-we've talked about many times and isn't  new  to us, but which I think would be interesting to show someone who  isn't  familiar with this	0
+we've talked about many times and isn't  new  to us, but which I think would be interesting to show someone who  isn't  familiar with this	1
 is just the sheer number of  overlaps.	1
 Yes, yes!	0
 Oh, O_K - interesting.	0
@@ -333,12 +333,12 @@ Yeah.	0
 Right?	0
 that - that, um	0
 here's a relatively short meeting, it's a forty -	1
-forty plus minute	0
+forty plus minute	1
 Hundred ninety-seven.	0
 meeting, and  not  only were there two hundred and fifteen  overlaps	1
-but,	0
-uh	0
-I think there's one -	0
+but,	1
+uh	1
+I think there's one -	1
 one minute there where there - where - where there wasn't any overlap? I mean, it's -	1
 S- n- are -	0
 uh throughout this thing?	0
@@ -394,7 +394,7 @@ Um, I considered  that's an overlap but it's very short, it's an "X_" with a -	0
 and - the idea is probably, eh  when eh - when eh, we studied th- th- that zone, eh	0
 eh, we h- we have eh eh  confusion with eh eh noise.	0
 Mm-hmm.	0
-With eh  that  [MASK] but uh  I have  new  information but I have to - to  study .	0
+With eh  that  fricative  sounds, but uh  I have  new  information but I have to - to  study .	0
 Yeah.	0
 Yeah, but I - I'd -	0
 Can I -	0
@@ -407,18 +407,18 @@ Mm-hmm.	0
 Actually, um	0
 um  actually  not.	0
 Uh, so  le- let's think about the case where	1
-A_ starts speaking	0
-and then B_ overlaps with A_,	0
+A_ starts speaking	1
+and then B_ overlaps with A_,	1
 and then the minute boundary happens.	1
 And let's say that	1
-after that minute boundary,	0
-um  B_ is still speaking,	0
-and A_ overlaps	0
+after that minute boundary,	1
+um  B_ is still speaking,	1
+and A_ overlaps	1
 with B_,	1
 that would be a new overlap.	1
 But  otherwise	1
-um, let's say B_	0
-comes to the conclusion of - of that turn without	0
+um, let's say B_	1
+comes to the conclusion of - of that turn without	1
 anyone overlapping with him or her,	1
 in which case there would be no overlap counted in that second minute.	1
 No, but suppose they both	0
@@ -511,20 +511,20 @@ Cuz in  two-party  conversations, like  Switchboard,  there's an  awful  lot too
 backchannels,  if you consider those overlaps?	0
 it's also ver- it's huge.	0
 It's just that people haven't been	0
-looking  at that because they've been doing  [MASK] for	0
+looking  at that because they've been doing  single-channel  processing for	0
 Mm-hmm.	0
 Mm-hmm?	0
 speech  recognition.	0
 So, the question is, you know, how many more overlaps	1
-do you  have	0
-of, say the  two-person  type, by adding more  people.	0
+do you  have	1
+of, say the  two-person  type, by adding more  people.	1
 to a  meeting,	1
 and it  may  be a lot more but i- it may -	0
 it may  not  be.	0
 Well, but see, I find it interesting even if it  wasn't  any more,	0
 So.	0
 because	0
-since we  were  dealing with this[MASK] of thing in Switchboard where it was just all separated  out	0
+since we  were  dealing with this full duplex sort of thing in Switchboard where it was just all separated  out	0
 we just - everything was just  nice,  so that - so the issue is in - in a situation	0
 Mm-hmm?	0
 Well, it's  not  really  " nice ".	0
@@ -548,21 +548,21 @@ What -	0
 what I - what -	0
 I shouldn't use words like " nice " because maybe that's too - i- too imprecise.	0
 But what I  mean  is	1
-that, um  in   Switchboard,	0
+that, um  in   Switchboard,	1
 despite the many -  many  other problems that we have, one problem that we're  not  considering is overlap.	1
 And what we're doing  now  is,	1
 aside from the many  other  differences in the  task,  we  are  considering overlap	1
 and  one  of the reasons that we're  considering  it,	1
-you know,  one  of them	0
-not  all  of them,  one  of them  is	0
-that w- uh at least,	0
-you know  I'm  very interested in	0
-the scenario in which, uh	0
-both people talking are pretty much equally   audible,	0
+you know,  one  of them	1
+not  all  of them,  one  of them  is	1
+that w- uh at least,	1
+you know  I'm  very interested in	1
+the scenario in which, uh	1
+both people talking are pretty much equally   audible,	1
 and from a single  microphone.	1
 And so,	1
-in that case, it  does  get mixed in,	0
-and it's pretty hard to jus-	0
+in that case, it  does  get mixed in,	1
+and it's pretty hard to jus-	1
 to just  ignore  it, to just do processing on  one  and not on the  other.	1
 I - I agree that it's an issue here	1
 but it's  also  an issue for  Switchboard  and if you	1
@@ -584,7 +584,7 @@ of more than one person, and	0
 I'm  wondering  how much more  overlap	0
 of	0
 the types that - that Jane  described  happen with more  people  present.	1
-So it may be that having  three  people	0
+So it may be that having  three  people	1
 is  very  different from having two people or it may  not  be.	1
 That's an  important  question to ask. I think what I'm -	0
 So.	0
@@ -606,18 +606,18 @@ Yeah.	0
 you want to know the  sequence  of turns.	1
 So what happens is if  you're  talking and I have a backchannel in the middle of your turn,	1
 Yeah.	0
-and then you keep going	0
+and then you keep going	1
 what it  looks  like in a dialogue model is  your  turn and then my  backchannel,	1
 even though my backchannel occurred completely  inside  your turn.	1
 Yeah?	0
-So, for things like [MASK]	1
+So, for things like language modeling or dialogue modeling	1
 it's -	0
-We  know  that that's  wrong	0
+We  know  that that's  wrong	1
 Yeah?	0
 in real time.	1
 But,  because	1
 of	0
-the  acoustic   segmentations  that were done and the fact that  some  of the acoustic data in  Switchboard  were  missing,	0
+the  acoustic   segmentations  that were done and the fact that  some  of the acoustic data in  Switchboard  were  missing,	1
 people couldn't  study  it,	0
 but that doesn't mean in the real  world  that people don't  talk  that way.	1
 Yeah, I wasn't  saying  that.	0
@@ -647,9 +647,9 @@ studying  meetings  of, say, more than two  people  versus	0
 what	0
 kinds of questions you could ask with a  two-person   meeting.	0
 It's  important   to distinguish	1
-that, you know, this project	0
-is getting a lot of overlap	0
-but  other  projects were too,	0
+that, you know, this project	1
+is getting a lot of overlap	1
+but  other  projects were too,	1
 but we just couldn't  study  them.	1
 May  have been.	0
 And  and so uh	0
@@ -666,7 +666,7 @@ that would be	0
 See, I mean, i- i- le- let me t-	0
 interesting to know.	0
 I mean, my point was just if you wanted to say to somebody, " what  have we learned about  overlaps  here?"	0
-just never mind comparison with something else,	0
+just never mind comparison with something else,	1
 Mm-hmm.	0
 what we've learned about is  overlaps  in this situation, is that - the first -	1
 the  first-order  thing I would say is that there's a  lot  of them.	1
@@ -699,11 +699,11 @@ I'm saying if I  have  this complicated thing in  front  of me,	0
 and we sh- which,  you know we're gonna get	0
 much  more sophisticated about when we get  lots  more  data,	0
 But - Then, if I was gonna describe to somebody what did you learn	0
-right here, about, you know, the - the modest amount of data that was  analyzed  I'd say, "Well, the  first-order   thing  was there was a  lot  of  overlaps ".	0
+right here, about, you know, the - the modest amount of data that was  analyzed  I'd say, "Well, the  first-order   thing  was there was a  lot  of  overlaps ".	1
 In fact -	1
-and it's  not  just an overlap -	0
-bunch of overlaps -  second-order  thing is	0
-it's  not  just a bunch of overlaps in  one  particular  point,	0
+and it's  not  just an overlap -	1
+bunch of overlaps -  second-order  thing is	1
+it's  not  just a bunch of overlaps in  one  particular  point,	1
 Right.	0
 but that there's overlaps, uh  throughout  the thing.	1
 And that's  interesting.    That's  all.	0
@@ -723,7 +723,7 @@ some of the	0
 data say Switchboard, which isn't exactly the same kind of context, I mean these are two people who  don't  know each other and so forth,	0
 But we should  still  be able to	1
 somehow	0
-say what - what is the  added   contra- contribution to sort of overlap	0
+say what - what is the  added   contra- contribution to sort of overlap	1
 time	0
 of each additional person, or something like that.	1
 Yep. I could  certainly   see  it going  either   way.	0
@@ -739,15 +739,15 @@ from the standpoint of  audibility.  When we  speak  we - we  do  make a judgmen
 Mm-hmm.	0
 Right.	0
 "can -"	0
-you know, as  adults.   I mean, children don't  adjust  so well,	0
+you know, as  adults.   I mean, children don't  adjust  so well,	1
 I mean, if a truck	1
-goes rolling past,	0
-adults will	0
+goes rolling past,	1
+adults will	1
 Mm-hmm.	0
-well, depending, but  mostly,  adults will - will -	0
-will hold off to what -	0
+well, depending, but  mostly,  adults will - will -	1
+will hold off to what -	1
 to finish the end of the sentence till the - till the  noise  is past. And I think we generally  do	1
-monitor  things like that,	0
+monitor  things like that,	1
 about - whether we - whether our utterance will be in the clear or not.	1
 Right.	0
 And partly it's related to  rhythmic  structure in conversation, so,	1
@@ -759,23 +759,23 @@ their, um	0
 when they  come into the conversation based on the overall rhythmic,  uh	0
 Right.	0
 uh, ambient thing.	0
-So you  don't  want to be c- [MASK]	0
+So you  don't  want to be c- cross-cutting.	0
 And -	1
-and, just to finish this,	0
+and, just to finish this,	1
 that um	0
-That I think that	0
-there may be an upper bound on  how  many overlaps you can have,  simply  from the standpoint of audibility and how loud the other people are who are already	0
-in the	0
+That I think that	1
+there may be an upper bound on  how  many overlaps you can have,  simply  from the standpoint of audibility and how loud the other people are who are already	1
+in the	1
 fray.	1
 But I - you know,	0
 of certain  types.	1
-Now if it's just  backchannels,	0
+Now if it's just  backchannels,	1
 people	0
-may be doing  that	0
-with less   intention  of being heard,	0
+may be doing  that	1
+with less   intention  of being heard,	1
 just sort of spontaneously doing  backchannels,	1
 in which case	1
-that -  those  might -	0
+that -  those  might -	1
 there may be  no  upper bound on  those.	1
 I - I have a  feeling  that backchannels, which are	0
 the vast majority of overlaps in  Switchboard,	0
@@ -807,7 +807,7 @@ Yeah, yeah, yeah.	0
 Plus - plus - plus the -	0
 He  could,  he could.	0
 Yeah. So - so actually, um	1
-That's in part because the  nodding,  if you have  visual  contact,	0
+That's in part because the  nodding,  if you have  visual  contact,	1
 the nodding has the same  function,  but on the  phone,  in  Switchboard	1
 you - you - that wouldn't  work.  So	0
 Yeah, you don't have it.	0
@@ -834,10 +834,10 @@ She's  doing that.	0
 Sorry, what were you saying?	0
 It's  hard  to do both, huh?	0
 Um	1
-no, when - when - when there's  backchannel,  I mean, just -	0
+no, when - when - when there's  backchannel,  I mean, just -	1
 Oh.	0
-I was just  listening,  and -	0
-and when there's  two  people talking and there's  backchannel  it seems like,	0
+I was just  listening,  and -	1
+and when there's  two  people talking and there's  backchannel  it seems like,	1
 um the  backchannel   happens  when, you know, the  pitch  drops and the first person -	1
 and a  lot  of times, the first person actually  stops  talking and then there's a backchannel	0
 and then they start  up  again, and so I'm wondering about -	0
@@ -845,13 +845,13 @@ h-	0
 I just wonder how much overlap there is.	0
 Is there a lot?	0
 I  think  there's a  lot  of the kind that  Jose  was talking about, where -	1
-I mean, this is called "precision timing" in  conversation analysis,	0
+I mean, this is called "precision timing" in  conversation analysis,	1
 where	0
-they come in	0
+they come in	1
 overlapping,	0
-but at a point where	0
-the	0
-information is mostly	0
+but at a point where	1
+the	1
+information is mostly	1
 complete.	1
 So all you're missing is some last syllables or something or the last word or some highly predictable words.	1
 Mmm.	0
@@ -875,12 +875,12 @@ uh  Switchboard,  say, because there's a lot of that.	1
 So - so  here's  a - here's a first interesting   labeling  task.	1
 Mm-hmm.	0
 Uh, to distinguish between, say,  backchannels	1
-precision timing - Sort of	0
-you know,  benevolent  overlaps,	0
-and - and -	0
-and w- and -	0
+precision timing - Sort of	1
+you know,  benevolent  overlaps,	1
+and - and -	1
+and w- and -	1
 Let's pick a different word.	0
-and sort of, um  I don't know,  hostile  overlaps, where	0
+and sort of, um  I don't know,  hostile  overlaps, where	1
 someone is trying to grab the floor from someone else.	1
 Yeah.	0
 Uh,  that  - that might be an  interesting,  um   problem  to  look  at.	0
@@ -894,9 +894,9 @@ in this meeting I  really  had the feeling that wasn't happening, that	0
 the hostile - hostile type.	0
 These were - these were	1
 O_K.	0
-benevolent types, as people	0
+benevolent types, as people	1
 Mm-hmm.	0
-finishing each other's sentences, and	0
+finishing each other's sentences, and	1
 Um, I could imagine that as - there's a fair number of	0
 stuff.	1
 um	0
@@ -913,8 +913,8 @@ because actually we're all  waiting  for that person to  finish.	0
 But they  all  want to  be  next.	0
 I have a  feeling  most of these things are - that -	1
 that are not	0
-a benevolent kind are - are	0
-are, uh	0
+a benevolent kind are - are	1
+are, uh	1
 um	0
 are - are  competitive  as opposed to real- really -  really  hostile. But.	1
 Right.	0
@@ -930,7 +930,7 @@ or you can tell a good joke and then everybody's laughing and you get a chance t
 Seniority.	0
 Um.	0
 You know, the  other  thing I was thinking was that,  um  these -	1
-all  these interesting  questions  are, of course, pretty  hard  to  answer  with, uh u-	0
+all  these interesting  questions  are, of course, pretty  hard  to  answer  with, uh u-	1
 you know, a small amount of  data.	1
 @@	0
 Ach.	0
@@ -942,11 +942,11 @@ with, uh	0
 a  smaller  number of people.	0
 Right?	0
 I mean	1
-we - most of our meetings are	0
+we - most of our meetings are	1
 uh, meetings currently with say five, six, seven, eight people	1
 Should we	1
-really  try to  have  some two-person meetings,  or some three-person meetings and re- record them	0
-just to - to - to	0
+really  try to  have  some two-person meetings,  or some three-person meetings and re- record them	1
+just to - to - to	1
 beef up the - the  statistics  on that?	1
 That's a control.	0
 Well,	0
@@ -1002,11 +1002,11 @@ um	0
 we should n- not attribute  overlaps  only to meetings, but maybe that's obvious, maybe	1
 Yeah.	0
 everybody knew that, but that	1
-in normal	0
+in normal	1
 conversation with two people there's an awful lot of the same kinds of overlap, and that it would be interesting	1
 Mm-hmm.	0
-to	0
-look at  whether there  are  these kinds of constraints that Jane mentioned, that	0
+to	1
+look at  whether there  are  these kinds of constraints that Jane mentioned, that	1
 what maybe the  additional  people add to this competition that happens  right  after a turn,	1
 you know, because now you can have  five  people trying to grab the turn, but pretty quickly	0
 there're - they back  off  and you go back to this sort of	0
@@ -1014,7 +1014,7 @@ only one person at a time with one person	0
 Mm-hmm.	0
 interrupting at a time.	0
 So, I don't know. To answer your question I  it - I don't think it's	1
-crucial to have	0
+crucial to have	1
 controls but I think it's worth recording all the meetings we	1
 Can.	0
 can.	1
@@ -1031,12 +1031,12 @@ we have - have in the  past  and I think  continue  - will  continue  to have a 
 Uh-huh.	0
 Yeah, we  talked  about this repeatedly.	0
 And,	1
-uh,	0
-and as a -	0
+uh,	1
+and as a -	1
 to, um	0
-as another c-  c-  comparison   condition,  we could	0
-um	0
-see what - what	0
+as another c-  c-  comparison   condition,  we could	1
+um	1
+see what - what	1
 what  happens  in terms of  overlap,  when you  don't  have visual contact.	1
 So, um -	0
 Can we actually record?	0
@@ -1050,16 +1050,16 @@ to do that.	1
 But.	0
 Or,	1
 Yeah.	0
-this is getting a little  extravagant,	0
-we could put up	0
-some kind of	0
-blinds  or something to -	0
+this is getting a little  extravagant,	1
+we could put up	1
+some kind of	1
+blinds  or something to -	1
 Barriers!	0
 Yeah.	0
-to remove, uh	0
+to remove, uh	1
 That's what they  did  on Map Task,	0
 visual  contact.	1
-you know, this [MASK]	0
+you know, this Map Task corpus?	0
 They ran exactly the same pairs of people with and without	0
 visual cues and it's quite interesting.	0
 Well, we - we record this meeting so  regularly  it wouldn't be that -	0
@@ -1076,7 +1076,7 @@ That would -	0
 Oh, th-  that  was the  other  thing, weren't we gonna take a picture	1
 at the beginning of each of these meetings?	1
 Um, what - I had	1
-thought  we were gonna do is just take pictures of the  whiteboards.	0
+thought  we were gonna do is just take pictures of the  whiteboards.	1
 rather than take pictures of the  meeting.	1
 Well, linguistic -	0
 And, uh -	0
@@ -1089,7 +1089,7 @@ The -	1
 Why - why do we want to have a picture of the meeting?	0
 Ee-   you mean, transc-	0
 @@	0
-because you get then the  [MASK] of the  speakers.	0
+because you get then the  spatial  relationship of the  speakers.	1
 no -	0
 Well, you could do that by just  noting  on the  enrollment  sheet the -	1
 And that	1
@@ -1120,7 +1120,7 @@ Having - having ground tu- truth would be  nice,  so   seat  number would be goo
 Yeah, yeah.	0
 You know where you could get it?	0
 Yeah.	0
-[MASK]  during the  digit   uh stuff.	0
+Beam-forming  during the  digit   uh stuff.	0
 So I'm gonna put little  labels  on all the  chairs  with the  seat  number. That's a good idea.	1
 Mm-hmm.	0
 Not the  chairs.  The  chairs  are -	0
@@ -1165,7 +1165,7 @@ really do -	0
 eh -	0
 The body language is very uh -	0
 Hmm.	0
-is very interesting in terms of the [MASK]	0
+is very interesting in terms of the dominance aspect.	0
 Yeah.	0
 And - and	0
 Morgan  had that  funny   hair  again.	0
@@ -1188,12 +1188,12 @@ Yeah.	0
 Yeah, I've been playing with, um	1
 Yeah.	0
 uh, using the  close-talking  mike to do - to  try  to figure out who's  speaking.	1
-So my  first  attempt was just using [MASK]  that we talked about - about two weeks ago,	1
+So my  first  attempt was just using thresholding and  filtering,  that we talked about - about two weeks ago,	1
 and so I played with that a little bit, and	0
 it works O_ K,   except that	0
 it's  very  sensitive to your choice of	0
 your filter width and your	0
-[MASK]	0
+threshold.	0
 So if you fiddle around with it a little bit and you get good numbers you can actually do a pretty good job of segmenting when someone's talking and when they're not.	1
 But if you try to use the same parameters on another  speaker,  it doesn't work anymore,  even if you normalize it based on	1
 the absolute  loudness.	1
@@ -1208,8 +1208,8 @@ I mean, wh- what was the -	0
 The algorithm was, uh	1
 Yeah.	0
 take	0
-o- every frame that's over the [MASK]	0
-and then [MASK] it,	0
+o- every frame that's over the threshold,	1
+and then median-filter it,	1
 Mm-hmm.	0
 and then look for runs.	1
 So there was a  minimum  run length, so that -	1
@@ -1225,18 +1225,18 @@ So you take a - each frame, and you compute the energy and if it's over the thre
 Hmm.	0
 so now you have a  bit  stream  of zeros and ones.	1
 O_K.	0
-And then I  [MASK]  that	1
-using, um  a fairly long  [MASK]	1
+And then I  median - filtered  that	1
+using, um  a fairly long  filter length.	1
 Uh  well, actually I guess depends on what you mean by  long,  you know, tenth of a second sorts of numbers.	1
 Um	1
-and that's to average out	0
+and that's to average out	1
 you know,  pitch,	0
-you know, the  [MASK]	0
+you know, the  pitch  contours,	1
 and things like that.	1
 And then, uh	1
 looked for long runs.	1
 O_K	0
-And that works O_ K,  if you fil- if you tune the filter parameters, if you tune  how long your [MASK]is and how high you're looking for your thresholds.	1
+And that works O_ K,  if you fil- if you tune the filter parameters, if you tune  how long your median filter is and how high you're looking for your thresholds.	1
 Did you ever try running the filter  before  you pick a threshold?	0
 No.	0
 I certainly could though.	0
@@ -1247,17 +1247,17 @@ Javier's  speaker-change  detector - acoustic- change  detector, and I implement
 and   unfortunately  that's not working real well, and it looks like it's -	1
 the problem is - he does it in two passes, the first pass	1
 is to find  candidate  places to do a break.	1
-And he does that using a[MASK] doing broad  phone  classification and he	1
+And he does that using a neural net doing broad  phone  classification and he	1
 has the	0
 the, uh   one  of the phone classes is silence.	1
 And so the  possible   breaks  are where  silence  starts and ends.	0
-And then he has a  second  pass which is a modeling - [MASK]	1
+And then he has a  second  pass which is a modeling - a Gaussian mixture model.	1
 Um	1
-looking for	0
-uh	0
+looking for	1
+uh	1
 whether it  improves  or - or  degrades  to split  at  one of those particular places.	1
 And what looks like it's  happening  is that the -	1
-even on the  close-talking  mike	0
+even on the  close-talking  mike	1
 the broad phone class classifier's doing a really bad job.	1
 Who  was it  trained  on?	0
 Uh, I have no idea. I don't remember.	0
@@ -1265,15 +1265,15 @@ Hmm.	0
 Does an- do you remember, Morgan, was it Broadcast News?	0
 I think so, yeah.	0
 Um	1
-So, at any rate, my  next  attempt,  which I'm in the  midst  of and haven't quite finished yet was actually using the	0
-uh,  [MASK]	0
+So, at any rate, my  next  attempt,  which I'm in the  midst  of and haven't quite finished yet was actually using the	1
+uh,  thresholding	1
 as the way of generating the candidates.	1
 Because one of the things that  definitely   happens  is if you  put  the threshold  low   you get  lots  of breaks.	0
 All  of which are  definitely  acoustic events.	0
 They're  definitely	0
 someone  talking.	0
 But, like, it could be someone who isn't the person  here,  but the person over  there  or it can be the person  breathing.	0
-And then feeding  that  into the [MASK]	1
+And then feeding  that  into the acoustic change detector.	1
 And so I think  that  might  work.	0
 But, I haven't gotten very far on that.	0
 But  all  of this is close-talking mike, so	1
@@ -1281,7 +1281,7 @@ it's, uh  just -  just  trying to get some ground truth.	0
 Only with eh	0
 uh, but eh	0
 I - I - I think, eh	0
-when - when, y- I -  I saw the - the - the - the speech from [MASK] and, eh  close   talker. I - I think the	0
+when - when, y- I -  I saw the - the - the - the speech from P_D_A and, eh  close   talker. I - I think the	0
 there is a - a great difference in the - in the signal.	0
 Oh,  absolutely.  So  s- my  intention  for  this  is -  is  as an  aide  for ground  truth.	1
 Um	0
@@ -1306,13 +1306,13 @@ in - in the  background	0
 I'm - I'm not sure what you're  saying,  can you try -	0
 That, uh	0
 I mean that when - when you use, eh  eh   any	0
-I think he's saying the    [MASK]	0
+I think he's saying the  onset  detector.	0
 Yeah.	0
 Onset detector, O_K.	0
 I - I think it's probably  to work  well eh, because, eh  you have eh, in the mixed files a  great  level of energy.	0
 eh  and great difference between the  sp-  speaker.	0
 And probably is not so easy	0
-when you use the - the [MASK], eh that -	0
+when you use the - the P_D_A, eh that -	0
 Right.	0
 Because the signal is, eh  the - in the e- energy level.	0
 in - in that, eh  eh  speech file  is, eh  more similar.	0
@@ -1322,19 +1322,19 @@ But different  speakers.	0
 I - I think is - eh, it will  i- is my opinion.  It will be, eh  more difficult to - to detect	0
 bass-tone  energy.	0
 the - the change.	0
-I think that, um  In the [MASK] Yeah.  Yeah. And the - the another question, that when	0
+I think that, um  In the P_D_A. Yeah.  Yeah. And the - the another question, that when	0
 Ah, in the clo- in the P_D_ A,  you mean?  Absolutely. Yeah, no  question.  It'll be  much  harder.  Much  harder.	0
 Yeah.	0
 I review the - the - the work of Javier. I think the, nnn, the, nnn,  that the idea of using a  neural network	0
-to - to get [MASK]eh  from, eh uh	0
-a candidate from the - the - the [MASK]	0
+to - to get a broad class of phonetic, eh  from, eh uh	0
+a candidate from the - the - the speech signal.	0
 If you have, eh	0
 uh, I'm considering, only because Javier, eh  only consider, eh  like candidate, the, nnn, eh  the silence, because it is the - the only model, eh - eh, he used that, eh   eh  nnn,	0
 Right.	0
 to detect	0
 the - the possibility of a - a change between the - between the speaker,  Um  another - another research thing, different groups, eh  working, eh  on Broadcast News  prefer to, eh	0
 to consider hypothesis	0
-eh  between each [MASK]	0
+eh  between each phoneme.	0
 Mm-hmm.	0
 Yeah, when a   phone  changes.	0
 Because, I - I - I think it's more realistic that, uh  only consider the -  the  the - the silence between the speaker.  Eh  there - there  exists	0
@@ -1346,8 +1346,8 @@ Mm-hmm.	0
 I - I found that the, eh  silence in - in many occasions in the - in the speech file,  but, eh  when you have, eh  eh, two speakers together	0
 without enough silence between - between  them , eh	0
 I think	0
-eh  is better to use the a[MASK] basically and I - I - I	0
-[MASK]or, mmm,  BIC   criterion for consider all the frames	0
+eh  is better to use the acoustic change detector basically and I - I - I	0
+I_X or, mmm,  BIC   criterion for consider all the frames	0
 Mm-hmm.	0
 in my opinion.	0
 Yeah, the - you know, the reason that he, uh  just used silence	0
@@ -1379,7 +1379,7 @@ Mm-hmm.	0
 Mm-hmm.	0
 An- and then, eh	0
 eh  without considering the you - you - you, um  you can consider the energy	0
-like a- another parameter in the - in [MASK] eh.	0
+like a- another parameter in the - in the feature vector, eh.	0
 Right. Absolutely.	0
 Mm-hmm.	0
 This -  this  is the idea. And if, if you do that, eh  eh, with a  BIC   uh criterion for example, or with another kind of, eh  of  distance  in a first step,  and then you, eh  you get the, eh  the hypothesis	0
@@ -1396,11 +1396,11 @@ of s- a small silence between speaker,  or	0
 another algorithm to - to process,  eh  the - the segment between marks	0
 Mm-hmm.	0
 eh  founded by the - the	0
-the  [MASK]   criterion and applied for - for each frame. I think is, eh	0
+the  BIC   criterion and applied for - for each frame. I think is, eh	0
 Mm-hmm.	0
 nnn,	0
 it will be a- an - an - a more general approach	0
-the  if we compare - with use, eh  [MASK] or another, eh  speech recognizer with a broad class or - or narrow class, because, in my opinion	0
+the  if we compare - with use, eh  a neural net or another, eh  speech recognizer with a broad class or - or narrow class, because, in my opinion	0
 eh  it's in my opinion,  eh	0
 Mm-hmm.	0
 if you - if you change	0
@@ -1413,13 +1413,13 @@ uh	0
 With a m-  mixed  file,	0
 "Mixed".	0
 with a - the mix,	0
-"Mixed."	1
+"Mixed."	0
 "Mixed?"	0
 mix.  Sorry.	0
 And	0
 Mm-hmm.	0
 and then you - you, eh	0
-you try to - to apply that, eh, eh, eh, speech recognizer to that signal, to [MASK] eh  speech file,  I -	0
+you try to - to apply that, eh, eh, eh, speech recognizer to that signal, to the P_D_A, eh  speech file,  I -	0
 I think	0
 you will have problems, because the - the - the - the  condition  you - you will need t- t- I - I suppose that you will need to -	0
 Well, I -	0
@@ -1453,14 +1453,14 @@ and - and so  where do you get your  thresholds  from?	0
 From something that you  looked  at. So	0
 you  always  have this problem, you're going to  new  data	0
 um	1
-H- how are you going to adapt whatever you can very quickly learn about the new data?	0
+H- how are you going to adapt whatever you can very quickly learn about the new data?	1
 Uh, if it's gonna be different from old data that you have?	1
-And I think that's a problem	0
+And I think that's a problem	1
 Well, also what  I'm  doing right now is  not   intended  to be an acoustic change detector for far-field  mikes.  What  I'm  doing	1
 with this.	1
-is trying to use the  close-talking  mike	0
+is trying to use the  close-talking  mike	1
 Yeah!	0
-and just use -	0
+and just use -	1
 Actually -	0
 You have  candidates.	0
 Can-  and just generate candidate and just   try  to get a  first   pass  at something that  sort  of  works.	1
@@ -1475,11 +1475,11 @@ O_K.	0
 I -	0
 So.	0
 um, I, unfortunately, have to run, but, um	1
-I can imagine  uh building  a  um	0
-model of speaker change  detection  that	0
-takes into account  both the  far-field  and the	0
+I can imagine  uh building  a  um	1
+model of speaker change  detection  that	1
+takes into account  both the  far-field  and the	1
 Yep.	0
-uh  actually,  not  just the  close-talking  mike for that  speaker,  but actually for  all  of th-	0
+uh  actually,  not  just the  close-talking  mike for that  speaker,  but actually for  all  of th-	1
 Everyone else.	0
 for  all  of the speakers.	1
 Yeah.	0
@@ -1491,7 +1491,7 @@ your  microphone and everybody else's microphone, as  well  as on that,	0
 and you build, um -	0
 basically I think you'd - you would	0
 build a -	0
-[MASK] that has	0
+an H_M_M that has	0
 as a  state  space all of the  possible   speaker  combinations	0
 All the - Yep.	0
 Yeah.	0
@@ -1518,7 +1518,7 @@ you - you  lower  the gain on - on the mikes of people who aren't  talking,  rig
 Mm-hmm.	0
 And then he had some sort of	0
 reasonable way of  doing  that, but	1
-uh, what if you were just looking at very  simple  measures  like  [MASK] but you  don't  just compare it to some  threshold    overall  but you compare it to the  energy  in  the other  microphones.	1
+uh, what if you were just looking at very  simple  measures  like  energy measures but you  don't  just compare it to some  threshold    overall  but you compare it to the  energy  in  the other  microphones.	1
 I was  thinking  about doing that  originally  to find out	1
 who's  the  loudest,	1
 and  that  person is  certainly   talking.	0
@@ -1540,7 +1540,7 @@ But  he's  not gonna even  read  that.	0
 I know.	0
 Oh.	0
 with a - a different level of energy.	0
-including [MASK]	0
+including overlap zone.	0
 including.	0
 because, eh  eh  depend on the position of the - of the microph- of the each speaker  to, eh, to get	0
 more o- or less energy	0
@@ -1548,12 +1548,12 @@ i- in the mixed sign- in the signal.	0
 and then,  if you consider energy to - to detect overlapping	0
 in - in, uh, and you process the - the - in - the - the - the speech file from the - the - the mixed signals.  The mixed signals, eh.	0
 I - I think it's - it's difficult, um   only to  en-  with energy to - to consider that in that zone	1
-We have eh, eh, overlapping zone	0
+We have eh, eh, overlapping zone	1
 Eh, if you process only the the energy of the, of each frame.	1
 Well, it's probably harder, but I - I think what I was s-	1
 nnn	0
-noting	0
-just when he - when Andreas  raised  that, was that there's  other  information to be gained from looking at all	0
+noting	1
+just when he - when Andreas  raised  that, was that there's  other  information to be gained from looking at all	1
 of the microphones and you may not need to look at very  sophisticated  things,	1
 Yeah.	0
 Yeah.	0
@@ -1646,21 +1646,21 @@ So.	0
 Um, I - I wanna move this along.	0
 Uh	0
 I  did  have this other agenda item which is, uh  @@  - it's uh a list which I sent to uh - a  couple  folks,	0
-but um I wanted to get broader input on it,	0
+but um I wanted to get broader input on it,	1
 So this is the things that I  think  we did	1
 in the last three months	1
 obviously not  everything  we did but - but sort of  highlights  that I can -	0
 can  tell  s- some  outside  person, you know, what - what were you  actually  working  on.	0
 Um  in no particular order	1
-uh,  one,  uh, ten more hours of meeting r-  meetings  recorded,	0
+uh,  one,  uh, ten more hours of meeting r-  meetings  recorded,	1
 something like that,	0
-you know from - from, uh	0
+you know from - from, uh	1
 three months ago.	1
 Uh	0
-[MASK] and oth	0
+X_M_L formats and other transcription aspects sorted out	0
 and uh  sent to I_B_M.	0
 Um,	1
-[MASK] put together and sent to I_B_M for transcription,	1
+pilot data put together and sent to I_B_M for transcription,	1
 uh  next batch of recorded data put together on the C_D-ROMs for shipment to I_B_M,	1
 Hasn't  been  sent  yet,  but  -	0
 But	0
@@ -1668,21 +1668,21 @@ yeah, that's why I  phrased  it that way,	0
 It's getting ready.	0
 yeah O_K.	0
 Um	1
-human subjects approval on campus,	0
-uh  and release forms worked out so the meeting participants have a chance to request [MASK] of	1
+human subjects approval on campus,	1
+uh  and release forms worked out so the meeting participants have a chance to request audio pixelization of	1
 selected parts of the spee- their speech.	1
 Um	1
 audio pixelization software written and tested.	1
 Um	1
 preliminary analysis of overlaps in the pilot data we have transcribed,	1
-and  exploratory   analysis of [MASK] that was - I was -	1
-wasn't   sure  if those were the right way -	0
-that was the right way to  describe  that because of that little exercise that -	0
+and  exploratory   analysis of long-distance inferences for topic coherence, that was - I was -	1
+wasn't   sure  if those were the right way -	1
+that was the right way to  describe  that because of that little exercise that -	1
 that you  and - and Lokendra did.	1
 What was that called?	0
 The, uh  say again?	0
-I - well, I- I'm probably  saying  this wrong, but what I said was [MASK]	0
-for [MASK]	0
+I - well, I- I'm probably  saying  this wrong, but what I said was exploratory analysis of long-distance inferences	0
+for topic coherence.	0
 Something  like that.	0
 Um  so, uh	0
 I -	0
@@ -1715,7 +1715,7 @@ and - and you know, I sort of	0
 threw in	0
 what  you  did with what  Jane  did on - in - under the, uh	0
 uh	0
-[MASK]	0
+preliminary analysis of overlaps.	0
 Uh	0
 Yeah.	0
 uh	0
@@ -1757,10 +1757,10 @@ Hmm.	0
 as long as you keep using the same  beep,	0
 people  could make a  model  of that  beep,  and -	0
 Yep.	0
-I  like  that idea.	1
+I  like  that idea.	0
 And I use - it's - it's, uh	0
 I think the beep is a really good idea.	0
-it's an [MASK] so	0
+it's an A_ below middle C_ beep, so	0
 It's  very   clear.  Then you don't think it's a long pause.	0
 Yeah.	0
 Also -	0
@@ -1830,7 +1830,7 @@ uh	0
 thoughts for an agenda, yeah that - that would be	0
 Agenda?	0
 Mm-hmm.	0
-Good.	1
+Good.	0
 that'd be good.	0
 Eh	0
 So that, uh, people's ideas don't get   yeah, well	0
@@ -1839,7 +1839,7 @@ it does creep up, doesn't it?	0
 O_K.	0
 And,  I  wanted to say, I think this is really  interesting	0
 It's cool stuff, definitely.	0
-Thank  you.  Thank  you.	1
+Thank  you.  Thank  you.	0
 analysis.  I  meant  to say that before I started off on the   Switchboard  stuff. It's  neat.	0
 I was gonna say "can you do that for the other meetings, can you do it for them?" And,  no  actually, you  can't.	0
 Yeah.  Does it take -	0
@@ -1849,12 +1849,12 @@ Actually - actually I - I thought that's what you were giving us was  another   
 Yeah. Aw, thanks.	0
 How long does it  take, just briefly, like	0
 No.	0
-I  have  the  script  now, so, I mean, it can work off the, uh	1
+I  have  the  script  now, so, I mean, it can work off the, uh	0
 t- to -	0
 O_K.	0
 It's -	0
 to label the, O_K.	0
-other thing ,	1
+other thing ,	0
 As soon as we get labels, yep.	0
 But it has to be  hand-labeled   first?	0
 but -	0

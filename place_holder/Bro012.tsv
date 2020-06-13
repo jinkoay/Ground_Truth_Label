@@ -1,60 +1,60 @@
 Hello?	0
 O_K. We're  on.	0
-O_K, so uh  had some interesting mail from uh Dan Ellis. Actually, I think he - he	0
-redirected it to everybody  also  so uh  [MASK] uh have a  big  bunch of energy at - at uh five hertz  uh	0
-where this came up was that uh I was showing off these wave forms that we have on the web and -	0
-and uh  I just sort of hadn't noticed this, but that - the major, major component in the wave - in the  second  wave form in that pair of wave forms is actually the air conditioner.	0
+O_K, so uh  had some interesting mail from uh Dan Ellis. Actually, I think he - he	1
+redirected it to everybody  also  so uh  the P_D_A mikes uh have a  big  bunch of energy at - at uh five hertz  uh	0
+where this came up was that uh I was showing off these wave forms that we have on the web and -	1
+and uh  I just sort of hadn't noticed this, but that - the major, major component in the wave - in the  second  wave form in that pair of wave forms is actually the air conditioner.	1
 Huh.	0
-So.  So. I   I have to be more careful about using that as a - as a -	0
-as a good illustration,	0
-uh, in fact it's  not,	0
-of uh -	0
-of the effects of room reverberation. It is- isn't a bad illustration of the effects of uh room  noise.	0
-on -	0
-on uh some mikes	0
+So.  So. I   I have to be more careful about using that as a - as a -	1
+as a good illustration,	1
+uh, in fact it's  not,	1
+of uh -	1
+of the effects of room reverberation. It is- isn't a bad illustration of the effects of uh room  noise.	1
+on -	1
+on uh some mikes	1
 uh	0
 but	0
 So. And then we had this other discussion about um	0
 whether this affects the dynamic  range,  cuz I know, although we start off with thirty two bits, you end up with uh  sixteen  bits and	0
-you know, are we getting hurt there? But uh Dan is pretty confident that we're  not,  that - [MASK] is not - is  still  not a significant	0
+you know, are we getting hurt there? But uh Dan is pretty confident that we're  not,  that - that quantization error is not - is  still  not a significant	0
 factor there.	0
 So.	0
 So there was a question of whether we should  change  things here, whether we should  change a capacitor on the input box for that or whether we should	0
-Yeah, he suggested a smaller capacitor, right? [MASK]	0
+Yeah, he suggested a smaller capacitor, right? For the P_D_As?	0
 Right. But then I had some other uh thing- discussions with him and the feeling was  once we start monk- monkeying with that, uh, many other problems could ha- happen.	0
 And additionally we - we already have a lot of data that's been collected with  that,  so.	0
 Yeah.	0
 A  simple  thing to do is he - he - he has a - I forget if it - this was in that mail or in the following mail, but he has a - a simple filter, a digital filter that he suggested.	0
 We just run over the data before we deal with it.	0
 Mm-hmm.	0
-um The  other  thing that  I  don't know the answer to, but when [MASK] here,	0
-uh whether they're using it with the high-pass filter option or not.	0
+um The  other  thing that  I  don't know the answer to, but when people are using Feacalc here,	1
+uh whether they're using it with the high-pass filter option or not.	1
 And	0
 I don't know if anybody  knows.  But.	0
 Um.	0
 I  could go  check.	0
-Yeah. So when we're doing all these things using our software there  is  -	0
-um if it's - if it's based on [MASK]	0
-which does [MASK]	0
+Yeah. So when we're doing all these things using our software there  is  -	1
+um if it's - if it's based on the RASTA-P_L_P program,	0
+which does both P_L_P and RASTA-P_L_P	0
 um then	0
-uh there is an option there which then comes up through to [MASK] which	0
-um allows you to do high-pass filtering and in  general  we like to  do  that,  because  of things like this and	0
-it's - it's pretty - it's not a very severe	0
-filter.  Doesn't affect speech frequencies, even pretty low speech frequencies, at  all,  but it's	0
+uh there is an option there which then comes up through to Feacalc which	0
+um allows you to do high-pass filtering and in  general  we like to  do  that,  because  of things like this and	1
+it's - it's pretty - it's not a very severe	1
+filter.  Doesn't affect speech frequencies, even pretty low speech frequencies, at  all,  but it's	1
 What's the  cut-off frequency it used?	0
 Oh.  I don't know I wrote this a while ago	0
 Is it like twenty?	0
 Something  like that. Yeah. I mean I think there's some effect above twenty but it's - it's - it's - it's mild.	0
 Yeah.	0
 So, I mean it probably - there's probably some effect up to a hundred hertz or something but it's - it's pretty mild.	0
-I don't know in the - in [MASK] of the stuff is there a high-pass filter or a pre- pre-emphasis or something in the -	0
+I don't know in the - in the STRUT implementation of the stuff is there a high-pass filter or a pre- pre-emphasis or something in the -	0
 Uh. I think we use a pre-emphasis. Yeah.	0
 Yeah.	0
-So. We - we - we want to go and check that in i- for anything that we're going to use [MASK] for.	0
-uh He says that there's a pretty good roll off in [MASK] so	0
-we don't need - need to worry about them one way or the other but if we  do  make use of the cheap mikes,	0
-uh we want to be sure to do that - that filtering before we	0
-process it. And then again if it's	0
+So. We - we - we want to go and check that in i- for anything that we're going to use the P_D_ A  mike for.	1
+uh He says that there's a pretty good roll off in the P_Z_M mikes so	0
+we don't need - need to worry about them one way or the other but if we  do  make use of the cheap mikes,	1
+uh we want to be sure to do that - that filtering before we	1
+process it. And then again if it's	1
 uh depending on the option that the - our - our software is being run with, it's - it's quite possible that's already being taken care of.	0
 uh But I also have to pick a different picture to show the effects of reverberation.	0
 uh	0
@@ -65,8 +65,8 @@ Well.	0
 uh  Well.  If they made output they were - they were, you know - they were nice.	0
 Didn't say anything?	0
 But.	0
-I mean the  thing  is it was	0
-since I was  talking  about reverberation and  showing  this thing that was  noise,  it wasn't a good  match,  but it  certainly  was still uh an indication of the fact that you get	0
+I mean the  thing  is it was	1
+since I was  talking  about reverberation and  showing  this thing that was  noise,  it wasn't a good  match,  but it  certainly  was still uh an indication of the fact that you get	1
 noise  with distant  mikes.	0
 Mm-hmm.	0
 uh It's just not a great example because not only isn't it reverberation but it's a noise that we definitely know what to do.	0
@@ -82,7 +82,7 @@ Hmm.	0
 um.	0
 So.	0
 um	0
-So I think we'll change our - our  picture  on the web, when we're  @@ .	0
+So I think we'll change our - our  picture  on the web, when we're  @@ .	1
 One of the things I was - I mean, I was trying to think about what - what's the best	0
 way to show the difference an- and I had a couple of thoughts one was,	0
 that  spectrogram  that we show	0
@@ -96,15 +96,15 @@ that  something  looks  different,  an- and blow it up, and have  that  be the p
 Mm-hmm.	0
 Mm-hmm.	0
 i- i-  Some  things are going to be hurt.	0
-um	0
-Another,  I was thinking of was um	0
-taking [MASK]	0
+um	1
+Another,  I was thinking of was um	1
+taking some  spectral   slices,	1
 like uh - like we look at with the recognizer,	0
-and look at [MASK] that you get out of there,	0
+and look at the spectrum or cepstrum that you get out of there,	1
 and the - the uh, um,	0
 the reverberation uh  does  make it -  does   change  that. And so maybe - maybe that would be more obvious.	0
 Hmm.	0
-[MASK]	0
+Spectral slices?	0
 Yeah.	0
 W- w- what d- what do you mean?	0
 Well, I mean um	1
@@ -112,15 +112,15 @@ all the recognizers look at frames. So they - they look at -	1
 So like one instant in time.	0
 O_K.	0
 Yeah, look at a -	0
-So it's, yeah, at  one  point in time or uh twenty - over twenty milliseconds or something,	0
+So it's, yeah, at  one  point in time or uh twenty - over twenty milliseconds or something,	1
 O_K.	0
-you have [MASK]  That's  what I meant by a slice. Yeah. And	0
+you have a spectrum or a cepstrum.  That's  what I meant by a slice. Yeah. And	1
 I see.	0
 You  could  just - you  could  just throw up, you know, uh	0
 if you look at -	0
-the uh - some [MASK]	0
+the uh - some M_F_C_C  feature  vectors.	0
 You know, one from one, one from the  other,  and then, you know, you can look and see how different the numbers are.	0
-Right.  Well, that's why I saying either   Well, either [MASK] but -  but I think the thing is you wanna -	0
+Right.  Well, that's why I saying either   Well, either spectrum or cepstrum but -  but I think the thing is you wanna -	0
 I'm just kidding.	0
 I don't mean a graph. I mean the actual  numbers.	0
 Oh.   I  see.	0
@@ -133,20 +133,20 @@ It's not the  square.	0
 O_K.	0
 Uh. What else - wh- what's - what  else  is going on?	0
 Uh, yeah.	0
-Yeah, at  first  I had a remark why - I am wondering why [MASK] is always so far. I mean we are always meeting at the	0
+Yeah, at  first  I had a remark why - I am wondering why the P_D_A is always so far. I mean we are always meeting at the	0
 beginning of the table and	0
-[MASK] there.	0
+the P_D_A's there.	0
 Uh. I guess cuz we haven't wanted to  move  it.	0
 We - we could -  we could move  us,  and.	0
 Yeah?	0
 That's right.	0
 O_K.	0
 Well, anyway.  Um.	0
-Yeah, so.	0
+Yeah, so.	1
 Uh. Since the last meeting we've - we've tried to put together um  the clean low-pass um downsampling, upsampling, I mean,	1
-Uh the new filter that's replacing [MASK]	1
+Uh the new filter that's replacing the L_D_A filters,	1
 and also  the um delay issue so that -	0
-We considered th- the - the delay issue on the - for [MASK] Mmm.	0
+We considered th- the - the delay issue on the - for the on-line normalization. Mmm.	0
 So we've put together all  this  and then we have results that are not um	1
 very impressive. Well, there is no  real  improvement.	1
 But it's not wer- worse and it's better - better latency, right?	1
@@ -154,7 +154,7 @@ It's not -	0
 Yeah.	0
 Yeah.	0
 Well. Actually it's better. It seems better when we look at the mismatched case but  I think we are like - like cheated here by the - th- this problem that	1
-uh in some cases when you modify slight - slightly modify the initial condition you end up	0
+uh in some cases when you modify slight - slightly modify the initial condition you end up	1
 completely somewhere air- somewhere else in the - in the space,  the parameters. So.	1
 Yeah.	0
 Well. The other system are for instance. For Italian is at seventy-eight  percent recognition rate on the mismatch,  and this new system has eighty-nine.	0
@@ -171,10 +171,10 @@ if it was -	0
 Right. So this was Italian, right?	0
 Yeah. Yeah. It's similar for other  test  sets but I mean	1
 So then if you take your changes and then -	0
-from this se- seventy-eight um percent recognition rate  system,	0
+from this se- seventy-eight um percent recognition rate  system,	1
 Uh-huh.	0
-I could change the transition probabilities for the - [MASK] and  it will end up to eighty-nine also.	1
-By using point five instead of point six, point four  as in the - [MASK]	1
+I could change the transition probabilities for the - the first H_M_M and  it will end up to eighty-nine also.	1
+By using point five instead of point six, point four  as in the - the H_T_K script.	1
 Uh-huh.	0
 Yeah.	0
 So. Well. That's -	0
@@ -202,14 +202,14 @@ Yeah. That's supposed to be point six,	1
 Yeah.	0
 for  the self-loop.	1
 Point - It's  supposed  to be point six.	0
-Yeah.	0
+Yeah.	1
 But changing it to point  five  I think is -  which gives you much better results, but that's  not allowed.	1
 But not allowed?  Yeah.  O_K .	0
 Yeah.	0
 Yeah, but  even  if you use point  five,  I'm not  sure  it will	1
 always give you the  better   results   on other test set or it	1
-Yeah.	0
-Right. We only tested it on the - [MASK] right? You said on the  other  cases you didn't notice -	1
+Yeah.	1
+Right. We only tested it on the - the medium mismatch, right? You said on the  other  cases you didn't notice -	1
 on the other  training  set, I mean.	0
 Yeah.	0
 But.	0
@@ -218,7 +218,7 @@ it was in my mail I think also,	0
 is the fact that the mismatch	0
 is trained	0
 only on the far microphone.	0
-Well, in - for [MASK] everything is um using the far microphone training and testing,	0
+Well, in - for the mismatched case everything is um using the far microphone training and testing,	0
 whereas for the highly mismatched, training is done on the close microphone so	0
 it's - it's clean speech basically	0
 so you don't have this problem of local minima probably	0
@@ -242,8 +242,8 @@ uh f- for most of the um -	0
 For - for all of the  digit  models, they end up at three mixtures per state.	1
 And so I just did a  quick  experiment, where I changed it so it went to four	1
 and um	1
-it	0
-it - it didn't have a r- any significant effect at the uh [MASK] and it had -  it was just barely significant for the well-matched  better.	1
+it	1
+it - it didn't have a r- any significant effect at the uh medium mismatch and high mismatch cases and it had -  it was just barely significant for the well-matched  better.	1
 Uh so I'm r- gonna run that again but	1
 um with many more uh mixtures per state.	1
 Yeah.  Cuz at forty thou- I mean you could you could have uh -	0
@@ -263,7 +263,7 @@ then they do a final set of seven and they quit.	1
 Seven seems like a lot to me and it also makes the experiments go take a really long time  I mean to do one turn-around of the well matched case takes like a day.	1
 Mm-hmm.	0
 Mm-hmm.	0
-And so  you know in trying to run these experiments I notice, you know, it's difficult to find machines, you know, compute the  run  on. And so one of the things I did was [MASK] for the  Linux	1
+And so  you know in trying to run these experiments I notice, you know, it's difficult to find machines, you know, compute the  run  on. And so one of the things I did was I compiled H_T_K for the  Linux	1
 Mm-hmm.	0
 machines cuz we have this one from I_B_M that's got like five processors in it?	1
 Right.	0
@@ -271,7 +271,7 @@ and so now I'm - you can run stuff on  that  and that really helps a lot because
 you know, extra machines that we can use for  compute.   And if - I'm do- running an experiment right now where I'm changing the number of iterations?  from seven to three? just to see how it affects the baseline system.	1
 Mm-hmm.	0
 Yeah.	0
-And so if we can get  away  with just doing  three,  we can do   many  more  experiments  more  quickly.	0
+And so if we can get  away  with just doing  three,  we can do   many  more  experiments  more  quickly.	1
 And if it's not a - a  huge  difference from running with  seven  iterations,	1
 Hmm.	0
 um, you know, we should be able to get a lot more experiments done.	1
@@ -291,20 +291,20 @@ and we just noticed that - Yeah, actually the way the final score is computed is
 Uh-huh.	0
 So. Which means that  actually the weight on the well-matched is -	1
 Well I well what what -	1
-What happened is that if you have a small	0
-improvement	0
+What happened is that if you have a small	1
+improvement	1
 or	0
-a small if on the well-matched case	0
-it will have uh huge influence on the improvement	0
+a small if on the well-matched case	1
+it will have uh huge influence on the improvement	1
 compared to the reference because the reference system is -	1
-is - is quite good for -	0
+is - is quite good for -	1
 for the well-ma- well-matched case also.	1
 So it - it weights the improvement on the well-matched case really heavily compared to the improvement on the other cases?	0
 No, but it's the weighting of the - of the  improvement  not of the  error  rate.	0
 Yeah.	0
 Yeah, and it's  hard  to  improve  on the - on the best  case,  cuz it's already so  good,  right?	0
 Yeah but  what I mean is that you can have a huge improvement on the H_ -	0
-[MASK]	0
+H_M_K's,	0
 uh like	0
 five percent uh absolute,	0
 and this will not affect the final score	0
@@ -321,7 +321,7 @@ uh  ten  percent error and you get  five  percent absolute uh  improvement then 
 Mm-hmm.	0
 O_K. So what you're saying then is that if it's something that has a small word error rate,	1
 Mm-hmm.	0
-then uh a - even a relatively small  improvement  on it, in  absolute  terms,	0
+then uh a - even a relatively small  improvement  on it, in  absolute  terms,	1
 will show up as quite - quite large in this. Is that what you're saying? Yes.	1
 Yeah.	0
 Yeah.	0
@@ -332,7 +332,7 @@ Sure, but when we think about the  weighting,  which is point five, point three,
 it's on absolute	0
 on - on  relative  figures,	0
 not -	0
-Yeah. Yeah.	0
+Yeah. Yeah.	1
 So when we look at this error rate	0
 No. That's why I've been  saying  we should be looking at word error rate uh and - and not - not at  at accuracies. It's -	1
 uh -	0
@@ -353,10 +353,10 @@ I see. I see. Yeah.	0
 That makes sense.	0
 Um.  Um.	0
 Mmm.	0
-Well anyway uh. So. Yeah. So it hurts a little bit on [MASK]	1
+Well anyway uh. So. Yeah. So it hurts a little bit on the well-match	1
 and  yeah.	0
 What's a little bit?	0
-Like -	1
+Like -	0
 Like, it's difficult to say because again  um   I'm not sure I have the um -	0
 Hey Morgan? Do you remember that Signif program that we used to use for testing signi- ? Is that still valid?	0
 I - I've been  using  that.	0
@@ -373,9 +373,9 @@ No,  point  six	1
 uh percent absolute on  Italian  -	1
 Worse.	0
 Worse, yep.	0
-Out of what? I mean. s-	1
+Out of what? I mean. s-	0
 Uh well we start from ninety-four point sixty-four, and we go to ninety-four point O_ four.	1
-Uh-huh. So that's six - six point th-	1
+Uh-huh. So that's six - six point th-	0
 Uh.	0
 Ninety- three  point six four, right? is the  baseline.	0
 Oh, no, I've ninety-four.	0
@@ -399,11 +399,11 @@ I guess - I guess it's - it's the filter.	0
 Because	0
 nnn,	0
 well uh we don't have complete result, but the filter -	1
-So the filter with the shorter delay hurts on Italian [MASK]	1
+So the filter with the shorter delay hurts on Italian well-matched,	1
 which - And, yeah.	0
 And the other things, like um  downsampling, upsampling, don't seem to hurt and	0
 I'm -	0
-[MASK] neither. So.	0
+the new on-line normalization, neither. So.	0
 I'm  really   confused  about something.	0
 If we saw that making a small change like, you know, a tenth, to the  self-loop  had a huge effect,  can we really make any conclusions about	0
 Mm-hmm.	0
@@ -415,12 +415,12 @@ I  don't know.	0
 Well, yeah.	0
 So. There is first  this  thing, and then the - yeah, I computed the um -  like, the confidence level on the different	0
 test sets.	0
-And for [MASK] they are around um	0
+And for the well-matched they are around um	0
 point six	0
 uh percent.	0
 For the mismatched they are around like let's say one point five percent.	0
-And for the well-m- uh [MASK] they are also around one point five.	0
-But - O_K, so you - these - these degradations you were talking about were on [MASK]	0
+And for the well-m- uh H_M they are also around one point five.	0
+But - O_K, so you - these - these degradations you were talking about were on the well-matched case	1
 So.	0
 Yeah.	0
 Uh. Do the - does the new filter make things uh better or worse for the other cases?	1
@@ -435,27 +435,27 @@ So um  I mean at the very least that would be a reasonably prediction of what wo
 So I guess the question is if you can do  better  than this. If you can - if we can approximate  the old numbers while still keeping the latency down.	0
 Mmm.	0
 Yeah.	0
-Uh, so. Um. What I was asking, though, is uh - are - what's - what's the level of communication with uh  [MASK] gang now, about this and -	1
+Uh, so. Um. What I was asking, though, is uh - are - what's - what's the level of communication with uh  the O_G_ I  gang now, about this and -	1
 Well, we are	1
-exchanging mail as soon as we -	0
+exchanging mail as soon as we -	1
 Yeah.	0
 we have significant results.	1
 Um.	0
 Yeah. For the moment, they are working on integrating	1
-the um	0
-[MASK]	0
+the um	1
+spectral subtraction	1
 Mm-hmm.	0
-[MASK]	1
+apparently from Ericsson.	1
 Um.	0
-Yeah. And so. Yeah. We are working on our side on other things like  uh also trying a sup- [MASK] but	1
-of - of our  own,  I mean,  another	0
+Yeah. And so. Yeah. We are working on our side on other things like  uh also trying a sup- spectral subtraction but	1
+of - of our  own,  I mean,  another	1
 Mm-hmm.	0
 spectral subtraction.	1
 Um.	0
 Yeah. So I think it's - it's O_K. It's going -	0
 Is there any further discussion about this - this idea of - of having some sort of source code control?	1
 Yeah. Well. For the moment they're -	1
-uh everybody's quite um -	0
+uh everybody's quite um -	1
 There is this Eurospeech deadline, so.	1
 I see.	0
 Um. And.	0
@@ -479,17 +479,17 @@ and - But yeah.	0
 Yeah.	0
 And the good thing is that  there is this first deadline,	0
 Yeah.	0
-and, well, some people from [MASK] are working on a paper for this, but there is also	0
+and, well, some people from O_G_I are working on a paper for this, but there is also	0
 the	0
 um	0
-special session about [MASK] which is -	0
+special session about th- Aurora which is -	0
 uh which has an extended deadline. So.	0
 The deadline is in May.	0
 For uh -  Oh, for Eurospeech?	0
 For th-	0
-Yeah. So f- only for [MASK] So it - it's good, yeah.	0
+Yeah. So f- only for the experiments on  Aurora.  So it - it's good, yeah.	0
 Oh!	0
-[MASK] That's  great.	0
+Oh, a special dispensation. That's  great.	0
 Mm-hmm. Where  is  Eurospeech this year?	0
 Aalborg - Aalborg uh	0
 It's in Denmark.	0
@@ -508,16 +508,16 @@ Nnn.	0
 Yeah. So, I mean, I - I think that you could certainly start looking at - at the issue uh but - but uh  I think it's probably, on s- from what Stephane is saying, it's - it's unlikely to get sort of active participation from the two sides until after they've -	1
 Well I could at least -	0
 Well, I'm going to be out next week but I could	1
-try to look into like this uh [MASK] over the web. That seems to be a very popular	1
-way of	0
-people distributing changes and -	0
+try to look into like this uh C_V_S over the web. That seems to be a very popular	1
+way of	1
+people distributing changes and -	1
 over, you know, multiple sites and things so maybe	1
-Mm-hmm.	1
-if I can figure out how do that easily and then pass the information on to everybody so that it's	0
+Mm-hmm.	0
+if I can figure out how do that easily and then pass the information on to everybody so that it's	1
 you know, as easy to do as possible and - and people don't - it won't interfere with  their regular work, then maybe that would be good.	1
 And I think we could use it for  other  things around here too. So.	0
 Good.	0
-That's  cool. And if you're interested in using [MASK] I've set it up here, so.	1
+That's  cool. And if you're interested in using C_V_S, I've set it up here, so.	1
 Oh  great.  O_K.  I used it a long time ago but it's been a while so maybe I can ask you some questions.	1
 um j-	0
 Oh. So. I'll be away tomorrow and Monday but I'll be back on Tuesday or Wednesday.	1
@@ -568,19 +568,19 @@ So.	0
 Um.	0
 Uh, yeah. Yeah. I brought some - I don't know if -  some	0
 @@	0
-figures here. Well. I start - we started to work on [MASK] And	1
-um	0
+figures here. Well. I start - we started to work on spectral subtraction. And	1
+um	1
 the preliminary results were very bad.	1
-So the thing that we did is just to add [MASK]  before	1
+So the thing that we did is just to add spectral subtraction  before	1
 Uh-huh.	0
-this, the  Wall  uh process, which [MASK]	1
+this, the  Wall  uh process, which contains L_D_A on-line normalization.	1
 And it hurts uh a lot.	1
 Uh-huh.	0
 And so we started to look at - at um things like  this,  which is,	0
 well,	0
 it's -	0
 Yeah.	0
-So you have [MASK] for	0
+So you have the C_zero parameters for	0
 You can  @@ .	0
 one uh Italian utterance.	0
 And I plotted this for two channels.	0
@@ -589,18 +589,18 @@ And it's perfectly synchronized, so.	0
 And the sentence contain only one word, which is   "Due"	0
 And it can't clearly be seen. Where - where is it? Where is the word?	0
 Uh-huh.	0
-This is - this is, oh, a plot of [MASK] the  energy.	0
+This is - this is, oh, a plot of C_zero, the  energy.	0
 Hmm.	0
 So.	0
-This is a plot of [MASK]	0
-uh when we don't use [MASK]  and when there is n	0
+This is a plot of C_zero,	0
+uh when we don't use spectral subtraction,  and when there is no on-line normalization.	0
 So.	0
-Mm-hmm.	1
-There is just [MASK] and  and some downsampling, upsampling.	0
-[MASK] is the close talking? - uh the close channel? and s- channel one is the -	0
+Mm-hmm.	0
+There is just some filtering with the L_D_A and  and some downsampling, upsampling.	0
+C_zero is the close talking? - uh the close channel? and s- channel one is the -	0
 So.	0
 Yeah. Yeah.	0
-Yeah. So [MASK] is very clean, actually.	0
+Yeah. So C_zero is very clean, actually.	0
 Yeah.	0
 Uh then when we apply mean normalization it looks like the second figure,	0
 though it is not.	0
@@ -612,8 +612,8 @@ What we can clearly see is that on the speech portion	0
 the two channel come - becomes very close,	0
 but also what happens on the noisy portion is that the variance of the noise is -	0
 Mm-hmm.	0
-This is still being a plot of [MASK]	0
-Yeah. This is still [MASK]	0
+This is still being a plot of C_zero?	0
+Yeah. This is still C_zero.	0
 O_K.  Can I ask um what does variance normalization do? w- What is the effect of that?	0
 Normalizes the variance.	0
 So it - it -	0
@@ -624,12 +624,12 @@ y- Yeah. No, I understand that, but I mean -	0
 You - you get an estimate of the standard deviation. That's um -	0
 No. No, I understand what it  is,  but I mean, what does it - what's - what is uh -	0
 Yeah but.	0
-What's the rationale?	1
+What's the rationale?	0
 We- Yeah. Yeah.	0
 Why - why do it?	0
 Uh.	0
 Well, I mean, because	0
-everything uh - If you have [MASK] everything is based on means and variances.  So if there's an  overall	0
+everything uh - If you have a system based on Gaussians, everything is based on means and variances.  So if there's an  overall	0
 Yeah.	0
 reason -	0
 You know, it's like uh if you were doing uh image processing	0
@@ -667,7 +667,7 @@ And it - and this -	0
 If you have a good voice  activity  detector, isn't - isn't it gonna pull that out?	0
 Yeah. Sure. If they are good. Yeah.	0
 Well what it - it shows is that, yeah,	0
-perhaps a good voice activity detector is - is good before [MASK]	0
+perhaps a good voice activity detector is - is good before on-line normalization	0
 and that's what uh	0
 we've already observed.	0
 But uh, yeah, voice activity detection is not   an easy thing neither.	0
@@ -692,11 +692,11 @@ Yeah. So I think, yeah.	0
 For I th- I think that it - perhaps it shows that	0
 uh the parameters that the voice activity detector should use -	0
 uh  have  to use should be different than the parameter that have to be used for speech recognition.	0
-Yeah. So basically you want to reduce this effect. So you can do that by doing the voi- voice activity detection. You also could do it by spect- uh [MASK]  before  the  variance normalization, right?	0
+Yeah. So basically you want to reduce this effect. So you can do that by doing the voi- voice activity detection. You also could do it by spect- uh spectral subtraction  before  the  variance normalization, right?	0
 Well, y-	0
 Yeah, but it's not clear, yeah.	0
 So uh -	0
-We-  So. Well. It's just to the - the number that at- that are here are recognition experiments on Italian [MASK]	0
+We-  So. Well. It's just to the - the number that at- that are here are recognition experiments on Italian H_M and M_M	0
 Yeah.	0
 with these two kinds of parameters. And,	0
 well,	0
@@ -727,43 +727,43 @@ yeah, something like this, yeah.	0
 Maybe  that's  why it doesn't work for channel  one.	0
 Perhaps, yeah.	0
 Can I -	0
-So we could perhaps do just mean [MASK]	0
+So we could perhaps do just mean normalization before V_A_D.	0
 Mm-hmm.	0
 Mm-hmm.	0
-Can I ask a, I mean - a sort of top-level question, which is  um "if - if most of what [MASK]	1
-folk are working with is trying to  integrate this other - other uh [MASK]  why are we worrying about it?"	1
+Can I ask a, I mean - a sort of top-level question, which is  um "if - if most of what the O_G_I	1
+folk are working with is trying to  integrate this other - other uh spectral subtraction,  why are we worrying about it?"	1
 Mm-hmm.	0
-About? [MASK]	0
+About? Spectral subtraction?	0
 Yeah.	0
 It's just uh - Well it's another -  They are trying to u- to use the um -	1
 the Ericsson and we're trying to use something - something  else.	1
 And. Yeah, and also to understand what  happens  because	0
 O_K.	0
 uh fff  Well.	0
-When we do [MASK] actually, I think	0
+When we do spectral subtraction, actually, I think	0
 that this is the - the two last figures.	0
 Yeah.	0
 Um.	0
-It seems that after [MASK] speech is more emerging now uh	0
+It seems that after spectral subtraction, speech is more emerging now uh	0
 Mm-hmm.	0
 Speech is more what?	0
 than - than  before.  Well,	0
 the difference between the energy of the speech and the energy of the n- spectral subtrac- subtracted noise  portion  is - is  larger.	0
 Mm-hmm.	0
 Well, if you compare the first figure to  this  one -	0
-Actually the scale is not the  same,  but if you look at the - the numbers um  you clearly see that the difference between [MASK] is  larger.	0
-Uh but what happens is that after [MASK]	0
-you also increase the variance of this - of [MASK]	0
+Actually the scale is not the  same,  but if you look at the - the numbers um  you clearly see that the difference between the C_zero of the speech and C_zero of the noise portion is  larger.	0
+Uh but what happens is that after spectral subtraction,	0
+you also increase the variance of this - of C_zero.	0
 And so if you apply variance normalization on this, it completely sc- screw	0
-Mm-hmm.	1
+Mm-hmm.	0
 everything.  Well.	0
 Mm-hmm.	0
 Um.	0
 Uh. Yeah.	0
-So yeah. And what they did at [MASK] is just	1
-uh they don't use [MASK] and I think -	1
+So yeah. And what they did at O_G_I is just	1
+uh they don't use on-line normalization, for the moment, on spectral subtraction and I think -	1
 Yeah.	0
-I think as soon as they will try [MASK]	1
+I think as soon as they will try on-line normalization	1
 there will be a problem.	1
 So yeah, we're working on the same thing but	1
 I think	1
@@ -796,12 +796,12 @@ Was it - There was this business that, you know, we - we could use up the full f
 Yeah.  But I think they'r-	0
 I think we want to work on  this.  They also want to work on  this,  so.	0
 Uh.  yeah.	0
-We - we will try [MASK]	0
+We - we will try M_S_G,	0
 but um,	0
 yeah.	0
 And they are t-	0
 I think they want to work on the second stream also, but more with  some kind of multi-band or, well,	0
-what they call [MASK]	0
+what they call TRAP or generalized TRAP.	0
 Mm-hmm.	0
 Um.	0
 O_K.  Do you remember when the next meeting is supposed to be?  the next uh - In  June.  O_K.	1
@@ -809,29 +809,29 @@ So.	0
 It's uh in June.	1
 Yeah.	0
 Yeah. Um.	1
-Yeah, the other thing is that you saw that - that mail about uh [MASK] performing quite differently?	1
+Yeah, the other thing is that you saw that - that mail about uh the V_A_D - V_A_Ds performing quite differently?	1
 That that uh	0
-So um. This - there was this experiment of uh "what if we just take the baseline?"   set uh  of features, [MASK]	1
+So um. This - there was this experiment of uh "what if we just take the baseline?"   set uh  of features, just mel cepstra,	1
 Mmm.	0
-and you inc- incorporate [MASK]	1
-And it  looks  like the - [MASK] is actually uh better - significantly better.	1
+and you inc- incorporate the different V_A_Ds.	1
+And it  looks  like the - the French V_A_D is actually uh better - significantly better.	1
 Improves the baseline?	0
 Yeah. Yeah.	0
-Yeah but I don't know which [MASK] they use.	1
+Yeah but I don't know which V_A_D they use.	1
 Uh.	0
-If the use [MASK]	0
+If the use the small V_A_D	0
 I th- I think it's on -	0
 I think it's easy to do  better  because it doesn't work at  all.	0
 So.	0
 I - I don't know which - which one. It's  Pratibha  that - that did this experiment.	1
 Yeah.	0
-Um. We should ask which [MASK]	1
+Um. We should ask which V_A_D	1
 I don't  @@ .	0
-He - Actually, I think that he say with [MASK]	1
+He - Actually, I think that he say with the good V_A_D of - from OGI	1
 she used.	1
-and with [MASK]	0
+and with the Alcatel V_A_D.	0
 And the experiment was sometime better, sometime worse.	0
-Yeah but I - it's uh - I think you were talking about the  other  mail that used [MASK] on the reference features.	0
+Yeah but I - it's uh - I think you were talking about the  other  mail that used V_A_D on the reference features.	0
 Yes.	0
 Yeah.	0
 I  don't remember.	0
@@ -839,7 +839,7 @@ And on  that  one, uh the French one is - was better.	0
 It was just better.	0
 Mm-hmm.	0
 I mean it was  enough  better that - that it would	1
-uh account for a fair  amount  of the  difference	0
+uh account for a fair  amount  of the  difference	1
 Mm-hmm.	0
 between our performance, actually.	1
 Mm-hmm.	0
@@ -847,11 +847,11 @@ So.  Uh. So if they have a  better  one, we should  use  it. I mean.   You know?
 Yeah.	0
 Uh.	0
 Yeah, so we should find out if it's really  better.  I mean if it -	0
-Yeah.	1
+Yeah.	0
 the - compared to the small or the big network.	0
 Mm-hmm.	0
 Yeah.	0
-And perhaps we can easily improve if - if we put like mean normalization before the - before [MASK] Because -	0
+And perhaps we can easily improve if - if we put like mean normalization before the - before the V_A_D. Because -	0
 Yeah.	0
 as - as you've  mentioned. Mmm.	0
 H- Hynek will be back in town uh the week after next, back - back in the country. So.   And  start - start organizing uh  more visits and connections and so forth, and -  uh	1
@@ -864,8 +864,8 @@ Yeah.	0
 And we are looking   in the uh signal.	0
 Yeah.	0
 Yeah, my  feeling  is that	1
-um actually	0
-when we look at all the proposals, ev- everybody is still using some kind of [MASK] and	1
+um actually	1
+when we look at all the proposals, ev- everybody is still using some kind of spectral envelope and	1
 Right.	0
 um	0
 No use of pitch uh basically. Yeah.	1
@@ -877,7 +877,7 @@ So.	0
 Well,  it -	0
 We don't necessarily want to find the - the pitch of the - of the  sound  but	0
 uh -	1
-Cuz I have a feeling that	0
+Cuz I have a feeling that	1
 when we look - when we look at the - just at the  envelope  there is no way you can tell if it's voiced and unvoiced, if there is some -	1
 It's - it's easy in clean speech because voiced sound are more low frequency and.	0
 So there would be more,	0
@@ -917,17 +917,17 @@ And.	0
 Yeah, so I don't know. We were thinking about like using ideas from - from Larry Saul,	0
 have a good voice detector,	0
 have a good, well, voiced-speech detector,	1
-that's working on - on [MASK] and	1
+that's working on - on the F_F_T and	1
 uh Larry Saul could be an idea. We were are thinking about just	1
 U-	0
 kind of uh taking the spectrum and	1
-computing the variance	0
-of - of the high resolution spectrum  and	0
+computing the variance	1
+of - of the high resolution spectrum  and	1
 So u- s- u-	0
 things like this.	1
 O_K. So - So  many   tell you something about that. Uh we had a guy here some years ago who did some work on	1
-um	0
-making use of	0
+um	1
+making use of	1
 voicing information uh to  help in reducing the noise.	1
 Yeah?	0
 Mm-hmm.	0
@@ -941,8 +941,8 @@ Mm-hmm.	0
 And that - that is another way of getting rid of part of the  noise	1
 Yeah.	0
 Yeah.	0
-So um that's something  that is sort of  finer,  brings in a little more information than just [MASK]	1
-Um. And he had some - I mean, he did that sort of [MASK] was taking care of convolutional stuff and he was -	1
+So um that's something  that is sort of  finer,  brings in a little more information than just spectral subtraction.	1
+Um. And he had some - I mean, he did that sort of in combination with RASTA. It was kind of like RASTA was taking care of convolutional stuff and he was -	1
 Mm-hmm.	0
 Mmm.	0
 Mm-hmm.	0
@@ -963,23 +963,23 @@ where he was saying that -	0
 I- I'm not sure,  exactly,  what the  gist  of what he was saying, but	0
 something having to do with the voice  activity detector and that it will -	0
 that people shouldn't put their  own   in  or something. It was gonna be a -	0
-That - But - O_K. So that's  voice  activity detector as opposed to  voicing  detector. So we're talking about something a little  different.	1
+That - But - O_K. So that's  voice  activity detector as opposed to  voicing  detector. So we're talking about something a little  different.	0
 They didn't.	0
 Mmm.	0
 Oh, I'm sorry. I - I missed that.	0
 Mmm.	0
 Right?  I guess what you could do,  maybe  this would be w- useful, if - if you have - if you view the second stream,	0
-yeah, before you - before you do [MASK] and so forth,  if you  do  view it as probabilities,	0
+yeah, before you - before you do K_L_T's and so forth,  if you  do  view it as probabilities,	0
 and if it's an independent -	0
 So, if it's - if it's uh  not  so much  envelope-based by fine-structure-based, uh looking at harmonicity or something like that,	0
 um if you get a probability from  that  information and then multiply it by - you know, multiply by all the voiced	0
 outputs and all the unvoiced outputs, you know,	0
 Mm-hmm.	0
 then  use  that  as the uh -	0
-take the log of  that  or  uh pre- pre- uh - [MASK]	0
+take the log of  that  or  uh pre- pre- uh - pre-nonlinearity,	0
 Yeah.	0
 i- if -	0
-uh and do [MASK] on the - on - on  that,   then that would - that would I guess	0
+uh and do the K_L_T on the - on - on  that,   then that would - that would I guess	0
 Yeah.	0
 be uh a reasonable use of independent information.	0
 So maybe that's what you meant.	0
@@ -988,8 +988,8 @@ Yeah, well, I was not thinking this - yeah, this could be an- yeah	0
 So you mean have some kind of probability for the v- the voicing and then	0
 R-	0
 Right. So you have a  second  neural net. It could be pretty small.	0
-use [MASK] and	0
-Yeah. If you have a tandem system and then you have some kind of - it can be pretty small - net -  we used - we d- did some of this stuff. Uh I - I did, some years ago, and the - and - and you use -  the thing is to use information  primarily  that's different	1
+use a tandem system and	0
+Yeah. If you have a tandem system and then you have some kind of - it can be pretty small - net -  we used - we d- did some of this stuff. Uh I - I did, some years ago, and the - and - and you use -  the thing is to use information  primarily  that's different	0
 Mm-hmm.	0
 Yeah.	0
 as  you  say, it's more fine-structure-based than - than envelope-based  uh so then it you - you - you can pretty much guarantee it's stuff that you're not looking at very  well  with the other one,  and uh then you  only  use for this one distinction.	0
@@ -1004,26 +1004,26 @@ Mm-hmm.	0
 Yeah.	0
 Uh.	0
 Yeah, that's a good idea.	1
-Yeah.	0
-Because, yeah, well, [MASK]	1
+Yeah.	1
+Because, yeah, well, spectral subtraction	1
 is good and we could u- we could use the fine structure to - to have a better estimate of the  noise  but	1
-still there is this issue with [MASK] that it seems to increase the variance of -	0
+still there is this issue with spectral subtraction that it seems to increase the variance of -	1
 of - of um	1
 Yeah.	0
 Well it's this musical noise which is	1
 Right.	0
-annoying if you d- you do some kind of [MASK]  after.  So.	1
+annoying if you d- you do some kind of on-line normalization  after.  So.	1
 Um.	0
-Yeah.	0
-Well.  [MASK] don't seem to -	1
+Yeah.	1
+Well.  Spectral subtraction and on-line normalization don't seem to -	1
 to go together very well.	1
 I-	0
-Or if you [MASK] -	0
+Or if you do a spectral subtraction - do some spectral subtraction first  and then do some on-line normalization then do some more spectral subtraction -	0
 I mean, maybe - maybe you can do it layers or something so it doesn't - doesn't hurt too much or something.	0
 Ah, yeah.	0
 But it - but uh,  anyway  I think I was sort of arguing against myself there by giving that example uh I mean cuz I was already sort of	0
 Yeah.	0
-suggesting that we should be careful about not spending too much time on exactly what they're doing	0
+suggesting that we should be careful about not spending too much time on exactly what they're doing	1
 In fact if you get - if you go into uh - a uh harmonics-related thing	1
 it's definitely going to be different than what they're doing  and uh	1
 Mm-hmm.	0
@@ -1051,7 +1051,7 @@ Yeah.	0
 But we were thinking, we discussed with Barry about this, and  perhaps	0
 thinking - we were thinking about some kind of sheet- cheating experiment where	0
 Uh-huh.	0
-we would [MASK] and see	0
+we would use TIMIT and see	0
 if giving	0
 the d-	0
 uh, this voicing bit would help in -	0
@@ -1065,7 +1065,7 @@ uh -	0
 We need labels.	0
 Why not?	0
 Cuz we don't have - Well, for Italian perhaps we have, but we don't have this labeling	0
-[MASK] We just have a labeling with word models but	0
+for Aurora. We just have a labeling with word models but	0
 I see.	0
 Not  for  foreigners .	0
 not for phonemes.	0
@@ -1078,15 +1078,15 @@ But you could - I mean you can - you can  align  so that - It's not  perfect,  b
 But the problem is that their models are all word level models. So there's no phone models  that you get alignments for.	0
 Yeah.	0
 Mm-hmm.	0
-Oh.	1
+Oh.	0
 You - So you could find out where the word boundaries are but that's about it.	0
 Yeah.	0
 I see.	0
-S- But we could use uh the - [MASK] which	0
+S- But we could use uh the - the noisy version that TIMIT, which	0
 Yeah.	0
-you know, is similar to the - [MASK]	0
+you know, is similar to the - the noises found in the T_I-digits	0
 noise, yeah.	0
-um [MASK]	0
+um portion of Aurora.	0
 Yeah, that's right, yep.	0
 Mmm.	0
 Well, I guess - I guess we can -	0
@@ -1115,7 +1115,7 @@ Uh-huh.	0
 Hmm.	0
 So.	0
 Mmm.	0
-Yeah. Well back twenty  years  ago when I did this [MASK] we were getting more like	0
+Yeah. Well back twenty  years  ago when I did this voiced-unvoiced stuff, we were getting more like	0
 ninety-seven or ninety- eight  percent correct in voicing. But that was	0
 speaker- dependent   actually.	0
 Mm-hmm.	0
@@ -1138,7 +1138,7 @@ significantly worse than  that.	0
 Mm-hmm.	0
 Uh.	0
 And the -	0
-all the - [MASK] what's the idea behind?	0
+all the - the SpeechCorders? what's the idea behind?	0
 Cuz they - they have to -	0
 Oh, they don't even  have  to detect voiced spe- speech?	0
 The modern ones don't do a -  a simple switch. They work on the code book excitation. Yeah they do  analysis-by-synthesis. They try - they - they try every - every possible excitation they have in their  code  book and find the one that matches best.	0
@@ -1160,7 +1160,7 @@ One  of the ideas that we  had come up with last week for things to try to  impr
 Um.	0
 Actually I - I s- we didn't - I guess I wrote this in after the meeting b- but  the  thought  I had was	0
 um	0
-looking at the  language  model that's used in [MASK]  which is basically just a big	0
+looking at the  language  model that's used in the H_T_K recognizer,  which is basically just a big	0
 Mm-hmm.	0
 loop, right? So you - it goes "digit" and then that can be - either go to silence or go to another digit, which -  That model would allow for the production of	0
 Mm-hmm.	0
@@ -1170,7 +1170,7 @@ So.	0
 I thought "well I'm gonna just look at the -	0
 what actual digit strings do occur in the training data."	0
 Right.	0
-And the interesting thing was it turns out that there are no sequences of two-long or three-long digit strings  in any of [MASK] So it's either one, four, five, six,  uh up to eleven, and then it skips and then there's some at sixteen.	0
+And the interesting thing was it turns out that there are no sequences of two-long or three-long digit strings  in any of the Aurora training data. So it's either one, four, five, six,  uh up to eleven, and then it skips and then there's some at sixteen.	0
 But what about the  testing  data?	0
 Um. I don't know. I didn't look at the test data yet. So.	0
 Yeah. I mean if there's some  testing  data that has - has -  has two or three -	0

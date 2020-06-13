@@ -1,0 +1,1350 @@
+Is it on?	0
+O_K, here we go.	0
+Uh, so - uh, so I c- I definitely have to leave at three-thirty today for  whatever. That's -	0
+So -	0
+Definitely have to go to tea. So -	0
+Yeah, they're - they're having birthday cake and such and so I can't miss that.	0
+That too, but -	0
+You're a May birthday, right?	0
+I'm a May birthday, yeah, so I have to -	0
+Oops.	0
+Barbara  told me. Barbara Peskin.	0
+Yeah.	0
+Um -	0
+So,	1
+only a couple of agenda items, since no one sent me email for agenda items. Uh, the first is the I_B_M transcripts. I'd like to	1
+uh,  mention  - I s- I spoke with  several  of you about this, but just to	0
+brainstorm a little bit about what we can do with it.	0
+Mm-hmm.	0
+So we got back the I_B_M transcript, and the  accuracy  looks O_K. There are - I mean, there are areas which are	1
+clearly wrong and there are a lot of areas where they put  question  marks,	1
+where the acoustics weren't very good. And I think that's  fine.  Putting it in question marks is better than doing it wrong.	1
+The  big  problem was, they had the  wrong  number of beeps in it.	1
+Oops.	0
+So it didn't align.	1
+And that's  exactly  what I was  afraid  of.	1
+And I went in, and more or less by  hand,   corrected  it, by loading it - I wrote a script that will convert it to the multi- the Channeltrans format,	1
+looked at it in - in Channeltrans and	1
+found the places where it got a- unsynchronized, and then either -	1
+Hmm.	0
+Inserted ones.	0
+And in  this  case only - only had to remove beeps, because that was th-  always  the error,	1
+is that they put in it  extraneous  beeps. But it's  not  easy to  do,	1
+Hmm.	0
+because the whole thing gets	1
+offset, and basically, it's assigning the wrong speaker to the text, and it all gets unaligned. So it's very difficult	1
+Hmm.	0
+to  do.  So it took me several hours	0
+So this is -	0
+just to do that.	0
+For one meeting.	0
+this is one - it's one hour of - of - of speech?	0
+Yep.	0
+And it took you a few hours to - to do it.	0
+It took me a couple hours to write the scripts, and then	1
+it - it probably took me	1
+maybe forty-five minutes,  just  going  through  it. Now obviously it will be a lot  faster  from now  on,  because now I sort of understand how it works.	1
+But, I think if we had some way - uh some  tool  that made it easier to insert and delete beeps	1
+it would make it a lot easier. Cuz  one  of the problems is that it takes a very long  time  when you make a change to load it back up in the  channel  transcriber.	1
+Yep.	0
+Yeah, that's true. I've noticed that. Yeah.	0
+One  of the things that  Adam  said that I thought would be a good  idea  would be, um,	0
+And so there  may  be -	0
+Which makes sense.	0
+if we g- used different  beeps.  So for example if we  alternated  between two beeps, a high and a low.	0
+He  said that?	0
+th-	0
+Uh, well in - in some email that, uh, we had.	0
+Oh, on the email.	0
+For -	0
+Oh, oh, O_K.	0
+Yeah.	0
+I didn't  just  say that, no.	0
+Yeah. Um - Because  then  -	0
+So th- so this is the o- the other  approach  which is, what do we do in the  future,  to try to make this less common? But it's  still  gonna happen.	0
+Yeah.	0
+Well, and then the  other  possibility was - e- that we provide them with a - a file that already has the beeps  in  it or something. Wasn't that what you said?	1
+So -	0
+Hunh.	0
+Sort of a text template, but I don't know how	0
+Uh-huh.	0
+Yeah, we don't know what their process is. So I had two ideas. The first was to provide them a text template that had both the beeps in it and the speaker I_Ds.	1
+we can do that.	0
+Yeah.	0
+You know, just "male-female", "English-nonEnglish", "one two three four".	0
+Um -	0
+Can I - I - I just -	0
+And they just filled it in.	0
+How- how many - how many beeps are there, and how many do we- were they -	1
+d- were - were off?	1
+It was like a hundred twenty, and they had a hundred twenty-three or something like that. Is that right?	0
+Alright.	0
+Well, l- I- I thought it was a lot  more  than that.	0
+And is it a -	0
+Well I - I don't remember.	0
+They were  three  off, basically.	0
+Yeah, and it was a hundred-ish.	0
+And this is the mixed signal?	0
+Oh!	0
+Hmm.	0
+So - so if you get one -	0
+uh, uh, excuse me. If you get one off, it - t- everything is off  cuz of the alignment  right?	1
+Yep.	0
+Yep.	0
+Uh, and this is all in one file that's continuous.	1
+Yep.	0
+Yeah.	0
+So why don't you make it multiple files?	1
+How would that help?	0
+Because then if they have one off, then - then it would only screw up that file.	0
+Oh, you mean just break the one hour into	0
+Yeah.	0
+a few chunks.	0
+I mean, it seems now, if you just ha- make one mistake then everything is off.	0
+Well the only - the only question about  that  that I have is, um, I think Brian has to put all this stuff onto a  tape.	1
+So I don't know whether -	0
+Yeah.	0
+I'm sure they would prefer it sort of one hour.	0
+Can he send them - I guess he could send them multiple	0
+Oh!	0
+tapes	0
+Uh -	0
+Yeah, just say, "O_K, is -"	0
+ten minutes is -" I mean,	0
+maybe there's other things to do that are more  clever,  but this just seemed to be the sort of the obvious thing because, again, if you make  one   mistake,	0
+then everything after that mistake is  off.	0
+Mm-hmm.	0
+And, uh -	0
+Well, the only other issue is we'd have to worry about reassembling them in the proper order.	1
+Uh -	0
+Yeah.	0
+That - I mean, just naming schemes will get -	0
+We can definitely do that. So t- so one question is, are there good places in the files where we can really do that?	0
+Well, the other thing - You can -	0
+I mean, so - so - so someone will have to go through them and listen to them and pick a place to break them.	0
+Yeah.	0
+The  other  thing you  can  do- This is on the mixed signal,  or are these the individual -	0
+the ones with the beeps that they're getting,	0
+that they made mistakes on is	0
+They are played from the	0
+the  mixed  one?	0
+Individual channels.	0
+Individual channels.	0
+individual.	0
+Or they're indivi- If it's individual, um -	1
+y- c- we can -	1
+probably  run a forced  alignment,	1
+where you c- include the beeps as words	1
+and pretty much figure out where the  errors  are.	1
+I don't think we could do it on the  mixed  signal, cuz it -	1
+But on the individual channels that would probably work,  if  they have enough	1
+words in the transcript.	1
+Yeah, we - In fact, that's - Yeah, maybe we -	0
+So, I mean, that's pretty quick to run. It - it's, um -	0
+I mean, we could  try  it.	0
+Cuz if a beep is treated as a	0
+You mean, so, actually put - put the wavefile in with beep in it.	0
+unique word, "beep" -	0
+Put in - put "beep" in as a word.	0
+And pu- and have a beep model.	0
+We  have  the original  wavefile  with all the beeps.	0
+Yeah. Yeah. Well -	0
+the beep model - Actually, you could  train  a beep model. That - that's a good idea.	0
+It would be very good.	0
+Um -	0
+Yes, it would be, cuz it's very, very regular.	0
+Yeah.	0
+Yeah. So, um -	0
+Oh. Kind of low variance, wouldn't that be?  You sort of  might end up with	0
+Yeah.	0
+Yeah,  very  low.	0
+Yeah.	0
+Um, that might actually -	0
+some infinities there, but -	0
+You have to - may - add some jitter to it.	0
+Can I see that?	0
+I mean, that might actually work, because you'll -	1
+Where's the case?	0
+I guess the trick is figuring out, you know, where it doesn't align?	1
+But if it's a problem of  extra  beeps,	1
+rather than  missing  beeps, then -	1
+um -	0
+that's easier	1
+It could t- it could -	0
+and it might work. Oh.	0
+There could be some missing ones. But -	0
+So is this a	0
+It's just in  this  case they were not.	0
+seven  or something? Or - What is it?	0
+M_one-hundred.	0
+So I think - uh, Chuck had a good explanation for it which I liked, which is these - they're listening to it and so they write something down, and let's say they miss it, they  rewind.	0
+M_one-hundred. Oh.	0
+Well, they hear the beep again. Was that  that  beep, or was that a  different  beep? So that's why Chuck was suggesting different tones.  My  original thought	1
+Oh, yeah.	0
+was, you could have a different tone for each  speaker.	1
+You know, there's plenty of  tone  space.	0
+And that might help  cue	0
+the  transcriptionist.	0
+You know, give them a little  cue  about where they  are.	0
+Or you could - you could have ascending tones, or something.	0
+What do you mean?	0
+Uh -	0
+Or -	0
+Yeah.	0
+Increasingly high - higher frequencies.	0
+You could have, um, each speaker in the meeting say "beep" and record it and that will be their pro-	0
+No, I just - thi- I don't know. If you have a hundred or something just - just sort of move them up i- mu- up a - a half tone or something for - for  each one, and then -	0
+Sorry.	0
+That's  what I was  saying.  Is that - that you could have -  each  speaker could have their own  tone.	0
+Oh was it? Oh.	0
+See, I should  listen.  Yeah?	0
+Hmm.	0
+And you know, since there are no more than,	0
+you know, ten speakers or so per meeting,	0
+Oh.	0
+Well -	0
+there's plenty of tone space.	0
+But -	0
+Uh, O_K, yeah. So the only -	0
+That  might work too. Yeah, I was just thinking that actually  temporally  just, uh, uh, uh, an increasing tones so that	0
+Oh, O_K.	0
+they would really have a sense of whether they were going, you know, forward or backward or - Yeah.	0
+Bo-eep  be-oop.	0
+In the end? Yeah.	0
+Well  you th-	0
+So just r- r- truly chron- chromatically up  all the way through the entire meeting.	0
+Yeah.	0
+Well, it's a thought.	0
+Interesting.	0
+Oh, oh, th- oh, I see.	0
+It'd be impossible to r- to misorder them.	0
+Yeah.	0
+Yeah.	0
+But yo- I guess you'd still get the mistake that  you  mentioned, because	0
+the person - I mean, if that's some of the errors, those would probably stay the same, regardless.	0
+Well -	0
+Yep.	0
+I mean,  Chuck's  suggestion of just  two  beeps is nice because then you could have them actually  transcribe  "H_beep" or "L_beep", "high beep" or "low beep".	1
+Yeah, maybe.	0
+And then when we get  them   back, if we see two L_beeps in a row -	1
+It would be much easier.	0
+That's probably better, yeah. S- scratch my other idea.	0
+Yeah, you have like a sanity - sanity check on them. That's a good idea. Alternating.	0
+It's pretty simple, pretty simple.	0
+Yeah.	0
+Yep.	0
+Yeah.	0
+And it would - it seems like it would help  them,  you know, if they	1
+just finished a long passage and they heard	1
+one  beep and then they	1
+hear it again, they know it's the same  beep.	1
+Versus if they heard a slightly different one.	1
+Yeah.	0
+Hmm, interesting.	0
+Yeah, that's a good, like, error checking	0
+approach, I think.	0
+Yeah, we can,	0
+yeah, like, do - do, uh,	0
+one for each ca- one for each person in the meeting, you can only hire people who have perfect pitch, and they can say "A_flat"  "B_".	0
+Well.  Well, "high", "low" is pretty straightforward, yeah.	0
+Great idea, yeah.	0
+No, two is probably better than what I was suggesting, because what I was suggesting, in order to make it through a reasonable range for the whole	0
+thing, you'd have to have the -	0
+the tonal differences between the two kind of small, and actually you want them large. So.	0
+Yep.	0
+You'd have to - they'd have to have the acoustics of dogs t-  hear into the high high ranges.	0
+Mm-hmm.	0
+Yeah.	0
+Yeah.	0
+So I think,  certainly,  doing two beeps is - is no-brainer. And then the other question is,  if  they can -	0
+If they	1
+do  something on a computer in a format we can  handle,  we could give them a text file that was a template with speaker I_D and beeps already in it.	1
+Yeah.	0
+And then they could just fill that in.	1
+Maybe I should write to Brian and tell him what the problem  was  and what our proposed solutions are.	1
+So what -	0
+Right.	0
+See what he thinks would work best with  them.	0
+Yeah.	0
+I mean, what's going  wrong  on the other end? What are they  doing?  What, uh -	0
+Well, as I  said,  I think - We don't  actually  know, but I think Chuck's  hypothesis  was a  good  one, which is, you re- r- you  listen  to something,	1
+you write down what you thought you heard,	1
+but you want to listen to it again, so you r- rewind.	1
+And there are some -	0
+And then you hear the beep  again, and then you say "well, is that  that  beep,	1
+or is that a new beep?  I  don't remember." And so, you know, a  couple  times they got it  wrong.	1
+And there are  some  cases where there's, um,	0
+very little  speech  before you hear a beep. So you hear a little bit of speech, beep, a little bit of speech, beep.	0
+Yeah.	0
+Mm-hmm.	0
+Maybe three of those in a  row,  and was that  three  beeps, was that  two  beeps?	0
+Um - See, they have th- Brian said the setup that they  have  is, um -	0
+uh -	0
+i- um -	0
+They've got headphones and  then  I guess they have a computer, and they have a foot pedal which lets them quickly	0
+scan back and forth through the tape. I- i- t- i- s- makes the tape go real fast forward or fast backward.	0
+And so they can  hear  something, then step on the pedal and quickly rewind	0
+and go back and hear it  again.  And so they're -	0
+I  think  they're probably going over and  over  f- sections. And then they get  confused  about whether	0
+they've already  put that beep, or if they heard, you know, three beeps in a row, was that  three  or  two,  and -	0
+It's a  shame  we can't  really  give a  number.  So it would be a  number   and  a  beep.	1
+O_K, s-	0
+e-	0
+It's a shame we can't do that.	0
+Well, we  could.	0
+Oh,   that's  an interesting idea.	0
+We  could,  but then that starts getting	0
+pretty  long.	0
+No, no, no. But  wait,  maybe -	1
+maybe what we  have  instead of a  beep  is a, uh, synthesized  number.	1
+Yep.	0
+And they put the  number  in when they hear it.	1
+That'll  work.	0
+So, inst-  replacing   the beep with "twenty- three ",	1
+"twenty- four ",	0
+"twenty-five" -  And then they have to transcribe what that  number  is each time.	1
+Wow, that'd  also  be shorter to  type.	1
+Yeah, just a "two three, two four", that would be -	0
+Well, they would have to have a mark.	0
+Interesting.	0
+There'd be some kind of mark in front of it.	0
+Well, cuz they're s- distinguishing between twenty-three -	1
+that's your  indicator  there, and twenty-three that somebody happens to  say  in a  meeting.	1
+Oh, that's true.	0
+Well it would have t- yeah, it would have to be um,	0
+you know either obviously a s- sounding synthesized, uh, little -	0
+Yeah.	0
+But they might miss that, right?	0
+Or maybe could it be a  click  and the  number.	0
+Yeah.	0
+Or a  beep  and the number.	1
+Well, it's sequential.	0
+Or a beep and the number, and then - and then you just do the - the num- th- you do it as a d- a digit.	0
+Right, you would go sequential. So unless you got pretty unlucky,	0
+Uh, right.	0
+Yeah.	0
+what the person was saying and the number -	0
+In  fact,  we could put it at the  beginning  of each utterance. We could say "beep	0
+one ".	0
+And then they'll hear the speech.	0
+I think having a beep too is good.	1
+So beep number. Yeah the- It's just getting pretty  long.  You know, the utterances are very  short.	1
+Or a number beep -	1
+Yep.	0
+Mm-hmm.	0
+And so you're gonna be talking beep, number, "yes!" beep, number, "no".	0
+Mm-hmm.	0
+Well, if - if it saves time, yeah.	0
+Yeah,  and u- I think it would - I -  Actually,  I thi- I  like  that. I think it would -	0
+And when they transcribe  this  meeting it's gonna be  really   impossible.	0
+Yeah,  that's funny.	0
+W- we're  saying  "beep". Yeah -  for instance.	0
+Yeah, yep.	0
+Yeah.	0
+But see that would - that would  definitely  keep -	0
+It's not a bad idea.	0
+Yeah. Keep	0
+things from getting out of  sequence.  If they  heard  it  over  again they would  know.  It would be  obvious  from their  transcript  whether they  did  that one or not.	0
+It might actually  help   them   in terms of their  place  holding. Yeah.	0
+That  would  help get them synchronized.	0
+Yeah.	0
+And it might be helpful to  them  in terms of d- act-	0
+I think it  would  be, because they would know their  place.  Yeah.	0
+And we have plenty of  digits  data, so.	0
+They would know their place, darn it!	0
+We-	0
+Know -	0
+Those transcriptionists need to know their place.	0
+Oh.	0
+Well,  no  no no no.	0
+But it sounds like a k- a - a - a short conversation with Brian might be - might be helpful to get a sense of what's going on.	1
+Yeah. I'll - I'll - I'll write him an -	0
+Yeah, the  numbers  are a good idea.	0
+O_K.	0
+Yeah.	0
+Or just -	0
+Othe- other than  lengthening  the  transcript,	0
+I think it would be very helpful.	0
+Just instead of the sequential number, for-	0
+perhaps just the speaker I_D  or something. Just say speaker one  or spea- or just one, two, three, four  for four speakers or something.	0
+Pppt!	0
+I - i-	0
+Could - could be helpful.	0
+Yeah, you don't have to -	0
+you  could  keep  them   short by not s- or just go one through ten, one through ten, one through ten, or one through twenty.	0
+Yeah.	0
+Yeah.	0
+Yeah.	0
+Yep.	0
+And then  also,  if we - I mean, I don't know what their  setup  is, but your  template  idea might be a way of - of	0
+Mm-hmm.	0
+of - We could actually  build  the numbers  into  a template.	0
+Yep.	0
+Well.	0
+I'll talk to Brian, and see what he -	0
+Yeah,  single  digit numbers -	0
+Yeah.	0
+That also appeals to me. So that you don't have to, you know -	0
+That's a good idea.	0
+Very simple.	0
+"One hundred twenty-four"	0
+Yeah.	0
+Yeah.	0
+Well, th- although -	0
+"Beep. One thousand three hundred forty-two"	0
+You're saying i- it's - it's about an hour meeting, and there were a hundred and twenty-three -	0
+Mm-hmm.	0
+I don't remember.	0
+It's forty-five minutes.	0
+Chuck was saying there was more than that.	0
+Hmm?	0
+Forty-five minutes for  that  one.	0
+More  beeps than that.	0
+I  was thinking there was on the order of	0
+fifteen  hundred  segments, but maybe I'm -	0
+There  must  be. Because  otherwise,  you're going a whole -	0
+I think it should be more, yeah.	0
+It's  possible.	0
+That was	0
+at least forty-five minutes, right?	0
+Yeah. That's right.	0
+Was it that many? I just don't recall.	0
+Yeah, it was forty-five minutes.	0
+That's the shortest meeting we  have.  Most of them are  double  that, or	0
+Yep.	0
+Well, I was just wondering what the average length	0
+so	0
+Oh, of a - of a segment that they're hearing?	0
+thing  was.	0
+It's -	0
+Yeah.	0
+I don't know.	0
+Hmm, interesting.	0
+I don't know.	0
+Uh-	0
+Easy enough to figure out. We have all that data.	0
+Yeah.	0
+So if there  are  in the -	0
+in the  hundreds  and thou- or  thousands  of these -	0
+It  must  be in the high  hundreds  of them, at  least.	0
+So, right. So i-	0
+So that's getting a little cumbersome for them to type, like,	0
+Yeah.	0
+Well,  with  just  one  digit  though,	0
+five hundred?	0
+I think -	0
+Well -	0
+But yeah, if they recycle through -	0
+Yeah, if we - if we did mod ten, then -	0
+Yeah.	0
+Right, but my  point  was, you know, if - It's a  big  difference to me if there's a  thousand  or there's a  hundred.  If	0
+there's a  thousand,  then that means	0
+that this is only happening  three  times out of a  thousand.	0
+Which means, you know, even just splitting it up into a few  files  would probably take - You know, nearly all the  time,  there would be no -	0
+Yeah.	0
+W- if it's a  hundred,  then - you know, that's  not  the issue,  but if it's a hundred,	0
+then, the average  length  of each one is pretty - pretty  long  and so having a little thing at the front of it is no big  deal.	0
+Mm-hmm.	0
+So,  that's  why I was  curious.	0
+Yeah,  you're  right. It  had  to have been more than that. I mean, it was a forty-five minute meeting, so -	0
+Right.	0
+And it certainly was not a minute a chunk, it was a few  seconds  a chunk.	0
+That's what I -	0
+Mm-hmm.	0
+Yeah, so it'd be a lot of overhead to type.	0
+So I'm just mis-remembering.	0
+I'm just mis-remembering.	0
+Oh, I -	0
+So.	0
+Well, and the  other  thing is, maybe the numbers would help them keep their place in the transcript and speed the process -	1
+Yeah.	0
+It might make the transcript faster - W- wel- I mean I - A quick conversation with Brian would be good, so.	0
+Yeah.	0
+Mm-hmm.	0
+Yeah.	0
+O_K.	0
+And other than that -	0
+Actually, if it  is  -	0
+u-	0
+I mean, it's not a bad	1
+idea to  try  the alignment.	1
+Um, if there's only like  three  of  them,	1
+then	0
+if you  align,  the first point at which things get messed up is sort of the location of the first problem.	1
+Mm-hmm.	0
+And then, the second p- I mean,	0
+you could  do  it that way, or you could -	0
+It's - it's -	0
+it would be	0
+able to handle any errors. So if they make, on the average, that  many,	0
+Right.	0
+and it costs them more time to do something different than what they're doing, which I don't know,  but if it  does,	0
+then we could  try  doing that as a post-process, and,	0
+um, have a student or a transcriber run this alignment, or we can do it and -	0
+Yep.	0
+You know  actually,  what - all that we would -	0
+then you can iteratively	0
+figure out  where the problems are.	0
+You know, Liz, all we would re-	0
+It would take a  little  work, but not any real human - not a lot of human work.	0
+Right. I mean,  that's  what we want to avoid.	0
+I mean if - in terms of the alignment, actually, all we would need is - we wouldn't even need  words.  We would need a  general  speech model and a  beep  model.	1
+Cuz all we're really  concerned  about is missing beeps or too  many  beeps.	1
+Well, the for- the  forced  alignment will run fa- otherwise it'll take forever. I mean,	0
+So if we had a -	0
+Mm-hmm.	0
+to really run recognition?	0
+Well - l- I guess what I'm  thinking  of is that w-	1
+Or - ?	0
+that a lot of times	1
+there will be - they'll put in question marks,	1
+that represent some unknown amount of speech, so we're gonna have to have some kind of -	1
+Right.	0
+Yeah, then we just map it to a  reject  model.	1
+In - and in fact, that's what we do  now.  Cuz there's cases, even after  Jane  listens, where, you know, we have -	0
+Right, h-	0
+an  expert  can't even tell what they're talking about.	0
+Yeah.	0
+Um, so that's O_K. Just map that to reject and -	0
+Right.	0
+Well, what I was  thinking  is, map  all  the speech to the  reject  model. And then you have a  beep  model.	0
+Yeah.	0
+But that won't  work  because it's -	0
+Yeah, you're still talking a forced al-	0
+The forced alignment might not work then,  although we can  try  it.	1
+Um -	0
+Well, but, all we'll get -	0
+Well, with the beep models, is what's really - you'd have really g- it would be really good though. So -	0
+The beep model is - is gonna match, like,  really  well.	0
+Right.	0
+so it's p- so it's really just doing, yeah, a keyword, like a spotting for beep with -	0
+Right. But it'll - it'll grab the next beep, in other words. It'll be -	0
+You'll get back another offset.	0
+Um - I mean, I was  thinking  of - then I - and then I realized "Well,	0
+the recognizer will just go along and line up all the beeps,	0
+and then there'll be all the extra beeps at the end  if there were more beeps then you	0
+wanted."	0
+Right, you - you  need  - But you  need  the  text	0
+So you need the word - you need the word to c- sort of control the relative location.	0
+to tell it where it got it  wrong.  Yeah.	0
+No, I'm not sug- I'm not suggesting that we don't have anything  between  the beeps.	0
+It will tell you -	0
+Oh.	0
+But I - what I'm saying is, what's  between  the beeps we don't really  care  about.	0
+I think you  do  care about it.	0
+Because you have to know which ones match which.	0
+Unless  you wanna know if they're -	0
+Right. Otherwise you just count up the total	0
+And we can do that with  wordcount.	0
+number of beeps.	0
+Right? We  already  know that - that we're three  short.  And so if we just did	0
+Yeah.	0
+spee- uh beep and non-beep all you would  get  is that you have three  mistakes,  but you wouldn't tell you which ones were  wrong.	0
+Right.	0
+You need some of the  words  in there, so that you can say "well,  this  segment matches  this  one,  this  segment matches  this  one, and  this  one doesn't match at  all,	0
+unless we insert a  beep ".	0
+I mean  the  only  thing I'm worried about with that approach is that if	1
+O_K.	0
+we need to	1
+figure out the beep	1
+alignment problem	1
+before the transcribers do the corrections here,  then we're in trouble. In other words, if the transcripts aren't sort of	1
+good enough that the aligner	1
+constraints are good enough to sort of	1
+show you where the errors are, then	1
+it wouldn't work. But it  might  work. It might work to do this if their transcripts are pretty close	1
+on the words that usually get recognized correctly, which are the,	1
+you know, function words, the  common  words.	1
+Well, actually, you know, there's an even easier way. We don't really need a beep model.	1
+Um, just extract the segments and do a forced alignment,	1
+Right, you can also -	0
+and if the score is  good,  then you say it matches -	0
+In fact that's what we do -	0
+Right. The individual segments  between  the beeps -	0
+Um, if beeps were like the segments that we get from	1
+um, the transcription tool  already,  that  that's  what we have  done,  and it works  very  well. You can see these	1
+segments align and these don't.	1
+Um, then you just have to go back in and figure out where the endpoints of those segments are, cuz some of them will be wrong.	1
+Because the bi- the beeps were missing, by  definition.	1
+Right.	0
+So do you get a score for each alignment? Is that what you get?	1
+So it might actually work.	0
+Um, you ca- you get, um -	0
+Definitely when they don't align at all, it - it - it  fails.	0
+I mean, that - that's how we found a lot of	0
+Mm-hmm.	0
+problems  before,  with, um, words being on the wrong place or something.	0
+So a  failed  alignment is a very good indicator that -	0
+Mm-hmm.	0
+that -	0
+the words don't match up.	0
+I'm just wondering when - wha- what it means to fail.	0
+Um -	0
+Is it the - the likelihood scores below some threshold -	0
+Yeah, is, uh - it - Right.	0
+It can't match up the -	0
+That's why you actually need the text. In order to force you to try to match something that gives you a model to match against.	0
+So - It's just an idea, if -	0
+if it turns out that -	0
+I mean, I  also  like this idea of high and low beeps, or -	0
+But it - if -	0
+Suppose we get  one  or  two  errors,  still,  per -	0
+you know, per transcript, then we z-	0
+we might wanna try some approach like that.	0
+Well, the  numbered  ones would make it a lot easier, cuz you could then really localize where the error is.	0
+Mm-hmm.	0
+Yeah.	0
+Where it is.	0
+Right.	0
+Yeah.	0
+If - so, if that doesn't add time for  them,  that'd be great. You know, like -	0
+Yep.	0
+I think it would  save  them time. I think it would help them keep the track -  track  of it.	0
+We have to ask them.	0
+Uh - uh, again, especially if there's hundred - many hundreds or thousands I still think it would - it would cut the incidence of this a lot if it was possible to break it into a couple files.	0
+Interesting, yeah.	0
+Yeah.  Cuz it, you know, it's r- r-	0
+I guess  also  even for the  transcribers,	0
+it's quicker to load a smaller file -	0
+into the - You know, t- for the checking problem.	0
+Yeah, I mean, we could certainly break the meetings -	0
+Into	0
+We could  certainly   break the meetings into pi- pieces.	0
+twenty minutes chunks or something, or -	0
+So, just -	0
+I mean, you've already broken them into  chunks,  so if you have - if you have a th- if you have a thousand chunks then	0
+Just -	0
+Just accumulate it till you get twenty minutes worth?	0
+make  ten things of a hundred, or - or you know.	0
+There's one file.	0
+That's  true, yeah.	0
+Yep.	0
+And then it will be, you know, this - Eve- every now and then there'll be a - a beep missing.	0
+So, someone's gonna talk to Brian.	0
+Yeah, I'll -	0
+I think that was  Chuck.	0
+I'll talk to him.	0
+O_K.	0
+Yep.	0
+I also looked thr- over the text and I was impressed by the accuracy, it looks really good.	1
+Yeah, it  does  look good. I mean, I found several errors, but they were not	1
+significant.	1
+They were all things that I could easily listen to and	1
+sometimes convince myself they said one thing and sometimes the other, so.	1
+Yeah, it's there. Mm-hmm.	0
+I haven't looked at these, um -	0
+cuz I was gone last week, but -	1
+but Don had told me that there's a difference in some of the conventions?	1
+Oh. Yes. But this is not important. It's systematic, yeah.	0
+So - but those are all  easy  things, right?	0
+Yeah.	0
+O_K.	0
+And - and Brian actually forwarded me in advance. He - he wor- he very nicely worked out	1
+a set of  conventions   which is intermediate between ours and the ones that they're  used  to. Which is - which is really a good - a good way to do it.	1
+O_K.	0
+So we can just map -	0
+map them to -	0
+No problem.	0
+Great.	0
+Hmm.	0
+O_K.	0
+Um -	0
+We still haven't really sat down and talked about file reorganization,  and directory reorganization. So we still have to do that.	1
+But I don't think we need to do that in this meeting.	1
+But, uh -	1
+It  is  something that needs to get done, and I wanna  also  coordinate it with Dave so that we do a level zero backup right after.	1
+So we don't waste a lot of tapes.	1
+But, uh -	0
+So - let's - let's try to  do  that sometime, O_K?  ch- O_K?	0
+Yeah. We can do it this week.	0
+Yeah.	0
+Um -	0
+We also still  have to make a decision about  mike  issues, what we wanna  do  with that.	1
+I thought we were going to get two more of the	0
+ones -	0
+And just swap  them   in and out?	0
+Yeah, we could certainly do that.	0
+So why not?	0
+So -	1
+uh, Morgan, just to -	1
+uh, since you weren't at the meeting  last  week, uh, apparently a bunch of the E_D_U fe- folks really hate this style mike.	1
+Um, I wouldn't - well, it -	0
+they didn't say "hate" but they -	1
+they c- they come on time to their meetings in order to not be  left  the last person who has to sit by those	1
+Can I - I c- I -	0
+I mean, that's - that's -  that's  a fairly strong indication of dislike.	0
+mikes.	1
+I  actually really like  them   though.	0
+Um -	0
+Which one is these? The uh -	0
+There were a few people - you, and like, three or four people who  really  like them.	0
+The Crown.	0
+Uh-huh.	0
+Yeah,  I  do.	0
+And e- and th- all the others	0
+really don't.	0
+So what I was  thinking  is, we could  get  a few more of the  Sony  ones and just unplug  them   and plug  them   in. And the only thing is that	1
+when you fill out the  digit  forms, you have to be sure to indicate which mike was actually used.	1
+So, I mean, that's easy to do. Um -	0
+it - it -	0
+moves us  away  from this uniform, all the mikes are the  same,  which some people had said was a benefit.	0
+But -	0
+The  other  thing,  too,  is th- y-  you  said that the acoustic pra- q- quality of the one that you're  wearing,  the  fancy  one, is actually somewhat  better  than	1
+It  is.	0
+Yeah.	0
+So I- I don't know if it's a noticeable  difference,  but it is -	1
+I mean, I p- I personally really  prefer  that model, so I think you know we've got this problem of people having different -	1
+different preferences.	1
+You know, there are  so  many things about this that are non-uniform that I think having -	0
+having  some  modicum of uniformity is a good thing, but you're just not going to - I mean we've -	0
+O_K.	0
+uh -	0
+For instance, jus- just the fact that people sit in different positions, different times, the - exactly where they put it with respect to their mouth is different each time.	0
+Yep.	0
+Uh -	0
+I - I just don't - I mean, I think we - we're - we're getting rid of  major  differences like we're not using the lapel anymore, an- and so forth. But	1
+Mm-hmm.	0
+the other stuff is just gonna - some variability we're gonna have to accept.	0
+It's - I - I understand, that's fine with me. I - I g-  would  say that um, I find this model easier to  adjust,  that's one of the reasons I don't like  these,  cuz I keep m-	0
+Uh-huh.	0
+you know, bending it, and then it's n- and I never really know -	0
+Yeah, see I - I happen to like the old one better.	0
+You do? O_K.	0
+But -	0
+Yeah.	0
+What about just a different  headband  thing?	0
+And some people do, but -	0
+Or even if we could attach two headband - Like, I don't  mind  those, but it -	0
+I mean -	0
+th-	0
+We abs- th-	0
+We have lots o- of choices of microphones. So -	0
+they bounce around.	0
+I mean, can we keep the  microphones,  and just	0
+Mm-hmm.	0
+somehow attach a more comfortable	0
+thing over your head?	0
+Mmm.	0
+Yeah.	0
+That's  my  problem  with this one. The -	0
+the  ear  thing comes out to  here.  It doesn't even  fit  over my  ear.	0
+Right.	0
+Hmm.	0
+And for some of the others, it's - their ears were shaped in a way that	0
+didn't hold the -	0
+Right.	0
+@@  Huh.	0
+I mean, so we can go microphone shopping, and get - get more microphones. It's just - w-	0
+Then they have to be rewired though, don't they?	0
+I'm just not sure what we should do.	0
+Yeah.	0
+You know. I mean, here's another argument against worrying too much about uniformity. We have something like forty-five hours of data collected.	1
+Specially.	0
+And, uh, we're also gonna be integrating in this corpus stuff that's - that's being done at U_W,	1
+Yep.	0
+uh, with entirely different microphones. So I - I think,	1
+you know,	0
+getting away from the lapel,	0
+having close-mounted mikes, having people adjust them as they're most - as - as - as comfortable as they can -	0
+Well, I -	0
+I think that's sort of the big deal.	0
+I  agree with that, and so  my  feeling is,	1
+we should get mikes that people like.	1
+Yeah.	0
+Yeah.	0
+And so I-  my  feeling is, going out and buying a few more  mikes  is  fine.	1
+Yeah.	0
+Yeah, that's right.	0
+So should I just go  do  that?	0
+Yeah.	0
+O_K.	0
+What about these -	0
+And then also, should we go ahead and get another  wireless  system?	0
+You know, for whatever it's gonna be, uh -	0
+Mm-hmm.	0
+Uh, another wireless system.	0
+You mean, another  transmitter?  Or - or -	0
+Uh, no, actually, get - we need another box. Because each - each box in the back room can only take six.	0
+Oh, to get r- to get rid of the wired things. Yes, absolutely.	1
+So we could-	0
+Yep.	0
+O_K.	0
+Yeah.	0
+Uh, because - cuz we've had - With the exception of forgetting to change the batteries from time to time, uh, we've really had no tr-  no  trouble with this at all, right? And -	0
+So I'll just go d- I'll do that.	0
+Yep.	0
+and the wired stuff is just gonna continue to degrade as, you know, and	0
+nobody will remember how to -	0
+Another one just bit the dust.	0
+yeah, nobody will remember how to repair a Jimbox or a Jimlet or a - you know, it's -	0
+Really?	0
+I  think  there's a problem with this one.	0
+Yep.	0
+O_K. Then I will just go do that, and send the bill to -	0
+Yeah.	0
+uh,  what's-her-name.	0
+Whoever will pay, yeah.	0
+Whoever will pay.  You.	0
+Yeah, yeah.	0
+I have a quick question about microphones, um -	1
+I got -	0
+this crazy idea that, um, i-	0
+in the future, people	0
+will just walk around with	0
+the microphones that they use for their cell phones?	1
+You know, these little boom ones,	1
+like, and really go to meetings with close talking mikes. If they're their own personal microphone.	1
+And so I'm wondering if	1
+we can get a couple of tho- I don't know how good  quality  they are, but it would be really interesting to see if they're good  enough.	1
+Do you mean the kind that hang from the ear, sort of thing, or the -	0
+The k- kind that guys that like to look like they're really cool at  airports  wear.	0
+Yeah.	0
+Yeah.	0
+Yeah, but I don't know  that  one. So what's that mean?	0
+This - it's - it's a cell phone jack.	0
+Oh, yeah, you do.	0
+You  can't   miss  it.	0
+You cannot miss it. They're the guys going around - they're probably talking to nobody, but	0
+Is this - just this little -	0
+Oh they - they have little headsets? Or what do they -	0
+Yep.	0
+Th- d-	0
+Yes. They wear the heads-	0
+Yep.	0
+E- Well,  there  you go. Yes. That's - that - it looks sort of like  that.	0
+Oh you've - you've  got  one.	0
+Except that one's even bigger than most of the ones I've seen. Most of the ones are just a little boom.	0
+So where - where does - how do you  wear  that? What does that -	0
+You - you put it over the corner of your ear.	0
+Yeah, over the corner of the ear -	0
+I can't - I'm having competing microphone -  headphone  problems here.	0
+There's  another  kind which s- goes  in  your ear and it hangs down. There's a little b-   bulb	0
+Huh.	0
+Yep. It just ha- just hangs down there. Yeah.	0
+Yeah,  that  I've seen. Yeah.	0
+that hangs - has the mike on it.	0
+O_K, so whatever people sort of	0
+This one.	0
+wear to use l- Yeah, something like tha- with their cell phones,	0
+Mm-hmm.	0
+Yeah.	0
+it'd be really great, I think, if we can argue t- that -	0
+It's an interesting idea.	0
+people  like  that.	0
+The  acoustics  -	1
+the acoustics on this are really s- m-  better  than when I talk into it directly.	1
+Yeah. The - the biggest issue is the stupid cable	1
+But - what -	0
+Are they?	0
+Why would it be cool?	0
+that Sony -	0
+The connector that Sony has, that, uh -	1
+Oh, O_K.	0
+So it's - they're not compatible?	0
+It's non-standard,	1
+and so you can't just plug something in. You need to get it wired.	1
+Oh, I'm sorry. You're talking about that as a possible thing to plug into the Sonys. No?	0
+Well,	0
+um, just as an example for,	0
+Right.	0
+How standard are these?	0
+Works with  this.  I don't know.	0
+you know, the future, of the fact that maybe people  will  wear those microphones, or  some  people might,	0
+to meetings, you know.	0
+Well, some people will, yeah.	0
+Not a - I'm not saying there's not a far-field microphone,	0
+uh, application, but -	0
+If we have a choi- I've always wondered how well they would work.	0
+It  is  an interesting idea. If we could build an  adaptor  that went from - cuz I think  mine  looks like this  too.  If we had  this  style plug that went to  that,	1
+Right.	0
+then we'd just have adaptors and people would plug  them    in.	1
+You could use - they could use their own.	0
+Oh, right. So they could use the -	0
+I wonder if you  could  do an adaptor. I don't know if you can or not.	0
+Anyway, it's just an idea. Um -	0
+Yeah.	0
+An adaptor might be a better idea than do- redoing the wiring all the time.	0
+Mmm.	0
+Well, I mean, another s-	0
+An- another side to that is that, um, in  principle,  uh, if it	0
+all comes together, supposedly we're gonna get two	0
+um, I_RAM boards.	0
+Right.	0
+Uh, little later on in the year.	1
+And so, we're gonna wanna be thinking in terms of some	1
+wireless connection	1
+Mm-hmm.	0
+to it.	1
+Um,	0
+so we have, you know, some kind of little something,	0
+and, uh, we have a wireless connection, this board, that's doing the computation for the f- the, uh -	0
+the recognition.	0
+And so, you know, we wanna be able to show off to somebody,	0
+you know, we have a base station somewhere, and	0
+you're wandering around, uh,	0
+hands free, and -	0
+Yep.	0
+I don't understand. So - so there's a mike that plugs in -	0
+You're saying there's a mike that plugs in to the  I_RAM  board? or -	0
+No, no, what I'm saying is that we're gonna have to put together  some  kind of a	0
+little superstructure, d-  some  sort of demo box that it - that doesn't	0
+Demo.	0
+do a whole lot, but it somehow connects  to  -	0
+uh, remotely  to  this I_RAM board which will be doing the real computation.	0
+Oh, I see.	0
+In other words, we're - we're not gonna attempt to build, uh, it -	0
+do the real work of building a portable device that's little, that	0
+is doing all the computation we wanna do for the recognition and the far-field mike, uh,	0
+compensation and all that stuff. So we're gonna do all that on this powerful board,	0
+and, uh, have some wireless connection to it. And then the question is what is -	0
+what does it look like, does it look like	0
+something that you - you	0
+hold like  this,  or do we make a big deal out of it that you hold it arm - at arm's length th- so that you can see some  display,	0
+or, uh,	0
+do we  have  one of these - You know. I don't know.	0
+So, it th- these are all possibilities.	0
+Yep.	0
+I mean, what  I  was envisioning was a P_D_A with a cellular link in it.	0
+You know, with one of the r-	0
+short-range wireless.	0
+And let th-	0
+Just do - capture the audio on the P_D_A and send the audio over the	0
+wireless net.	0
+Yeah. So, is- is  Bluetooth  the sort of thing that'd be, uh -	0
+But.	0
+Uh, Bluetooth is shorter range, but you could use Bluetooth.	0
+Wh- whatever the network guys already have hooked up for this floor. I don't remember what it's called.	0
+Hmm.	0
+O_K,   then uh,	1
+another issue on file reorganization is, uh,	1
+making data available to people outside ICSI.	1
+So, specifically, the U_ W  folks have been	0
+wanting to get  access  to it. So I think the right thing to do for that, is figure out how to do C_V_S without	0
+uh, compromising security. Some pass- S_S_H tunneled	0
+C_V_S,	0
+Well, I- I was -	0
+and then give them access.	0
+I was reading through some of the C_V_S documentation and you  can  just  substitute  C_V_S for your R_S_ H  command.	0
+Yes, except that the command has to  not  take a  password.	0
+Hmm.	0
+Because it- it's non-interactive. And so the only way to  do  that is with, uh -	0
+S_hosts , which is insecure.	0
+Hmm.	0
+So we  still  have to sort of  look  at it a little bit. I mean, I'm  sure  it's been  solved,  and I just haven't found the solution yet.	0
+But I am sure that people have done it because it's gonna be a problem a lot of people have.	0
+But, um -	0
+Who - Well, we're s- talking about a fairly limited group, are - are - is it a small enough group that they would - could just have accounts? Does that solve anything?	0
+Uh, n- n-	0
+not  really,  because then we have the coordination issue.	0
+I mean, so  one  thing they could do - I mean, I guess that's true.  They could simply log in to ICSI	0
+Yeah.	0
+Well they're gonna have to have accounts -	0
+and do everything locally.	0
+If they use S_S_H they have to have an account anyways.	0
+Yeah, except they could share one.	0
+Well, but that's not -	0
+The, uh -	0
+the S_S_H accounts, and the	0
+user accounts don't have to be similar.	0
+So.	0
+I mean, there are lots of ways of doing it, but w- but	0
+if we can't figure out a remote way of doing it, just letting them log in to ICSI	0
+might be O_K.	0
+Mm-hmm.	0
+So the intention was to put everything except the audio files themselves under revision control.	1
+And the audio files, it's not worth doing cuz they're too big. You're never gonna be copying them around	1
+and making working copies of them.	1
+Right.	0
+And then the other issue Jane and I spoke of   briefly  is just general permission issues.	1
+That right now, lots of people create the files and then we have group "Meeting Recorder".	1
+But that means anyone in the Meeting Recorder  group  can overwrite the files.	1
+And so that's a pretty coarse level of  granularity. So we  might  wanna think about doing a Meeting Recorder user -  owner	1
+for those files, and then doing group slightly differently. But -	1
+Can you just do, like, S_U_X or something to modify -	0
+I think what we have now -	0
+I mean, if you just have one user that -	0
+Another option is to m-	0
+make a non-	0
+make it owned by a not real user, and then  root  will be able to do it.	0
+But  root  is pretty tightly controlled here.	0
+I had another thought.	0
+Mm-hmm.	0
+So th- I don't think that's a good solution.	0
+Would - w- would it be possi- There are scripts that uh, run,	0
+and - and when it's finished compressing, would it be possible for the script to change the permissions on the file to be more strict?	0
+Have  them   -	0
+Yes,  but if you do that, then someone who isn't the owner can't	0
+unchange  it.	0
+But after the meeting's done, would they want to?	0
+Yeah, as I said, it's just a question of,	0
+uh, do you wanna have to track down root	0
+if you have to make any change.	0
+But it doesn't have to be root. It could be some other user that we all can S_U_X  to.	0
+That's true.	0
+You have security issues with that.	0
+So.	0
+Yeah, that's true.	0
+I mean -	0
+That's what we do with doctor-speech though, right?	0
+No, with doctor-speech, it's just a group.	0
+So - there're lots of different owners of i- i- of the files, but the group is always doctor-speech.	0
+Or real, usually.	0
+But there is a  user  doctor-speech.	0
+Right?	0
+I mean, I - I S_U_X to doctor-speech w- when I need to make a -	0
+Nnn-	0
+Oh,  do  you?	0
+Oh. So tha-	0
+that's what I meant, it - just some	0
+a directory on, uh, one of the -	0
+user like "meeting-root" or something.	0
+Oh, O_K.	0
+I don't know.	0
+I mean, I'm not  too  worried, because the group's pretty small.	0
+But -	0
+Yeah.	0
+Also it seems like once it's been stored that night, it's - it's possible to recover from backups,	0
+so that the main risk is avoiding it being accidentally deleted during the day that it was recorded.	0
+Well, and just - You, then, also just have the general problem of permission on the other files,	0
+that, do you want people checking out a transcript file	0
+when they find an error,	0
+and  correcting  it, or do they wa- do you want it to go through  you?	0
+Yeah.	0
+Yeah.	0
+And I'd prefer it to go through me.	1
+O_K,   but that means that you're gonna have to be  available  for people,  all  the time, who say "there's an error here",	1
+rather than just - them just going in and correcting it.	1
+Well I p- At  this  point -  Yeah.	0
+Well, with C_V_S, though, you don't actually have to  do  it that way.	0
+Yeah.	0
+Well, but -	0
+You have a  choice.  Either you  let  people do it themselves, or you don't.	0
+Yeah.	0
+What I'm saying is that it can  be  the case that people can do it themselves  and  it can be reviewed.	1
+w- w-	0
+Well-	0
+Right?	0
+Right.	0
+I mean, it's not like it's one or the other. We can do both.	0
+Yeah, you can -	0
+Right, so you could get email.	1
+Send email to Jane that someone has done a	1
+Right.	0
+I - I wanna  also  say that, you know, this is a -	0
+revision.	1
+uh, uh, My - my  view  on this is that once it's in a final  version  and I'm working  toward  all these being final  versions,	1
+then	0
+it can go into this next ro- this next realm. But it - it's sort of counter-productive to have	1
+changes  made which I would be  making  if I'd just gotten that far in the  file.  You know, it's - it's, um.	1
+Well, so, you don't have to  release  it	0
+to the  world  until you're  ready  to.	0
+Yeah.	0
+That's  right.	0
+So the question is s- w-	0
+And then after  that,  then this would probably work.	0
+Yeah.	0
+So you would keep it in a separate file structure until you were ready to put it in the repository.	1
+Good, good.	0
+I mean -	0
+Or just keep the lock on it.	0
+Is C_V_S, like - Yeah, just keep the  lock  on.	0
+I mean, just check it out - check it out and don't let anyone check it out -	0
+Until you're - Yep.	0
+No, it does not - the  C_V_S   doesn't work that way.	0
+Oh, it -	0
+Oh, it doesn't. Oh, O_K.	0
+There's no - there's no lock when you check something out, not like R_C_S.	0
+In other words,  everybody  can check out  anything.	0
+Oh.	0
+The C_ stands for "concurrent".	0
+So why not use R_C_S at that point? Just at that stage?	0
+Cuz it's not remote.	0
+It's not remote.	0
+The nice thing about C_V_S is - is, you can be on a different machine.	0
+But at that point -	0
+we only  want,  probably, Jane to be in control  anyway,  and she - I mean, it's just an i-	0
+No, because U_W	1
+wants to have access to these  files.  That's the whole  point.	1
+But not to  modify  them, right? Just to  read  them.	1
+Well, if they k- en- if they record a meeting, and they create a "key" file, and they find an error in their "key" file,	1
+they shouldn't have to tell  us  about that	1
+so that they can create -	1
+correct an error in one of  their   files.	1
+Well, the " key " file is -	0
+So that's why I wanna do it -	0
+I don't  know,  uh - I mean -	0
+ke- " key " file's different.	0
+"Key" fi-	0
+Different than  what?	0
+Well, "key" file has the extra attributes that if you notice that there are lots of spikes on channel so-and-so, it's useful as a repository for putting that there.	1
+And also if you notice that  there was an extra speaker, and didn't get mentioned in the "key" file, but they were only there for a second, but it's t- useful to mention that they were there.	1
+So I th- I think that the "key" file is usefu- for notations related to the meeting,	1
+Well -	0
+B-	0
+But, I mean, the meetings are gonna be the same  way.  So U_W records a meeting, we transcribe it.	1
+but it's  different  from the  transcript.	0
+Yeah.	0
+A few months later they listen to it and they say "Ope!  They got that acronym wrong."	0
+Yeah.	0
+Why - why sh-	0
+Then they should send that through - Well -	0
+It's sort of not really a question about  permissions,  but more of  procedure.   Either  those  all  go through  Jane,  or through  someone,	0
+Mm-hmm.	0
+or they  all   don't.  But it's sort of -	0
+And if they all  do,  then there isn't a  problem,  right? Cuz once they give us the data, it's	1
+ours,  and if they wanna make changes - I mean, ours to sort of	1
+transcribe and annotate.	1
+And if they wanna make  changes,  they can   do  that.	1
+The - the p- the  point  here is that it would be  nice  t- for there to be  one  repository.	1
+Yeah.	0
+Yeah	0
+And if  we  don't  let  them modify their own  data,	1
+they're not gonna  store  their data in our  repository.	1
+Or if we make it  inconvenient  for them to change their data.	1
+So then if they do have acc-	0
+I - I'm just looking at it the other way  around.	0
+O_K, so what if they have -	0
+What if they have  accounts  here,	0
+So - so let's say we k-	0
+and they use R_C_S,	0
+at that point, where you can l- really lock a file.	0
+I mean, I'm worried. If you can't lock a  file,  this - this to me sounds very  scary.	0
+Hmm.	0
+Um -	0
+And if they have accounts here and they're  modifying  it - If they're ac-	0
+if they're so closely linked that they're actually	0
+modifying  transcripts and "key" files,	0
+then they  could  do it	0
+by, you know, secure-shelling into ICSI,	0
+under R_C_S, at that point.	0
+Ye- well, I don't see a real difference between R_C_S and any  other  system.	0
+I mean, it's just mechanisms. The nice thing about C_V_S is that	0
+you can have multiple people modifying and if the changes don't  overlap  each other,	0
+they can just  do  it.	0
+Hmm.	0
+That's interesting.	0
+So the problem with  R_C_S  is that if two people	0
+Yeah.	0
+want to modify a file at the same  time  they  can't,	0
+because the granularity of locking is at the file level.	0
+What- what does C_V_S do if they - if they  do  overlap?	0
+Uh, there're lots of different policies for dealing with it. So -	0
+Mm-hmm.	0
+But typically a person has to,	0
+Yeah.	0
+uh, mediate	0
+Oh.	0
+you know, which changes actually get - go through.	0
+Yeah, to decide which one is - Yeah.	0
+Oh.	0
+Oh, I-	0
+So, maybe there  is  a way in C_V_S to  effectively	0
+lock  something if you  don't  want people to make any changes?	0
+At the  repository  level, there  certainly  is. You can mark a file as - as "you can't check this out".	0
+Uh-huh.	0
+Oh. So -	0
+C_V_S is pretty good.	0
+So then you could use C_V_S	0
+and, you know, just f- have remote access, but then it's up to whoever	0
+O_K.	0
+Yep.	0
+is, sort of,  responsible  for that level of  transcription  to decide	0
+how  and  when  to put these locks, or -	0
+Well, it's - it's just like source code, right?	0
+So that, when you're developing it and it's really  rough,  you don't put it in the  repository.	0
+Yeah.	0
+You wait to the point when you're ready to  release  it, and then you put it in the  repository  and if other people wanna -	0
+Yeah, so the w-	0
+Mm-hmm.	0
+In-	0
+The - Maybe the model - It's a little bit different in C_V_S. When you check something out, you actually create your own directory with copies of everything in it, and that's what you  work  on.	0
+Copy.	0
+So, until you're ready to check it in,	0
+nobody sees anything you've done. And then when you check it in, it puts, sort of, you know - every change that you've done is - goes into the central -	0
+Right.	0
+So if that's at an-	0
+Hmm.	0
+I guess it depends on Jane's - Uh, you know, if that's - if that model  works  for the  transcripts,  then	1
+that's  fine.  But if that pr-	1
+@@	0
+um, allows	1
+someone to come in and modify while  you're  modifying, and they turn out to be changes that,	1
+you know, would have been better to  wait  until your  version  came out, then	1
+that's really up to  you,  not up to the  software,  so.	1
+Well,	0
+I also think, um, that the type of change ch- ch- varies an- I think it's a very good point. Because what if	1
+the - uh, what if  one  set of changes  one  person was making was	1
+with reference to some  typographical  convention.	1
+Mm-hmm.	0
+And the  other  person n- unkn- n-	1
+quite unknowingly, was changing it the other way  around.	1
+Then you could end up with a  real   mess,  in terms of, like, consistency of conventions across a file, there  is  an argument to be made for having a single editor editing at that level.	1
+Well yeah, there would - there would have to be somebody to enforce the consistency. Yeah.	0
+But I like b- I like what Liz is saying about -	0
+That's right. And I also like - I l- also like Liz's uh, k- um,	0
+phraseology of "at this level of" - I don't remember how you put it,  but this - "at this level of transcription" or whatever. I mean it's like there are different layers of whatever and different  types  of conventions,	0
+and if it were an  acronym,  then I would - I think that it would make sense f- for them to	0
+have  input   into   that  level of things, but I wouldn't want them to be changing -	0
+I'm just -	0
+Imagine that we reverse this and  they  were keeping the repository and  we  were d- collecting meetings and  sending  them to them.	1
+Yeah.	0
+Mm-hmm.	0
+If I found an error,	1
+and I sent them email and said "here's this error", and I didn't get a  response  for a couple weeks,	1
+I would stop sending them the - my data and I would start collecting it here and we would end up with two corpora.	1
+Well, yeah.	0
+And I  don't  want that to  happen.  So we have to make it  convenient  for them to make changes that they wanna  make.	1
+I agree.	0
+Well -	0
+Well, I see now, we're k- back into the same situation as when we were,	0
+uh, talking about a- allowing people to edit	0
+the transcripts before they  become public.	0
+So there's a question of how easy or how hard to modify, and how that	1
+Mm-hmm.	0
+impacts the amount of changing that's done.	1
+And I - I think that it's, um,	0
+I - I have received some suggestions for change, which I've  made.	0
+And um, I think with an  acronym,  that's a clear case where it would be an  easy  change to incorporate.	1
+But it  would   worry  me to have people, um,	1
+having free reign to change these things, because of the need to have consistent conventions. And  people who	1
+are only just  visiting  the data might not have a sense of the larger system.	1
+Yeah, that's what  I  would be worried about  too.	0
+Well, I think - yeah, I think there are probably ways that you can say that, you know, only certain users are allowed to change	1
+Yeah.	0
+things.	1
+Mm-hmm.	0
+Uh, so we can probably restrict it to be -	0
+You know, f-  casual  users who are just  browsing  can just r- get it read-only, can't check in to the archive.	0
+Mm-hmm.	0
+Whereas we could say "other people", you know, "these people are allowed to actually submit changes".	1
+Right.	0
+I mean,	1
+I - I think  one  thing that's probably everybody would  agree  on is that	1
+there will never be a point where	1
+you know, we can say that for  sure  there's no problems with any of the transcripts. I mean there's,	1
+uh - f- You know,  something's  going to get overlooked at some point, or somebody's gonna wanna make a change  somehow.  So we need to	0
+have  some  mechanism for,	0
+um, handling changes in the  future.	0
+I agr- I agree but I have to also add  one   other  thing which i- before I forget it,  which is	0
+Adam's  point about when you were reviewing the I_B_M transcripts.	0
+u- This was mentioned at the beginning of the meeting.	0
+You said that there were  some  places where  it  wasn't  what y- was written  already,  but you could  see  how they might have thought that's what it  said.	0
+So there - it's  not  just a right and  wrong  thing.  Sometimes  there tru- there are  absolutely  stretches where there  is  no - no - k- if you were at the meeting and you could  ask  the person,	0
+Yeah. Exactly.	0
+Mm-hmm.	0
+maybe,  m- you know, they could - they could've  told  you, but five minutes  later  they might not have been able to tell you,	0
+Right.	0
+even if they were  listening  to it.	0
+So, sometimes it isn't right and wrong, sometimes it's multiple interpretations, and -	0
+Yeah.	0
+Good point. Yeah.	0
+Now - But of course, this  does  raise the  possibility  of  allowing,	0
+um, an extra annotation for, you know, alternative interpretations of a stretch.	0
+Mm-hmm.	0
+But I just wanted to say it isn't simply right or wrong.	0
+Yeah, that's a good point.	0
+Or overlooked or not overlooked.	0
+Sometimes they're truly ambiguous, and	0
+Mm-hmm.	0
+um, uh, um, nice to have a  notation  for that, but. Yeah.	0
+Gotta go.	0
+Yeah.	0
+I mean, I like that idea because even a casual user can always send  email	0
+Mm-hmm.	0
+to whoever's in charge, and say,	0
+you know, "we'd like these changes" and,	0
+Well -	0
+you know, hopefully we'll give them a response. And if they really do it a  lot,  and they say	0
+I just - I don't s-	0
+I don't see that this is e-	0
+Yep.	0
+"we're a casual user but we want a chance to change the  transcripts " then we can	0
+face that if it  happens,  but	0
+Can you write "unread" on that?	0
+Yeah, thank you.	0
+I don't really see the people at U_W that I  know  of right  now  making huge amoun- investing huge amounts of time in changing transcripts. But I could be wrong.	0
+Probably not  transcripts,  but it would be nice to have  one  mechanism for  all  the files.	0
+And they're  certainly  gonna wanna change  tools.	0
+Yeah.	0
+And so - you know, it's the same as source code. You - you release source code at some point.	0
+And, either  you  have to do everything or you  share  responsibility.	0
+Yeah I mean a lot of the open source pro-	0
+projects face this same problem.	0
+Right.	0
+You know, p-  anybody  can check out the code,	0
+but  not  everybody can check it in.  Yeah.	0
+Right.  And  there's some happy medium and we don't know what that  is  yet	0
+until we get feedback from people, but	0
+what  if  it's O_K to just handle it	0
+with	0
+sort of a  person  in  charge  of the  philosophy  behind the changes,	0
+and some people with permissions,	0
+maybe by  request,  to make changes, That we don't just give people permissions if they're not gonna make changes. Because  I've  overwritten a -	0
+a file by  mistake,  not  wanting  to have done that cuz I didn't think I had permission, when I  did.	0
+Mm-hmm.	0
+Um, and then just	0
+Mm-hmm.	0
+seeing if that is enough to -	0
+to handle the transcript changes.	0
+I'm just worried about	0
+letting everybody go in and make  changes,  cuz it's real easy when you're	0
+trying to, I don't know, run alignments and there's a word you wanna fix, to go in and do that and then mess up  other  things,	0
+if you don't know,	0
+you know, the overall philosophy behind the - the conventions.	0
+Mm-hmm.	0
+Right.	0
+And als- it also-  Mm-hmm.	0
+Then - There is also the possibility - Remember, in C_V_S, when we talk about making changes,	0
+You can back everything out.	0
+there's sort of two types that can be made.  To your  local,	0
+or to the  global.	0
+Mm-hmm.	0
+And so people can make  changes  to their  local  and if they screw those up,	0
+Right.	0
+Exactly.	0
+that's, you know, in their - that's only on them. It's w- it's the checking  in  part that r- we really care about, and	1
+Mm-hmm.	0
+that  we can control with, you know, who can check things in and stuff. So we can - I think we can  do  this.	1
+Or just, yeah, start by make it a really tight control and then as people really need the control you can	0
+Mm-hmm.	0
+Mm-hmm.	0
+Yeah. They can still check it out -	1
+ascertain whether or not to -	0
+Yeah, cuz they can still check out full copies and make whatever changes they want to their local copies.	1
+Right.	0
+And it won't affect the - the g- the global, official, ones at all.	1
+Right.	0
+Right, but what I want to  avoid  is ending up with two corpora.	1
+Yeah.	0
+Yes.	0
+And so if you make it too hard for them to check back in, they'll check it out once,	0
+Definitely.	0
+Yep.	0
+they'll make all the changes, they'll never tell  us  about the changes,	0
+Mm-hmm.	0
+and we'll get two different corpora.	0
+Mm-hmm.	0
+Right?	0
+I think we're  already  gonna - I mean there's already	0
+some  chance that different annotations, different	0
+places, you know -	0
+But you can	0
+control  that by  knowing  you're making two corpora or  knowing  that you're adding	0
+um, annotations on one version and you don't have the latest corrections maybe at that  point.  And then you finish the project and you realize that there were	0
+corrections  made on your  originals  and then	0
+you have to  merge  them.	0
+And the b-	0
+the  thing  that makes it ea- O_K to  do  that, is	0
+knowing where the synch time boundaries are.	0
+Cuz you can automatically pretty much  merge  things if you've only got twenty words or so in an utterance. It's when you get the whole  meeting	0
+and the  synch  times ch-	0
+have changed, or you can't correspond to a previous version with synch times, that you get in trouble.	0
+So.	0
+Was there anything else on your list?	0
+Nope.	0
+Shall we do some digits?	0
+Now, wait, are - are we doing them simultaneously or one at a time?  Alright.	0
+I wasn't  planning  on doing it simultaneously.	0
+Lee , you liked that l- huh?	0
+Oop!  Ouch!	0
+Ooo!	0

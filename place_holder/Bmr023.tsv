@@ -56,18 +56,18 @@ I think -	0
 Yeah. She'll probably come up.	0
 Right.	0
 Since we're starting late I figured we'd better just start.	0
-Yeah. Great idea.  I was  gonna  ask Adam to,	0
-uh,	0
-say if he thought anymore about the  demo  stuff because	0
-it occurred to me that this is late May and	0
-the DARPA meeting is in  mid July.	0
+Yeah. Great idea.  I was  gonna  ask Adam to,	1
+uh,	1
+say if he thought anymore about the  demo  stuff because	1
+it occurred to me that this is late May and	1
+the DARPA meeting is in  mid July.	1
 Uh, but	0
 I don't remember w- what we -	0
 I  know  that we were gonna do something with	1
 the transcriber interface is  one  thing, but I thought there was a  second  thing.	1
 Anybody remember?	0
-Well,	0
-we were gonna do a mock-up, like,  question  answering or something, I thought,	0
+Well,	1
+we were gonna do a mock-up, like,  question  answering or something, I thought,	1
 that was totally separate from the interface.  Do you remember?	0
 Remember, like,	0
 Mm-hmm.	0
@@ -137,8 +137,8 @@ Um.	0
 Are you implying that it's currently  disorganized?	0
 In  my  mind.	0
 Is there stuff that's happened about, um,	1
-uh,	0
-[MASK]	0
+uh,	1
+the  S_R_I recognizer	1
 et cetera, tho- those things that were happening before with - ?	1
 Y- y- you guys were doing a bunch of experiments with different front-ends and then with -	1
 Well.	0
@@ -146,8 +146,8 @@ Is - is that still sort of where it was, uh, the other day?	0
 We're improving.	0
 We're  improving.	0
 Yeah.	0
-Now the - the - You saw the note that [MASK] now is	1
-getting basically the same as [MASK] Right?	1
+Now the - the - You saw the note that the P_L_P now is	1
+getting basically the same as the M_F_C_C. Right?	1
 Right.	0
 Right.	0
 Yeah. Actually it looks like it's getting  better.	0
@@ -163,10 +163,10 @@ it seems - It looks l- I haven't -	0
 The - It's -	0
 The experiment is still not complete, but,	0
 um,	1
-it looks like the	0
-[MASK] is working  beautifully,	0
+it looks like the	1
+vocal tract length normalization is working  beautifully,	1
 actually,	1
-w- using the warp factors that we computed for [MASK] and just applying them t	0
+w- using the warp factors that we computed for the S_R_I system and just applying them to the  ICSI front-end.	0
 Mm-hmm.	0
 That's pretty funny.  O_K.	0
 Yeah.	0
@@ -185,9 +185,9 @@ was, um, as far as  meeting  recognition is concerned,	0
 um,	0
 we would really like to, uh, move, uh, to, uh, doing the recognition on automatic segmentations.	0
 Because in all our previous	1
-experiments, we had the -	0
-uh, you know, we were essentially cheating by having the,	0
-um,	0
+experiments, we had the -	1
+uh, you know, we were essentially cheating by having the,	1
+um,	1
 you know, the h- the hand-segmentations as the basis of the recognition.	1
 Mm-hmm.	0
 And so now with Thilo's  segmenter  working so  well,  I think we should  consider	1
@@ -208,21 +208,21 @@ Yeah.	0
 Yeah.	0
 And even -	1
 get together and -	0
-The good thing is that	0
+The good thing is that	1
 since you, um, have high recall,  even if you have low precision cuz you're over-generating, that's  good  because we could train	1
 Yeah.	0
 Right.	0
 noise  models in the recognizer for these kinds of,	0
 Yeah.	0
 uh,  transients  and things that come from the  microphones,  but	1
-I know that if we run recognition unconstrained on a whole waveform,	0
-we do  very  poorly because we're -	0
+I know that if we run recognition unconstrained on a whole waveform,	1
+we do  very  poorly because we're -	1
 we're getting insertions in places what - that you may well be cutting out. So we  do  need  some  kind of pre-segmentation.	1
 Well -	0
 Yeah.	0
 Mm-hmm.	0
 We should - we should consider doing some  extra  things, like, um,	1
-you know, retraining or adapting the -	0
+you know, retraining or adapting the -	1
 Mmm.	0
 the models for background noise to the - to this environment, for instance.	1
 Yeah.	0
@@ -251,10 +251,10 @@ Right.	0
 generated before.	0
 And so -	0
 The, uh, Chuck chunks.	0
-Yeah.  The Chuck chunks. Right.	0
+Yeah.  The Chuck chunks. Right.	1
 Hmm.	0
 And so he talked it over with the transcriber and the transcriber thought that the	1
-easiest thing for them would be if there was a beep and then the nu- a number, a digit, and then a beep,	0
+easiest thing for them would be if there was a beep and then the nu- a number, a digit, and then a beep,	1
 Yeah.	0
 Yeah.	0
 uh, at the beginning of each one and that would help	1
@@ -328,12 +328,12 @@ Mm-hmm.	0
 So.	0
 Um.	0
 I - I don't know yet	0
-Yeah. Um -	0
+Yeah. Um -	1
 how long that'll take.	0
 I mean in  particular  I would - I would really hope that when we do this DARPA meeting in July that we sort of have -	1
 we're - we're into production mode, somehow - You know, that we - we actually	1
 Mm-hmm.	0
-have  a stream going and we know how - how well it does and how -	0
+have  a stream going and we know how - how well it does and how -	1
 Yeah.	0
 and how it operates. I think that would - that would certainly be a -	1
 a very good thing to know.	0
@@ -394,7 +394,7 @@ that, eh,	0
 eh, a- as we were talking, if we - if we hire  twelve,  then	0
 we  could,  you know, run into a problem later. I mean, we also just couldn't sustain that forever. But - but, um -	0
 for all sorts of reasons - but if we hire f-	1
-you know, f- we have  five  on staff - five or six on staff at any given time, then	0
+you know, f- we have  five  on staff - five or six on staff at any given time, then	1
 it's a small enough number so we can be flexible either way.	1
 Good.  O_K.	0
 Good.	0
@@ -407,7 +407,7 @@ Oh.	0
 Oh, the  new  ones with the  tighter  boundaries. Yeah.	0
 Yeah.	0
 And to use them for - for training a - or for - fo- whatever. Yeah.	0
-To - to create some [MASK] labels out of them,	0
+To - to create some speech-nonspeech labels out of them,	0
 and - Yeah, but	0
 that - that's a thing w- was - w-	0
 what I'm just looking into.	0
@@ -434,7 +434,7 @@ need to be adjusted are these - these - these things, and she was saying the sho
 Hmm.	0
 Mmm.	0
 Yeah.	0
-you know, I mean, you're - You're  aware  of this.	0
+you know, I mean, you're - You're  aware  of this.	1
 Yeah.	0
 But - but  actually  i- it's  so  correct for  so  much of the time, that it's an enormous time saver and it just gets tweaked a little around the boundaries.	1
 That's great.	0
@@ -466,12 +466,12 @@ it  wasn't  possible for about four of the recent ones.	0
 But, it  will  be possible in the future because we - we're, um.	0
 Yeah.	0
 @@	0
-Mmm, that's great.	0
+Mmm, that's great.	1
 It would.	0
 Yeah.	0
 Yeah. As long as we have a record, I guess, of	1
 Yeah.	0
-the original  automatic one, we can always find out	0
+the original  automatic one, we can always find out	1
 Yeah.	0
 how well  we would do fr- from the recognition side by using those boundaries.	1
 Um.	0
@@ -484,18 +484,18 @@ O_K.	0
 So, uh, u- you were saying something about	0
 organizing the meeting info?	0
 Yeah. So, um,	1
-uh, Jane and Adam and I had a meeting where we talked about the	0
+uh, Jane and Adam and I had a meeting where we talked about the	1
 reorganization of the  directory structure for all of the meeting -	1
 Did you record it?	0
 No.	0
 For all the Meeting Recorder data.  We  should  have.	1
 Um.	0
 And so we've got a plan for what we're gonna do  there.  And then, Jane also s- prepared a -	1
-um, started getting all of the - the meetings organized, so she prepared a -	0
+um, started getting all of the - the meetings organized, so she prepared a -	1
 a spreadsheet, which I spent the last couple of days adding to.	1
 So I went through all of the data that we have collected so far, and have been	1
-putting it into,	0
-uh, a spreadsheet	0
+putting it into,	1
+uh, a spreadsheet	1
 with start time, the date, the  old  meeting name, the new meeting name, the number of speakers, the duration of the meeting, comments, you know, what its transcription status is, all that kind of stuff.	1
 And so, the idea is that we can take this	1
 and then export it as H_T_M_L and put it on the Meeting Recorder web page so we can keep people updated about what's going on.	1
@@ -503,10 +503,10 @@ Oh, great.	0
 Um, I've gotta get some more information from Jane cuz I have some -	0
 some	0
 gaps here that I need to get her to fill in, but	1
-so far, um,	0
-as of Monday, the fourteenth,	0
-um, we've	0
-had a total number of meeting- sixty-two hours of meetings that we have	0
+so far, um,	1
+as of Monday, the fourteenth,	1
+um, we've	1
+had a total number of meeting- sixty-two hours of meetings that we have	1
 collected.	1
 And, um -	0
 Uh, some other interesting things, average number of speakers per meeting is six.	1
@@ -518,7 +518,7 @@ But, um,	0
 this'll be a nice thing that we can	0
 put up on the - the web site and people can	0
 be informed of the status of various	0
-different ones. And  it'll also list, uh, like under the status, if it's at I_B_M or if it's at [MASK]	1
+different ones. And  it'll also list, uh, like under the status, if it's at I_B_M or if it's at ICSI,	1
 uh, or if it's completed or which ones we're excluding and - and there's a place for comments, so we can,	1
 um, say why we're excluding things and so forth. So.	0
 Now would the ones that, um, are already transcribed - we h- we have enough there that c-	0
@@ -538,7 +538,7 @@ it would make sense to wait  until   th- that's  done,	0
 um, but - but -	0
 Well, le- let me put in another sort of a milestone kind of - as - as I did with the, uh, uh - the - the pipeline.	1
 Yeah.	0
-Um, we  are  gonna have this [MASK]  meeting in the middle of July, and I think it w- it'd be -	1
+Um, we  are  gonna have this DARPA  meeting in the middle of July, and I think it w- it'd be -	1
 Yes.	0
 given that we've been - we've given a couple public talks about it already, spaced by months and months, I think it'd be pretty bad if we continued to say none of this is available.	1
 Um.	0
@@ -554,8 +554,8 @@ O_K.	0
 So,	0
 And they don't have to approve,	1
 by - before July.	0
-you know, th- an edited version, they can just	0
-give their approval to whatever	0
+you know, th- an edited version, they can just	1
+give their approval to whatever	1
 Well, in  principle,   yes.  But, I mean, i- if - if - if somebody actually  did  get into some legal issue with it then we-	1
 Well, maybe -	0
 version	1
@@ -602,7 +602,7 @@ then it becomes -	0
 That it  was  the transcrip- He wanted to do a web interface that would make it -	0
 Well, if it's just the audio -	0
 Well.	0
-that would give you access to the transcript  and  the audio. That's what Adam wanted.	1
+that would give you access to the transcript  and  the audio. That's what Adam wanted.	0
 Mm-hmm.	0
 And I don't remember how we ended up.	0
 I mean, with the  web  interface it's interesting, because you could	0
@@ -617,7 +617,7 @@ Well,	0
 I don't know what happened to the small heads thing, but I j-	0
 Um, I'm just saying that, like, you know, you can sort of	0
 say that any things that are deemed -	0
-They disappeared from view.	1
+They disappeared from view.	0
 Anyway. I mean, I agree that at some point people	0
 probably won't care about  typos  but they would care about significant  meaning  changes and then	0
 they could be	0
@@ -669,18 +669,18 @@ well,  probably   below  threshold on enough data for us for the things we're lo
 prosodic features are  very noisy and so you - you need a lot of data in order to model them.	1
 Um, so we're  starting  to see  some  patterns and we're hoping that maybe with,	1
 I don't know, double or triple the data - with  twenty  meetings or so, that we would start to get better results. But we  did	1
-find that some of the	0
-features that, I gue-  Jane  would know about, that are expressing sort of the	0
-distance  of,	0
-um,	0
-boundaries  from  peaks  in the utterance and	0
-some  local,	0
+find that some of the	1
+features that, I gue-  Jane  would know about, that are expressing sort of the	1
+distance  of,	1
+um,	1
+boundaries  from  peaks  in the utterance and	1
+some  local,	1
 um,	0
 range - pitch range effects, like how close people are to their floor,  are  showing up in these classifiers,	1
-which are also being given some  [MASK] that are cheating, cuz they're  true  words.	1
-Um, so these are based on [MASK]	1
-[MASK]	0
-and whether or not something's a [MASK] and so forth.	0
+which are also being given some  word  features that are cheating, cuz they're  true  words.	1
+Um, so these are based on forced  alignment.	1
+Word features like, um, word frequency	0
+and whether or not something's a backchannel and so forth.	0
 So, we're  starting  to see, I think, some	0
 So the  dominant  features, including everything, were those - those quasi-cheating things. Right? Where these are -	0
 interesting patterns.	0
@@ -720,7 +720,7 @@ I mean that wouldn't be cheating because you can detect pause  pretty well withi
 Right.	0
 Right.	0
 And it depends on speaking rate -	0
-How about [MASK] by speak- Yeah.  Yeah.	0
+How about time position normalized by speak- Yeah.  Yeah.	0
 speaking rate. Yeah.	0
 Yeah.	0
 Yeah. That's actually why I didn't use it at first. But we -  one  of the interesting things was	0
@@ -728,10 +728,10 @@ Yeah.	0
 Mm-hmm.	0
 I guess  you  reported on some te- punctuation type - finding sentence boundaries, finding	1
 Yeah.	0
-[MASK] and then I had done some work on	1
+disfluency boundaries, and then I had done some work on	1
 finding from the  foreground  speech  whether  or not someone was likely to  interrupt,  so where -	1
 you know, if I'm talking  now  and someone - and - and Andreas is about to interrupt me, is he gonna choose a certain  place  in my speech, either prosodically or  word-based.	1
-And  there  [MASK]	1
+And  there  the prosodic features	1
 actually  showed  up	1
 and	0
 a  neat  thing - even though the word features were  available.	1
@@ -751,11 +751,11 @@ because we're only looking at things that happen every	0
 ten  words  or every  twenty  words, we need more -	0
 more data and more data per speaker.	0
 So.	0
-It'd also be interesting to look at [MASK] because we  did  include meeting  type	0
+It'd also be interesting to look at the E_D_U meetings because we  did  include meeting  type	0
 as a feature, so	0
 whether you were in a r-	0
-Meeting Recorder meeting or [MASK]  did  matter	0
-to   interrupts  because there are just fewer  interrupts  in [MASK]	0
+Meeting Recorder meeting or a  Robustness  meeting  did  matter	0
+to   interrupts  because there are just fewer  interrupts  in the Robustness meetings.	0
 Mm-hmm.	0
 And so the classifier learns more about Morgan than it does about sort of the average person, which is	0
 Mm-hmm.	0
@@ -772,32 +772,32 @@ Mari can probably use in her  preliminary  report - like, "yeah, we're	0
 at the point where we're training these classifiers and we're just	0
 reporting very preliminary but suggestive results that	0
 some features, both word and pro- prosodic,  work. "	0
-The other thing that was interesting to me is that the  pitch  features are  better  than in [MASK]	1
+The other thing that was interesting to me is that the  pitch  features are  better  than in Switchboard.	1
 And I think that really is from the close-talking mikes, cuz the	1
-pitch	0
-processing that was  done  has much cleaner	0
-behavior  than - than [MASK]   telephone   bandwidth.	1
+pitch	1
+processing that was  done  has much cleaner	1
+behavior  than - than the  Switchboard   telephone   bandwidth.	1
 Hmm.	0
 W- wh- wh- wh-	0
 Better in what  sense?	0
 Um.	1
-Well,  first  of all, the pitch tracks are m- have less,	0
+Well,  first  of all, the pitch tracks are m- have less,	1
 um,	0
-halvings and doublings than - than [MASK] and there's a  lot  less dropout,  so if you	1
-ask how many	0
-regions where you would normally expect  some  vowels to be  occurring	0
+halvings and doublings than - than Switchboard and there's a  lot  less dropout,  so if you	1
+ask how many	1
+regions where you would normally expect  some  vowels to be  occurring	1
 Mm-hmm.	0
 are completely devoid of  pitch  information, in other words the pitch tracker just didn't get a high enough probability of voicing for	1
 words - for - for,	1
 Hmm.	0
-you know, five word-  there are much  fewer  than in [MASK] So the missing -	0
-We had a big missing data problem in  [MASK]	0
+you know, five word-  there are much  fewer  than in Switchboard. So the missing -	0
+We had a big missing data problem in  Switchboard	0
 and, so the features weren't as reliable cuz they were often just not available. So  that's  actually good.	0
-Could it have to do with the - the lower  frequency  cut-off on the  [MASK]	1
-Ma- maybe. I mean, the tele- we had  telephone  bandwidth for [MASK]	1
+Could it have to do with the - the lower  frequency  cut-off on the  Switchboard?	1
+Ma- maybe. I mean, the tele- we had  telephone  bandwidth for Switchboard	1
 and  we had the	1
-an- annoying sort of telephone handset	0
-movement	0
+an- annoying sort of telephone handset	1
+movement	1
 problem that I think may  also  affect it.	1
 Hmm.	0
 So we're just getting better signals	1
@@ -812,11 +812,11 @@ Y-	0
 Yeah. Sure.	0
 Yeah.	0
 Has - has, uh - ? We just - I think, just talked about this the other day, but h- has - has anybody had a chance to	1
-try	0
-changing, uh,	0
-insertion penalty sort of things with the - with the, uh -	0
-uh, using the	0
-tandem system	0
+try	1
+changing, uh,	1
+insertion penalty sort of things with the - with the, uh -	1
+uh, using the	1
+tandem system	1
 Oh, yeah. I tried that. It didn't,	0
 input for the - ?	1
 um,	0
@@ -844,31 +844,31 @@ That's not the problem. No.	0
 But, uh, we s- just, um,	0
 uh -	0
 you know, Chuck and I talked and the   @@   next thing to do is probably to tune the -	1
-um, the size of the  Gaussian  system,	0
+um, the size of the  Gaussian  system,	1
 um,  @@   to - to this - to this feature vector, which we haven't done at  all.  We just used the same	1
-configuration as we used for the -	0
+configuration as we used for the -	1
 Hmm.	0
 for the standard  system.  And,	1
-for instance, uh,	0
-Dan -  @@	0
-Dan just sent me a message saying that	0
-[MASK] used, um,	0
-something like  ten  [MASK] -	1
+for instance, uh,	1
+Dan -  @@	1
+Dan just sent me a message saying that	1
+C_M_U used, um,	1
+something like  ten  Gaussians per cluster -	1
 @@	0
-You know, each - each mixture has ten  [MASK]	1
+You know, each - each mixture has ten  Gaussians	1
 Mm-hmm. Hmm. We're using sixty- four,  right?	1
 and - and we're using sixty-four, so that's	1
 Yeah.	0
 obviously a big difference and it might be way off and	1
-give very poorly trained,	0
+give very poorly trained,	1
 Hmm.	0
-uh,	0
-you know,  [MASK]  that way,	1
-uh, an- and poorly trained [MASK] So - so,	0
+uh,	1
+you know,  Gaussians  that way,	1
+uh, an- and poorly trained mixture weights. So - so,	0
 we have -	0
 The turn-around time on the  training  when we train only the -	1
-a male system	0
-with, uh, you know, our small training set, is	0
+a male system	1
+with, uh, you know, our small training set, is	1
 less than twenty-four hours, so we can run lots of -	1
 uh, basically just brute force, try a whole bunch of different	0
 um, settings. And, uh, with the new machines it'll be even  better.  So.	0
@@ -876,53 +876,53 @@ O_K.	0
 Yeah. We get twelve of  those,  huh?	0
 Yeah.	0
 O_K.	0
-But [MASK] work - um,	1
+But the P_L_P features work - um,	1
 uh, you know, continue to improve the,	1
 um -	0
-As I said before, the -  uh  using Dan's, uh, uh, [MASK] option works very well.	1
+As I said before, the -  uh  using Dan's, uh, uh, vocal tract normalization option works very well.	1
 Mm-hmm.	0
 So, um,	1
-@@	0
-I ran one experiment where we're just	0
-did the [MASK]  only  in the  test  data,	1
+@@	1
+I ran one experiment where we're just	1
+did the vocal tract le- normalization  only  in the  test  data,	1
 so I didn't bother to retrain  the models at all,	1
 and it improved by one percent, which is about what we get with -	1
-uh, with, you know, just  @@   actually doing both training  and  test normalization, um, with, um,	0
-the, uh -	0
+uh, with, you know, just  @@   actually doing both training  and  test normalization, um, with, um,	1
+the, uh -	1
 uh, with the standard system.	1
 So, in a few hours we'll have the numbers for the -	1
-for retraining  everything  with [MASK] and - So,  that  might even improve it  further.	1
+for retraining  everything  with vocal tract length normalization and - So,  that  might even improve it  further.	1
 Great.	0
-So, it  looks  like [MASK]  do very  well  now with - after having figured out all these little tricks to - to get it to work.	1
+So, it  looks  like the P_L_fea- P_ features  do very  well  now with - after having figured out all these little tricks to - to get it to work.	1
 Yeah.	0
 So.	0
 Wait. So you mean you improve one percent over	0
 Good.	0
-a system that doesn't have any [MASK]  in it already?	0
+a system that doesn't have any V_T_ L  in it already?	0
 Exactly. Yeah.	0
 O_K.	0
 Yeah.	0
 O_K . So then - then we'll have our baseline to -	0
 to compare the currently hideous, uh, uh,  new  thing with. But -	0
-Right. a-	0
+Right. a-	1
 Right. And - and what  that  suggests  also  is of course that the current	1
 Yeah.	0
-[MASK] isn't trained on very good  features.	1
+Switchboard   M_L_P isn't trained on very good  features.	1
 Uh, because it was trained on	0
 whatever,	0
 you know, was used, uh, last time you	0
-did [MASK] stuff, which didn't have any of the -	0
+did Hub-five stuff, which didn't have any of the -	0
 Right. But  all  of these effects were j- like a couple  percent.	0
 Uh.	0
 Right? I mean, y- the -	0
 Well, but if you add  them   all  up  you have, uh, almost five percent  difference  now.	1
 Add  all of them. I thought  one  was one point five percent and one was point  eight.	0
-Yeah. And now we have  another  percent with [MASK]	0
+Yeah. And now we have  another  percent with the V_T_ L.	0
 That's three point three.	0
 Um, actually, and it's,	0
 @@   um,	0
 What's actually qu-  interesting  is that with -	0
-um, well, you m- prob- maybe another  half  percent if you do [MASK] in  training,	0
+um, well, you m- prob- maybe another  half  percent if you do the V_T_L in  training,	0
 and then  interestingly,  if you optimize	0
 you get more of a win out of  rescoring	0
 the, um,	0
@@ -938,7 +938,7 @@ there was one thing that was one and a half percent and one that was point eight
 So - and - and -	0
 let me see if I remember what they were.  One  of them	0
 was, uh, the change to, uh -	0
-because it did it all at once,  to - uh, [MASK]	0
+because it did it all at once,  to - uh, from bark scale to mel scale,	0
 Mm-hmm.	0
 which I  really  feel like saying in  quotes,  because	0
 @@   they're essentially the same scale but the - but - but - but	0
@@ -964,26 +964,26 @@ We had some problems before with  offsets.  This inf- this went back to, uh,	0
 I think Wall Street  Journal.	0
 So we - we had, uh -	0
 Hmm.	0
-ea- everybody else who was doing Wall Street Journal  knew  that there were [MASK] in th- in these data - in those data and - and - and nobody happened to  mention  it to us, and we were getting these,	0
+ea- everybody else who was doing Wall Street Journal  knew  that there were big D_C offsets in th- in these data - in those data and - and - and nobody happened to  mention  it to us, and we were getting these,	0
 Hmm.	0
 like,  really  terrible results, like two, three times the error everybody else was getting.	0
 And then in casual conversation someone ment- mentioned "uh, well, I guess, you know, of course you're taking care of the  offsets. " I said " what  offsets?"	0
 And at  that  point, you know, we were pretty new to the data and we'd never really, like,  looked  at it on a  screen  and then when we just put it on the screen  and wroop!	0
 Mm-hmm.	0
 Mmm.	0
-there's this [MASK]	0
+there's this big D_C  offset.	0
 Mm-hmm.	0
-So, um, in [MASK]-	0
+So, um, in P_L_P-	0
 There was a - like a  hum  or some- or - when they  recorded  it? Or just - ?	0
-No. It's just, it - it's - it's not at all uncommon for - for recorded electronics to have different, um, [MASK]	0
+No. It's just, it - it's - it's not at all uncommon for - for recorded electronics to have different, um, D_C  offsets.	0
 Huh.	0
 It's - it's, you know, no big  deal.  It's - you know, you could have ten, twenty, maybe thirty millivolts,  whatever,  and it's consistently  in  there.	0
 The  thing  is,  most  people's front-ends have pre- emphasis  with it, with zero  at  zero  frequency,	0
 so that it's  irrelevant.	0
-Uh, but with [MASK]	0
+Uh, but with P_L_ P,	0
 we didn't actually  have  that. We had - we had	0
 the  equivalent  of pre-emphasis in a - a, uh,	0
-[MASK] weighting that occurs in the middle of [MASK]	0
+Fletcher-Munson style weighting that occurs in the middle of P_L_ P,	0
 but it doesn't actually have a  zero  at zero frequency, like, eh, uh, typical simple fr- pre- emphasis  does.	0
 Hmm.	0
 We had something more  fancy.  It was later on it didn't  have  that.	0
@@ -1005,18 +1005,18 @@ what he -	0
 He  made  it a  parameter.  So. Yeah, I  guess  if he did it right, he  did  fix it and then - and then it's taking care of  sampling  rate, which is great.	0
 What - what is the parameter? Is it, uh, just the f- lower cut-off that you want?	0
 He had a -	0
-It's called, uh,  H_- [MASK]	0
+It's called, uh,  H_- H_P_F.	0
 H_ -	0
-Yeah.  Does   [MASK] on - on his feat- feature.	0
-u- And - but [MASK] you know, when you put a  number  after it, uses that as the	0
+Yeah.  Does   H_P_F on - on his feat- feature.	0
+u- And - but H_P_F, you know, when you put a  number  after it, uses that as the	0
 Mm-hmm.	0
 hertz value of the  cut-off.  So.	0
 Yeah.	0
 Oh, O_K.	0
 I mean,	0
-frankly,  we  never  did that with the  RASTA  filter  either,  so [MASK] is actually doing a different thing	0
+frankly,  we  never  did that with the  RASTA  filter  either,  so the RASTA filter is actually doing a different thing	0
 Mm-hmm.	0
-in [MASK] depending on what sampling rate you're doing, which is  another old - old bug of mine.	0
+in the modulation spectral domain depending on what sampling rate you're doing, which is  another old - old bug of mine.	0
 Mm-hmm.	0
 But, um -	0
 Um. So that -  that  was the problem  there  was th- we - we - we had always  intended  to cut off below a hundred hertz and it just	0
@@ -1040,12 +1040,12 @@ And I think I  agree  with you that if we	1
 fixed  lots  of different things and  they would all add  up, we would probably have a - a - a competitive  system.	1
 But I think not that much of it is due to the front-end per se. I think maybe a couple percent of it is, as far as I can see from this.	1
 Mm-hmm.	0
-Uh, unless you call - well, if you call [MASK] the front-en- front-end, that's, uh, a little more.	0
+Uh, unless you call - well, if you call V_T_L the front-en- front-end, that's, uh, a little more.	0
 But that's sort of more  both,  kind of. Right? But.	0
 One experiment we should -	0
 we'll probably need to do though when -	0
 um,	0
-at some point, is, since we're using that same - the net that was trained on [MASK]	0
+at some point, is, since we're using that same - the net that was trained on P_L_P	0
 without all these things in it, for the  tandem  system,	0
 we may wanna go back and retrain,	0
 Well,  that's  what I  meant,  in fact. Yeah.	0
@@ -1056,8 +1056,8 @@ So - so, the thing is - is	0
 Mm-hmm.	0
 do we expect - ?	0
 eh  At this point I'm as- I mean, you know -	1
-e- I'm wondering is it -	0
-Can we expect, uh, a tandem system to do  better  than a properly trained - you know, a Gaussian	0
+e- I'm wondering is it -	1
+Can we expect, uh, a tandem system to do  better  than a properly trained - you know, a Gaussian	1
 system trained directly on the features with, you know, the right ch- choice of  parameters?	1
 Well,  that's  what we're seeing in other  areas.  Yes.	0
 Right?	0
@@ -1088,15 +1088,15 @@ fifty-six, uh, outputs and that's, um,	0
 basically compared to a thirty-nine input feature vector	0
 Mm-hmm.	0
 Mm-hmm.	0
-from either [MASK]	0
+from either M_F_C_C or P_L_P.	0
 But one thing we  could  do is -	0
 Let - let me - let me just ask you something. When you say take the fifty-six  outputs,   these are the pre-	0
 final nonlinearity  outputs and they're - and -	0
 Yeah. Through the regular tandem outputs.	0
-through [MASK]	0
-Through [MASK] All that kinda stuff.	0
+through the K_L_T.	0
+Through the K_L_T. All that kinda stuff.	0
 O_K.	0
-And so - so then you u- Do you use all fifty-six of [MASK] or - ?	0
+And so - so then you u- Do you use all fifty-six of the K_L_T or - ?	0
 That's what we did. Right?	0
 O_K.	0
 So  one  thing we were  wondering  is, if we did	0
@@ -1112,7 +1112,7 @@ He  did some things like that.	0
 It was either him or Carmen. I forget.	0
 Mm-hmm.	0
 Mmm.	0
-I mean these were all different databases and different - you know, in [MASK] and all that, so i- it - it  may  not  apply.  But	0
+I mean these were all different databases and different - you know, in H_T_K and all that, so i- it - it  may  not  apply.  But	0
 Yeah.	0
 my recollection of it was that it didn't make it better but it didn't make it worse.	0
 Hmm.	0
@@ -1126,15 +1126,15 @@ Which could be good or not. Yeah.	0
 Yeah.	0
 Yeah. Worth trying.	0
 But there the main	1
-point is that, um,	0
-you know, it took us a while but we have the	0
-procedure  for coupling the two systems	0
+point is that, um,	1
+you know, it took us a while but we have the	1
+procedure  for coupling the two systems	1
 debugged now and -	1
-I mean, there's still conceivably some bug somewhere in the way we're feeding the	0
+I mean, there's still conceivably some bug somewhere in the way we're feeding the	1
 tandem features - uh, either  generating  them or feeding them to this - to the	1
 Mm-hmm.	0
 Yeah.	0
-[MASK] but	1
+S_R_I system, but	1
 There  might  be, cuz that's a pretty big difference.	0
 it's -	0
 Yeah.	0
@@ -1147,14 +1147,14 @@ Hmm.	0
 I'm actually f- quite sure that the -	0
 What if - ?	0
 feeding the  features into the system and training it up, that - that -	1
-I think that's -	0
-this - that's essentially the same as we use with the ce- with [MASK]  fe- features.	1
+I think that's -	1
+this - that's essentially the same as we use with the ce- with the P_L_ P  fe- features.	1
 And that's obviously working  great.  So.	0
 I- um.	0
 Yeah. There could be a bug in - in the -	1
 There - we could -	0
 somewhere before that.	1
-the -  another  degree of  freedom  is how do you generate [MASK]  transform?	0
+the -  another  degree of  freedom  is how do you generate the K_L_ T  transform?	0
 Mm-hmm.	0
 That's -	0
 Right? We to-	0
@@ -1168,15 +1168,15 @@ O_K.	0
 slight  difference is that I use normalization values that,	0
 um,	0
 Andreas calculated	0
-from the  original   [MASK] which is right. N- Yeah.	0
+from the  original   P_L_P, which is right. N- Yeah.	0
 Right.	0
 Right.	0
 So,	0
 I u- I do -	0
-Oh, we actually don't  do  that normalization for [MASK]  do  we?	0
-For the st- just the straight [MASK]	0
-No. The - [MASK] does it.	0
-[MASK] does that. Right.	0
+Oh, we actually don't  do  that normalization for the P_L_P,  do  we?	0
+For the st- just the straight P_L_P features?	0
+No. The - the S_R_I system does it.	0
+S_R_ I  system does that. Right.	0
 Yeah.	0
 Right.	0
 Well, you might e- e-	0
@@ -1195,7 +1195,7 @@ thing and there may - there may be some little	0
 bit here and there that is	0
 not - not being handled right.	0
 Yeah. It's  hard  with features, cuz you don't know what they  should  look like. I mean, you can't just, like,	1
-print the -	0
+print the -	1
 the values out in ASCII and, you know, look at them, see if they're -	1
 Not unless you had a  lot  of time and -	1
 Well -	0
@@ -1221,12 +1221,12 @@ what - what you - what you  do  in the  full  procedure	0
 is you, um,	0
 uh, have an embedded training.	0
 So in fact you - the - the net is trained	0
-on, uh, uh, a, uh, [MASK]	0
+on, uh, uh, a, uh, Viterbi alignment	0
 of the training data that comes from your full system. And so that's where the feedback comes all around, so that it  is  actually	0
 discriminant.	0
 You can prove that it's - it's a,	0
 uh -	0
-If you believe in [MASK]	0
+If you believe in the Viterbi assumption	0
 that, uh, getting the best path,	0
 uh, is almost equivalent to getting the best, uh, total probability,	0
 um, then	0
@@ -1239,7 +1239,7 @@ i- i- i- it wouldn't quite apply here.	0
 So another huge experiment we could do would be to	0
 Do y-	0
 take the tandem features,	0
-uh, do [MASK]	0
+uh, do S_R_I	0
 Mm-hmm.	0
 forced alignments using those features, and then re-do the net with those.	0
 Mmm, uh - Exactly. Exactly.	0
@@ -1261,13 +1261,13 @@ uh, approaches are great.	1
 Even the local ones, given, you know, these potential outer loops which, you know, you can  convince  yourself	1
 turn into the global ones.	1
 Um,	1
-however,	0
+however,	1
 there's times when it  is not good.	1
 Uh, when  something about the test set is different enough from the training set that - that, uh, the discrimination that you're learning is - is - is not a good one.	1
 Mm-hmm.	0
-So, uh,  his  idea was to take as the input feature vector to the, uh, [MASK]	1
-uh, a concatenation	0
-of the neural net outputs	0
+So, uh,  his  idea was to take as the input feature vector to the, uh, Gaussian mixture system,	1
+uh, a concatenation	1
+of the neural net outputs	1
 and the regular features.	1
 Yeah. That -	0
 Oh,  we  already talked about that.	0
@@ -1289,20 +1289,20 @@ So that's - that - that's our current best - best system in the, uh -	0
 Oh.  O_K.	0
 uh, in the  Aurora  thing. Yeah.	0
 Yeah. That makes sense.	0
-And do you do [MASK] on the con- on the  combined  feature vector?	0
+And do you do a K_L_T transform on the con- on the  combined  feature vector?	0
 As - you should never do  worse.	0
 I - I, uh, missed what you said.	0
-Do you - d- you do [MASK] on the  combined  feature vector?	0
+Do you - d- you do a K_L_T transform on the  combined  feature vector?	0
 Yeah.	0
 O_K.	0
 Well, actually, I, uh - you should check with him, because he tried several different combinations.	0
 Because you end up with this huge  feature  vector, so that might be a problem, a- unless you do some form of dimensionality reduction.	0
 Yeah. I, uh, th-	0
-what I don't remember is which came out  best.  So he did one where he put o- put e- the whole thing into one [MASK]	0
-and  another  one, since the - [MASK] things are already orthogonalized,	0
+what I don't remember is which came out  best.  So he did one where he put o- put e- the whole thing into one K_L_T,	0
+and  another  one, since the - the P_L_P things are already orthogonalized,	0
 Mm-hmm.	0
 he left them alone	0
-and - and just did a [MASK] on the - on the - on the  net  outputs and then concatenated that.	0
+and - and just did a K_L_T on the - on the - on the  net  outputs and then concatenated that.	0
 Mmm.	0
 And I don't remember which was better.	0
 Did he - did he try to - ?	0
@@ -1328,10 +1328,10 @@ I mean, are we trying to do them	1
 in  synchrony?  That might be fun.	1
 Adam's  not here, so he's not here to tell me no.	0
 Well,	1
-it's -	0
-it's - it's not -	0
+it's -	1
+it's - it's not -	1
 You know, it's  not  gonna work  out  but we could - we could just, uh,	1
-uh,	0
+uh,	1
 see if we find a rhythm, you know, what -	1
 Sure.	0
 Uh,  O_ 's or  zeroes,  we wanna  agree  on that?	0

@@ -18,7 +18,7 @@ Anyway, so my idea f- for today and we can uh	0
 decide that that isn't the right thing to do	0
 was to at - spend at least part of the time	0
 trying to	0
-eh build [MASK] you know	0
+eh build the influence links, you know	0
 which sets of things are	0
 uh relevant	0
 to which decisions	0
@@ -33,24 +33,24 @@ Oops.	0
 Ah.	0
 Oh right, well.	0
 That's funny.	0
-Yeah. We were gonna do two things	0
-one of which is	0
-just lay out the	0
-[MASK] of what we think influences what	0
+Yeah. We were gonna do two things	1
+one of which is	1
+just lay out the	1
+influence structure of what we think influences what	1
 and then as a uh separate but related task	0
 uh particularly Bhaskara and I were going to	0
 try to decide	0
-what kinds of [MASK] are needed in order to	0
+what kinds of belief nodes are needed in order to	0
 um	0
 do what we - what we need to do. Once	0
-so but du- we should sort of have all of the uh	0
-basic design of what influences what	0
-done before we decide exactly how to compute it.	0
+so but du- we should sort of have all of the uh	1
+basic design of what influences what	1
+done before we decide exactly how to compute it.	1
 So I didn't - did you get a chance to look at all - yet?	0
 Yeah, I looked at some of that stuff.	0
 Great. O_K so let's	0
 start with the	0
-uh [MASK]	0
+uh belief-nets, the general influence stuff and then we'll - then we'll also	0
 at some point break and talk about the techy stuff.	0
 Well I think one could go	0
 there's	0
@@ -64,8 +64,8 @@ Right, true. Does have to be there.	0
 And	0
 And I'm sure we'll find more as we go that	0
 Hmm?	0
-So [MASK] in the first place or not is definitely	0
-uh one of the basic ones. We can start	0
+So Go-there in the first place or not is definitely	1
+uh one of the basic ones. We can start	1
 with that.	0
 Interesting effect.	0
 Um	0
@@ -93,10 +93,10 @@ Mm-hmm.	0
 And so that a decision would be	0
 do we want	0
 that	0
-so you could - two different things you could do, you could have	0
-all those values for [MASK] or you could have [MASK] be binary and given that you're going there	0
+so you could - two different things you could do, you could have	1
+all those values for Go-there or you could have Go-there be binary and given that you're going there	1
 When.	0
-when.	0
+when.	1
 How.	0
 Yeah and so  forth .	0
 Why, yeah.	0
@@ -106,7 +106,7 @@ Hmm?	0
 I mean it seems that you could	0
 um	0
 uh it seems that those things would be logically independent like you would wanna have them	0
-separate or binary, [MASK] and then the - the possibilities of how to go there because -	0
+separate or binary, Go-there and then the - the possibilities of how to go there because -	0
 O_K, that's - let's start that way.	0
 because, you know it might be easy to figure out that this person is going to need more film eventually from their utterance but	0
 it's much more complex to query	0
@@ -116,7 +116,7 @@ Hmm.	0
 O_K.	0
 And so I've tried to come up with some initial	0
 things one could observe so who is the user?	0
-Everything that has user comes from [MASK] everything that has situation comes fr	1
+Everything that has user comes from the user model everything that has situation comes from the situation model-A_.	1
 We should be	0
 be clear.	0
 But when it comes to sort of writing down when you - when you do these things is it here?	0
@@ -139,7 +139,7 @@ Thus is understandable?	0
 Yes.	0
 Think so.	0
 So here for example.	0
-You've s- have you seen this before at all Keith, [MASK]	0
+You've s- have you seen this before at all Keith, these belief-net things?	0
 Uh, no, but I think I'm following it.	0
 So here is the - the - we had that the user's budget may influence	1
 So far.	0
@@ -167,12 +167,12 @@ Great.	0
 There it is.	0
 Yeah. So Keith	0
 w- what's behind this is actually a program that will	0
-once you fill all this in actually s- solve [MASK] for you and stuff. So this is not just a display, this is actually a GUI to	1
+once you fill all this in actually s- solve your belief-nets for you and stuff. So this is not just a display, this is actually a GUI to	1
 Mm-hmm.	0
-a simulator that will	0
-if we tell it all the right things we'll	0
+a simulator that will	1
+if we tell it all the right things we'll	1
 O_K.	0
-wind up with [MASK] at the other end.	1
+wind up with a functioning belief-net at the other end.	1
 O_K.	0
 And it's so simple even I can use it.	0
 Wow, that is simple.	0
@@ -195,14 +195,14 @@ you can arrange	0
 so that the um	0
 the value of that	0
 is gonna have to be updated and n- it's not a belief update, right? It's - you took some actions, you spent money and stuff, so the update of that	1
-is gonna have to be essentially external to [MASK]	0
+is gonna have to be essentially external to the belief-net.	0
 Yeah.	0
 Right?	0
 And then what you're going to need	0
 is uh for	0
 the things that it influences. Well let's - first of all let's see if it does influence anything.	0
 And if it does influence anything	1
-then you're gonna need something that converts from	0
+then you're gonna need something that converts from	1
 the - the number here to something that's relevant to the decision there.	1
 So it could be ra- they create different ranges that are relevant for different decisions or	0
 whatever - but for the moment this is just	0
@@ -219,16 +219,16 @@ Well anyway, go ahead.	0
 O_K, and so	0
 this, oh	0
 that	0
-The other thing is that um every time that's updated [MASK] will have to be propagated but then the question is	1
-do you - do we wanna [MASK] every single time it's updated or only when we need to?	1
+The other thing is that um every time that's updated beliefs will have to be propagated but then the question is	1
+do you - do we wanna propagate beliefs every single time it's updated or only when we need to?	1
 Yeah, that's a good question.	0
 And uh	0
-does it have [MASK]	0
+does it have a lazy mode?	0
 I don't remember.	0
 Uh	0
 Well, I mean, in Srini's thing there was this thing - there was this um	0
 Oh right.	0
-option like  [MASK] which suggests that uh	0
+option like  proper  inferences which suggests that uh	0
 Yeah.	0
 S- probably does.	0
 doesn't happen, automatically.	0
@@ -266,7 +266,7 @@ Is	0
 hmm	0
 Ah, O_K.	0
 So it's true or false?	0
-No no no, [MASK]	0
+No no no, E_V_A.	0
 No, that's - that's a  @@	0
 Missed that one.	0
 So	0
@@ -287,7 +287,7 @@ Did I or didn't I?	0
 Ah.	0
 Probably nothing done yet, oh I just did it on the upper ones, O_K.	0
 Makes sense.	0
-O_K, so this was [MASK]	1
+O_K, so this was E_V_A.	1
 Maybe we can think of more things, cross	0
 Yeah.	0
 O_K.	0
@@ -319,14 +319,14 @@ w- well the uh user was uh	0
 Right.	0
 definitely	0
 more likely to enter if he's a local	0
-Right.	1
+Right.	0
 more likely to view if he's a tourist	0
 um	0
 and then of course we had the fact that	0
 given the fact that he's thrifty and there will be admission then we get all these cross um	0
 We did, but the three things w- that - that it contributed to this	0
 in fact, the other two aren't up there.	0
-so one was [MASK]	0
+so one was the ontology	0
 We'll d- what type of building is it? Yeah.	0
 Yeah.	0
 And the - and the third thing we talked about was something from the discourse.	0
@@ -336,8 +336,8 @@ Right, so what w- I - what we seem to need here, this is why it starts getting i
 mm-hmm	0
 the way we had been designing this, there were three intermediate nodes	1
 uh which were the endpoint decision as seen from	1
-the uh	0
-[MASK] as seen from [MASK] and as seen from the discourse.	1
+the uh	1
+user model as seen from the ontology and as seen from the discourse.	1
 So each of those	0
 the way we had it designed, now we can change the design, but the design we had	0
 was there was a decision with the same three outcomes	1
@@ -376,12 +376,12 @@ Can I ask about "slurred" and "angry" as inputs to this?	0
 That's a	0
 What - why?	0
 Like they're either true or false and	0
-[MASK]	0
+The prosody?	0
 O_K.	0
 they uh	0
 oh I see.	0
 If the -	1
-if the person talking is angry or slurs their speech	0
+if the person talking is angry or slurs their speech	1
 Mm-hmm.	0
 they might be tired or, you know	1
 O_K. Drunk.	0
@@ -399,13 +399,13 @@ But yeah, that was what he had in mind.	0
 So let's think about this - this question of	0
 how do we wanna handle -	0
 so there're two separate things. One is -	0
-uh at least two. One is how do we want to handle the notion of [MASK]	0
+uh at least two. One is how do we want to handle the notion of the ontology	0
 now what we talked about, and this is another technical thing Bhaskara, is	0
 uh can we arrange so that	0
 I think we can	0
-so that [MASK] itself	1
+so that the belief-net itself	1
 has properties	1
-and the properties are filled in uh from on- [MASK] So the - let's take the case of the	1
+and the properties are filled in uh from on- ontology items. So the - let's take the case of the	1
 uh this endpoint thing, the notion was	0
 that if you had a few key properties like is this a tourist site, you know some kind of landmark	0
 is it a place of business uh is it something you physically could enter	0
@@ -413,10 +413,10 @@ Mm-hmm.	0
 O_K, et cetera.	1
 So that there'd be certain properties that would fit into the decision node	1
 and then	1
-again as part of the ou- outer controlling conditioning of this thing	0
+again as part of the ou- outer controlling conditioning of this thing	1
 those would be set, so that some- somehow	1
-someone would find this word, look it up in [MASK] pull out these properties, put it into	0
-[MASK] and then the	0
+someone would find this word, look it up in the ontology, pull out these properties, put it into	1
+the belief-net, and then the	1
 decision would flow.	1
 Mm-hmm.	0
 Now	0
@@ -480,9 +480,9 @@ What ex- um and so either those is true f- or false?	1
 So	0
 Uh	0
 Uh well it - it - i- here's where it gets a little tricky.	0
-Uh from [MASK] point of view it is	0
+Uh from the belief-net point of view it is	0
 from another point of view of course it's interest- it's - it's important to know what it's	0
-selling or servicing and so forth.	0
+selling or servicing and so forth.	1
 Yeah.	0
 O_K.	0
 So for this decision	1
@@ -491,7 +491,7 @@ it's just uh true or false	1
 and in th- this is a case where the or seems just what you want.	0
 O_K.	0
 That - that if any of those things is true	1
-then it's the kind of place that you	0
+then it's the kind of place that you	1
 uh	1
 Um more likely to enter.	0
 are more likely to enter.	1
@@ -503,7 +503,7 @@ No no, no eh to - to an inter- no, an intermediate node.	0
 T-	0
 Oh, O_K.	0
 That's the p- part of the idea, is	0
-Um is - is that [MASK]	0
+Um is - is that the object type node?	0
 I d-	0
 So are they the - is it the kind of object that sells, fixes, or services things?	0
 Well, o- open up object type and let's see what its values are.	0
@@ -523,18 +523,18 @@ Well	0
 accessible, yeah.	0
 accessible I think is different	0
 Yeah.	0
-cuz that's tempor- that - that [MASK] whereas	0
+cuz that's tempor- that - that varies temporally, whereas	0
 Mm-hmm.	0
 this is a	0
 What would a hotel fall under?	0
 I would call that a service, but - but I don't know.	0
-Well I mean in terms of [MASK]	0
+Well I mean in terms of entity type?	0
 Say w- w- well it's co- I would s- a- a- again	0
 for this purpose I think it's commercial.	0
 Someplace you want to go in to do some kind of business.	0
 O_K.	0
 Um what does the	0
-[MASK] at the end of each of those things signify?	0
+underscore-T_ at the end of each of those things signify?	0
 Um things.	0
 So places that service things	0
 Uh-huh.	0
@@ -542,9 +542,9 @@ sell things or fix things and pe-	0
 O_K.	0
 places that e- exhibit things.	0
 O_K.	0
-That also points to [MASK] I guess.	0
+That also points to entity type I guess.	0
 So we're deriving um	1
-this - the - this feature of whether the -	0
+this - the - this feature of whether the -	1
 the main action at this place happens inside or outside or what we're deriving that from what kind of activity is done there?	1
 Couldn't you have it as just a primitive feature of the	0
 Well you could, that's a - that's a choice.	0
@@ -559,17 +559,17 @@ that it sort of	0
 putting in a feature just for one decision, now w- we may wind up having to do that	0
 Hmm.	0
 this i- anyway, this i-	0
-at a mental level that's what we- we're gonna have to sort out.	0
+at a mental level that's what we- we're gonna have to sort out.	1
 O_K.	0
 O_K.	0
 So, you know what does this look like, what are - what are	1
 uh intermediate things that are worth computing, what are the features we need	1
 Mm-hmm.	0
-in order to	0
+in order to	1
 make all these decisions	1
 and what's the best way to organize this	1
-so that um	0
-it's clean and - and	0
+so that um	1
+it's clean and - and	1
 O_K.	0
 consistent and all that sort of stuff.	1
 I'm just thinking about how	0
@@ -600,7 +600,7 @@ Because what we're gonna want is an intermediate	0
 thing which is	0
 uh the	0
 endpoint decisi- the endpoint decision	0
-based o- on [MASK] so what we - we - what we talked about is three separate	0
+based o- on the user models, so what we - we - what we talked about is three separate	0
 endpoint decisions, so let's make a new node	0
 Yeah.	0
 Yeah.	0
@@ -613,31 +613,31 @@ not that important, I think but	0
 O_K, well, not a big deal then.	0
 Let's do it then.	0
 Well the -	0
-Isn't there a "save as" inside of [MASK]	0
+Isn't there a "save as" inside of java base?	0
 But	0
 I can just take this	0
 O_K.	0
 copy it somewhere else.	0
 This was user something or	0
 Well this was uh let's p- put it this - let's do endpoint	0
-[MASK]	0
-end	1
-point?	1
+underbar-U_.	0
+end	0
+point?	0
 i- endpoint, e- end poi- this is sa-	0
 Ah.	0
 it's the endpoint	0
 Gotcha, yeah.	0
-let's say [MASK] so that's the endpoint decision	0
+let's say underbar-U_, so that's the endpoint decision	0
 uh as seen through the	0
-As related from [MASK]	0
+As related from the user model.	0
 Right.	0
 So let's - let's actually	0
 yeah so lin- you can link that up to the	0
 Should I rename this  too? No.	0
 uh yeah, so that, I guess that's endpoint	0
 uh	0
-It's [MASK]	0
-[MASK] for entity, and we may change all this, but.	0
+It's underscore-E_.	0
+underscore-E_ for entity, and we may change all this, but.	0
 Right.	0
 And	0
 O_K, shouldn't I be able to move them all? No.  Or - ?   Can I?	0
@@ -650,7 +650,7 @@ Just do whatever.	0
 Wasn't this possible?	0
 Well.	0
 Yeah.	0
-I think you have to be in [MASK] before	0
+I think you have to be in move mode before	0
 Uh-huh.	0
 O_K.	0
 Good.	0
@@ -666,8 +666,8 @@ Uh	0
 anyway, this is crude.	0
 Now but the - now so - so - but then the question is	0
 uh	0
-so - and - and we assume that some of these properties would come indirectly through [MASK] but then we had this third idea	1
-of [MASK]	1
+so - and - and we assume that some of these properties would come indirectly through an ontology, but then we had this third idea	1
+of input from the discourse.	1
 Well	0
 let's - should we finish this, I mean but surely the user interests	0
 Sure, O_K.	0
@@ -681,9 +681,9 @@ Here this was one of my problems we have	1
 the user interest is a - is a vector of five hundred values, so	1
 um	0
 Oh you mean level of interest?	0
-That's from [MASK] mm-hmm, no not levels of interest but things you can be interested in.	0
+That's from the user model, mm-hmm, no not levels of interest but things you can be interested in.	0
 Well -	0
-somebody else has built [MASK]	0
+somebody else has built this user model.	0
 Gothic	0
 Oh I see, right.	0
 churches versus Baroque	0
@@ -703,11 +703,11 @@ But the other thing you could do	0
 is have an - and this  will  give you the flavor of the - of what  @@	0
 you could have a node that's - that was a measure of the match between the	1
 Mm-hmm.	0
-object's feature, you know, the match between the object	0
-the entity, I'm sorry	0
+object's feature, you know, the match between the object	1
+the entity, I'm sorry	1
 Uh.	0
 and the user.	1
-So you could have a k- [MASK]	0
+So you could have a k- a "fit" node	0
 and again that would have to be computed by someone else	0
 Mm-hmm.	0
 but uh	0
@@ -730,7 +730,7 @@ Schedule?	0
 "Do I have time to go in and climb all the way to the top of the Koelner Dome  or do I just have to -"	0
 Right.	0
 "time to take a picture of the outside?"	0
-It seems like everything in [MASK] a- affects -	1
+It seems like everything in a user model a- affects -	1
 Well that's what we don't wanna do, see that - se- cuz then we get into huge combinatorics and stuff like that	1
 Yeah.	0
 Mm-hmm.	0
@@ -744,13 +744,13 @@ Right.	0
 Well, that - that's - we can't do that, so we- we're gonna have to	0
 Yeah.	0
 but this is a good discussion, we're gonna have to somehow figure out	1
-uh some way to encapsulate	0
+uh some way to encapsulate	1
 that	1
 uh so if there's some general notion	1
-of for example	0
-the uh	0
-relation to the time to do this to the amount of time the guy has or	0
-something like that is - is the uh	0
+of for example	1
+the uh	1
+relation to the time to do this to the amount of time the guy has or	1
+something like that is - is the uh	1
 compatibility with his current state, so that's what you'd have to do, you'd have to get it down to something	1
 which uh	0
 was itself relatively compact, so it could be	0
@@ -765,8 +765,8 @@ whereas if you like keep breaking it up more and more it's not exponential anymo
 So it yeah, there are two advantages. That's tha- there's one technical one	0
 Sh- sh- yeah, -	0
 and the other is it - it gets used	0
-S- so we'd basically be doing [MASK]	0
-[MASK] basically into mo-	0
+S- so we'd basically be doing subgrouping?	0
+Subgrouping, basically into mo-	0
 Yeah.	0
 so basically make it more tree like going backwards?	0
 Right.	0
@@ -775,7 +775,7 @@ Yeah.	0
 But it - there's two advantages, one is the technical one that you don't wind up with such big exponential	1
 @@	0
 Bhaskara?	0
-uh [MASK] the other is it can be - it presumably can be used for multiple decisions.	1
+uh C_B_T's, the other is it can be - it presumably can be used for multiple decisions.	1
 Mm-hmm.	0
 So that if you have this idea	0
 Right.	0
@@ -804,9 +804,9 @@ It's hard for me to imagine how	1
 everything wouldn't just contribute to user state again.	1
 Or user compatibility.	0
 Oh but	1
-the thing is	0
-that we uh uh	0
-we had some things that	0
+the thing is	1
+that we uh uh	1
+we had some things that	1
 uh	1
 That don't.	0
 that don't	0
@@ -817,7 +817,7 @@ broke	0
 Sure, but  other  - I thought though the node we're creating right now is user compatibility to the current action, right?	0
 the	0
 right	0
-Seems like everything in [MASK] would contribute to whether or not the user was compatible with something.	0
+Seems like everything in the user model would contribute to whether or not the user was compatible with something.	0
 Uh maybe not. I mean the - that's the - the issue is um	0
 would	0
 Even if it was true in some abstract general sense it might not be true in terms of the information we actually had and can make use of.	0
@@ -863,32 +863,32 @@ And what they're gonna look like.	0
 So you can save this one as and open up the old one, right and -	0
 and then everything would be clean.	0
 You could do it again.	0
-Why, I think it's worth saving this one but I think I'd - I'd like to keep this one cuz I wanna see if -	1
+Why, I think it's worth saving this one but I think I'd - I'd like to keep this one cuz I wanna see if -	0
 Yeah.	0
-if we're gonna reuse any of this stuff.	1
+if we're gonna reuse any of this stuff.	0
 Mm-hmm.	0
 Yeah.	0
 Um	0
 so this might be	0
 What next?	0
 Well you tell me, so in terms of the	1
-uh	0
+uh	1
 Well let's - th- this	0
 planner what's - what's a good one to do?	1
 go there or not I think is a good one.	1
-Uh	1
+Uh	0
 Is a very basic one.	0
 So	0
 what makes things more likely	0
 that -	0
 So	0
 Well the fir- see the first thing is, getting back to thing we left out of the other	1
-is	0
+is	1
 the actual discourse.	1
 So Keith this is gonna get into your world because	1
 Mm-hmm.	0
-uh we're gonna want to know	0
-you know, which constructions indicate	0
+uh we're gonna want to know	1
+you know, which constructions indicate	1
 various of these properties	1
 s-	0
 Mm-hmm.	0
@@ -896,10 +896,10 @@ and	0
 so	0
 I - I don't	0
 yet know how to do this, I guess	1
-we're gonna wind up pulling out	0
-uh [MASK] like we have object properties and we don't know what they are yet.	1
+we're gonna wind up pulling out	1
+uh discourse properties like we have object properties and we don't know what they are yet.	1
 Mm-hmm.	0
-So that - that [MASK] will have	0
+So that - that the Go-there decision will have	0
 a node from	0
 uh discourse, and I guess why don't we just stick a discourse thing up there to be	0
 as a placeholder for	0
@@ -908,11 +908,11 @@ Of - of course.	0
 Identified that	0
 Yeah.	0
 and so	0
-again re- that's completely correct, we have [MASK]	0
-Much the same way as we didn't - we don't have [MASK] here.	0
-Well [MASK] we sort of	0
+again re- that's completely correct, we have the user model, the situation model here, we don't have the discourse model here yet.	0
+Much the same way as we didn't - we don't have the ontology here.	0
+Well the ontology we sort of	0
 Really.	0
-said we would pull these various kinds of properties from [MASK] like exhibiting, selling, and so forth.	0
+said we would pull these various kinds of properties from the ontology like exhibiting, selling, and so forth.	0
 So in some sense it's - it's there.	0
 Mm-hmm.	0
 But the discourse we don't have it represented at all yet.	0
@@ -924,14 +924,14 @@ And - and we probably will have uh	0
 something like a discourse for endpoint.	0
 But if we do it'll have the three values.	0
 Hmm?	0
-It'll have [MASK] if - if we have it.	0
+It'll have the E_V_A values if - if we have it.	0
 Yeah.	0
 Yeah.	0
 O_K	0
 just for starters	0
 and here	0
 discourse um	0
-For [MASK] probably is true and false, let's say. That's what we talked about.	1
+For Go-there, probably is true and false, let's say. That's what we talked about.	1
 um	0
 well, I think um	0
 we're looking at the - the little data that we have, so people say how do I get to	0
@@ -957,9 +957,9 @@ yep, yay, A_, or nay.	0
 Yeah.	0
 O_K?	0
 And they'll be a y- uh, a user	1
-[MASK]	1
+Go-there	1
 and maybe that's all, I don't know.	0
-[MASK] I mean, because it's - whether it's open or not.	1
+Situation Go-there, I mean, because it's - whether it's open or not.	1
 Mm-hmm.	0
 O_K, good.	0
 That definitely interes-  @@	0
@@ -969,7 +969,7 @@ now that kind of	0
 um what's the word um	0
 Hmm.	0
 the - that interacts with the uh	0
-[MASK] if they just wanna view it	0
+E_V_A thing if they just wanna view it	0
 then it's fine to go there when it's closed	0
 whereas if they want to um	0
 Right.	0
@@ -994,14 +994,14 @@ Well i- i- it can have di- various values.	0
 Yeah, but we eh you - you're right it might not be enough.	0
 Yeah, I mean, see I'm -	1
 Well, what -  Whoops.	0
-I'm thinking that any node that begins with [MASK]	0
+I'm thinking that any node that begins with "Go-there"	1
 is either gonna be true or false.	1
 Yeah.	0
 Right.	0
 Ah.	0
 I see that could be.	0
 Also, that node, I mean	0
-[MASK] would just be fed by separate ones for	0
+the Go-there s- S_ node would just be fed by separate ones for	0
 Mm-hmm.	0
 Could be.	0
 you know, there's different things, the strikes and the	0
@@ -1017,28 +1017,28 @@ uh	0
 I guess the  final	0
 decision maybe the t- they're final re- and, I guess	0
 the very bottom endpoint decision	0
-uh to [MASK]	0
+uh to the Go-there node.	0
 And I - don't worry about layout, I mean then we'll go - we'll go nuts	0
 Yeah.	0
 Mm-hmm.	0
 but	0
 Mmm.	0
-Maybe we could um have  intermediate   node that just [MASK]	0
+Maybe we could um have  intermediate   node that just the Endpoint and the Go-there S_ node	0
 sort of fed into?	0
 Could be, yeah.	0
 Right.	0
 Because that's what we, I mean that's why this situation comes up.	0
 Yeah.	0
-Well [MASK] actually	0
+Well the Go-there, actually the Endpoint node could feed - feed into the Go-there S_	0
 Yeah, right.	0
-That's right, so [MASK] make that up t- t-	0
+That's right, so the Endpoint node, make that up t- t-	0
 Mm-hmm.	0
 Yeah.	0
-to [MASK] then	0
+to the Go-there then	0
 and again we'll have to do layout at some point, but something like that.	0
 Now it's gonna be important not to have loops by the way.	0
 I was just gonna	0
-Uh really important in - in [MASK] not to have loops uh	1
+Uh really important in - in the belief worl- net world not to have loops uh	1
 Yes.	0
 How long does it take you to - to	0
 compute uh	0
@@ -1060,7 +1060,7 @@ Yeah, no it's not a loop yet, I'm just saying we - we, in	0
 Mmm.	0
 Well, but the good thing is we -	0
 no, in	0
-we could have [MASK] which	0
+we could have loopy belief propagation which	0
 we all love.	0
 Right.	0
 O_K, so anyway, so that's another decision.	0
@@ -1100,7 +1100,7 @@ Wh- ah.	0
 Mm-hmm.	0
 Um actually is this the - the right way to have it where um	0
 go there from the user and go there from the situation just sort of	0
-don't know about each other but they both feed [MASK] because	0
+don't know about each other but they both feed the go there decision because	0
 I think so.	0
 S-	0
 isn't the, I mean	0
@@ -1108,9 +1108,9 @@ uh, hmm	0
 O_K.	0
 Maybe not, a-	0
 But that still allows for the possibility of the - of	0
-[MASK] affecting our decision about whether a strike is the sort of thing which is going to keep this user away from -	0
+the user model affecting our decision about whether a strike is the sort of thing which is going to keep this user away from -	0
 Right.	0
-That - all that - that kind of decision making happens at [MASK]	0
+That - all that - that kind of decision making happens at the Go-there node.	0
 Uh y- you - yeah you - i- you - if you needed to do that.	0
 Uh.	0
 If you needed it to do that.	0
@@ -1123,12 +1123,12 @@ you know	0
 Ah.	0
 hey there's a strike on, uh does that affect whether or not you wanna go or something or	0
 Good point, I don't - I don't know how we're going to - t- uh	0
-Yeah, so that might not come out of [MASK] but, you know, directly out of	0
+Yeah, so that might not come out of a user model but, you know, directly out of	0
 interaction.	0
 Right.	0
 Uh	0
 I gu- yes my curr- you know, don't yeah yeah yeah that's enough.	0
-Yeah.	1
+Yeah.	0
 Uh	0
 My current idea on that	0
 would be that each of these decision nodes has	0
@@ -1160,15 +1160,15 @@ indeed Keith is going to - to worry about the various constructions that people 
 Mm-hmm.	0
 and Johno has committed himself to being the parser wizard, so	1
 Alright.	0
-what's going to happen is	0
-that	0
+what's going to happen is	1
+that	1
 eventually	1
 like by the time he graduates, O_K	0
 uh they'll be some sort of system	1
-which is able to	0
-take the discourse in context	0
-and have	0
-outputs that can feed [MASK]	1
+which is able to	1
+take the discourse in context	1
+and have	1
+outputs that can feed the rest of belief-net.	1
 I j- wa- I - I assume everybody knows that, I just wanna	0
 you know, get closure that	0
 Mm-hmm.	0
@@ -1176,7 +1176,7 @@ that'll be the game then, so the	0
 semantics that you'll get out of the	0
 discourse will be	0
 of values that go into	0
-the various [MASK]	0
+the various discourse-based decision nodes.	0
 And now some of those will get fancier like mode of transportation and stuff so it isn't by any means	1
 uh necessarily a simple	0
 thing that you want out.	0
@@ -1185,7 +1185,7 @@ And it	0
 there's a sort of also a split if you loo- if you blow this up and look at it in more detail there's something that comes from the discourse in terms of what was actually just said	0
 what's the utterance go- giving us	0
 Yeah.	0
-and then what's [MASK]	0
+and then what's the discourse history	0
 give us.	0
 Yeah, well that, well, we'll have to decide	0
 Mm-hmm.	0
@@ -1195,12 +1195,12 @@ how much of th- where that goes.	0
 Mmm.	0
 Mm-hmm.	0
 an- and it's not clear yet.	0
-I mean it could be those are two separate things, it could be that [MASK]	0
-[MASK]	0
+I mean it could be those are two separate things, it could be that the discourse	0
+gadget	0
 itself integrates em as - which would be my guess	0
 that you'd have to do	1
-see in order to do reference and stuff like that	0
-um you've gotta have both the current discourse and the context to say	0
+see in order to do reference and stuff like that	1
+um you've gotta have both the current discourse and the context to say	1
 I wanna go back there, wow, what does that mean and	1
 Mm-hmm.	0
 Mm-hmm	0
@@ -1210,10 +1210,10 @@ Mm-hmm.	0
 Alright. So	0
 But is th- is this picture that's emerging here	0
 just my wish that you have noticed already for symmetry or is it that we get for each -	0
-each decision on the very bottom we sort of get [MASK]	0
-and maybe [MASK]	0
+each decision on the very bottom we sort of get the sub-E_, sub-D_, sub-U_	0
+and maybe a sub-O_ - "O_" for "ontology"	0
 um	0
-[MASK]	0
+meta node	0
 I don't know.	0
 but it might just	0
 It could be.	0
@@ -1236,7 +1236,7 @@ Yeah.	0
 Well	0
 i- i- it see- i- if it's fou- if it's four	0
 things and each of them has four values	0
-it turns out to be [MASK] it's not s- completely impossi- I mean it's - it's not beyond what the system could solve	0
+it turns out to be a big C_P_T, it's not s- completely impossi- I mean it's - it's not beyond what the system could solve	0
 but it's probably beyond what we could actually	0
 Right, true.	0
 uh write down.	0
@@ -1260,10 +1260,10 @@ well I mean if - if it has four inputs and then it itself has three values so	0
 Right.	0
 I mean it can get big fast.	0
 Um for endpoint? No it's - it's sh-	0
-E_V- it's [MASK]	0
+E_V- it's the E_V_A.	0
 yeah, down here, but	0
 this one only has two.	0
-No it still has three, [MASK]	0
+No it still has three, E_V_A.	0
 No.	0
 Since ta- they will still have three.	0
 Each - so you're uh uh from each point of view you're making the same decision.	0
@@ -1278,8 +1278,8 @@ This - and also, I mean, the other places where, like for example	0
 consider endpoint view, it has inputs coming from user budget, user thrift	0
 Right.	0
 so even	0
-Those are not necessarily binary.	0
-S- so we're - we're gonna have to use some t- care in [MASK]	1
+Those are not necessarily binary.	1
+S- so we're - we're gonna have to use some t- care in the knowledge engineering	1
 to not have this explode.	1
 And in fact I think it doesn't in the sense that	0
 um	0
@@ -1302,7 +1302,7 @@ what rule of combination	0
 is used there.	0
 So th- yes they - so these things all affect it, how do they affect it?	0
 Mm-hmm. Right.	0
-And [MASK] have their own beliefs about uh what are good ways to do that.	0
+And belief-nets have their own beliefs about uh what are good ways to do that.	0
 So is it - it's - it's clearer n- clear enough what the issue is, right?	0
 Right.	0
 So do we wanna switch that now or we wanna do some more of this?	0
@@ -1316,16 +1316,16 @@ Well, here -	0
 he- here's one of the things that - that I th-	0
 you sh- you - no, I don't know how easy it is to do this in the interface	1
 but you - it would be great if you could	1
-actually just display	0
-at a given time	0
-uh all the things that you pick up, you click on [MASK] O_K	1
+actually just display	1
+at a given time	1
+uh all the things that you pick up, you click on "endpoint", O_K	1
 Mm-hmm.	0
 and everything else fades and you just see	1
 the links that are relevant to that.	1
 And I  does   anybody remember	0
 the GUI on this?	0
 Uh d- I would  almost say  the other way to do that would be to open u- or make	0
-you know [MASK] and then open them	0
+you know N_many belief-nets and then open them	0
 Mm-hmm.	0
 every time you wanted to look at a different one	0
 vers- cuz uh	0
@@ -1333,7 +1333,7 @@ It's probably pretty easy do it - to do it in H_T_M_L, just -	0
 Yeah, but	0
 Uh	0
 H_T_M_L?	0
-Yeah I have each of these thing- each of [MASK] be - be a page and then you click on the thing and then	0
+Yeah I have each of these thing- each of the end belief-nets be - be a page and then you click on the thing and then	0
 O_K.	0
 Yeah	0
 li- consider that it's respective, but	0
@@ -1356,7 +1356,7 @@ um	0
 I don't, yeah I just don't think this has been designed to support	0
 something like that.	0
 Yeah.	1
-Yeah, I - I mean, it might soon, if this is gonna be used in a serious way like [MASK] then it might soon be necessary to uh start	0
+Yeah, I - I mean, it might soon, if this is gonna be used in a serious way like java base then it might soon be necessary to uh start	1
 modifying it for our purposes.	1
 Right.	0
 Yeah, and	0
@@ -1365,7 +1365,7 @@ um	0
 we have to know what we want first.	0
 O_K, so why don't you tell us a little bit about	0
 So	0
-[MASK] and what - what the choices might be for these?	0
+decision nodes and what - what the choices might be for these?	0
 Ah, sorry. I guess that's	0
 You can technically wear that as you're talking.	0
 Yeah, it's	0
@@ -1374,52 +1374,52 @@ Darn.	0
 Put it in your, yeah.	0
 I guess this board works fine.	0
 So um recall the basic problem which is that um	1
-you have [MASK] and you have like	0
-a lot of different nodes	0
+you have a belief-net and you have like	1
+a lot of different nodes	1
 all contributing to one node.	1
-Right?	0
+Right?	1
 So as we discussed	1
-specifying this kind of thing	0
+specifying this kind of thing	1
 is a big pain and it's so- will take a long time to write down because	1
 for example if these  S  have three possibilities each and this has three possibilities then you know you have	0
 two hundred and forty-three possibilities which is already	0
 a lot of numbers to write down.	0
 So what um helps us in our situation is that	1
-these all	0
+these all	1
 have values in the same set, right? These are all like	1
 saying E_V or A_, right? So it's not just a generalized situation like	1
 I mean	0
 basically we wanna just take a combination of - we wanna view each of these as experts	1
-ea- who are	0
+ea- who are	1
 each of them is making a decision based on some factors	1
 and we wanna sort of combine their decisions	1
 and create	1
-you know, um	0
-sorta weighted	0
+you know, um	1
+sorta weighted	1
 Hmm.	0
 combination.	1
-[MASK]	0
+ROVER, the ROVER decision.	0
 The what decision?	0
-[MASK]	0
+ROVER.	0
 All of their outputs combined to make a decision.	0
 Hmm.	0
 Yeah.	0
 Yeah.	1
-So	0
-the problem is to specify the uh	0
-so the conditional property of	0
+So	1
+the problem is to specify the uh	1
+so the conditional property of	1
 this given all those, right? That's the way	1
-[MASK] are defined, like each node given its parents, right?	1
+belief-nets are defined, like each node given its parents, right?	1
 So um	0
-that's what we want, we want for example [MASK] of um	0
-let's call this guy [MASK] and let's call th	0
-[MASK] right.	0
-So we want probability that [MASK] equals, you know, for example	0
-um [MASK]	0
+that's what we want, we want for example P_ of um	0
+let's call this guy Y_ and let's call these X_one, X_two	0
+X_N, right.	0
+So we want probability that Y_ equals, you know, for example	0
+um E_	0
 given that these guys are	0
-I'll just refer to this as like [MASK]	0
-[MASK] or something,  uh  the co- like all of them?	0
-Given that for example the data says you know, [MASK] or something	0
+I'll just refer to this as like X_ um	0
+hat or something,  uh  the co- like all of them?	0
+Given that for example the data says you know, A_, V_, A_, E_, or something	0
 right?	0
 Yep.	0
 So we would like to do this kind of combination.	0
@@ -1437,7 +1437,7 @@ So	0
 Basically um	0
 what we don't wanna do is to	0
 for every single combination of	0
-[MASK] and every single letter E_, s- give a number because that's	0
+E_ and V_ and A_ and every single letter E_, s- give a number because that's	0
 Mm-hmm.	0
 obviously not	0
 desirable.	0
@@ -1448,11 +1448,11 @@ add up to one, right?	0
 Hmm.	0
 So those are the two things that we uh need.	0
 So	1
-what uh I guess, what Jerry suggested earlier was basically	0
-that we, you know	0
+what uh I guess, what Jerry suggested earlier was basically	1
+that we, you know	1
 view these guys as voting and we just take the uh	1
-we	0
-essentially take um	0
+we	1
+essentially take um	1
 averages, right? So for example	1
 here two people have voted for A_, one has voted for V_, and one has voted for E_, so we could say that	0
 the probabilities are, you know, probability of being E_ is one	0
@@ -1472,9 +1472,9 @@ Yeah.	0
 Is that all O_K?	0
 And that one outcome, that's	0
 What?	0
-it's [MASK]	0
-[MASK] voted	0
-[MASK] voted	0
+it's X_ -	0
+X_one voted for A_	0
+X_two voted for V_ and so forth?	0
 Mm-hmm.	0
 Y- right.	0
 Yeah.	0
@@ -1494,15 +1494,15 @@ the actual	0
 the uh verbal content of what the person said, like what	0
 uh what might be uh somehow more uh important than	0
 the uh	0
-[MASK] matters more i- than [MASK] or	0
+X_one matters more i- than X_two or	0
 Right.	0
 Sure, so we don't wanna like give them all equal weight so currently we've been giving them all weight one fourth	1
 so we could replace this by uh	0
-[MASK]	0
+W_one, W_two, W_three, and W_four	0
 right?	0
 Hmm.	0
 And in order for this to be a valid probability distribution for each um	0
-[MASK] we just need th	0
+X_hat, we just need that the W_'s sum to one.	0
 So they can be for example, you know	0
 you - you could have point one, point three, point two, and point four, say.	0
 That's one.	0
@@ -1517,10 +1517,10 @@ O_K, so -	0
 the probability of	0
 E_ would be uh	0
 so it'd be	0
-so in this case the probability that [MASK] would be	0
+so in this case the probability that Y_ equals A_ would be	0
 uh	0
 Point three.	0
-[MASK] times -	0
+W_ one times - or A_ or - let's see, one  full  quarter times point one	0
 e-	0
 Not one quarter, so	0
 @@  three.	0
@@ -1528,17 +1528,17 @@ No.	0
 these numbers have been replaced with point one, point three, point two, and point four.	0
 So it would be, in this case	0
 So you can view these as gone.	0
-you just add up the - Yeah. So it would - it would - in this case, it would be -  [MASK] would be point three.	0
+you just add up the - Yeah. So it would - it would - in this case, it would be -  probability of A_ would be point three.	0
 O_K.	0
 Probability of	0
-[MASK] - yeah, [MASK] would be point th	0
+B_ - yeah, B_ would be point three and the probability of E_ would be point four.	0
 O_K.	0
 Yeah.	0
 If that - if that was the voting plan.	0
 Yeah.	0
 O_K.	0
 So, alright.	0
-So this is uh step two.	0
+So this is uh step two.	1
 So the next possibility is that um	1
 we've given just a single weight to each expert, right, whereas it might be the case that um	1
 in certain situations one of the experts is more uh reliable and in certain situations the other expert is more reliable.	1
@@ -1546,10 +1546,10 @@ So	0
 the way this is handled is by what's called a mixture of experts, so	0
 what you can have is	0
 you augment these diagrams like this so	0
-you have a new thing called [MASK] O_K? This	1
+you have a new thing called "H_", O_K? This is a hidden variable.	1
 And what this is	0
 is	0
-it gets its input from [MASK] and what it does is it decides	1
+it gets its input from X_one, X_two, X_three, and X_four, and what it does is it decides	1
 which of the experts is to be trusted in this particular situation.	1
 Right?	0
 And then	0
@@ -1558,15 +1558,15 @@ come here.	0
 O_K.	0
 So this is sightly uh more complicated.	0
 So what's going on is that um	0
-[MASK] looks at these four	0
+this H_ node looks at these four	0
 values of those guys and it decides in	0
 given these values	0
 which of these isn't likely to be	0
 more reliable or most reliable.	0
-So [MASK] produces some	1
+So H_ produces some	1
 you know, it produces a number, either one, two, three, or four, in our situation, right?	1
 Now this guy	0
-he looks at [MASK]	0
+he looks at the value of H_	0
 say it's two, and then he just selects the uh	0
 @@  - Yeah, so that's  one  thing you can do, but the  other  - So, are you going to go on and  say  @@  -	0
 thing.	0
@@ -1576,13 +1576,13 @@ Mm-hmm.	0
 Right, so you can have a mixture that	0
 But -	0
 A  weighted  one. So what you can  do,  if you - if you  need  it is to say that - I mean  here  there's a  fourth  parameter. There's a  fifth  parameter.	0
-O_K? which is [MASK]	0
-So let's suppose [MASK] says in situ-  @@  different uh,	0
-O_K, in [MASK] that'	0
+O_K? which is the H_ parameter.	0
+So let's suppose the H_ says in situ-  @@  different uh,  alpha.	0
+O_K, in situation-alpha, that's the weighting factor, but in situation- beta,  it's some  other  weighting factor.	0
 Right.	0
 So you still combine these with weight, but the weights aren't always the same.	0
 That this guy uh detects for you that this is a situation in which you should weight this  more  or  less.	0
-So - so the function of the thing that comes out of [MASK] is very different from the function of the other inputs.	0
+So - so the function of the thing that comes out of H_ is very different from the function of the other inputs.	0
 Correct. It's actually s- it - it -	0
 It's driving how the other four are interpreted.	0
 In- indeed.	0
@@ -1590,7 +1590,7 @@ O_K.	0
 Yeah.	0
 It's - it's - it's conditioning how the other four are  @@ . And what people  do,  in another literature, is  learn  all this stuff. So you learn the weights, you can learn the expert, et cetera. And if you have enough data, then it makes perfectly good sense to  do  this.	0
 Yeah.	0
-So [MASK] passes a vector on to the next node?	0
+So H_ passes a vector on to the next node?	0
 Well now, y- it - it - Well it  could,  or you co- could just pass other -	0
 It could.	0
 It could?	0
@@ -1601,18 +1601,18 @@ Sorry?	0
 Well a vector with three zeros and one one, right?	0
 Well, it  could.  Yeah. If - if -	0
 @@  Yeah, it  could  do  that.	0
-O_K. Uh, you know, uh, uh, a ma- [MASK]	0
+O_K. Uh, you know, uh, uh, a ma- a binary mask.	0
 Oh it's basically to tell the bottom node which one of the situations that it's in	0
 We- yeah. Or w- in  this  case, wh- which one of these guys to pay attention to.	0
-or which one of [MASK]	0
+or which one of the weighting systems	0
 Right, so	0
-W- I was just, if you wanted to pay attention to more than one you could pass a w- [MASK] though too, couldn't you?	1
+W- I was just, if you wanted to pay attention to more than one you could pass a w- a weighting s- system though too, couldn't you?	1
 I mean the way you desc-	0
 I mean, the way you -	0
-Well, that - yo- You  could  but I think what - that's not - that's  harder  than to just say they're a discrete number of situations and this says, you know, hey, you're in [MASK]	0
+Well, that - yo- You  could  but I think what - that's not - that's  harder  than to just say they're a discrete number of situations and this says, you know, hey, you're in situation-alpha.	0
 O_K.	0
 Um	0
-Does [MASK] have to have another input to tell it alpha, beta, whatever, or is the -	0
+Does H_ have to have another input to tell it alpha, beta, whatever, or is the -	0
 No.	0
 that's determined by what the experts are saying, like the type of situ- O_K.	0
 Yeah.	0
@@ -1622,20 +1622,20 @@ O_K.	0
 O_K.	0
 And it's s- it actually often does. So it is -	0
 I mean	0
-It - it just seems that like without that - that outside input that you've got a situation where, you know, like if - if uh [MASK]	0
-says no, you know, a low value coming out of X_on- or i- if [MASK] says no then ign	0
+It - it just seems that like without that - that outside input that you've got a situation where, you know, like if - if uh X_one	0
+says no, you know, a low value coming out of X_on- or i- if X_one says no then ignore X_one, you know, I mean that seems like	0
 Yeah.	0
 Yeah.	0
-Yeah, well could be things like if [MASK] say yes then i- ignore [MASK] also.	0
+Yeah, well could be things like if X_two and X_three say yes then i- ignore X_one also.	0
 that'd be weird, right?	0
 Oh, O_K.	0
 Yeah.	0
 O_K.	0
-Or if [MASK] is greater th	0
+Or if X_two is greater than X_- I could imagine i- all  sorts  of garbage.	0
 Alright, right.	0
 And  so these - so this is - this is one collection of technology that we could bring to bear. Yeah.	0
 Oh	1
-The situations that [MASK] has, are they built int	1
+The situations that H_ has, are they built into the net or	1
 Depends.	0
 So  @@  you -	0
 O_K, so they - they could either be hand coded or learned or	1
@@ -1652,10 +1652,10 @@ But, I still think it's a nice idea if the architecture  supports  it.	0
 Yes.	0
 So that, you know, you say, "here's the  design  and if enough data comes along uh, you co- you could use it - use the technology to - to  do  that."	0
 I still have trouble understanding the  very  first step, maybe just because I'm approaching it from the very wrong end. I don't know.	0
-So, this is true for the case that [MASK] voted	0
+So, this is true for the case that X_one voted for A_, X_two voted for B_ ,	0
 Yes.	0
 and so forth.	0
-Now, [MASK] could potentially also vote  [MASK] .	0
+Now, X_one could potentially also vote  E_ .	0
 That wo- that would be another sort of i-  Absolutely.	0
 So you specify one of these things for every one of those possi-	0
 possible situations.	0
@@ -1682,11 +1682,11 @@ Mm-hmm.	0
 Mm-hmm.	0
 O_K.	0
 Yeah, but that's my question, like how do we - I mean, how do we have data about something like um	0
-um [MASK]	0
-or [MASK]	0
+um endpoint sub-E_,	0
+or endpoint sub uh  you know s- S_?	0
 Well, basically you would say, based on - in this dialogue that we have	0
 Mmm.	0
-which one of the things that they said eh whether it was [MASK] or whatever	0
+which one of the things that they said eh whether it was the entity relations or whatever	0
 Mmm.	0
 was the thing that determined what mode it was, right?	0
 So this is what we wanna learn.	0
@@ -1699,7 +1699,7 @@ you have a - can you bring up the function thing?	0
 Um	0
 w- where is the thing that allows you to sort of	0
 That's on the added variable, isn't it?	0
-Oh [MASK] is that it?	0
+Oh function properties, is that it?	0
 Hmm, I guess not.	0
 Yeah, that's	0
 No.	0
@@ -1708,7 +1708,7 @@ O_K.	0
 And um it so e- either it'll allow us to do everything which I think is unlikely, I think more likely it'll allow us to do very few of these things	0
 and in that case we'll have to um	0
 just write up little things that allow you to um	0
-create such C_P_U's on your own in [MASK]	0
+create such C_P_U's on your own in the java base format.	0
 Yeah.	0
 Yeah.	0
 Yeah, I was assuming that's what we'd always do because	0
@@ -1716,7 +1716,7 @@ yeah I was assuming that's what we'd always do, it's	0
 Right.	0
 Yeah.	0
 Ah.	0
-Well in terms of [MASK] I think it's basically what you see is what you get in	1
+Well in terms of java base I think it's basically what you see is what you get in	1
 I don't	0
 yeah, I would be surprised if it supports anything more than what we have right here.	1
 So	0
@@ -1735,7 +1735,7 @@ O- O_K.	0
 O_K.	0
 I'm just wondering, because in terms of, you know, I mean	0
 uh w-  the figure - I was thinking about this figure that we talked about, fifty constructions or whatever that's uh that's a whole lot of constructions  and um you know, I mean one might be f-	1
-fairly pleased with getting a really good analysis of	0
+fairly pleased with getting a really good analysis of	1
 five maybe ten in a summer	1
 so, I mean I know we're going for sort of a	1
 rough and ready.	1
