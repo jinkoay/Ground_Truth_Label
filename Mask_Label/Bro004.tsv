@@ -1,0 +1,793 @@
+Wh- what causes the crash?	0
+Oh, maybe it's the turning - turning off and turning on of the mike, right?	0
+Uh, you think that's  you?	0
+O_K. So, um I guess we are	0
+um  gonna do the digits at the end.	0
+Channel - channel three, yeah. O_K.	0
+Yeah,  that's  the  mike  number  there,	0
+Is it written on her  sheet,  I believe.	0
+Watch this.   Yep, that's me.	0
+Ah,   era el cuatro.   Yeah.	0
+Ah - yeah, it's O_K.	0
+And I'm channel uh  two  I think,  or channel -	0
+I think  I'm  channel two.	0
+Oh, I'm channel - must be channel one. Channel one?  Yes, O_K.	0
+I also copied uh the results that we all got in the mail I think from uh -	0
+So where are we on -	1
+Uh so.  uh - We - So  As I was already said, we - we mainly focused on	1
+uh four kind of features. [MASK]	1
+I decided to talk about that.	0
+Uh, and we focused for the - the test part on the English and the Italian.	1
+Um. We've trained uh several neural networks on - so - on [MASK] and on the Italian data and also on the broad uh  English uh French and uh Spanish databases.	1
+Mmm, so there's our result tables here, for the tandem approach, and um, actually what we - we  @@  observed is that if the network is trained on the task data it works pretty well.	1
+I can't get  back  far enough.	0
+O_K. Our - our uh -	0
+There's a -  We're pausing for a photo -	0
+How about over th- from the front of the room?	0
+We're pausing for a photo opportunity here. Uh.	0
+Oh wait wait wait wait wait. Wait. Hold on. Hold on. Let me give you a black screen.	0
+Get out of the - Yeah.	0
+Because we  said  we were gonna  do  this and I  just  remembered.	0
+O_K, this - this would be a  good section for our silence detection.	0
+about the training data -	0
+Yeah, so if the network is trained on the task data um  tandem works pretty well. And uh actually we have uh, results are similar	0
+Do you mean if it's trained  only  on -	0
+On data from just that task, that language?	0
+But actually we didn't train network on  uh both types of data I mean	1
+uh  phonetically ba- phonetically balanced uh data and task data.	0
+We only did  either  task - task data or  uh broad  data.	1
+So how - I mean -	0
+clearly it's gonna be  good  then but the question is how much  worse is it	0
+if you have  broad  data?	0
+From what I saw from the earlier results, uh I guess last week,	0
+if you   trained  on one language and  tested  on another, say, that	0
+the results were - were relatively  poor.	0
+But - but the question is if you  train  on one language	0
+but you have a  broad  coverage	0
+and then test in another,	0
+does that -  is that  improve  things	0
+If we use the same language?	0
+[MASK] and test on  Italian  digits,  you do poorly,	0
+I don't have the  numbers  in front of me, so I'm just  imagining.	0
+Yeah but I did not uh do that. We -	0
+So, you didn't train on  TIMIT and test on -  on Italian digits, say?	0
+No, we did four - four kind of - of testing, actually.	0
+The first testing is  with task data -	1
+So, with nets trained on task data.	0
+So for Italian on the Italian speech  @@ .	0
+The second test is trained on a single language	1
+um with broad  database,  but the same language as the t- task data.	1
+But for Italian we choose Spanish which  we assume is close to Italian.	1
+The third test is by using, um	1
+W- which in - It has three languages. That's including the w-	1
+the one that it's -	1
+digits.  I mean it's -	0
+is  not  digits, it's the broad	1
+And the fourth test is uh  excluding from these three languages the language  that is  the task language.	1
+Oh, O_K, yeah, so, that  is  what I wanted to know.	0
+I just wasn't  saying  it very well, I guess.	0
+The error rate increase u- of - of -	1
+So this is not so bad. And then when we jump to the multilingual data it's uh it become worse and, well	1
+Around uh, let's say,  twenty perc- twenty percent further.  So.  Yeah.	0
+Twenty to - to thirty percent further. Yeah.	1
+And so, remind me, the  multilingual  stuff is  just  the broad data. Right?	0
+It's not the digits. So it's the combination of  two things there.	0
+It's  removing the  task specific  training and  it's adding other languages.	0
+But the first step is al- already removing the task s- specific from - from -	0
+So. And we lose -	0
+So they were sort of  building   here? O_K?	0
+Uh  So, basically when it's  trained  on the - the multilingual broad data	0
+um or number - so, the - the  ratio of our error rates uh with the  baseline error rate is around  uh one point one.	0
+And it's something like one point  three  of - of the	0
+I- i- if you compare everything to the first case at the baseline,	0
+you get something like one point one	0
+for the - for the using the same language but a different task, and something like one point three	0
+for three - three languages	0
+Uh same language we are at uh - [MASK]	0
+I - I - I'm sorry. I - I - I meant something different by baseline	0
+Tas- task data we are u-	0
+So let me - let me -	0
+O_K, fine. Let's - let's use the conventional meaning of baseline. I - I -	0
+By baseline here I meant	0
+uh using the task specific data.	0
+uh, because that's what you were just doing with this ten percent.	0
+So I was just - I just trying to understand  that.  So if we call	0
+a factor of w- just  one,	0
+just normalized to  one,  the word error rate	0
+uh different  words,  I'm sure, but -	0
+but uh, uh the same  task and so on.	0
+If we call that "one",  then what you're saying is	0
+that the word error rate  for the same language but using  uh  different  training data than [MASK]	0
+Yeah, it's around one point one. Yeah.	0
+three languages  including  the English,	0
+it's something like one point  three.	0
+That's  what you were just  saying,  I think.	0
+Uh,  more  actually. If I -	0
+So, it's an  additional  thirty percent.	0
+What would you say?  Around one point four yeah.	0
+And if you  exclude   English,	0
+from this combination, what's  that?	0
+If we  exclude   English,   um  there is  not much difference with the  data  with  English.	0
+Do you see? Because -	0
+No, that - that's important. So what - what it's saying here is just that "yes, there is a reduction	0
+when you don't have  um	0
+Wait a minute, th- th- the -	0
+No, actually  it's  interesting.  So it's -	0
+So when you go to a different  task,  there's actually not so  different. It's when you went to these -	0
+So what's the difference between two and three?	0
+Between the one point one case and the one point four case? I'm confused.	0
+Yeah. The only difference it's - is that it's multilingual -	0
+Cuz in both - in both -  both  of those cases, you don't have the same  task.	0
+So is - is the training data for the - for this one point four case -	0
+does it  include  the training data for the one point one case?	0
+Yeah, a fraction of it.	0
+A part of it, yeah.	0
+How m- how much bigger is it?	0
+It's two times, actually? Yeah.	0
+No, the  multilingual  databases are two times the  broad English  data.	0
+We just wanted to keep this, w- well, not too  huge.  So.	0
+but it  includes  the - but it  includes  the broad English data.	0
+I think so.  Do you  -	0
+And the broad English data is what you got this one point one  with. [MASK]	0
+when you add in more training data but keep the neural net the same size,	0
+O_K, now all of this is -	0
+We - we - we may just need to uh -	0
+So I mean it's interesting that h- going to a different -	0
+different  task  didn't seem to  hurt  us that much, and going to a different  language	0
+It doesn't seem to matter -	0
+The difference between  three  and  four  is not particularly great, so that means that	0
+whether you have the  language  in or  not  is not such a big deal.	0
+we  may  need to have more	0
+of uh things that are similar to a target language or - I mean.	0
+You have the  same  number of parameters in the  neural  net, you haven't increased the size of the neural net,	0
+and maybe there's just -	0
+complexity to it to represent	0
+the variab- increased variability in the -	0
+That - that could be.	0
+So  these  are results with	0
+that you're describing now, that	0
+they are pretty similar for the different features or -	0
+Uh, let me check. Uh.	0
+Um. The - Yeah. [MASK] the -	1
+This is quite the same  tendency,	1
+with a slight increase of the error rate,	1
+uh if we go to - to TIMIT.	1
+And then it's - it gets worse with the multilingual.	1
+Yeah. There - [MASK] is that	1
+[MASK] with the highly mismatched  condition	1
+but  slightly   - slightly worse  for the well matched condition.	1
+I have a suggestion, actually, even though it'll delay us slightly, would - would you mind	0
+running into the other room and making	0
+copies of this?  Cuz we're all sort of -	0
+If we c- if we could look at it, while we're talking, I think  it 'd be uh -	0
+Uh, I'll - I'll sing a song or dance or something while you  do it, too.	0
+So um - Go ahead. Ah, while you're gone I'll ask s- some of my questions.	0
+this way and just slightly to the left, yeah.	0
+What was - Was this number  forty or - It was roughly the same as this one,  he said?  When you had the  two  language versus the  three  language?	0
+That's what he was  saying.	0
+That's where he removed English, right?	0
+It sometimes, actually, depends on what features you're using.	0
+But - but i- it sounds like -	0
+I mean.  That's  interesting because	0
+it - it  seems  like what it's saying is  not  so much that you got  hurt	0
+uh didn't have so much representation of  English,	0
+because in the  other  case you don't get hurt  any   more,   at least when	0
+it seemed like uh it - it might simply be a case that you  have  something that is just much more  diverse,	0
+but you have the same number of parameters  representing  it.	0
+Mm-hmm.  I wonder - were um all three of these nets  using the same output? This  multi-language    uh labeling?	0
+From  this  you would say, "well, it doesn't really  matter  if we put Finnish	0
+into  the training of the neural net,	0
+you know, Finnish in the test data." Right?	0
+Well, it's - it sounds -	0
+I mean, we have to be  careful,  cuz we haven't gotten a  good  result yet.	0
+And comparing different  bad  results can be  tricky.	0
+But I - I - I -	0
+I think it  does  suggest that it's not so much uh	0
+uh cross   language  as cross  type  of  speech.	0
+It's - it's um -	0
+But we  did  - Oh yeah, the other thing I was  asking  him, though, is that I  think  that in the case -	0
+Yeah, you - you  do  have to be careful because of com- compounded results. I think we got some earlier results	0
+in which you  trained  on one language and  tested  on  another  and you didn't have	0
+three,  but you just had  one   language. So you trained on	0
+one type of digits and  tested  on  another.  Didn-	0
+Wasn't there something of that? Where you,	0
+say, trained on Spanish and tested on - on T_I-digits, or the other way around?	0
+I thought there was  something  like that,	0
+that he showed me  last week.	0
+We'll have to wait till we get -	0
+Yeah, that would be interesting.	0
+This  may  have been what I was asking before, Stephane, but -	0
+but, um, wasn't there  something  that you did,	0
+where you  trained   on  one  language and  tested  on  another?	0
+I mean no - no  mixture  but just -	0
+I'll get it for you.	0
+We've never just trained on one lang-	0
+Training on a  single  language, you mean, and  testing  on the  other  one?	0
+So the only  task that's similar to this is the training on  two  languages, and	0
+But we've  done  a bunch of things where we just trained on one  language.  Right?	0
+I mean, you haven't - you haven't done  all  your tests on multiple  languages.	0
+Either thi- this is test with  uh the  same  language  but from the  broad  data, or it's test with  uh  different  languages	0
+also  from the broad data,  excluding  the -	0
+The  early  experiment that -	0
+So, it's - it's three or - three and four.	0
+Did you do different languages from digits?	0
+on one language and using the net	0
+to recognize on the other?	0
+See, I  thought  you  showed  me something like that last  week.	0
+You had a - you had a little -	0
+No, I don't  think  so.	0
+So, I mean wha- what's the - This - this chart - this table that we're looking at  is um,	0
+show- is [MASK] or - ?	0
+Bigger is worse.  This is error rate, I think.	0
+So you have uh basically two  uh parts. [MASK]	0
+and it's divided in three  rows  of four - four rows each.	0
+And the first four rows is well-matched, then the s- the second group of four rows is mismatched, and	0
+And then the lower part is for Italian and it's the same -	0
+It's - [MASK] I mean. So it's	0
+with different kind of features	0
+and what appears in the	0
+uh left column is  the networks that are used for doing this.	0
+What was is that i-	0
+What was it that you had	0
+done  last week when you showed - Do you remember?	0
+Wh- when you showed me  the - your table last week?	0
+It- It was part of these results.	0
+So where is the baseline  for the T_I-digits  located in here?	0
+It's uh the one hundred number.	0
+It's, well, all these numbers are the ratio	0
+with respect to the baseline.	0
+So this is word - word error rate, so a  high  number is  bad.	0
+Yeah, this is  a word error rate ratio.	0
+seventy point two means that	0
+we reduced the error rate uh by thirty - thirty percent. So.	0
+so if we take uh	0
+uh with on-line  normalization and  delta-del- so that's this thing you have circled here	0
+Actually I -  I uh forgot to say that  the multilingual net are trained	0
+on  uh  features without the s- derivatives	0
+uh but with  increased frame numbers. Mmm.	0
+And we can - we can see on the first line of the table that it - it -	0
+it's  slightly   - slightly worse when we don't use delta but it's not -	0
+Uh O_K. So, it's  uh   broader  vocabulary.	0
+O_K so I  think  what I'm -	0
+what I saw in your smaller chart that I was thinking of was -	0
+there were  some  numbers I saw, I think, that  included  these multiple languages	0
+I - I think that was all it was. You had some very limited results that - at that point	0
+which showed  having in these - these other languages. In fact it might have been just this last category,	0
+where - where English was  removed.	0
+So that was cross language	0
+and the - and the result was quite  poor.	0
+we  hadn't  seen yet was that if you added  in  the English, it's  still  poor.	0
+Um now, what's the noise condition	1
+um  of the training data -	1
+Well, I think this is what you were explaining. The  noise  condition is the same -	1
+uh, in all these cases	0
+So there's not a  statistical - sta- a strong st-	1
+No these are the s- s- s- same noises, yeah.	1
+uh the training and test	1
+and yet we're seeing  some  kind of effect -	1
+At least - at least for the first -	1
+So there's  some  kind of a - a - an effect from having these - uh this broader coverage	0
+Now I  guess  what we should try doing with this is try	0
+testing these on u- this same sort of thing on -	0
+you probably  must  have this	0
+lined  up to  do.  To try the same t-	0
+with the  exact  same  training,  do testing on	0
+On - on um -	0
+Um, oh I well,  wait  a minute. You  have  this  here,  for the  Italian.   That's  right.  O_K, so,	0
+Yeah, so for the Italian the results are  uh  stranger um	1
+So what appears is that perhaps Spanish is	1
+not very close to Italian	1
+when using the - the network trained only on Spanish it's -	1
+Well, I mean, let's see.	0
+Is there any difference in -	0
+So it's in  the uh -	0
+when you  train  on English	0
+and  uh  and - and  test  on -	0
+No, you  don't  have training on English testing -	0
+There - there is -  another  difference, is that the noise - the noises are different. Well,	1
+For - for the Italian part I mean the	1
+And the noise is different  in th-	0
+And perhaps the noise are	1
+quite different from the noises  in the speech that  Italian .	1
+Do we have any um	0
+uh in  any other language that um	0
+Can I ask something real quick?	0
+In - in the  upper  part -	0
+it  looks  like the  very   best  number is sixty point nine?	0
+and that's in the uh -	0
+sort of the middle column?	0
+I- is  that   a  noisy  condition?	0
+So that's  matched  training? Is  that  what that  is?	0
+It's - no, the third part, so it's uh  highly mismatched.	0
+So. Training and  test noise are different.	0
+So - why do you get your  best   number	0
+Wouldn't you get your  best  number in the  clean  case?	0
+Well, it's relative to the	0
+Ah, O_K so these are not -	0
+And then - so, in the - in the um -	0
+in the   non-mismatched   clean  case,	0
+Yeah.  But it's not a  clean  case. It's  a noisy case but	0
+uh training and test noises are the same.	0
+Oh! So this upper third?	0
+So it's always noisy basically,  and,  well, the -	0
+So uh, I think this will take some  looking at, thinking about. But,	0
+what is  currently  running, that's -	0
+just filling in the holes here or - or - ?	0
+Uh, no we don't plan to fill the holes but	1
+actually there is something important,	1
+is that  um we made a lot of assumption concerning the on-line normalization	1
+uh the  approach that we were using	1
+leading to very good results	1
+if you look at the - at the left of the table,	0
+with eighty-six, one hundred, and forty-three and seventy-five,	0
+these are the results we obtained for Italian	0
+And the, mmm - what's  in the table, just  at [MASK]  on-line normalization column,	0
+so, the numbers seventy-nine, fifty-four and  uh forty-two	0
+are the results obtained by uh Pratibha with  uh his on-line normalization - uh  her  on-line normalization approach.	0
+Where is that? seventy-nine, fifty	0
+Uh, it's just sort of sitting right on the uh - the column line.	0
+And the previous result, eighty-six and so on,	0
+are with our  [MASK] So	1
+what we see that - is - there is that um	1
+uh the way we were doing this was not correct, but  still	1
+the networks  are very good.	0
+When we use the networks	1
+our number are better that	1
+So, do you know what was  wrong  with the on-line normalization, or - ?	0
+Yeah. There were diff- there were different things and	1
+basically,  the first thing is the mmm,	1
+alpha uh  value. So, the recursion  uh  part.	1
+I used point five percent,  which was the default value in the -	1
+And Pratibha used  five  percent.	1
+So it adapts more  quickly	0
+Um, but, yeah. I assume that this was not important because	1
+uh previous results from - from Dan and - show that basically	1
+the  both - both values g- give the same - same  uh results.	1
+[MASK] but it's not true on Italian.	1
+Uh, second thing is the initialization of the  stuff. Actually,	1
+uh what we were doing is to start the recursion from the beginning of the  utterance.	1
+And using initial values that are the global mean and variances  measured across the  whole  database.	1
+And Pratibha did something different is that he - uh she initialed the um values of the mean and variance	1
+by computing  this on the  twenty-five first frames of each utterance.	1
+Mmm. There were other minor differences, the fact that	1
+she used fifteen  dissities  instead s- instead of thirteen,	0
+Uh, but the main differences concerns the recursion.	0
+Uh, I changed the code	1
+uh and now we have [MASK]	1
+We - It - it's  slightly    uh different because	0
+I don't exactly initialize the same way she does.	0
+mmm, I don't wait to a fifteen - twenty-five - twenty-five frames	0
+before computing a mean and the variance	0
+to e- to - to start the recursion.	0
+I - I use the on-line scheme	0
+and only start the re- recursion after the twenty-five -  twenty-fifth frame.	0
+uh I retrained  the networks with  these - well, the - the - the networks are retaining with these new  features.	1
+So basically what I expect is that	0
+these numbers will a little bit go down but	0
+perhaps not - not so much	0
+because  I think the neural networks learn perhaps	0
+even if the features are not  normalized. It - it will learn how to normalize and -	0
+O_K, but I think that	1
+given the pressure of time we probably want to draw -	1
+because of  that    especially,  we wanna draw some  conclusions  from this, do some  reductions	1
+in what we're  looking  at,	0
+and make some  strong  decisions for what we're gonna do  testing  on before next  week.	1
+So do you - are you - w-	0
+did you have something going on, on the side, with uh multi-band  or - on - on this, or - ?	0
+No, I - we plan to start this uh so, act- actually we have discussed uh	1
+more as a - as a research and -	1
+and  we were thinking perhaps that	1
+uh  the way we use the tandem is not -	1
+Uh, well, there is basically perhaps a flaw in the - in the - the stuff because	0
+we  trained the networks -	1
+If we trained the networks on the - on	1
+a language and a t- or a specific  task,	1
+um, what we ask is - to the network - is to put the bound- the decision boundaries somewhere in the space.	1
+And uh  mmm and ask the network to put one,	1
+at one side of the - for - for a particular phoneme at one side of the boundary - decision boundary and one for another phoneme at the other side.	1
+And  so there is kind of reduction of the information there that's not correct because if we change task	1
+and if the phonemes are not in the same context in the new task,	1
+obviously the  decision boundaries are not -	1
+should not be at the same  place.	1
+But the way the feature gives -	1
+The - the way the network gives the features is that it reduce completely the -	1
+it removes completely the information -	1
+a lot of information from the - the features	1
+placing the decision boundaries at  optimal places for	1
+one kind of  data  but	1
+this is not the case for another kind of data.	0
+It's  a  trade-off,  right?  Any-  anyway  go  ahead.	0
+Yeah. So uh what we were thinking about is perhaps	1
+to solve this problem is increase the number of  outputs of the neural networks.	1
+um phonemes within context and,	0
+well, basically context dependent phonemes.	1
+Maybe. I mean, I - I think	0
+you could make  the same argument,	0
+it'd be just as legitimate,	0
+Yeah but, we know that -	0
+th- things get  better  with context  dependent    versions.	0
+Ye- yeah but here it's something different. We want to have features uh well,	0
+Yeah,  but it's  still  true	0
+you're - you're coming up with something to represent,	0
+you're coming up with a set of variables	0
+things that vary w- over context.	0
+Uh, and you're  putting it all  together,	0
+ignoring  the differences in context.	0
+it's true for a tandem system.	0
+So, for that reason, when you - in -	0
+in - in a  hybrid  system,	0
+when you incorporate  context  one way or another,	0
+you  do  get better  scores.	0
+O_K?  But I - it's - it's a big  deal	0
+I - I'm - I'm sort of -	0
+And  once  you - the other thing is that  once  you represent - start representing more and more  context	1
+to a particular task in  language.	1
+the  acoustics   associated  with  uh	0
+a particular context, for instance you may have some kinds of contexts that will  never  occur	1
+in one language and will occur  frequently  in the  other,  so the qu- the issue of getting enough  training	1
+for a particular kind of  context  becomes harder.	1
+We already actually don't have a huge amount of training data	1
+I mean,  the - the way we - we do it now is that we have a neural network and	1
+the net- network is trained almost to give binary decisions.	1
+binary decisions about  phonemes.  Nnn -	0
+But I mean it - it - it  does  give a  distribution.	0
+and  it  is  true that if there's two phones that are very  similar,	0
+i- it may prefer one but it will	0
+give a reasonably high value to the other, too.	0
+So basically it's almost binary decisions and	0
+um the idea of using more  classes is	0
+to  get something that's  less binary decisions.	0
+Oh no, but it would  still  be even  more  of a binary decision.	1
+It - it'd be even  more  of one.	0
+Because then you would say	0
+But - yeah, but -	0
+that in - that this phone in  this  context is a  one,	0
+but the  same  phone in a slightly  different  context is a  zero.	0
+That would be even - even  more  distinct of a binary decision.	1
+I  actually would have thought you'd wanna go the  other  way and have  fewer  classes.	1
+Uh, I mean for instance,	0
+the - the thing I was arguing for  before,  but	0
+again which I don't think we have time to  try,	0
+is something in which you would modify the code so you could train [MASK]	0
+cuz then that would - that would go -	0
+that would be much  broader  and cover many different  situations.	0
+But if you go to  very  very  fine  categories, it's  very   binary.	0
+Mmm.  Yeah, but I think -	0
+Yeah, perhaps you're right, but you have more classes so  you - you have more information in your features. So,	0
+Um  You have more information in the	0
+But still the information is relevant because it's - it's information that helps to discriminate,	0
+if it's possible to be able to discriminate	0
+among the phonemes in context.	0
+Well it's - it's -	0
+it's an interesting thought. I mean we - we could disagree about it at length	1
+but the - the  real  thing is if you're interested in it you'll probably try it and -	1
+But - but what I'm  more  concerned with now, as an operational level, is	1
+uh, you know, what do we do in four or five days?	0
+so we have  to be concerned  with	0
+Are we gonna look at any combinations of things, you know once the nets get retrained so you have this problem out of it.	0
+Um, [MASK] Are we gonna look at combinations of things?	0
+Uh, what  questions  are we gonna ask,	0
+uh now that, I mean,	0
+Um, how are we going to  combine	0
+with what  they've  been focusing on?	0
+Uh we haven't been doing any of [MASK]	0
+And they, although they don't  talk  about it in this  note,  um,	0
+there's um,  the issue of the	0
+um  Mu law   business  uh  versus the logarithm,	0
+So what i- what is going on right  now?  What's right - you've got	0
+Are there - is there - [MASK]  trainings - testings going on?	1
+I - I - [MASK]	1
+The combination, yeah. But I haven't result  at this moment.	1
+And is this with the revised  on-line normalization?	0
+Ye- Uh, with the old   older , yeah.	0
+So it's using all the nets for that but again we have the hope that it -	0
+We have the hope that it -	0
+maybe it's not making too much difference,	0
+Uh so there is this combination, yeah. Working on combination obviously.	0
+plan to work also on the idea of using both	1
+we could reduce the number of outputs of the neural network.	0
+because we still have the features.	0
+different kind of  broad phonetic categories.	1
+Basically we have three  types of broad phonetic classes.	1
+Well, something using place of articulation which - which leads to  nine, I think,  broad classes.	1
+Uh, another which is based on manner, which is - is also something like nine classes.	0
+And then,  something that combine both,	0
+and we have  twenty f-  twenty-five?	0
+So like, uh,  oh, I don't know,	0
+like back vowels, front vowels.	0
+So what you do -	0
+um I just wanna understand so	0
+You have  two  net or  three  nets?  Was this?	0
+How many - how many nets do you have?	0
+For the moments we do not - don't have nets, I mean,	0
+Begin to work in this.	0
+Were we just changing  the labels to retrain nets  with fewer out- outputs.	0
+But - but I didn't understand -	0
+the software currently just has - uh a - allows for I think, the one - one hot	0
+output. So you're having multiple nets and combining them,  or - ?	0
+Uh, how are you - how are you coming up with -	0
+If you say  uh  If you have a  place   characteristic and a  manner  characteristic, how do you -	0
+I think they have one output.	0
+It's the single net, yeah.	0
+Oh, it's just one net.	0
+um  twenty-seven outputs if we have twenty-seven classes, yeah.	0
+So it's - Well, it's basically a standard net with fewer  classes.	1
+So you're sort of going the  other  way of what you were saying a bit ago instead of - yeah.	0
+Yeah, but I think - Yeah.	0
+I don't think this  will work  alone.	0
+I think it will get worse because	1
+Well, I believe the effect that - of - of too	1
+reducing too much the information is	1
+basically - basically what happens and -	1
+But you think if you include that	1
+Yeah, because  there is perhaps one important thing that the net	0
+brings, and [MASK] show-   showed  that, is	0
+the distinction between  sp- speech and  silence	0
+Because these nets are trained on well-controlled condition. I mean the labels are obtained on clean speech, and we add noise after.	0
+So this is one thing	0
+But perhaps, something intermediary using also	0
+some broad classes could - could bring so much more information.	0
+So - so again then we have these broad classes	0
+well,  somewhat  broad. I mean, it's twenty-seven instead of sixty-four,	0
+And you have the  original  features.	0
+And then uh, just to remind me, all of that goes  into -	1
+uh, that all of that is [MASK] or - ?	1
+There will probably be, yeah, [MASK] or	1
+This is  still something  that yeah, we  don't know -	0
+Well no, I think -	0
+So there's a question of whether you would -	1
+Whether you would transform  together  or just  one.	1
+Might wanna try it both ways.	1
+So that's something that you're - you  haven't  trained yet but are  preparing  to train, and -	0
+So I think, you know, we need to	1
+choose the - choose the experiments carefully,	1
+so we can get uh key -	1
+leave other ones  aside  even if it	0
+leaves incomplete  tables   someplace, uh	0
+uh, it's - it's really time to -	0
+Um, let me pass this out,	0
+did I interrupt you? Were there other things that you wanted to -	0
+Uh, no. I don't think so.	0
+O_K, we have  lots of them.	0
+So they're - [MASK] I guess they mean	1
+So again, it's the silence -	1
+So they've just trained up a net	1
+which has two outputs, I believe.	0
+just taking the nets we already  had   and summing up the probabilities.	0
+To get the speech -	0
+voice activity detection, or else just using the silence,	0
+if there's only  one   silence output.	0
+Um  And, he didn't think they  had,  um.	0
+But on the other hand, maybe they can get by with a smaller net	0
+and  maybe  sometimes you don't  run  the other, maybe there's a  computational  advantage to having a separate net, anyway.	0
+the  results  look pretty  good.	1
+Um,  I mean, not  uniformly.	0
+I mean, there's a - an example or two  that you can find, where it made it slightly worse, but	0
+uh in - in  all  but a  couple	0
+But they have a question of the result. Um how are  trained  the - [MASK]	0
+I- I'm sorry. I don't understand your question.	0
+I don't know exactly  how   they are obtained.	0
+Training, with the training test of each -	0
+need a set of -	0
+a set of training  to obtain the filter.	0
+And maybe  for the Italian, for [MASK] these filter are - are obtained with their own training set.	0
+That's - that's - so that's a -	0
+that's a very good question, then -	0
+"yeah, [MASK]" In the -	0
+from a  completely  different  database,  right?	0
+Yeah, because maybe it the same situation that the neural network training with their own	0
+So that's a good question.   Where  does it come from?	0
+but uh to tell you the  truth, [MASK] so much when I - I was looking at it I was  mostly thinking	0
+I don't understand also what is -	0
+This is  mostly  better than baseline, although in some cases it's a little worse, in a couple cases.	0
+Yeah, it  says  what it  is.  But I don't how that's different  from -	0
+I think this was -	0
+I think this is the same point we were at	0
+when - when we were up in Oregon.	0
+I think [MASK] Yeah, it's  this.	0
+It should be that, yeah.	0
+[MASK] Does - does anybody know  how  they're using it?	0
+Yeah.  So - so what they're doing here is,	0
+i- if you look down at the block diagram,	0
+they estimate - they get a -	0
+they get an estimate  of whether it's speech or silence,	0
+basically they're trying to find  stretches.	0
+The median filter is enforcing a - i- it having some  continuity.	0
+You find  stretches  where [MASK] and the -	0
+the median  filter  say that there's a stretch of  silence.	0
+And then it's going through and just throwing the  data  away.	0
+So it's - it's -	0
+I don't understand. You mean it's throwing out frames?	0
+It's throwing out chunks of frames, yeah.	0
+There's - the - the median filter is enforcing that it's  not  gonna be single cases of frames, or isolated frames.	0
+So it's throwing out frames	0
+and the thing is  um,	0
+Yeah, that's what I was just gonna ask. How can you just throw out frames?	0
+you - you  can,  right? I mean y- you - you -	0
+it  stretches  again. For single frames I think it would be pretty  hard.  But if you say speech starts here, speech ends there.  Right?	0
+Yeah, you can basically remove the - the frames from the feature - feature files. And.	0
+Yeah, so I mean in the - i- i- in the - in the  decoding,  you're saying that we're gonna decode from here to here.	0
+I think they're - they're - they're treating it,	0
+you know, like uh -	0
+well, it's not isolated word, but - but connected, you know, the - the -	0
+In the text they say that this - this is a  tentative  block diagram of a  possible  configuration we could  think  of.	0
+So that sort of sounds like they're not  doing  that yet.	0
+Well.  No they - they have  numbers  though, right?  So I think they're - they're doing something like that. I think that they're - they're -	0
+I think what I mean by tha- that is they're trying to come up with a block diagram that's plausible for the standard.	0
+In other words, it's - uh -	0
+I mean from the point of view of - of uh reducing the number of bits you have to transmit it's not a bad idea to detect silence  anyway.	0
+I'm just wondering what exactly  did  they do up in  this  table if it wasn't this.	0
+But it's - the thing is it's that - that - that's - that's I - I -	0
+Certainly it would be tricky about it intrans- in transmitting  voice,	0
+uh uh for  listening  to, is that these kinds of things	0
+uh cut  speech  off  a lot. Right?	0
+Plus it's gonna introduce delays.	0
+It  does  introduce delays but they're claiming that it's - it's within the -	0
+And [MASK] and b-  what he's suggesting this here is a parallel path so that it doesn't introduce	0
+I- [MASK]  down here -	0
+I  don't know -  Wh- what's [MASK]	0
+Yeah, you  would  know that.	0
+so that - I think	0
+he - well, by -	0
+by saying this is a b- a tentative block di- diagram I think means	0
+if you construct it this way, this - this delay would work in that way and then it'd be O_K.	0
+They - they clearly  did  actually  remove    silent  sections in order - because they	0
+got these   word  error rate  results.	0
+I think that it's - it's  nice  to do that in this because in fact, it's gonna give a better word error result	1
+and therefore will help within an evaluation.	1
+Whereas to whether this would actually be in a final standard, I don't know.	1
+Uh, as you know,  part  of the problem with evaluation right now is that the  word models are pretty bad and nobody wants -	1
+has - has approached improving them.	1
+So  it's possible that a lot of the problems	0
+with so many insertions and so forth would go away if they were better word models  to begin with.	0
+this might just be a temporary thing. But -	0
+But, on the  other  hand, and maybe - maybe it's a decent idea.	0
+The question we're gonna wanna go  through next week [MASK] I guess is given that we've been -	1
+if you look at what we've been trying,	1
+uh, by  then  I guess,	1
+combinations of features and multi-band	1
+Uh, and we've been looking at  cross-language, cross  task  issues.	1
+And they've been not so much looking at	0
+the cross task uh multiple language issues.	0
+But they've been looking at uh -  at these issues. At the	1
+on-line normalization and the uh	1
+And I guess when he comes here we're gonna have to start deciding about	1
+um what do we choose	1
+from what we've looked at	1
+to um blend with  some group of things in what they've looked at	1
+And once we  choose  that,	1
+how do we split up the  effort?	1
+Uh, because we still have - even once we  choose,	0
+we've still got  uh another	0
+month or so, I mean there's holidays in the way,	0
+I  think  the evaluation data comes January thirty- first  so there's still a fair amount of time	0
+to  do  things together it's just that they probably should be somewhat more  coherent  between the two  sites	0
+in that - that amount of time.	0
+When they removed the silence frames, did they insert some kind of a marker so that the recognizer knows it's -  knows when it's time to back trace or something?	0
+Well, see they, I - I think they're	0
+I don't know the -	0
+the specifics of how they're doing it. They're -	0
+they're getting around the way the recognizer works because they're not allowed to	0
+Maybe they're just inserting some nummy frames or something?	0
+Uh, you know  that's  what  I  had thought.	0
+But I don't - I don't think they  are.	0
+I mean that's - sort of what - the way  I  had imagined would  happen  is that on the other side, yeah you	0
+p- put some low level noise or something.	0
+Probably don't want all zeros. Most recognizers don't like zeros but	0
+put some epsilon in or some rand- sorry epsilon random variable	0
+Maybe not a constant but it doesn't, uh - don't like to divide by the variance of that,	0
+That's right. But something that - what I mean is something that is  very distinguishable from  speech.	0
+So that the - [MASK]	0
+Yeah. So I - I - that's what I thought they would do.	0
+or else, uh  uh maybe there  is  some indicator to tell it to start and stop, I don't know.	0
+But  whatever  they did, I mean they have to play within the rules of this specific evaluation.	0
+We c- we can find out.	0
+Cuz you gotta do  something.   Otherwise,  if it's just a bunch of  speech,   stuck   together  -	0
+It would do  badly  and it didn't so  badly,  right? So  they  did  something.	0
+So, O_K, So I think	0
+this brings  me  up to date a bit.	0
+It hopefully brings other  people up to date a bit.	0
+Uh, I wanna look at these numbers off-line a little bit and think about it and -  and talk with everybody uh,  outside of this meeting.	0
+No I mean it sounds like - I mean	0
+there - there - there are the usual number of - of	0
+little - little problems and bugs and so forth but it sounds like they're getting ironed out.	0
+seem to be kind of in a position to actually  uh,	0
+look  at stuff and - and - and  compare  things.	0
+So I think that's - that's pretty good.	0
+I don't know what the -	0
+One of the things I wonder about,	0
+coming back to the first results you talked about, is - is	0
+how much,  uh  things could be helped	0
+And uh how many more parameters we can afford to  have,	0
+in terms of the uh computational limits.	0
+Because  anyway  when we go to	0
+and have the  same  number of  parameters,	0
+particularly when it's twice as much data  and  it's quite  diverse,	0
+um, I wonder if having twice as many parameters would  help.	0
+Uh, just have a bigger hidden  layer.	0
+I  doubt  it would  help by forty per  cent.	0
+How are we doing on the	0
+I think we're alright, um,  not much problems with that.	0
+Well this table took uh  more than five days to  get   back .	0
+Are - were you folks using Gin?  That's a - that just died, you know?	0
+Mmm, no. You were using Gin  perhaps, yeah?  No.	0
+No? Oh, that's good. O_K.	0
+we're gonna get a replacement	0
+server that'll be a faster server,	0
+actually. That'll be - It's a	0
+seven hundred fifty megahertz uh SUN	0
+But it won't be installed for  a little while.	0
+Do we have that big new I_B_M machine the, I think in th-	0
+We have the  little tiny I_B_M machine	1
+that might someday grow up to be a big  I_B_M machine.	1
+It's got s- slots for eight,	1
+uh I_B_M was donating  five,  I think we only got  two  so far,	1
+We had originally hoped we were getting eight hundred megahertz processors. They ended up being five fifty.	0
+So instead of having eight processors that were eight hundred megahertz, we ended up with two  that are five hundred and fifty megahertz.	0
+And more are supposed to come soon and there's only a moderate amount of dat- of memory. So I don't think	0
+anybody has been sufficiently excited by it to	0
+uh  with it, but uh	0
+Hopefully,  they'll get us some more	0
+Uh, yeah, I think that'll be - once we get it populated,	0
+that'll be a nice  machine.  I mean we  will  ultimately get eight processors in there.	0
+And uh - and uh a nice amount of memory. Uh so it'll be a pr- pretty fast Linux machine.	0
+And if we can do things on Linux,  some of the machines we have going already, like Swede?	0
+I think Fudge is pretty fast too.	0
+Yeah, I mean you can  check  with uh  Dave  Johnson.  I mean, it - it's -	1
+I  think  the machine is just  sitting  there.	0
+And it  does  have two  processors,  you know and -	1
+you know, uh, check out	1
+uh the multi-threading  libraries. And	1
+I mean i- it's possible that the -	1
+I mean, I guess the  prudent  thing to do would be for somebody to do the work on -	1
+on getting our code running	1
+on that machine with  two  processors  even though there  aren't  five or eight.	1
+There's - there's - there's gonna be  debugging  hassles	1
+and then we'd be set for when we  did  have five or eight, to have it really be useful.	1
+Notice how I said somebody and	1
+turned my head your direction. That's one thing you don't get in these recordings. You don't get the -	1
+don't get the visuals but -	0
+I- is it um  mostly um the neural network trainings that are  um slowing us down or [MASK]	0
+Isn't that right? I mean I think you're - you're sort of held up by both, right?	0
+If the - if the neural net trainings were a hundred times faster	0
+you still wouldn't  be anything -	0
+running through these a hundred times faster because you'd	0
+[MASK] - I mean I think they're both -	0
+It sounded like they were roughly equal?	0
+Because, um  I  think  that'll be running Linux, and Sw- Swede and Fudge are already running Linux so,  um I could try to	1
+get  um the train- the neural network trainings or [MASK] and to start with I'm  wondering which one I should pick first.	1
+Uh, probably the neural net cuz it's probably - it - it's -	1
+Well, I - I don't know.	0
+It's not  clear  yet what we're gonna use	0
+there's the trainings uh - is it the  training  that takes the time, or the  decoding?	0
+Uh, is it about equal  between the two?	0
+Well, I don't know how we can -	0
+I don't know how to -	0
+You would  think  that would fairly trivially -	0
+the  training  would,  anyway,  th- the  testing	0
+uh I don't - I don't	0
+But I think  that  you could	0
+distributed, sort of -  Ah, no, it's the -	0
+is pretty tricky to parallelize.	0
+But you could split up the sentences in a test set.	0
+They  have  a - they have a thing for  doing  that and th- [MASK]	0
+And you can parallelize the training.	0
+And run it on several machines and it just basically keeps counts.	0
+a final  thing that you run and it accumulates all the counts together.	0
+I don't what their scripts are  set up to do for the  Aurora  stuff, but -	0
+Something that we haven't really settled on yet is other than	0
+[MASK]  uh what do we do, large vocabulary	0
+Cuz we hadn't really  done  much with tandem systems for larger stuff.	0
+Uh, we're also gonna be [MASK] and we have their - have  theirs.	0
+So I - I think the - the advantage of going with the neural net thing is that we're gonna use the neural net trainings,	0
+for a lot of the things we're doing,	0
+And, it's about eleven fifty.	0
+Uh, I can - I can start over here.	0
+Great, uh, could you give Adam a call. Tell him to	0
+He's at two nine seven seven.	0
+O_K.  I think we can	0
+@@  You know Herve's coming tomorrow, right?	0
+Herve will be giving a talk, yeah, talk at eleven.	0
+Hey Adam, this is Barry.	0
+Did uh, did everybody sign these consent	0
+Has everyone signed a consent form before, on previous meetings? You don't have to do it again each time	0

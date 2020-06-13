@@ -1,0 +1,735 @@
+I almost forgot  about the meeting.	0
+I woke up twenty minutes ago, thinking,	0
+It's great how the br-  brain  sort of  does  that.	0
+So the news for me is A_, my	0
+I'll be off to Sicily and Germany	0
+for a couple, three days.	0
+Now what are y- what are you doing there? I forgot?	0
+O_K, I'm flying to Sicily basically to drop off Simon	0
+there with his grandparents. And then I'm flying to Germany t- to go to [MASK] which is	0
+the meeting of all the module-responsible people in [MASK]	0
+And then I'm also going up to [MASK]	0
+for a day, and then I'm going to	0
+meet the  very  big boss, Wolfgang Walster,	0
+in Saarbruecken and the   System   system integration people in Kaiserslautern	0
+and then I'm flying back via Sicily	0
+come back here on the fourth of July.	0
+What a great time to be coming back to the U_S_-of-A_.	0
+You'll see maybe - see the fireworks from your plane coming in.	0
+And I'm sure all the - the people at the airport will be  happy  to work on that day.	0
+You'll get even better service than usual.	0
+Wait, aren't you flying on Lufthansa though?	0
+Oh. Well then the - you know, it's not a big deal.	0
+Once you  get  to the United States it'll be a problem, but	0
+that's  that  bit of news, and the  other  bit of news is we had - you know, uh, I was visited by my	1
+who A_, did like what we did -	0
+what we're doing here, and B_,	1
+is planning to come here either three weeks in July or three weeks in  August,	1
+And we sat around and we talked and he came up - we came up - with a	1
+And that's what I'm gonna lay on you now.	0
+And um, maybe it might be ultimately the most interesting thing for  Eva	0
+been known to complain about the fact that the stuff we do here is not weird enough.	0
+So this is so weird it should even	0
+that we have a system that does all that understanding	1
+that we want it to do	1
+to make that system  produce	1
+So if you have the knowledge of how to interpret "where is X_?"	1
+you should also be able to make that same system  ask	1
+in a sper- certain way,	0
+So in- instead of just being able to	0
+might  be able just to	0
+give it an intention, and make it produce an utterance.	0
+A_I they generally do the	0
+take in, and then they also do the generation phase, like  Nancy's  thing.	0
+you  remember , in the - the hand	0
+thing in one-eighty-two, like not only was it able to recognize but it was also to generate based upon situations. You mean  that  sort of thing?	0
+And once you've  done  that	0
+what we can do is have the system ask	0
+and enter a dialogue with itself. So the - the ba- basic - the same idea as having two chess computers play against each other.	0
+Except this smacks a little bit more of a schizophrenic computer than A_I.	0
+Yeah you c- if you want, you can have two parallel  machines	0
+What  would that  give  us? Would  A_  be something completely weird and strange,	0
+if you look at all the factors,	0
+let's say, in wheelchairs under - you know, in - under all conditions, you know,	0
+when they say "X_", and there  is  a ride at the goal, and the parking is  good,	0
+we can  never  collect enough data.	0
+It's - it's - it's not possible.	0
+But maybe one could do some learning.	1
+If you get the system to speak to itself,	1
+and you may be able to	1
+more robust, maybe learn new things.	0
+no  end  of  potential  things one could get  out  of it,	0
+And he would like to actually  work  on that	0
+Well then, he  probably  should be coming back a  year   from now.	0
+See the - the  generation  bit, making the system generate -  generate  something,	0
+is - shouldn't be  too  hard.	0
+Well, once the system  understands  things.	0
+I just don't think -	0
+I think we're probably a year away from getting the system to  understand  things.	0
+Well, if we can get it to understand  one  thing, like our "where is"	0
+we can also, maybe, e- make it  say,  or  ask	0
+Mmm, I don't know. e- I'm sort of - have the impression that getting it to say the right thing in the right circumstances is much more difficult than	1
+getting it to understand something given the circumstances and so on, you know, I mean just cuz it's sort of harder to	1
+speak correctly in a foreign language, rather than	0
+learning to  understand  it. Right? I mean	1
+just the fact that we'll get - The point is that getting it to  understand  one construction doesn't mean that it will n- always know exactly when it's correct to  use  that construction.  Right?	1
+It's - it's uh -	0
+Well, I've - I've done generation and language production research for fo- four - four and a half years. And so it's - it's - you're right, it's not the  same  as the understanding.	1
+It's in some ways easier and some ways harder.  nuh?  But, um,	0
+fun to look  at  it, or  into  that question.	0
+It's a  pretty  strange idea. And so that's - that's - But -	0
+The basic idea I guess would be to give - allow the system to have intentions, basically?	1
+Cuz that's basically what needs to be added to the  system  for it.	0
+eee, I think even - think even -	0
+What it - would be the - the prior intention.	0
+So let's uh - uh, let's say we have this -	0
+Well we'd have to  seed   that,  I mean.	0
+No. Let's - we have to - we have some - some  top-down   processing, given certain setting.	0
+O_K, now we change  nothing,  and just say  ask  something.	0
+It wouldn't know  what  to ask. I mean.	0
+Unless it was in a  situation.  We'd have to set up a situation where,	0
+it didn't know where something was and it wanted to  go  there.	0
+Which means that we'd need to set up an  intention  inside of the  system.	0
+Which is basically, "I don't know where something is and I need to  go  there".	0
+Ooh, do we  really  need to  do  that?	0
+Well,  no  I guess  not.  Excel-	0
+It's - i- I  know  it's - it's  strange,  but	0
+look at our [MASK] If we  don't   have  -	1
+Let's assume we  don't  have any  input	1
+So there's also  nothing  we could query [MASK] but we have a certain user setting.	1
+If you just ask, what is the likelihood of that person wanting to  enter  some - something, it'll  give  you an  answer.	1
+Right? That's just how they  are.	0
+And so,  @@   whatever  that  is,  it's the generic default intention.	1
+That it would find  out.  Which is,	1
+wanting to know where something is, maybe nnn - and wanting -	0
+I don't know  what  it's gonna be, but there's gonna be  something  that	0
+Well you're not gonna - are you gonna get a  variety  of intentions out of that then? I mean, you're just talking about like given  this   user,	0
+what's the th- what is it - what is that user most likely to want to do?	0
+And, have it talk about -	0
+Well you can observe some user and  context  stuff and ask, what's the	1
+You could even say, "let's take  [MASK] let's observe  nothing ", and query	0
+It- it's gonna tell us  something.	0
+assign  values  to all the nodes. Yes.	1
+Yes. And come up with	0
+Which, if we have an algorithm that filters out whatever the - the best or the most consistent	0
+And that is exactly what would  happen  if we ask it to  produce  an utterance, it would be b- based on that extension,   ex nihilo,   which we don't know what it  is,  but it's  there.	0
+So we wouldn't even have to - t- to  kick  start it by  giving  it a certain intention or	0
+maybe that would lead to "what is the castle?", or "what is  that  whatever".	0
+I  guess  what I'm  afraid  of is if we don't,	0
+you know, set up a  situation,	0
+we'll just get a bunch of garbage out, like	0
+you know, everything's exactly thirty percent.	0
+Yeah. So what we actually then need to  do  is - is write a little script that changes all the settings, you know,	1
+go- goes through all the permutations, which is - we did a - didn't we calculate that once? It's a -	1
+Well that was - that was absurdly low, in the last meeting,  cuz I went and looked at it cuz I was thinking, that could not be right, and it would - it was on the order of	0
+twenty output nodes and something like twenty -	0
+And like thirty input nodes or some -	0
+So to  test  every  output  node,	0
+uh, would at  least  -	0
+Let's see, so it would be two to the thirty for every output node?	1
+Which is very th- very large.	1
+that's - that's  nothing  for those  neural  guys. I mean, they train for millions and millions of [MASK] So.	0
+Oh, I was gonna take a drink of my water.	0
+I'm talking about billions and billions and billions and	0
+a number - two to the thirty is	0
+Bhaskara said, we had calculated out and Bhaskara believes that it's larger than the number of particles in the universe.	0
+I don't know if that's right or  not.	0
+That's just - That's uh - It's a  billion,  right?	0
+Well, two to the thirty is a billion, but if we have to do it two to the twenty times,	0
+then that's a very very large number.	0
+Oh, O_K. Yeah. Yeah, that's big.	0
+Cuz you have to query the node, for every a-	0
+uh, or query the net	0
+two to the twenty times.	0
+Or not two to th- excuse me,  twenty  times.	0
+O_K. So, is it t- comes to twenty billion or something?	0
+As far as - That's  @@  - That's  big.  Actually - Oh! We calculated a  different  number before. How did we  do  that?	0
+I remember there being some other one floating around. But  anyway,  uh.	0
+Yeah, it's g-  Anyway,  the point is that given all of these different factors, it's uh e- it's - it's  still  going to be  impossible  to run through all of the possible	1
+situations  or whatever. But I mean, this'll get us a bit  closer  at least, right? I mean.	1
+If it takes us a  second  to do, for each  one,  and let's say it's twenty billion,	0
+then that's twenty billion seconds, which is -	0
+Hours and hours and hours and hours.	0
+But we can do  randomized  testing.	1
+Which probabilistically will be good enough.	1
+Yeah. So, it be it- it's an idea that one could n-	1
+for - for example run - run past, um,	1
+You know? He- he's usually here.	0
+Oh, yeah.  That's  the guy. We - we - we - we g-	0
+Yeah, i- that would the g- the bald guy.	0
+so this is just an idea that's floating around and we'll see what happens.	0
+what other news do  I  have?	0
+Well we fixed some more things from [MASK] but that's not really of general interest,	1
+Oh!  Questions,  yeah. I'll ask Eva about [MASK] and she's working on that.	1
+I'm gonna work on that today and tomorrow.	0
+O_K. No need to do it today or  tomorrow  even. Do it  next  week or -	0
+I'm gonna finish it today, uh hopefully.	1
+I wanna do one of those things where I stay here. Cuz uh, if I go home, I can't finish it. I've tried	0
+about five times so far,	0
+where I work for a while and then I'm like,	0
+So I go home, and then I think -	0
+Either that or I think to myself, I can work at  home.  And then I  try  to work at home, but I fail miserably.	0
+Like I ended up at Blakes last night.	0
+I almost got into a brawl.	0
+But I did not finish	0
+But I've been looking  into  it.	0
+I th-  @@  It's not like it's a blank slate.	0
+I found everything that I need and stu- and uh,	0
+At the b- uh furthermore, I told Jerry that I was gonna finish it before he got back. So.	0
+That's approaching. He's coming back when? Uh next -	0
+I think - we think we'll see him definitely on  Tuesday  for the next - Or, no, wait. The meetings are on  Thursday.	0
+Well, we'll see him next week.	0
+I was  thinking  about that. I think	0
+I will try to work on [MASK]	0
+and I'll - if I can finish it today, I'll help you with that tomorrow,	0
+if you work on it?	0
+I don't have a problem with us working on it though? So.	0
+So you would say it's	0
+I mean we just  - I mean it wouldn't hurt to write up a paper, cuz then, I mean, yeah - I was talking with Nancy and Nancy said, you don't know whether you have a paper to  write up until you write it up. So.	1
+And since Jerry's coming back, we can run it by him too. So.	0
+I don't have much experience with uh, conference papers for compu- in the computer science realm, and so when I looked at what you had,	0
+which was apparently a complete submission, I just sort of said	0
+I - I didn't really know what to  do  with it, like, this is the sort of the basic outline of the system or whatever, or - or	0
+"here's an idea", right? That's what that paper was, "here's - here's one possible thing you could do",	0
+eight pages, and I just don't know	0
+what you have in mind for expanding. Like I'd - I - what I  didn't  do is go to the web site of the conference and look at what they're looking for or whatever.	0
+Well, it seems to me that	0
+Wait, is this a computer science conference or is it a -	1
+Um, well it's more -	0
+It's  both,  right? It's - it's sort of	1
+t- cognitive, neural, psycho, linguistic, but all for the sake of doing  computer  science.	1
+So it's sort of cognitive, psycho, neural, plausibly motivated, architectures of natural  language  processing.	1
+So it seems pretty interdisciplinary, and I mean, w- w- the keynote speaker is Tomasello and blah-blah-blah, so,	0
+W- the - the question is what could we actually	0
+do and - and - and keep a straight face while doing it.	0
+Well, I really can't keep a straight face doing  anything.	0
+well, you can say we have done a little bit and that's   this,   and uh sort of the rest is position paper, "we wanna also do  that ". Which is not	0
+Might  be more interesting to do something like	1
+we have as Jerry calls it, a delusion of adequacy,	1
+and take a "where is X_" sentence,	1
+and say, "we will just talk about this, and how we	1
+So we can actually show how we parse it.	0
+That should be able to - we should be able to come up with, you know, a sort of a - a parse.	1
+I'm sorry. I'm sorry. I'm sorry.	0
+It's on, just - just put it on.	0
+Was he supposed to harass me?	0
+Well, he just  told  me that you came  looking  for me.	0
+You will suffer in hell, you know that.	0
+diagram somewhere which tells you how to put that -	0
+I  know,  I didn't understand that  either!	0
+No wait. You have to put it on exactly like that, so put that - those things over your ears like that.	0
+See the p- how the plastic things ar- arch out like that?  There  we go.	0
+It hurts. It hurts real bad.	0
+But that's what you get for coming late to the meeting.	0
+I'm sorry I didn't mean to - I'm sorry.	0
+I'm sorry, oh these are all the same.	0
+O_K! th- this is not very  on target.	0
+Alright, you guys can continue talking about whatever you were talking about before.	0
+We're talking about this um, alleged paper that we may, just, sort of w-	0
+Oh! Which Johno mentioned to me. Uh-huh.	0
+And I just sort of	0
+brought forth the idea that	0
+we take a sentence, "Where is the Powder-Tower",	0
+and we - we p-	0
+we pretend to understand it,	0
+and we write about it.	0
+About how  all of these things -	0
+What's the part that's not pretend? The writing?	0
+O_K, then we  pretend  to write about.	0
+The submitting to a major international conference.   Yeah.	0
+Tha-  Which conference is it for?	0
+It's the whatever, architectures, eh you know, where -	0
+There is this conference, it's the seventh already international conference, on neu- neurally, cognitively, motivated, architectures of natural language processing.	0
+the  keynote speakers are Tomasello,  MacWhinney?   We- MacWhinney, I think.	0
+So, interesting, both, like,  child  language people.	0
+So maybe you wanna write something  too.	0
+Yeah, maybe I wanna  go.	0
+Um, why are they  speaking  at it if it - is - is it normally like - like, [MASK] or, you know, other N_L_P-ish things?	0
+No no no no no no no no. It's - it's like a -	0
+uh, both learning and like, comprehension, production, that kinda stuff.	0
+You could look at the web site.	0
+And the ad- and - and the deadline is the fifteenth of June.	0
+I don't know about it.	0
+Why, we've got over a  week!	0
+It  would  be nice to go write  two  papers actually. Yeah. And one - one from  your  perspective, and one from  our  peve- per- per-	0
+I mean, th- that's the kinda thing that maybe like, um, the general	0
+uh con- sort of like [MASK] like, whatever, the	0
+previous simulation based pers-  maybe you're talking about the same kind of thing. A  general  paper about	0
+the approach here would probably be appropriate.	0
+And good to do at some point anyway.	0
+Well, I - I also think that if we sort of	1
+write about what we have done in the past six  months,	1
+we - we - we could	1
+sort of craft a nice little paper that  if it gets rejected, which could happen,	1
+doesn't hurt because it's something we eh -	1
+Having it is still a good thing.	0
+having it is a good - good thing.  It's a nice exercise, it's -	0
+I usually enjoy writing papers. It's not - I don't re- regard it as a painful thing.	0
+And um, we should all do more for our publication lists. And. It just never hurts.	0
+Keith and-or Johno will go, probably.	0
+When is it and where?	0
+It's on the twenty second of September, in Saarbruecken Germany.	0
+Ah, it's in Germany. Ah, O_K. I s- I see. Tomasello's already in Germany anyway, so makes sense. O_K.	0
+O_K. So, is the - What - Are you just talking about	0
+you know, the details of how to do it, or whether to do it, or what it would be?	0
+What would one possibly put in such a paper?	1
+What to write  about.   What is our - what's our take home message. What - what do we actually -	0
+Or what to write about?	0
+Because I mean, it - I don't like papers where you just talk about what you  plan  to do.	0
+it's obvious that we can't do any kind of evaluation, and have no - you know, we can't write [MASK] where we say, "O_K, we've done this and now we're	1
+whatever percentage better than everybody else". You know.	1
+It's far too  early  for that.	0
+But uh, we - we can tell them what we think. I mean that's -	0
+maybe even - That's maybe the time to introduce the - the new formalism that you guys have cooked up.	1
+Are in the process of -	0
+don't they need to finish the formalism?	0
+It's just like four pages. I mean it's - it's not even a h-	0
+O_K, so it's a little thing.	0
+Well, you said it was four thousand lines? Is that what you s-	0
+O_K. Four pages is, like,  really  not very much	0
+I don't know w- Did you look at it?	0
+Yeah,  it  depends on the format.	0
+Oh my gosh. Oh, I thought you were - I thought we were talking about something which was much	0
+No that's - I mean that's actually a  problem.  It's difficu- it's more  difficult  to write on four pages than on eight.	0
+more like ten or something.	0
+And it's also difficult to - even if you  had  a lot of substance, it's hard to demonstrate that in four pages, basically. Um.	0
+Well I uh maybe it's just four thousand lines. I do- I don't - They don't want any -	0
+I mean it's still - it's still -	0
+They don't have [MASK] They just want ASCII. Pure ASCII	0
+lines, whatever. Why, for whatever reason, I don't know.	0
+Not including figures and such?	0
+I would say that's closer to  six  pages actually. Four thousand lines of ASCII?	0
+Four thousand  lines.  I mean.	0
+Isn't a- isn't it about fifty s- fifty five, sixty lines to a page?	0
+I d-  don't   quote  me on this. This is numbers I - I have from looking o-	0
+How many characters are on a line?	0
+Let's - let's - wh- wh- what should we - should - should we uh, um, discuss this over tea and all of us look at the web? Oh, I can't. I'm [MASK] today.	0
+O_K, look at the web page?	0
+Look at the web page and let's talk about it maybe tomorrow afternoon?	1
+More cues for us to find it are like,	0
+Johno will send you a link.	0
+Oh, you have a link. O_K. O_K.	0
+By the way, Keith is comfortable with us calling him "cool Keith".	0
+Oh. Cool. Keith. Cool, "cool Keith".	0
+He - he decided  I'm  chilling   in the five-one-O_.	0
+That's  a  very  cool T_shirt.	0
+And I'm also flying -	0
+I got this from the two one two.  Yeah.	0
+I'm flying to Sicily next -	0
+in a w- two weeks from now,	0
+w- and a week of business in Germany. I should mention  that  for you.	0
+And otherwise you haven't missed  much,  except for a  really  weird idea,	0
+but you'll hear about that	0
+The idea that you and I already know about?	0
+That you already told me?	0
+Yeah, that  is  something for the  rest  of the gang to - to g-	0
+The thing with the goats and the helicopters?	0
+the watchband. It's time to walk the sheep.	0
+Did you catch that allusion? It's time to walk the sheep?	0
+uh presumably one of the Watergate codes they uh -	0
+don't make any plans for spring break next year.	1
+That's the other thing . We're gonna do [MASK] in Sicily.	1
+That's what - That's what he  says.	0
+I've already got the  funding.  So, I mean.	1
+Does that mean you'll get - you'll fly us there?	0
+Yeah, that's what it  means.	0
+Hhh! O_K, cool. Uh- a- a-	0
+And he'll put us  up,   too.	0
+I  know  - I  know  about that part. I know about the - the  almond  trees and stuff.	0
+Name a vegetable, O_K.  Oh, um, kiwi?	0
+Yeah, mangos go everywhere. So do kiwi.	0
+Oh. O_K, but I was trying to find something that he didn't grow on his farm.	0
+But coconut   anana-   pineapple, that's - that's tricky, yeah.	0
+So, but we have to decide what, like, sort of the general idea of -	0
+I mean, we're gonna have an example case  um, right? I m- the - the point is to - like this "where is" case, or something.	0
+Yeah, maybe you have - It would be kind of - The paper ha- would have, in my vision, a nice flow if we could say,	0
+well here is th- the - th- here is parsing if you wanna do it c- right, here is understanding if you wanna do it right, and you know - without going into  technical  -	0
+But then in the end we're not doing like those things right yet, right? Would that be clear in the paper or not?	0
+That would be clear, we would - I - I mailed around a little paper that I have -	0
+It would be like,  this  is the idea.	0
+Oh, I didn't get that, did I? Oops.	0
+w- we could sort of say, this is -	0
+No, y- I don't think you got it.	0
+See this, if you- if you're not around, and don't partake in the discussions, and you don't get any email,  and	0
+I'm sorry. I'm sorry, I'm sorry. Sorry.	0
+So parsing done right  is like chicken done right.	0
+So we could - we could say this is what - what's sort of	1
+state of the art today.	1
+Nuh? And say, this is bad.	1
+Nuh? And then we can say, uh well what  we  do is  this.	1
+Parsing done right, interpretation done right, example.	0
+And how much to get into [MASK]	1
+That's the only - That's the question mark. Don't you need to reduce it if it's a -	1
+or reduce it, if it's [MASK] -	0
+Well, you don't have t- I mean the  conference  may be [MASK] doesn't mean that every paper has to be both.	0
+Yeah, and you can - you can just point to the - to the literature, you can say that [MASK]  @@	1
+So i- so this paper wouldn't particularly deal with  that  side although it could reference [MASK] Yeah.	0
+The fact that the methods here are all compatible with	1
+or  designed  to be compatible with whatever, neurological - neuro-	1
+Yeah, I guess four pages you could -	0
+@@   I mean you could definitely -	0
+it's definitely possible to do it. It's just -	0
+It'd just be small. Like introducing the formalism might be not	1
+possible in  detail,  but you can  use  an example of it.	1
+Well, l- looking at - yeah, looking at that paper that - that  you  had, I mean you know, like, you didn't really	0
+explain in detail what was going on in the X_M_L cases or whatever you just sorta said well, you know, here's the general idea, some stuff gets put in there.	0
+You know, hopefully you can - you can say something like constituents tells you what the construction is made out of, you know, without going into this intense detail.	0
+So it be like using the formalism rather than	0
+you know, introducing it per se. So.	0
+Give  them   the one paragraph whirlwind tour of w- w- what this is for, and - Yeah.	0
+And people will sort of figure out	0
+or  ask  about the bits that are	0
+So this will be sort of documenting what we think, and documenting what we have in terms of [MASK]	1
+And since there's never a bad idea to document things, no?	0
+That's th- that's definitely a good idea.	0
+That would be my, uh -	0
+We - we should sketch out the details maybe tomorrow afternoon-ish, if everyone is around.	0
+I don't know. You probably	0
+wouldn't be part of it. Maybe you  want?	0
+You may - may ruin your career forever, if you appear.	0
+Yeah, you might get blacklisted.	0
+Have we made any progress on what we decided, uh, last week?	0
+I'm sure you read the transcript of last week's meeting  in red  so sh- so you're up to dated - caught up.	0
+We decided t- that we're gonna take a "where is something" question, and pretend we have parsed it, and see what we could possibly hope to observe on [MASK]	0
+Remember I came in and I started asking you about how we were sor- going to sort out [MASK]	0
+I  remember  you  talking  to me, just  not  what you  said.	0
+I  do  remember you talking to me.	0
+Well, there was like we needed to - or uh, in my opinion we need to design a Bayes - [MASK] -	0
+You know, it was whether - it was whether we would have [MASK]  on   the output  and  on the input, or whether the construction was gonna b	0
+a- and  outside  of it, and -	0
+So that was - was that the question? Was that what -	0
+Well that was related to what we were talking about.	0
+Should I introduce it as [MASK]	0
+We have to put this in the paper.	0
+This is - this is my only constraint. The - th- So.	0
+Oh I saw the diagram in the office, yeah.	0
+Oh my god, that's amazing!	0
+Someone's gonna start making Phil Collins jokes.	0
+Oh, god, I hope not.	0
+You guys are too young.	0
+You know like "Sussudio", that horrible, horrible song that should never have been created.	0
+I know, that was horrible.	0
+I've blocked every aspect of Phil Collins out of my mind.	0
+Oh -  Well, also he's talking about suicide, and that's -  that's  not a notion I wanna have evoked.	0
+Oops.  I didn't really listen to it, I was too young.  Anyway .	0
+It sounds too   rocking   for  that.  Anyway. So, what's going on here?	0
+So what are - what -	0
+Was wollte der Kuenstler uns damit sagen?	0
+O_K, so we have tons of little things here, and we've	0
+I can't believe that that's never been  thought  of before.	0
+Wait, what are the  dots?  I don't remember what the  dots  were.	0
+You know, these are our, whatever, [MASK] and they all contribute to these	1
+Wait, wait, what's the  middle  thing?	1
+That's [MASK] e- e- Our e- e- e-	0
+But wh- I mean -	0
+Well, in the moment it's [MASK]	1
+And it has sort of fifty not-yet-specified interfaces.	1
+O_K. Eh  I have taken care that we actually can build little	1
+to other modules that will tell us whether the user likes these things and, n- the - or these things, and he - whether	1
+he's in a wheelchair or not,	0
+Is that supposed to be the international sign for interface?	0
+I'd -  I'd  never seen it before either.	0
+Cuz things fit onto that, see?	0
+In a vaguely obscene fashion.	0
+No, this is [MASK] by  agent	0
+So wait, what a- what are these letters again, Situr-  Situation, User, Discourse and	0
+Discourse is all things linguistic, yeah.	0
+So that's not like  context,  O_K.	0
+So this - this includes the -	0
+the current utterance plus all the previous utterances.	0
+And for example w- i- s- I- Irena  Gurevich   is going to be here eh, end of July. She's a new linguist working for [MASK]	0
+And what  she  would like to do for example is  great  for us. She would like to	0
+take the ent- ontolog- So,	0
+we have discussed in terms of [MASK] - uh -	0
+Did you just say grateful for us?	0
+Think of - back at [MASK]	1
+and Johno coming up with the idea that if the person  discussed   the - discussed the admission fee, in - eh previously, that might be a good indication that,	1
+"how do I get to the castle?", actually he wants to  enter.	1
+Or, you know, "how do I get to X_?"	0
+discussing the admission fee in the previous utterance, is a good indication.	0
+we  don't  want a  hard  code,	0
+[MASK]  or things, that person's	0
+you know, sort of filter, or uh search [MASK]	0
+So what would be kind of  cool  is	1
+that if we  encounter  concepts that are castle, tower, bank, hotel,	1
+we run it through [MASK] and [MASK] tells us it has	1
+um, admission, opening times, it has admission fees, it has this, it has that,	1
+and then we - we - we make [MASK] look up, and then search dynamically through the uh,	1
+for  occurrences of these things in a given	1
+And  that  might, you know, give us additional input to [MASK]	0
+So it's not just a particular word's - O_K, so the - you're looking for a few keys that you know are cues to -	0
+sorry, a few specific cues to some intention.	0
+You can dynamically look up keys, yeah.	0
+Uh, so, wait - so um, since this - since this sort of technical stuff is going over my head, the - the point is that you uh - that	0
+when someone's talking about a castle, you know that it's the sort of thing that people are likely to wanna go  into?  Or, is it the fact that	0
+if there's an admission fee, then one of the things we know about admission fees is that you pay them in order to go  in?  And then the idea of entering is active in the discourse or something? And then	0
+the - the idea is even more general. The idea is to say,	0
+we encounter a certain entity in a - in a- in a utterance.	0
+So le- let's look up everything we - [MASK] gives us	0
+stuff it does, what roles it has, what	0
+in the  discourse,  whether any of that, or any	0
+surface structure corresponding to  these	0
+roles, functions aaa  has ever  occurred.	0
+And then, the discourse  history  can t- tell us, "yeah", or "no".	0
+And then it's up for  us	0
+to decide what to  do  with it.	0
+So, we may think that if you say	0
+um, whether or not he has talked about  tickets  before,	0
+then we - he's probably wanna go there to	0
+Or "where is the opera in Par- Paris?, yeah? Lots of people go to the opera to take pictures of it and to  look  at it, and lots of people go to attend a  performance.	0
+And, the  discourse  can maybe tell us w- what's more  likely	0
+if we know what to look for in previous statements.	0
+And so we can hard code "for opera, look for tickets,  look   for this, look for that,	0
+or look for Mozart, look for thi-"	0
+but the smarter way is to go via [MASK] and dynamically, then look up	0
+O_K. But you're still doing look up so that when the person - So the point is that when the person says,	0
+then you sort of say, let's go back and look at	0
+other things and then decide, rather than the other possibility which is that  all through discourse as they talk about different things - You know like w-	0
+prior  to the "where is it" question they say, you know, "how much does it cost to get in, you know, to - to see a movie around here", um,	0
+"where is the closest theater" - The - the - the point is that by mentioning  admission  fees, that just sort of stays active now.	0
+You know. That becomes part of like, their sort of current ongoing	0
+active conceptual structure. And then, um,	0
+over in [MASK] or whatever, when - when the person says "where is it", you've already got, you know since they were talking about  admission,  and  that  evokes the idea of  entering,  um, then when they go and ask "where is it", then you'	0
+Yeah, e- ultimately that's  also  what we wanna get at. I think that's - that's the correct way. So, of course we have to keep	0
+memory of what was the last intention, and how does it fit to this, and what does it tell us, in terms of - of the - the - what we're examining.	0
+I mean we can  idealize  that, you know, people don't change topics,	1
+even th- for that, there is a student of ours who's doing [MASK]	1
+maybe,  we're even in a position where we can take  your  approach, which is of course much  better,  as to say how - how do these pieces -	0
+And much harder to r- program.	0
+And much harder to p- to  program.	0
+Yeah. How - how do these pieces fit together? Uh-huh.	0
+And um. But, O_K, nevertheless. So these are issues but we - what we actually decided last  week,  is to,	1
+and this is, again, for  your  benefit -	1
+observed and parsed an utterance such as "where is the  Powder-Tower ",	1
+or "where is the zoo",	0
+um, what - what we think the - the output	1
+uh, observe, out - i- input nodes for [MASK]	1
+So that - And I will - I will then	1
+uh, bits and pieces, so that we can say, O_K we - we  always  just look at this utterance.	1
+That's the  only  utterance we can do,	0
+it's hard coded, like Srini, sort of hand parsed,	0
+but this is what we hope to be able to observe in general from utterances, and from [MASK]	0
+and then we can sort of	1
+fiddle  with  these  things to see what it actually  produces,  in terms of  output.	1
+we need to find out what [MASK] will give us in terms of semantics and	0
+Just - O_K. Just "where is X_"?	0
+Or any variants of that.	0
+Um, look at it this way, i-	0
+What did we decide. We decided sort of the -	0
+the prototypical "where is X_", where	0
+you know, we don't really know, does he wanna  go  there, or just wanna know where it is.	0
+So the difference of "where is the railway station", versus where - where - "where is Greenland". Nuh?	0
+Uh s- I was just dancing, sorry.	0
+We're not videotaping any of this. So.	0
+So, um, we're supposed to -	0
+I mean we're talking about sort of anything that has the semantics of  request  for  location,  right? actually?	0
+I mean, anyway, the node in the uh - the ultimate, uh, in - in [MASK] when you're done, the - the node that we're talking about um, is	0
+"request for location, true", or something like that, right? Um, and - and exactly how that gets activated, you know, like whether we want	0
+"how do I get there?"	0
+to activate that  node  or not, you know, that's - that's sort of the issue that sort of the linguistic-y side has to deal with, right?	0
+Well actually more - m- more the other way around. We wanted	0
+something that represents uncertainty uh we- in terms of going there or just wanting to know where it is, for example. Some generic information.	0
+this is prototypically  @@  found in the "where is something" question, surface structure,	0
+which can be p- you know,	0
+something that activates  both.  I mean	0
+the idea is to -	0
+let's have it fit nicely with the paper. The -	0
+I  guess.  I don't -	0
+I don't see unde- how we would be able to distinguish between the two intentions just from the g- utterance, though.	1
+I mean, uh bef- or, before we don't - before we cranked it through [MASK]  I mean.	1
+Yeah, we - we  wouldn't.	0
+That's exactly what we  want.	0
+We want to get -	0
+O_K, but then so basically it's just a - [MASK] right? And we turn on	0
+What - what is this gonna -  Exactly.  What is the uh -	0
+And then given that we know that  the construction  has these two  things,  we can set up probabilities -	0
+we can s- basically define all the  tables  for ev- for those -	0
+Yeah, it should be - So we have	0
+i- let's assume we - we call something like [MASK]	0
+And what we actually  get  if we  just  look at the  discourse,	0
+"where is X_" should activate	0
+whereas maybe "where is X_  located ",	0
+we find from the  data,  is  always  just asked when the person wants to  know  where it is,	0
+and "how do I get to" is always asked when the person	0
+just  wants to know how to  get  there.	0
+we want to sort of	1
+uh,  input,  and  how  inter- in case of a "where is" question.	1
+So what - what would the outcome of - of your parser look like?	1
+And, what other discourse information from the discourse history could we hope to get,	1
+squeeze  out of that  utterance?	1
+So define the - the  input  into [MASK]	1
+based on what the utterance, "where is X_", gives us.	1
+which is activated via [MASK] so	0
+"where is X_" produces something that is s- stands for  X_ , whether it's castle, bank, restroom, toilet, whatever. And then [MASK] will tell us -	0
+That it has a  location  or something like that? - or th- [MASK] will tell us where actually it is located?	0
+Not at all. Where it is located, we have, [MASK] here somewhere,	0
+e- which tells us how far the user - how far away the user is in respect to that uh entity.	0
+So you're talking about, for instance, the construction obviously involves this entity or refers - refers to this entity,	0
+from the construction also you know that it is a location - is - or a thing -	0
+thing that can be located.	0
+Right? [MASK] says this thing has a location slot.	0
+Sh- and that's the thing that is being -	0
+that is the content of the question that's being queried by	0
+one  interpretation of "where is X_".	0
+And  another  one is, um,	0
+path from current - user current location to	0
+So is the question - I mean it's just that I'm not sure what the -	0
+Is the question, for this  particular  construction how we specify that  that's  the information it provides?	0
+Yeah, you don't need to	0
+even do that. It's just sort of what	0
+in uh - in that case.	0
+Observed when you heard the speaker say "where is X_", or when - when that's been parsed?	0
+So these little circles you have by the D_?	0
+That's exactly what we're looking for.	0
+I d- I just - I don't like having - characterizing the constructions with location and path,	0
+or li-  characterizing   them   like that. Cuz you don't -	0
+It seems like in the  general  case you wouldn't know	0
+how - how to characterize them. I mean - or, for  when.  There could be an interpretation that we don't have a  node  for in the -	0
+I mean it just seems like  @@  has to have uh - a node for the construction	0
+and then let the chips fall where they  may.	0
+saying, this construction either can mean location or path.	0
+And, in this cas- and since - since it can mean either of those things, it would light both of those up.	0
+I'm thinking about it. Um -	0
+It  will  be the same. So I think	0
+r- in here we have "I'll go there", right?	0
+So in my c- my case, this would	0
+sort of make  this   happy, and this would make [MASK]  happy.	0
+What  you're  saying is we have [MASK]	0
+Right? That's what you're proposing, which is, in my mind  just  as fine.	0
+So w- if we have [MASK] "where is X_",	1
+po- [MASK] that - it'	1
+Which would be exactly analogous to what I'm proposing is,	1
+makes something  here  true, and this makes something -  also  something here true, and this makes  this  True-up, and this makes this [MASK] as well.	1
+I kinda like it better  without that  extra level of indirection too. You know with - with this points to this points to that, and so on because  I don't know, it -	1
+Yeah, because we get - we get  tons  of constructions I think. Because,	0
+you know, mmm people have many ways of asking for the same  thing,  and -	0
+I change- I changed my mind actually.	0
+So I agree with that. I have a different kinda question,	0
+which is, O_K so implicitly everything in [MASK] we're  always  inferring the speaker	0
+either, the information that they want, or -	0
+It's always information that they want probably, of some kind.	0
+Right? Or I - I don't know, or what's something that they -	0
+The system doesn't  massage  you, no. No.	0
+I - I - I don't -	0
+let's see. So I don't know if the - I mean i- if th-	0
+just there's more s- here that's not shown that you - it's already like part of the system whatever,	0
+like, the fact that it is, you know, [MASK] whatever,	0
+it  is  a question. It's a question that,	0
+um, queries on some particular thing X_, and X_ is that location.	0
+There's, like, a lot of structure in representing that.	0
+So  that  seems different from just having [MASK] and that goes int	0
+Precisely.  That's - that's -	0
+So tha- is that what you're t-	0
+Exactly. We have su- we have specified  two.	0
+talking about? wh- what kinds of structure we want.	0
+O_K, the next one would be here, just for mood.	0
+The next one would be what we can squeeze out of the uh	0
+I  don't know, maybe we wanna observe the uh, um,	0
+uh the length of - of the words used, and, or [MASK]	0
+and g- a- and t- make conclusions about the user's  intelligence.   I  don't know, yeah.	0
+O_K. So in some ways -	0
+um, so in some ways in the other sort of parallel set of mo- more  linguistic  meetings we've been talking about possible semantics of some construction.	0
+according to it - you know, that - that corresponds to it, and as well the - as discourse,	0
+whatever, conte- infor- in- discourse information, such as the mood, and, you know, other stuff. So,	0
+are we looking for a sort of abbreviation of that, that's tailored to this problem?	0
+Cuz that - that has, you know, basically, you know,	0
+s- it's in progress still it's in development still, but it definitely has various [MASK] attributes,	0
+um, bindings between things -	0
+U- that's exactly r- um, why I'm proposing - It's too early to have - to  think  of them - of  all  of these	0
+discourse things that one could possibly observe,	0
+For the subset of -	0
+human beings are not allowed to ask anything but "where is X_".	0
+This is the only utterance in the world. What could we observe from that?	0
+O_K. That exactly "where is X_", not	0
+the - the choices of "where is X_" or "how do I get to X_". Just " where  is X_". O_K.	0
+Just - just "where is X_".	0
+And, but you know, do it -	0
+do it in such a way that we  know  that people can also say, "is the town hall in front of the  bank ",	0
+so that we need something like [MASK] Nuh? Should be -	0
+should be  there,  that, you know, this - the - whatever we get from the -	0
+Wait, so  do,  or do  not  take other kinds of	1
+Well, if you - if you  can,  oh definitely  do,	1
+If i- if - if it's not at all  triggered  by our thing, then it's irrelevant, and it doesn't  hurt  to leave it out for the moment.	1
+Um, it seems like for instance, "where is X_",	0
+the fact that it might mean	0
+"tell me how to get to X_",	0
+So, would you wanna say that those two are both, like -	0
+Those are the two interpretations, right? the - the ones that are location or path.	0
+So, you  could  say that the s- construction is a question asking about this location,	0
+and then you can  additionally  infer, if they're asking about the location, it's because they wanna  go  to that place,	0
+in which case, the - you're  jumping  a  step   - step and saying, "oh, I know where it is but I also know how to get - they wanna seem - they seem to wanna get there so I'm gonna tell them". So there's like structure	0
+Right, th- this - it's  not  - it's  not  that this is sort of like semantically ambiguous between these two. It's  really  about this but why would you care about this? Well,	0
+i- do you kn- sort of uh, that -	0
+it's because you  also  want to know  this,  or something  like that  right?	0
+So it's like you infer the speaker intent, and then infer a plan, a larger plan from that, for which you have the additional information, you're just being extra helpful. Um.	1
+Think - Uh, well this is just a  mental  exercise. If you think about,	1
+focus on this question, how would you design  that?	1
+do you feel confident about saying this is  part  of the  language   already  to - to  detect  those plans, and why would anyone care about location, if not, you know	0
+I mean this is  perfectly   legitimate,  and I - I would  not  have any problems with erasing this and say,	0
+that's all we can activate, based on the utterance out of context.	0
+And just by an additional link -	0
+And then the - the - the  miracle  that we get out the intention,  [MASK]	0
+with context and enough user information, yeah.	0
+happens, based on what we know about that entity, about the user, about his  various  beliefs, goals, desires, blah-blah-blah.	0
+But this is the sort of thing, I - I  propose  that we  think  about,	0
+so that we actually end up with um,	1
+so that we can put  them   into [MASK]	1
+so we - all there is is "where is X_",	0
+and, Eva can play around with the observed things, and we can run our better [MASK] and have it produce some  output.  And for the first time in th- in -	1
+in the  world,  we look at our  output,  and um - and see uh whether it -	0
+Here's hoping. Right?  Now  cross your fingers.	0
+Yeah, I - I mean, for  me  this is just a ba-  matter   of curiosity, I wanna -	0
+would like to look at uh,	0
+what this ad-hoc process of designing [MASK] would actually produce.	0
+If - if we ask it where is something.	0
+And, maybe it also h-	0
+enables you to think about certain things more specifically,	0
+with interesting questions, to which you can find interesting answers.	0
+fit in  really  nicely with the paper.	0
+Because if - if - if we want an example for the  paper,	0
+I suggest there it  is.	0
+So th- this might be a nice opening  paragraph  for the paper as saying,	1
+"you know people look at kinds of -  at ambiguities", and	1
+in the literature there's "bank"	0
+And we can say, well, that's all nonsense.	0
+A_, uh these things are  never   really  ambiguous in discourse,	1
+B_, don't ever  occur  really in discourse, but	1
+normal  statements that seem completely unambiguous, such as "where is the blah-blah",	1
+actually are terribly complex, and completely ambiguous.	1
+And so, what every- everybody else has been doing so far in - in - in - you know, has been completely nonsensical, and can all go into the wastepaper bin,	0
+That's always a good way to begin. Yeah. Yeah.	0
+And the - the - the only -	0
+Nice overture, but, you know, just not really -	0
+O_K, I'm eja- exaggerating, but that might be, you know,	0
+some stuff is - is actually	0
+complex, if you look at it in - in - in the  vacuum	0
+and - and ceases to be complex in reality. And some stuff that's as - that's absolutely straightforward in the vacuum,	0
+is actually terribly complex in reality.	0
+Would be nice sort of, uh, also, nice, um	0
+Versus the old top-down school.	0
+I'm running out of time. O_K.	0
+When do you need to start [MASK]	0
+O_K, this is the other bit of news.	0
+The subjects today know Fey, so she can't be here, and do [MASK]	0
+So I'm gonna do [MASK] and Thilo's gonna do the instructing. Also we're getting a - a person who just got fired	1
+Uh a person from Oakland who is interested in maybe  continuing  the wizard bit once Fey  leaves  in August.	1
+And um, she's gonna look at it	0
+Which is good news in the sense that if we  want  to continue,	0
+thir- after July, we can. We could.	0
+maybe interesting for Keith and whoever,	0
+if you wanna get some more stuff  into  the data collection.	1
+Remember this, we can completely change the set-up any time we want.	1
+Look at the results we've gotten  so  far for the first,	1
+Fifty? You've had fifty so far, or - ?	0
+No, we're approaching twenty now. But, until Fey is	1
+leaving, we surely will hit the -	1
+some  of  the higher numbers.	1
+Yeah, I'll have to look more into that data. Is that around? Like, cuz that's pretty much getting posted or something right away when you get it? Or - ? I guess it has to be transcribed, huh?	0
+We have uh, eh found someone here who's hand st- hand transcribing the first twelve.	1
+just so we can build a - a language model for the recognizer.	0
+But, um - So those should be available soon.	0
+I can ch- ch- st- e-	0
+I mean you know that I - that I looked at the first - the first one and got enough data to keep me going for, you know, probably most of July. So.	0
+Yeah, a-  probably  not the right way to do it actually.	0
+But you can listen to -	0
+a- y- y- y- You can listen to  all  of them from [MASK]	0
