@@ -1,1179 +1,540 @@
--st.	0
 Am I on? I guess so.	0
-Radio two.	0
-Hmm.	0
-Radio two.	0
-Hello?	0
 Video killed the radio star.	0
-Wow.	0
-Mm-hmm.	0
-Hi?	0
 Blow into it, it works really well.	0
-Channel B_.	0
 People say the strangest things when their microphones are on.	0
-Channel four.	0
-Test.	0
-O_K.	0
-Uh-oh.	0
-Radio four.	0
-Hello?	0
-Today's	0
 So everybody- everybody's on? Yeah.	0
-So y- you guys had a - a meeting with uh -	1
+So y- you guys had a a meeting with uh -	1
 with Hynek which I unfortunately had to miss.	1
-Um	0
-Mmm.	0
-and uh somebody	0
-eh e-	0
 and uh I guess Chuck you weren't there either, so the- uh	0
-I  was there.	0
-Oh you  were  there?	0
-With Hynek?	0
-Yeah.	0
-Yeah.	0
 So everybody knows what happened except me.	1
-O_K.	0
 Maybe somebody should tell me.	0
-Oh yeah.	0
-Alright.	0
 Well.  Uh  first  we discussed about some of the points	1
 that I was addressing in the mail I sent last week.	1
-Uh-huh.	0
-So.	0
-Yeah.	0
 About the um,  well  -	1
-the downsampling problem.	1
-Yeah.	0
 Uh and about the f- the length of the filters	1
-and -	0
-Yeah.	0
-What was the - w- what was the downsampling problem again? I forget.	0
-So we had -	0
-So the fact that there - there is no uh low-pass filtering before the downsampling.	0
-Well.	0
-Uh-huh.	0
+What was the w- what was the downsampling problem again? I forget.	0
+So the fact that there there is no uh low-pass filtering before the downsampling.	0
 There  is  because there is L_D_A  filtering  but	0
-that's perhaps not	0
 uh the best w- m-  Well.	0
-Depends what it's	0
-frequency characteristic is, yeah.	0
-Mm-hmm.	0
-System on	0
-So you  could  do a - you could do a  stricter  one.	0
-Maybe. Yeah.	0
-Yeah.	0
+So you  could  do a you could do a  stricter  one.	0
 So we discussed about  this,  about the um -	0
 Was there any conclusion about that?	1
-Uh "try it". Yeah.	1
-I see.	0
-I guess.	0
-Uh.	0
 Yeah. So again this is th- this is the downsampling	0
-uh of the uh - the feature vector stream	0
-and	0
-um	0
+uh of the uh the feature vector stream	0
 Yeah I guess the -	0
 the uh L_D_A filters they were doing do have	0
-um	0
-uh let's see, so the - the -	0
+uh let's see, so the the -	0
 the feature vectors are calculated every ten milliseconds so	0
-uh the question is how far down they are at fifty - fifty hertz. Uh.	0
-Yeah.	0
-Mm-hmm.	0
-Um.	0
+uh the question is how far down they are at fifty fifty hertz. Uh.	0
 Sorry at twenty- five  hertz since they're downsampling by two.	0
 So. Does anybody  know  what the	0
-frequency characteristic is?	0
-We don't have yet	0
-Oh O_K.	0
-um	0
-So, yeah.	1
-O_K.	0
 We should have a look first at, perhaps,	1
-Yeah.	0
-the modulation spectrum.	1
-Um.	0
-So there is  this,	0
-there is	0
 the um length of the  filters.	0
-Um.	1
 So the i- this idea of trying to find filters with shorter delays.	1
-Um.	1
-Hmm-hmm.	0
 We started to work with this.	1
-Mmm.	0
 And the third point um	1
-was the um,	1
-yeah,	1
-the on-line normalization where,	1
-well, the recursion f-	1
 recursion for the mean estimation	1
 is a filter with some kind of delay	1
-Yeah.	0
 and that's not taken into account right now.	0
-Um.	0
-Yeah.	0
-And there again,  yeah.	0
 For this, the conclusion of Hynek was,  well,	1
 "we can  try  it but -"	1
-Uh-huh.	0
-Um.	0
-Try - try what?	0
-So try	0
-to um	0
-um	0
 take into account the delay of the recursion for the mean estimation.	0
-O_K.	0
-Mmm.	0
-And this - we've not uh worked on this yet.	0
-Um,  yeah.	0
-And so while discussing about these - these L_D_A filters,	0
+And this we've not uh worked on this yet.	0
+And so while discussing about these these L_D_A filters,	0
 some i- issues appeared, like	0
-well,	0
-the fact that	0
 if we look at the frequency response of these filters it's	0
-uh,	0
 well,  we don't  know  really what's the important part	0
 in the frequency response and there is the fact that	0
 in the very low frequency,	0
-these filters don't - don't	0
-really remove a lot.	0
-compared to the -	0
 to the uh standard RASTA filter.	0
-Uh and that's	0
 probably a reason why,  yeah,  on-line normalization helps because	0
-Right.	0
-it - it,  yeah,  it removed this mean.	0
-Um.	0
+it it,  yeah,  it removed this mean.	0
 Yeah,  but perhaps everything could -	0
-should be -	0
 could be in the  filter,  I mean,	0
-uh the - the mean normalization and -	0
-Yeah.  So.	0
+uh the the mean normalization and -	0
 Yeah.  So basically that was -	1
-that's	0
 all we discussed about. We discussed about	1
 good things to do also uh	0
-well,   generally  good stuff	0
-Mm-hmm.	0
 to do for the research.	0
 And this was this L_D_A uh tuning perhaps and	0
-Hynek proposed again to	0
-his uh TRAPS, so.	0
-O_K.	0
-Yeah, um.	0
 I mean I g- I guess the key thing for me is -	1
-is figuring out how to better coordinate between the two sides cuz - because um	1
-Mm-hmm.	0
-uh I was talking with Hynek about it later and the - the - sort of had	1
-the sense sort of that - that neither group of people wanted to - to  bother  the other	1
-group too much.	1
-And - and I don't think anybody is, you know,	0
-closed in in their	0
+is figuring out how to better coordinate between the two sides cuz because um	1
+uh I was talking with Hynek about it later and the the sort of had	1
+the sense sort of that that neither group of people wanted to to  bother  the other	1
+And and I don't think anybody is, you know,	0
 thinking or are unwilling to  talk  about things but I think that	1
-you were sort of	1
-waiting for them to	1
-tell you that they had something for you and - and that -	1
-and expected	0
+tell you that they had something for you and and that -	1
 that they would do certain things and they were sor- they didn't wanna bother  you  and	1
-Mm-hmm.	0
-they were sort of waiting for you and - and - and uh we ended up with this thing where they -	1
-they were filling up	0
-all of the	1
+they were sort of waiting for you and and and uh we ended up with this thing where they -	1
 possible latency themselves, and they just had-	1
 hadn't thought of that. So.	0
-Uh.	0
-Yeah.  Well, but. Yeah.	0
-Yeah.	0
-I mean it's true that maybe - maybe no one really thought about that - that this latency thing would be such a - a strict issue	0
-Well -	0
-in - in uh -	0
-the other -	0
+I mean it's true that maybe maybe no one really thought about that that this latency thing would be such a a strict issue	0
 Yeah I don't know what happened really, but	0
-Yeah.	0
-I guess it's - it's also so uh	0
-the time constraints. Because,	0
-well, we discussed about that - about this problem and	0
+I guess it's it's also so uh	0
+well, we discussed about that about this problem and	0
 they told us "well, we will do	0
 all that's possible to have enough space for a network"	0
-but then,  yeah,	0
-Then they couldn't.	0
-perhaps they were	0
 too short with the time and	0
-I see.	0
-uh  yeah.	1
 But there was also problem -	1
 perhaps a problem of communication. So,  yeah.	1
 Now we will try to -	1
-Just talk more.	1
 Yeah,  slikes  and send mails.	0
-u- s- o- o-	0
-Yeah.	0
-Yeah.	0
-Yeah.	0
-Uh.	0
-O_K .	0
-So there's um -	0
 Alright. Well maybe we should just	0
-uh I mean you're - you're bus- other than that you	0
-folks are busy doing all the - all the things that you're trying that we talked about before right? And this - machines are busy and	0
-you're busy and	0
-Yeah.	0
-Basically.	0
-Yeah.	0
-O_K.	0
-Um.	0
-Oh.	0
-Let's - let's, I mean, I think that	1
-as - as we said before that	1
+uh I mean you're you're bus- other than that you	0
+folks are busy doing all the all the things that you're trying that we talked about before right? And this machines are busy and	0
+Let's let's, I mean, I think that	1
+as as we said before that	1
 one of the things that we're imagining is that uh there -	1
-there will be	1
 uh in the system we end up with there'll be something to explicitly uh uh	1
-do something about noise	1
-in addition to the	0
-Mm-hmm.	0
 uh other things that we're talking about	0
 and that's probably the best thing to do. And there  was  that one  email  that said that	0
 it sounded like uh uh things looked very promising up there	0
 in terms of uh I think they were using Ericsson's	1
-approach or something and	1
-in addition to -	0
 They're doing some noise removal thing, right?	0
-Yeah, yeah.	0
-So yeah we're - will start to do  this  also.	0
-Yeah.	0
-Uh so Carmen is just looking at the  Ericsson   - Ericsson code.	1
-Yeah. We modif-	0
-Mm-hmm.	0
-Yeah, I modified it - well, modifying -	1
-And	0
+So yeah we're will start to do  this  also.	0
+Uh so Carmen is just looking at the  Ericsson   Ericsson code.	1
+Yeah, I modified it well, modifying -	1
 I studied Barry's  sim code , more or less.	0
 to take  @@  the first step the spectral  subtraction.	1
-and we have some - the feature for Italian database	0
+and we have some the feature for Italian database	0
 and we will try with this feature with the filter	0
-Mm-hmm.	0
-Mm-hmm.	0
 to find the result. But we haven't result until this moment.	1
-Yeah, sure.	0
 But well, we are working in this also and maybe try another type of spectral subtraction, I don't -	1
-Yeah.	0
-When you say you don't have a result yet you mean it's - it's just that it's in process or that you -	0
+When you say you don't have a result yet you mean it's it's just that it's in process or that you -	0
 it finished and it didn't get a good result?	0
-No.	0
 No, no n- we have n- we have do the experiment	0
-only have the feature - the feature but	0
-Yeah.	0
-the experiment have	0
+only have the feature the feature but	0
 we have not make the experiment and	0
-Oh.	0
-O_K.	0
 maybe will be good result or bad result, we don't know.	0
-Yeah.	0
-Yeah.	0
-Yeah.	0
-O_K.	0
-So um I suggest actually now we - we -	1
-we sorta move on and - and hear what's -	1
-what's - what's	1
-happening in - in other areas like	1
-what's - what's happening with your	1
-investigations	1
-Oh um	0
+So um I suggest actually now we we -	1
+we sorta move on and and hear what's -	1
+happening in in other areas like	1
+what's what's happening with your	1
 about echos and so on.	1
-Well um	1
 I haven't started writing the test yet, I'm meeting with Adam today	1
-Mm-hmm.	0
 um and he's going t- show me the scripts he has for um	1
 running recognition on mee- Meeting Recorder digits.	1
-Mm-hmm.	0
-Uh	0
-I also um	0
-haven't got the code yet, I haven't  asked  Hynek for - for the - for his code yet.	1
+haven't got the code yet, I haven't  asked  Hynek for for the for his code yet.	1
 Cuz I looked at uh Avendano's thesis and	1
 I don't really understand what he's doing yet but it -	1
-it - it sounded like um	1
-the channel normalization	1
-part	1
-um	1
-of his thesis um	1
-was done in a - a bit of	1
-I don't know what	1
-the word is, a - a bit of a rough way um	1
+it it sounded like um	1
+was done in a a bit of	1
+the word is, a a bit of a rough way um	1
 it sounded like he um	0
-he - he - it - it wasn't really fleshed out and maybe he did something that was	1
+he he it it wasn't really fleshed out and maybe he did something that was	1
 interesting for the test situation	1
-but I - I'm not sure if it's	1
-what I'd wanna use so I have to - I have to read it more, I don't really understand what he's doing yet.	1
-O_K.	0
-It's my	0
+but I I'm not sure if it's	1
+what I'd wanna use so I have to I have to read it more, I don't really understand what he's doing yet.	1
 Yeah I haven't read it in a while so I'm not gonna be too much help unless I read it again, so.	0
-Oh yeah?	0
 I know this is mine here.	0
-O_K.	0
-Um.	0
-The um -	0
-so you, and then	0
 you're also gonna be doing this echo cancelling between the -	0
 the close mounted and the -	0
-and the - the - the -	0
+and the the the -	0
 what we're calling a cheating experiment	0
-uh of sorts	0
-Uh I-	0
-between the distant -	0
-I'm ho-	0
-Right. Well -	0
-or I'm hoping -	0
 I'm hoping Espen will do it.	0
-Um	0
-Ah!	0
-O_K.	0
-u-	0
-F- um	0
-Delegate.	0
-That's  good.	0
-It's good to delegate.	0
-I - I think he's at least	0
+I I think he's at least	0
 planning to do it for the	0
 cl- close-mike cross-talk and so maybe I can just take whatever setup he has and use it.	0
-Great.	0
-Great.	0
-Yeah actually um	0
-he should uh	0
 I wonder who else is	0
 I think maybe it's Dan Ellis is going to be doing uh a  different  cancellation. Um.	0
 One of the things that	0
 people working in the meeting task wanna get at	0
 is they would like to have cleaner	0
-close-miked  recordings.	0
-So uh this is  especially  true for the  lapel   but even for the close - close-miked	0
-uh cases	0
+So uh this is  especially  true for the  lapel   but even for the close close-miked	0
 um we'd like to be able to have	0
-um	0
-other sounds from	0
-other people and so forth  removed  from - So when someone  isn't  speaking you'd like the part where they're not speaking to actually be -	0
-So	0
+other people and so forth  removed  from So when someone  isn't  speaking you'd like the part where they're not speaking to actually be -	0
 what they're talking about doing is using ec-	0
-uh	0
-echo cancellation-like	0
 techniques.  It's not really  echo  but	0
-uh just um	0
-uh	0
 taking the input from other mikes and using uh	0
-uh	0
-a uh -	0
 an adaptive filtering approach to remove the effect of that	0
-uh  other  speech.	0
-So.	0
-Um what was it, there was - there was some - some -	0
-some point where	0
-eh uh Eric or somebody was - was speaking and he had lots of	0
+Um what was it, there was there was some some -	0
+eh uh Eric or somebody was was speaking and he had lots of	0
 silence in his channel and I was saying something to somebody else uh	0
 which was in the background and it was not -	0
 it was recognizing  my  words,	0
 which were the  background  speech	0
-Hmm.	0
-on the close -	0
-close  mike.	0
-Oh the - What we talked about yesterday? Yeah that was actually my -  I  was wearing the -	0
-Yes.	0
-Oh you - it was  you  I was	0
+Oh the What we talked about yesterday? Yeah that was actually my  I  was wearing the -	0
+Oh you it was  you  I was	0
 I was wearing the  lapel  and you were sitting  next  to me,	0
-Yeah.	0
 and I only said one  thing  but  you  were talking and it was picking up all your words.	0
-Yeah.	0
-Yeah.	0
 So they would like clean channels.	0
 Uh and for that -	0
-mmm uh -	0
-that purpose uh	0
 they'd like to pull it out.	0
-So I think -	0
 I think Dan Ellis or somebody who was working with him was going to uh	0
-work on that.	0
-So.	0
-O_K.	0
-Right?	1
-Um.	1
 And uh I don't know if we've talked lately about	1
-the - the plans you're developing that we talked about this morning	1
-uh	0
+the the plans you're developing that we talked about this morning	1
 I don't remember if we talked about that last week or not, but	0
-maybe just a quick reprise of - of what we	0
-Yeah.	0
-O_K.	0
+maybe just a quick reprise of of what we	0
 were saying this morning. Uh.	0
-Um.	1
 So continuing to um extend	1
-uh	0
-Larry Saul's work um just reading - reading how - how we can take	0
-that as a front-end cuz it - it detects these features and  they  plug it into um back-end so I've been looking at a lot of	0
+Larry Saul's work um just reading reading how how we can take	0
+that as a front-end cuz it it detects these features and  they  plug it into um back-end so I've been looking at a lot of	0
 um back-end stuff people have been doing articulatory features	0
-and seeing - seeing what I can -	0
+and seeing seeing what I can -	0
 what I can pull off the shelf and plug into um Larry Saul's work.	0
 What about the stuff that um	0
-Mirjam	0
-has been doing?	0
-Oh yeah, sh-	0
-And -	0
-And Shawn?	0
-and S- Shawn, yeah.	0
-Yeah. They're - they're doing uh neural nets, just - just training up a whole bunch of neural nets and	0
-Oh.	0
-I - I think they're trying to understand um	0
-what's good	0
-about neural nets in - in terms of, you know, their patterns of errors and	0
+Yeah. They're they're doing uh neural nets, just just training up a whole bunch of neural nets and	0
+I I think they're trying to understand um	0
+about neural nets in in terms of, you know, their patterns of errors and	0
 So they're training up nets to try to recognize these acoustic features?	1
-Yeah.	0
-I see.	0
-Yeah.	0
-But that's uh uh all - that's -  is  a - a certainly relevant	1
+But that's uh uh all that's  is  a a certainly relevant	1
 uh  study  and, you know, what are the features that they're finding.	1
 We have this problem with the overloading of the term "feature"  so	0
-Yeah.	0
 uh  what are the  variables,	0
-what we're calling this one, what are the  variables  that they're found - finding useful	0
-Hmm.	0
-um for -	0
-And their - their targets are based on	0
+what we're calling this one, what are the  variables  that they're found finding useful	0
+And their their targets are based on	0
 canonical mappings of phones to	0
-acoustic f-	0
 Right. And that's certainly one thing to do and we're gonna try and do something more f- more fine than that	0
-features.	0
-but uh	0
-um	0
-so	0
-um	0
 So I guess you know what, I was trying to remember some of the things we were saying,	0
-do you ha- still have that - ?	0
-Oh yeah.	0
-Yeah.	0
-There's those	0
-that uh	0
-yeah, some of - some of the issues we were talking about was in j-	0
-just	0
+do you ha- still have that ?	0
+yeah, some of some of the issues we were talking about was in j-	0
 getting a good handle on -	0
-on uh	0
 what "good features" are and -	0
-What does - what did um Larry Saul use for - it was the sonorant	0
-uh detector, right?	0
+What does what did um Larry Saul use for it was the sonorant	0
 He di- he did uh yeah.	0
-How did he -	0
 H- how did he do that? Wh- what was his detector?	0
-We- oh.	0
 Um yeah, it was uh sonorance and he also had a paper on voicing too.	0
-Mm-hmm.	0
-Um and basically um	0
 in  his variables that he used	0
-um or measures of S_N_R at - at sub-bands. Actually critical bands like	0
-Mm-hmm.	0
+um or measures of S_N_R at at sub-bands. Actually critical bands like	0
 um the um measures of correlation and covariance	0
-Oh, O_K.	0
 um within the sub-bands and um and at the upper level detecting uh sonorance and voicing.	0
-Mm-hmm.	0
-So how did he combine all these features? What - what r- mmm	0
-Oh.	0
-classifier did he u-	0
+So how did he combine all these features? What what r- mmm	0
 Um he used uh um uh	0
-a - a belief-net	0
-where the lower levels of the belief-net are - correspond to individual tests of	0
+where the lower levels of the belief-net are correspond to individual tests of	0
 whether there is sonorance within this critical band	0
-Hmm.	0
 and then at an upper-level um there's like this soft "OR" gate so if -	0
 Oh right. You were talking about that, yeah.	0
-so if yeah. Yeah.	0
-I see.	0
-And the other thing you were talking about is - is - is where we get the  targets  from.	0
-So I mean, there's these issues of what are the - what are the variables that you use	1
-and	1
+And the other thing you were talking about is is is where we get the  targets  from.	0
+So I mean, there's these issues of what are the what are the variables that you use	1
 do you  combine  them using the soft "AND-OR" or you do something, you know, more complicated	1
-um	0
 and then the other thing was so where do you get the targets from?	0
 The initial thing is just the obvious that	0
-we're  discussing  is	0
 starting up with phone labels	0
-from  somewhere  and then	0
-uh doing the transformation.	0
 But then the other thing is to do something better and eh w-	1
-why don't you tell us again about this - this database?	1
-This is the -	0
-Oh O_K. Um	0
+why don't you tell us again about this this database?	1
 Yeah, so there's uh a group at um Edinburgh	0
 is working on um  this MOCHA database where	0
-um they have measurements of um articulatory positions. So you - you put some - some pellets on people's tongues and lips	0
-Hmm!	0
-and - and they can tell	0
+um they have measurements of um articulatory positions. So you you put some some pellets on people's tongues and lips	0
+and and they can tell	0
 And then tell them to talk naturally?	0
-Yeah, yeah.	0
-and they	0
 Well I guess if you got people who had like um	0
 you know, tongue rings -	0
-Pierced tongues and	0
-Pierced tongues, or -	0
-Yeah.	0
 You could just mount it to  that  and they wouldn't even  notice.	0
 Yeah it  doesn't matter .	0
-Yeah.	0
-Weld it. Zzz.	0
-But I - I don't - I don't think they're doing that though.	0
-Maybe you could go to these  parlors  and - and you could, you know -  you know  have - have, you know, reduced rates if you -	0
-Yeah. I-	0
+But I I don't I don't think they're doing that though.	0
+Maybe you could go to these  parlors  and and you could, you know  you know  have have, you know, reduced rates if you -	0
 if you can do the measurements.	0
-That's right.	0
-You could - what you could  do  is you could sell little  rings  and stuff with embedded	0
-Yeah.	0
+You could what you could  do  is you could sell little  rings  and stuff with embedded	0
 you know,  transmitters  in them and things and	0
 Yeah, be cool and help science.	0
-Yeah.	0
-Ye- cool.	0
-Yeah.	0
-O_K.	0
-Yeah, so they - they - they have this - they're working on the database, it's still - it's still being - being uh transcribed and produced.	0
-Um where  either  you have um acoustic features at the same or - or just uh the acoustic waveform's being recorded for frame and then	0
-at each frame you have a measurement of - of the different positions of um uh articulators.	0
-Hmm!	0
+Yeah, so they they they have this they're working on the database, it's still it's still being being uh transcribed and produced.	0
+Um where  either  you have um acoustic features at the same or or just uh the acoustic waveform's being recorded for frame and then	0
+at each frame you have a measurement of of the different positions of um uh articulators.	0
 There's a bunch of data that l-  around,	0
-that - people have done studies like that w- way way back right? I mean	1
-I can't remember where - uh Wisconsin or someplace that used to have a big database of -	1
-Yeah they have a X_ - X_ray -	0
-Yeah.	0
-X_ray database.	0
-Yeah.	0
-It's	0
+that people have done studies like that w- way way back right? I mean	1
+I can't remember where uh Wisconsin or someplace that used to have a big database of -	1
+Yeah they have a X_ X_ray -	0
 I remember there was this guy at A_T_and_T, Randolph? or r-	0
 What was his name? Do you remember that guy?	0
-Um,	1
 researcher at A_T_and_T a while back that was studying,	1
 trying to do speech recognition from these kinds of features.	1
-Hmm.	0
 I can't remember what his name was.	0
 Dang. Now I'll think of it.	0
-Hmm.	0
-Do you mean eh - but you - I mean - Mar- you mean	1
-That's interesting.	0
+Do you mean eh but you I mean Mar- you mean	1
 Well he was the guy -	0
 the guy that was using -	0
-when	0
-was - was Mark Randolph there, or - ?	1
-Mark  Randolph.	0
-Yeah he's - he's - he's at Motorola now.	1
+was was Mark Randolph there, or ?	1
+Yeah he's he's he's at Motorola now.	1
 Oh is he? Oh O_K.	0
-Yeah.	0
-Yeah.	0
-Yeah.	0
 Is it the guy that was using the	1
-pattern of pressure on the  tongue   or - ?	1
+pattern of pressure on the  tongue   or ?	1
 I can't remember exactly what he was using, now.	0
-But I know - I just remember it had to do with you know	1
-What -	0
-Yeah.	0
-uh positional	1
+But I know I just remember it had to do with you know	1
 parameters  and trying to m- you know	1
-Mm-hmm.	0
 do speech recognition based on them.	1
-Yeah.	0
-So the only - the only	1
+So the only the only	1
 uh hesitation  I  had about it since, I mean I haven't see the data is it  sounds  like	1
-it's - it's	1
-continuous  variables	1
 and a  bunch  of them.	1
-Hmm.	0
-And so	0
 I don't know how complicated it is to go from there -	1
 What you  really  want are these binary  labels,	1
 and just a few of them.	1
 And  maybe  there's a trivial mapping if you wanna do it and it's e- but it -	1
-I - I - I worry a little bit that this is a research project in  itself,	1
-whereas um	1
-if you did something instead that - like	1
-um	0
-having some manual annotation	1
-by	1
+I I I worry a little bit that this is a research project in  itself,	1
+if you did something instead that like	1
 uh you know, linguistics students,	1
-this would -	1
 there'd be a limited s-	1
-set of things that you could  do  a- as per our discussions with - with  John  before	1
-Mm-hmm.	0
-but	0
+set of things that you could  do  a- as per our discussions with with  John  before	1
 the  things  that you  could  do, like nasality and voicing and a couple other things	0
 you  probably  could do reasonably well.	0
-Mm-hmm.	0
-And  then  there would - it would  really  be uh this uh	0
-uh  binary  variable.	1
+And  then  there would it would  really  be uh this uh	0
 Course then, that's the  other  question is do you  want  binary variables. So.	1
 I mean the  other  thing you could do is	0
-boot  trying to -	0
-to uh	0
-get  those binary variables	0
 and take the continuous variables from	0
-uh	0
-the uh	0
 uh the data  itself  there, but	0
-I - I'm not sure -	0
+I I'm not sure -	0
 Could you cluster the -	0
 just do some kind of clustering?	0
-Guess you could, yeah.	0
 Bin  them   up into different categories and -	0
-Yeah.	0
-So  anyway  that's - that's uh - that's another whole	0
+So  anyway  that's that's uh that's another whole	0
 direction  that cou- could be looked at.	0
-Mm-hmm.	0
-Um.	0
-Um.	0
-I mean in  general  it's gonna be - for new data that you look at, it's gonna be hidden variable because we're not gonna get everybody sitting in these meetings to	0
+I mean in  general  it's gonna be for new data that you look at, it's gonna be hidden variable because we're not gonna get everybody sitting in these meetings to	0
 wear the pellets and -	0
-Right.	0
-Um.	0
-Right.	0
-So.	0
 So you're talking about using that data to get	0
-uh	0
 instead of using canonical mappings	0
-Right.	0
 of phones. So you'd use that data to give you	0
 sort of what the -	0
 the true mappings are for each phone?	0
-Mm-hmm.	0
-I see.	0
-Mm-hmm.	0
-Yeah.	0
 So wh- yeah, where this	0
-fits into the rest in - in  my  mind, I guess, is that um	0
-we're looking at different	0
+fits into the rest in in  my  mind, I guess, is that um	0
 ways that we can combine	0
 uh different kinds of -	0
-of rep-	0
-front-end representations	0
 um in order to get robustness under difficult or even,	0
-you know,	0
-typical conditions.	0
 And  part  of it, this robustness, seems to come from	0
-uh	0
 multi-stream or multi-band sorts of  things  and Saul seems to have	0
 a reasonable way of  looking  at it, at least for one -	0
-one um articulatory feature.	0
 The  question  is is can we learn from that	0
 to change some of the other methods we have, since -	0
 I mean,  one  of the things that's  nice  about what he had I thought was that -	0
-that it -	0
-it um -	0
-the  decision   about  how	0
 strongly to train the different pieces is based on	0
-uh a - a reasonable criterion with hidden variables rather than	0
-um	0
-just assuming	0
+uh a a reasonable criterion with hidden variables rather than	0
 that you should train e- e-  every	0
-detector	0
-uh	0
-with equal strength	0
 towards uh it being this phone or that phone.	0
-Hmm.	0
-Right?	0
-So it - so um	0
-he's got these	0
-um	0
-uh	0
-uh	0
 he "AND's" between these different	0
-features.	0
-It's a soft "AND", I guess but in - in principle	0
-you - you wanna get a strong concurrence of all the different things that indicate something	0
-and then he "OR's" across the different - soft-"OR's" across the different uh	0
-multi-band  channels.	0
-And um	0
-the weight	0
-yeah, the  target	0
-for the training of the "AND" - "AND'ed" things	0
-is something that's kept	0
+It's a soft "AND", I guess but in in principle	0
+you you wanna get a strong concurrence of all the different things that indicate something	0
+and then he "OR's" across the different soft-"OR's" across the different uh	0
+for the training of the "AND" "AND'ed" things	0
 uh as a hidden variable,	0
 and is learned with E_M.	0
 So he doesn't have -	0
 Whereas what  we  were doing is -	0
-is uh	0
-taking	0
 the  phone  target and then just back propagating	0
-from  that	0
 which means that it's -	0
-it's uh	0
 i- It  could  be for instance	0
-that	0
-for a particular	0
-point in the data	0
 you don't want to um	0
-uh	0
-train a particular band - train the	0
-detectors for a particular band. You - you wanna  ignore	0
-that band, cuz that's a - Ban- band is a noisy - noisy measure.	0
-Mm-hmm.	0
-And we don't -	0
-We're - we're still gonna try to train it up.	0
+train a particular band train the	0
+detectors for a particular band. You you wanna  ignore	0
+that band, cuz that's a Ban- band is a noisy noisy measure.	0
+We're we're still gonna try to train it up.	0
 In  our  scheme we're gonna try to train it up	0
-to do as  well   - well as it can at  predicting.	0
+to do as  well   well as it can at  predicting.	0
 Uh. Maybe that's not the right thing to do.	0
 So he doesn't have to have	0
-truth  marks	0
-or - Ho-	0
 F- right, and uh he doesn't have to have hard labels.	0
-Well at the - at the	0
-tail  end,  yeah,  he has to know what's - where it's  sonorant.	0
+Well at the at the	0
+tail  end,  yeah,  he has to know what's where it's  sonorant.	0
 Right. For the full band.	0
-But he's - but what he's- but what he's  not  training up - uh what he doesn't	0
+But he's but what he's- but what he's  not  training up uh what he doesn't	0
 depend on as truth is	0
-um	0
 I guess one way of describing would be	0
-if -	0
 if a sound is sonorant	0
 is it sonorant in  this  band? Is it sonorant in  that  band? Is it sonorant in that band?	0
-Right.	0
 i- It's hard to even answer that what you really mean is that the whole  sound  is sonorant. So	0
-Mm-hmm. O_K.	0
 then  it comes down to, you know, to what extent should you make use of information from particular band	0
-towards making your decision.	0
-I see.	0
-And um	0
-uh	0
-we're making	0
-in a  sense  sort of this  hard  decision that you should - you should use everything	0
-uh with -	0
-with uh equal strength.	0
+in a  sense  sort of this  hard  decision that you should you should use everything	0
 And uh because in the  ideal  case we would be going for posterior  probabilities,  if we had	0
-uh	0
 enough data to really get	0
-posterior probabilities	0
-and if the - if we also had enough data so that it was representative of the  test  data	0
+and if the if we also had enough data so that it was representative of the  test  data	0
 then we would in fact be doing the right  thing  to train everything as hard as we can.	0
-But um	0
 this is something that's more built up along an idea of robustness from -	0
 from the  beginning  and so you don't  necessarily  want to train everything up towards the -	0
-So where did he get his - uh	0
-his tar- his	0
+So where did he get his uh	0
 uh high-level targets about what's sonorant and what's not?	0
-From uh canonical mappings	0
-O_K.	0
 um at first and then	0
-Yeah.	0
 it's unclear um eh using TIMIT right, right.	0
 Using TIMIT? or using -	0
-Uh-huh.	0
-And then uh	0
-Yeah.	0
 he does some fine tuning	0
-um	0
-for um special cases.	0
-Yeah.	0
-Yeah.	0
 I mean we ha- we have a kind of	0
-iterative training	0
 because we do this embedded Viterbi,	0
 uh so there is some-	0
-something that's suggested,	0
 based on the data but it's -	0
-it's not -	0
 I think it s- doesn't seem like it's quite the same,	0
-cuz of this - cuz then whatever	0
-that	0
+cuz of this cuz then whatever	0
 alignment is, it's that for all -	0
-Mm-hmm.	0
-all bands. Well no, that's not quite right, we did actually do  them   separate - tried to do them separately	0
+all bands. Well no, that's not quite right, we did actually do  them   separate tried to do them separately	0
 so that would be a little more like what he did.	0
-Um.	0
-But it's still	0
 not quite the same because then it's -	0
-it's um	0
 setting targets based on where you would say	0
-the sound begins	0
-in a particular band.	0
 Where he's s- this is not a  labeling  per se.	0
-Mm-hmm.	0
 Might be closer I guess if we did a	0
-soft - soft target uh	0
-uh	0
-embedded	0
 neural net training like we've done a few times uh	0
 f- the forward um -	0
 do the forward calculations to get the gammas and	0
-train on those.	0
-Mmm.	0
-Uh	1
-what's next?	1
 I could say a little bit about w-	1
-stuff I've been	1
-playing with.	1
-Oh.	0
-I um	0
-You're playing?	0
-Huh?	0
-You're playing?	0
-Yes,  I'm playing.	0
-Um	1
-so I	1
 wanted to do this experiment to see um	1
 uh what happens if we	1
-try to	1
 uh improve the performance of the back-end	1
 recognizer for the Aurora task	1
 and see how that affects things.	1
 And so I had this um -	0
 I think I sent around last week a -	0
-this	0
 plan I had for an experiment, this matrix where	0
 I would take the um -	0
-the original	0
-um	0
 the original  system.  So there's the original system trained on	0
-the mel	0
-cepstral features	0
 and then com- and then uh	1
-optimize the b-	1
 H_T_K system and run that again.	1
 So look at the difference  there	1
-and then	1
-uh	1
 do the same thing for	1
-the I_C_S_I-O_G_I	1
-front-end.	1
-What - which test set was this?	0
-This is - that I looked at?	0
-Mm-hmm.	0
+What which test set was this?	0
+This is that I looked at?	0
 Uh I'm looking at the Italian	1
-Mm-hmm.	0
-right now.	1
 So as far as I've gotten is I've	0
-uh	0
 been able to go through from beginning to end the um	0
-full H_T_K	0
-system for the Italian	0
 data and got the same results that um -	0
-that uh	0
-Stephane had.	0
-So um	0
-I started looking -	0
-to - and now I'm -	0
-I'm sort of lookin-	0
+to and now I'm -	0
 at the point where I wanna know what should I  change	0
 in the H_T_K back-end in order to try to -	0
-uh	0
-to  improve  it.	0
-So.	0
 One of the first things I  thought  of was the  fact  that they use	1
 the  same  number of  states  for  all  of the	1
-models	1
-Mm-hmm.	0
 and so I went on-line and I	0
-uh found a pronunciation	0
-dictionary for Italian digits	0
-Mm-hmm.	0
 and just  looked  at, you know, the number of phones in each	1
-one of the digits.	1
-Um	0
 you know, sort of the	0
-canonical way of	0
-setting up a - an H_M_M system is that you use	0
-um	0
-three states per phone	0
-and um	0
-so then the - the total number of states for a  word  would just be, you know, the number of phones times  three.	0
+setting up a an H_M_M system is that you use	0
+so then the the total number of states for a  word  would just be, you know, the number of phones times  three.	0
 And so when I  did  that for the	1
-Italian digits, I got	1
-a number of states,	1
 ranging on the low end from nine	1
 to the high end,  eighteen.	1
-Um.	0
 Now you have to really add  two  to that because in H_T_K there's an initial null and a final null	0
-so when they use	0
-uh	0
 models that have eighteen states, there're really  sixteen	0
 states. They've got those initial and final null states.	0
-And so um	1
-their	0
 guess of eighteen states seems to be pretty well matched to	1
 the two longest words of the Italian digits, the  four  and  five	1
-Mm-hmm.	0
 which um, according to my,	0
 you know, sort of off the cuff calculation, should have eighteen states each.	0
 And so they had  sixteen.  So that's pretty close.	0
-Um	1
-but for the -	1
-most  of the  words	1
-are sh- much  shorter.	1
 So the majority of them	1
-wanna have  nine  states.	1
 And so  theirs  are s-	1
 sort of  twice  as  long.	1
-So	1
-my  guess  -	0
-uh	0
 And then if you -	0
-I - I printed out a  confusion  matrix	0
-um	0
-uh for the well-matched	0
-case,	1
+I I printed out a  confusion  matrix	0
 and it turns out that the longest words are actually the ones that do the  best.	1
 So my  guess  about what's  happening  is that	0
 you know, if you assume a fixed -	0
 the same amount of training data for each of these	0
-digits	0
-and	0
 a fixed length model for  all  of them	0
 but the  actual   words  for  some  of them are	0
-half as long	0
-you really	0
-um	0
-have,	0
-you know,	0
 half  as much  training  data for those  models.	0
 Because if you have a  long  word	0
 and you're training it to eighteen states,	0
-uh	0
-you've got -	0
-Mm-hmm.	0
 you know, you've got the same number of	0
 Gaussians, you've gotta train in each  case,  but	0
-for the shorter  words,	0
 you know, the total number of  frames  is actually  half  as  many.	0
-Mm-hmm.	0
-So	0
-it could be that,	0
 you know, for the short words there's -	0
 because you have so many  states,  you just don't have enough data to train all those Gaussians.	0
-So um	1
 I'm going to try to um create more word-specific	1
-um	1
-uh	1
 prototype H_M_Ms to start training from.	1
 Yeah, I mean, it's not at all uncommon you do worse on long word- on short words than long words anyway just because you're accumulating more evidence for the -	0
-Mm-hmm.	0
 for the longer word, but.	0
-Yeah so I'll - I'll,	1
 the next experiment I'm gonna try is to just um you know	1
-create	1
 uh models that seem to be more w- matched to	1
-Mm-hmm.	0
 my  guess about how long they should be.	1
 And as  part  of that	0
-um	0
 I wanted to see sort of	0
-how the um -	0
-how these models were	0
 coming out, you know, what w-	0
 when we train up uh th- you know, the model for " one ", which wants to have	0
-nine states, you know,	0
-what is the -	0
 uh what do the transition	0
-probabilities  look  like - in the self-loops,   look  like in - in those models?	0
+probabilities  look  like in the self-loops,   look  like in in those models?	0
 And so I talked to Andreas and	0
-he	0
 explained to me how you can	0
-calculate the expected duration	0
-of an H_M_M just	0
-Mm-hmm.	0
 by looking at the transition	0
-matrix	0
 and so I wrote a little Matlab	0
 script that calculates that and	0
-so I'm gonna	0
 sort of print those out for each of the words	0
-Mm-hmm.	0
-to see	0
 what's  happening,  you know, how these models are training up, you know, the long ones versus the short ones.	0
-Mm-hmm.	0
 I d- I did -	0
 quickly,  I did the silence model and -	0
-and um	0
 that's coming out with about one point two	0
 seconds  as its average duration and the  silence  model's the one that's used at the beginning and the end of each of the	0
-Wow.	0
-string of digits.	0
-Lots of silence.	0
-Yeah, yeah.	0
-And so the	0
-S_ P  model, which is what they put in  between  digits, I - I haven't calculated that for that one yet,	0
-but um.	0
-So they basically - their -	0
+S_ P  model, which is what they put in  between  digits, I I haven't calculated that for that one yet,	0
+So they basically their -	0
 their model for a whole digit string is silence	0
-digit,	0
-S_P, digit,	0
 S_P blah-blah-blah and then silence at the end.	0
-And so.	0
 Are the S_P's optional? I mean skip them?	0
 I have to look at that,	0
 but I'm not sure that they  are.	0
 Now the one thing about the S_ P  model is  really  it only has	0
-a single	0
 s- emitting state to it.	0
-Mm-hmm.	0
 So if it's not optional,	0
-you know, it's - it's not gonna  hurt  a whole  lot	0
-I see.	0
+you know, it's it's not gonna  hurt  a whole  lot	0
 and it's  tied  to the  center  state of the silence model so it's not its own -	0
-um	0
-Mm-hmm.	0
 It doesn't require its own training data, it just shares that state.	0
-Mm-hmm.	0
 So it, I mean, it's pretty good	0
 the way that they have it set  up,	0
-but um	0
-i-	0
 So I wanna play with that a little bit more.	0
 I'm curious about  looking  at,	0
-you know	0
 how these models have trained and looking at the expected durations	0
-of the models	0
 and I wanna compare that	0
-in the - the well-matched case f-	0
+in the the well-matched case f-	0
 to the  unmatched  case, and see	0
 if you can get an idea of -	0
 just from looking at the	0
 durations of these models, you know, what- what's happening.	0
 Yeah, I mean, I think that uh, as much as you can, it's good to	0
-d-	0
 sort of not do anything really tricky.	0
-Mm-hmm.	0
 Not do anything that's really finely tuned, but just sort of	0
-Yeah.	0
 eh you know you t- you i- z-	0
-The premise is kind of you have a - a good person look at this for a few weeks and what do you come up with?	0
-Mm-hmm.	0
-Mm-hmm.	0
-And uh	0
+The premise is kind of you have a a good person look at this for a few weeks and what do you come up with?	0
 And  Hynek,  when I wa- told him	0
 about this, he had an interesting  point,  and that was th- um	0
-the - the  final  models that they end up training up have	0
-I think	0
+the the  final  models that they end up training up have	0
 probably something on the order of six	0
-Gaussians per state.	0
 So they're  fairly,  you know, hefty models. And Hynek was saying that	0
 well, probably in a real application,	0
-you wouldn't	0
-have enough  compute	0
 to handle models that are very big or complicated.	0
 So in fact what we  may  want	0
-are  simpler  models.	0
-Could be.	0
-And compare how they	0
-perform to  that.  But	0
 you know, it  depends  on what	0
 the actual application is and it's really hard to know	0
-what your	0
 limits are in terms of how many Gaussians you can have.	0
 Right. And that, I mean, at the moment that's not the limitation, so.	0
-Mm-hmm.	0
-I mean, I - I - I - what I  thought  you were gonna say i- but which I was thinking was um	0
+I mean, I I I what I  thought  you were gonna say i- but which I was thinking was um	0
 where did  six  come from? Probably came from the same place  eighteen  came from. You know, so.	0
-Yeah. Right.	0
 Uh  that's  another  parameter, right? that -	0
-Yeah, yeah.	0
-that maybe, you know, uh - you really want three or nine or -	0
-Well  one  thing - I mean, if I -	0
-if -	0
-if I start	0
-um	0
+that maybe, you know, uh you really want three or nine or -	0
+Well  one  thing I mean, if I -	0
 reducing the number of states	0
 for some of these shorter models	0
 that's gonna reduce the total number of Gaussians. So in a sense it'll be a simpler	0
-Right.	0
-system.	0
-Yeah.	0
-Yeah.	0
 But I think right now again the idea is doing	0
-just very simple things	0
-Yeah.	0
 how much  better  can you make it? And um	0
-Mm-hmm.	0
 since they're only simple things there's nothing that you're gonna do that is going to blow up the amount of computation um so	0
-Right.	0
-Right.	0
 if you found that nine was better than six that would be O_ K,  I think, actually.	0
-Mm-hmm.	0
-Yeah.	0
 Doesn't have to go down.	0
 I really wasn't even gonna play with that part of the system yet, I was just gonna	0
-Mm-hmm, O_K.	0
 Yeah, just work with the models, yeah.	0
-change the -	0
-the t-	0
 yeah, just look at the length of the models and just see what happens.	0
-Yeah.	0
-So.	0
-Cool.	0
-O_K.	0
-So uh	0
-what's uh	1
 I guess your plan for -	1
-You - you - you guys' plan for the next - next week is	1
-just continue on these - these same things we've been talking about	1
-for Aurora and	1
+You you you guys' plan for the next next week is	1
+just continue on these these same things we've been talking about	1
 Yeah, I guess we can try to	1
 have some kind of new baseline for next week perhaps.	1
 with all these minor things	1
-modified.	1
-And then do	0
-other things,	0
 play with the spectral subtraction,	0
-and	0
 retry  the  M_S_G and things like that.	0
-Yeah.	0
-Yeah.	0
-Yeah we - we have a big list.	0
-Big list?	0
-You have a big list of -  of things to do.	1
-So.	0
+Yeah we we have a big list.	0
+You have a big list of  of things to do.	1
 Well that's good. I think	1
 that after all of this uh	0
-um	0
 confusion settles down in another -	0
-some point	0
 a little later next year there  will  be some sort of standard and it'll get  out  there and	0
 hopefully it'll have  some  effect from something  that -	0
-that has uh	0
 been done by our group of people but	0
-uh	0
 e- even if it doesn't there's -	0
 there's go- there'll be standards after that.	0
-So.	0
 Does anybody know how to um	0
-run Matlab	0
 sort of in  batch  mode like	0
-you c- send it	0
 s- a bunch of commands to run and it	0
 gives you the output. Is it possible to do that?	0
-I - I think uh Mike tried it	0
-Yeah?	0
+I I think uh Mike tried it	0
 and he says it's impossible so he went to Octave.	0
-Octave is the um UNIX clone of - of Matlab which you can batch.	0
-Octave.	0
-Ah!	0
-O_K .	0
-Great.	0
-Thanks.	0
-Yeah.	0
+Octave is the um UNIX clone of of Matlab which you can batch.	0
 I was going  crazy  trying to  do  that.	0
-Huh.	0
-Yeah.	0
 What is Octave  so ?	0
-It's	0
-What's that?	0
-a free software?	0
-Uh, Octave? Yeah it's - it's - it's free. I think we have it here	0
-Yeah.	0
-r- running somewhere.	0
-Great!	0
-Yeah.	0
+Uh, Octave? Yeah it's it's it's free. I think we have it here	0
 And it does the same syntax and everything eh	0
-Um	0
-like Matlab, or - ?	0
 i- it's a little behind, it's the same syntax but it's a little behind in that	0
-Matlab went to these like um you can have cells and you can - you can	0
+Matlab went to these like um you can have cells and you can you can	0
 uh implement object-oriented type things with Matlab.	0
 Uh Octave doesn't do that yet, so I think you, Octave is kinda like Matlab	0
 um four point something or.	0
-If it'll do like	0
 a lot of the basic	0
-The basic stuff, right.	0
-matrix and vector stuff	0
-that's	0
-perfect.	0
-Yeah.	0
-Great!	0
-O_K, guess we're done.	0
-O_K.	0
 Well ,  although  by the way.	0
