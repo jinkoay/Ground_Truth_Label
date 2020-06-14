@@ -102,7 +102,6 @@ you know? on - onto power spectrum.	0
 Or the other thing is of course if you have a spectrum, what you can s- start doing, you can leave - start leaving out	0
 the p- the parts which are uh uh low in energy	0
 and then perhaps uh one could try to find a - [MASK] to such a spectrum. Because [MASK] will still try to -	0
-and then perhaps uh one could try to find a - [MASK] to such a spectrum. Because [MASK] will still try to -	0
 to - to put the -	0
 the continuation basically of the - of the model into these parts where  the issue  set to zero. That's what we want to try.	0
 I have a visitor from Brno.  He's a - kind of like young faculty.	0
@@ -113,6 +112,7 @@ Ah, you don't know about TRAPS!	0
 [MASK] sound familiar, I - but I don't -	0
 Yeah I mean tha- This is familiar like sort of because we gave you the  name,  but, what it is, is that	1
 normally what you do is that you recognize uh speech based on a shortened spectrum.	1
+Essentially L_P_- [MASK]	1
 Uh so if you s- So, given the  spectrogram  you essentially are sliding - sliding the spectrogram along the uh f- frequency axis and you keep shifting this thing,	1
 and you have a  spectrogram.  So you can say "well you can also take the  time  trajectory	1
 of the energy at a given  frequency ",	1
@@ -279,7 +279,6 @@ Necessary to - to include the bi- the bibliography. Mm-hmm.	0
 a big part of the experiments, but it's not, yeah, finished yet.	1
 So have you been running some  new  experiments? I - I thought I saw some jobs of yours running on some of the machine -	1
 Yeah. Right. We've fff  done some strange things like	1
-removing [MASK] or __JARGON__ C_one __/JARGON__ from the -	1
 removing [MASK] or [MASK] from the -	1
 the vector of parameters, and we noticed that	1
 [MASK] is almost not useful at all.	1

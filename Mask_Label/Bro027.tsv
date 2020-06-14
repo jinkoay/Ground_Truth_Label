@@ -15,6 +15,7 @@ was that [MASK] had maybe a, um, hundred hertz high-pass.	1
 And the, uh, [MASK] it was like twenty.	0
 Yeah, if you're using the baseline.	0
 Is that the ba- band center?	0
+No, [MASK]	0
 The edge is really, uh, sixty-four? For some reason, uh,	0
 So the, uh, center would be somewhere around	0
 Dave thought it was  twenty,  but.	0
@@ -89,6 +90,7 @@ Yeah, the semester's late - late August they start here.	0
 So they do it right at the beginning of the semester.	0
 So, uh - Yep. I mean, that - that was sort of one - I mean,	0
 the overall results seemed to be first place in - in - in the case of either,	0
+um, [MASK]	0
 or a modest sized training set.	0
 uh, i- uh, it helped a lot.	0
 And - But if you had a - a really big training set,	0
@@ -266,6 +268,7 @@ Wait a minute.  Some  of this is, uh - is, uh - is in  parallel,  isn't it? I me
 Oh, you have [MASK] as part of the V_D_- uh, V_A_D? Or -	0
 [MASK] use, uh,	0
 So in that case there isn't too much  in  parallel.	0
+and [MASK]	0
 Um, so [MASK] at the  end  is how much?	0
 But well, we could probably put the delta, um,	1
 before [MASK] It should not that make a big difference, because -	1
@@ -506,7 +509,6 @@ but, uh, you're saying - Yeah, the noisier	0
 ones are  still  going to be,	0
 even after our noise compensation, are still gonna be pretty noisy.	0
 Yeah, so now [MASK] is seeing a different set	0
-Of [MASK] Because in __JARGON__ the TIMIT __/JARGON__ it was zero to some clean.	0
 Of [MASK] Because in [MASK] it was zero to some clean.	0
 So the net saw all [MASK]  @@	0
 conditions. Now after cleaning up it's a different set of [MASK]	0
@@ -522,7 +524,6 @@ there would  not  be a mismatch.	0
 So, I mean, this may be -	0
 noise compensation process may be  imperfect,	0
 but.  Uh, so maybe it's treating some things differently.	0
-I don't know. I - I just - that could be seen from [MASK] uh, testing condition because, um, the noises are from [MASK] right? Noise -	0
 I don't know. I - I just - that could be seen from [MASK] uh, testing condition because, um, the noises are from [MASK] right? Noise -	0
 So cleaning up [MASK] and if the performance	0
 goes  down   in  [MASK] mismatch -  high  mismatch like this -	0
@@ -615,7 +616,6 @@ and - and they, um -	1
 They run [MASK] on the features right before they train the models.	1
 So there's the - [MASK] is - is right there b	0
 So, you guys are using [MASK] but it seems like it's pretty far back in the process.	0
-Uh, [MASK] is different from __JARGON__ the L_D_A __/JARGON__ that you are talking abou	1
 Uh, [MASK] is different from [MASK] that you are talking abou	1
 saying is, like, you take a block of features, like nine frames or something,	1
 and then do [MASK] on it, and then redu	1
@@ -675,7 +675,6 @@ the idea w- the  thought  was, "Well,	0
 uh, yeah, that i- you know - th- [MASK] should be  better,  but we should at least have	0
 uh, a  number,  you know, to show that we did try [MASK]	0
 in  place  of [MASK] so that we can	0
-you know, show a clear  path.  You know, that you have it  without  it, then you have [MASK] then you have __JARGON__ the neural net, __/JARGON__ and you can see,	0
 you know, show a clear  path.  You know, that you have it  without  it, then you have [MASK] then you have [MASK] and you can see,	0
 I was just wondering - I - I -	0
 Well, I think that's a good idea.	0
@@ -788,6 +787,7 @@ So you're saying, feed that,  also,  into	1
 the neural net. Yeah.  Yeah.	1
 You could feed it into the neural net. The  other  thing  you could do	1
 modify the, uh,  output  probabilities of the - of the, uh,	1
+um, [MASK]	1
 So you have [MASK] of what the silence probability is,	0
 and you could  multiply  the two things, and renormalize.	0
 Uh, I mean, you'd have to do the	0
@@ -850,7 +850,6 @@ But that's - Yeah, that's an interesting thing to try to  see,  if what's going 
 is that in the highly mismatched condition,	0
 it's, um, causing deletions by having this silence probability up - up too high,	0
 at some point where [MASK] is saying it's actually speech.	0
-Cuz - Well, the V_A_- if [MASK] said - since [MASK] is - is - is  right  a lot,  uh -	0
 Cuz - Well, the V_A_- if [MASK] said - since [MASK] is - is - is  right  a lot,  uh -	0
 Yeah. Well, we just started working with it. But these are - these are some good ideas I think.	0
 Yeah, and the other thing - Well, there are other issues maybe for the tandem, like,	0

@@ -41,6 +41,7 @@ Then that's using [MASK] password mechanism and all that, right?	0
 But I didn't do that because I was not sure about	0
 security problems. I - I would have to -	0
 when you came in from Belgian -	0
+Belgium, using [MASK]	0
 was it asking you for your own	0
 So if yo- you can only do that if you have an account at ICSI?	0
 Cuz there is an - a way to set up anonymous [MASK] right? So that -	0
@@ -136,7 +137,6 @@ the interaction between channel effects	0
 and - and, uh - and additive noise, uh, so [MASK] and - and additive effects.	0
 And that's hard enough. I mean, I don't think we really - I mean, we're  trying  to deal with that.	0
 In a sense that's what we're trying to deal with in [MASK]	0
-And we have, uh, the, uh, uh, [MASK] stuff that in principle is doing something about __JARGON__ convolutional effects. __/JARGON__	0
 And we have, uh, the, uh, uh, [MASK] stuff that in principle is doing something about [MASK]	0
 noise suppression that's doing something about noise.	0
 Uh, even that's hard enough. And - and [MASK] as well, in that s- category.	0
@@ -161,7 +161,9 @@ The - the - the filtering is done	0
 in [MASK]	0
 And then [MASK]	0
 Then [MASK]	0
+then [MASK]	0
 then, um, [MASK]	0
+followed by  [MASK]	0
 Then finally, we compute delta and	0
 [MASK] also.	0
 Right, and then in parallel with - an - [MASK] And then following neural net, some - probably some orthogonalization. Uh -	0
@@ -243,6 +245,7 @@ Uh, they have some [MASK] right?	0
 In  our  case we have a  couple  things. We have [MASK] and then we hav	1
 they seem to comple- complement each other enough and be different enough that they both seem to help - help us.	0
 But in  any  event, they're both doing the same sort of thing. But there's one difference.	1
+[MASK]	1
 uh, throws away  high  [MASK]	1
 And they're not  doing  that.	1
 So that if you throw away high modulation frequencies, then you can  downsample.	1
@@ -299,7 +302,6 @@ in terms of what data it's depending on. It's depending on the same data as the 
 So with this, uh, new stream would you train up a V_A_D on  both  -  both  features, somehow?	0
 No, I guess the V_A_D has its own set of features.	0
 I mean, which could be this - one of these streams, or it can be something derived from  these streams.	0
-And there is also the idea of using [MASK] maybe, for __JARGON__ the V_A_D, __/JARGON__	0
 And there is also the idea of using [MASK] maybe, for [MASK]	0
 Well, [MASK] apparently showed,	0
 when, she was at [MASK] that	0
@@ -334,10 +336,12 @@ What to freeze and then what to do after we  froze.	0
 And like I was saying, I think the - you know, the basic	0
 directions are, uh, uh -	0
 I mean, there's lots of little things, such as improve the noise estimator but the bigger things are adding on the neural net and,	0
+improving [MASK]	0
 I'll actually - after the meeting I'll add the second stream	1
 to [MASK] and maybe I'll start with the feature net in that case.	1
 It's like, you're looking at [MASK] right?	0
 I- I've [MASK] ready also.	0
+For [MASK]	0
 Well p- two network, [MASK] Mm-hmm.	0
 Oh, you already have it?	0
 O_K, so just figure how to take the features	1
@@ -629,7 +633,6 @@ i- i- i- if you go all the way to  words,  I mean, that's  really  - I mean, d- 
 In many applications you wanna go  further.  You wanna go to  concepts  or something, or have - have - have concepts, actions, this sort of thing. But, words aren't bad, yeah. And - and	0
 But words would be a nice -	0
 Yeah, so the common - right, the common wisdom is you can't do  words  because there's too many of them, right? So you have to have some smaller set that you can	0
-and - and so everybody goes to  [MASK]  But the problem is that we - we build models of words in terms of  __JARGON__ phonemes __/JARGON__  and these models are -	0
 and - and so everybody goes to  [MASK]  But the problem is that we - we build models of words in terms of  [MASK]  and these models are -	0
 are  really  cartoon-ish, right? So when you look at conversational speech, for example, you don't see [MASK] that you - that you have in your  word  models.	0
 But - but - but we're not trying for  models  of words here. See, so her- here's maybe where - If the issue is that we're trying to come up with, um, some sort of intermediate categories which will then be useful	0

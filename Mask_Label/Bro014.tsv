@@ -248,7 +248,6 @@ So there's this assumption that the v- the voice activity detector can  only  us
 That's not clear, but this -  e-	0
 So - so if you use other features then y- But it's just a question of what is your baseline.	0
 Right? What is it that you're supposed to do  better  than? And so	0
-having the baseline be [MASK]  means that people could   choose  to pour their ener- their effort into trying to do a really good __JARGON__V_A_D__/JARGON__	0
 having the baseline be [MASK]  means that people could   choose  to pour their ener- their effort into trying to do a really good [MASK]	0
 But they seem like two  separate issues. Right? I mean -	0
 They're  sort  of separate. Unfortunately there's coupling between them,	0
@@ -354,7 +353,6 @@ So basically [MASK]  for a purely periodic sig- signal shou- sh-	0
 what yo- what [MASK] as I recall, is you're subtracting the - the, um -	1
 the mel - mel -  [MASK] uh,	1
 That's right. Yeah. So -	0
-Yeah. So we have [MASK] we have __JARGON__the F_F_T,__/JARGON__ so we  just -	0
 Yeah. So we have [MASK] we have [MASK] so we  just -	0
 So it's - it's not really an excitation, but it's something that hopefully tells you something about the excitation.	1
 Yeah, that's right.  Um -	1
@@ -480,7 +478,7 @@ Yeah. What happen if - what we have - have - what we would like to have is  [MAS
 Yeah. I guess that makes sense. Yeah.	0
 which is for voiced sound ideally a - a pulse train	0
 and for unvoiced it's something that's more flat.	0
-And the way to do this  is that - well, we have the - we have [MASK] because it's computed in - in the - in the system, and we have	0
+And the way to do this  is that - well, we have the - we have __JARGON____JARGON__[MASK] because it's computed in - in the - in the system, and we have	0
 and so if we -	0
 if we, like, remove [MASK]	0
 we have something that's  close to [MASK]	0

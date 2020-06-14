@@ -340,7 +340,6 @@ how do they work in terms of you know [MASK] or how do they work in f- terms of 
 basically f- either specific - frame specific roles or more general	1
 frame specific roles that might have binding. So the question is are um - how to represent when things are linked in a certain way.	1
 So we know for Enter that there's Container potentially involved and it's not -	0
-uh I don't know if you wanna have in the same level as [MASK] it - it's somewhere in there that you need to represent that there is some container and the interior of it corresponds to some part of __JARGON__the Source-Path-Goal__/JARGON__	1
 uh I don't know if you wanna have in the same level as [MASK] it - it's somewhere in there that you need to represent that there is some container and the interior of it corresponds to some part of [MASK]	1
 um you know goal - uh goal I guess in this case. So uh is there an easy way in this notation to show when there's  identity  basically between things and I di- don't know if that's something we need to invent or you know just -	1
 The - wa- wasn't there supposed to be a link in the	0
@@ -391,7 +390,6 @@ have the buying snack schema?	0
 I'm sure there's a commercial event schema in there somewhere.	0
 Yeah, a "commercial event" or something. Yeah? So uh -	0
 Yeah I - I -	0
-so we would - we would instantiate [MASK] with __JARGON__a Source-Path-Goal__/JARGON__ blah-blah-blah and the buying event	0
 so we would - we would instantiate [MASK] with [MASK] blah-blah-blah and the buying event	0
 you know at which - however that looks like,	0
 Interesting. Would you say that the - like -	1
@@ -411,7 +409,6 @@ Yeah because they're two different things one of which is l- you could think of 
 Right. Yeah, yeah. So. So. O_K.	1
 So there's like  levels  of granularity. So uh there's - there's um a  single  event of which they are	1
 both a part. And they're -  independently  they - they are events which have	0
-very different characters as far as [MASK] whatever. So when you identify [MASK] and	0
 very different characters as far as [MASK] whatever. So when you identify [MASK] and	0
 whatever, there's gonna to be a desire, whatever, eating, hunger, whatever other frames you have involved,	0
 they have to match up in - in nice ways. So it seems like each of them has its own  internal  structure and mapping to these	0
@@ -475,7 +472,6 @@ a different action. Um and this - uh action-two would have various variable poss
 And - i- in - in a way similar to either [MASK] you may want to send a letter, read a letter, or dictate a letter, let's say.	0
 Oh the - O_K  uh maybe I'd -	0
 These actions - I don't know if I'm gonna answer your question or not with this, but	0
-the categories inside of [MASK] so, __JARGON__S_P_G action__/JARGON__ is a  category.	0
 the categories inside of [MASK] so, [MASK] is a  category.	0
 Real- although I think what we're specifying here is this is a category where the	0
 actions "enter, view and approach" would fall into because they have a related [MASK] in our tourist domain.	0

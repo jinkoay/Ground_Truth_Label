@@ -72,7 +72,6 @@ uh to get it to work on the  UNIX  systems,  our  side is just	0
 rewriting them and modifying them	0
 to work for  meetings.  So that it understands that they're different speakers and that it's one big audio file instead of a bunch of little ones and just	0
 So what does the user see as the result of the query?	0
-[MASK] which is the one that Dan wrote, __JARGON__Tcl-T_K__/JARGON__	0
 [MASK] which is the one that Dan wrote, [MASK]	0
 um you type in a query and then you get back a list	0
 and you can type on them and listen to them.	0
@@ -102,7 +101,6 @@ It certainly helps. Um, I mean  without  those I wouldn't even  attempt  it.	0
 But what those - they - what those do is provide sort of [MASK]	0
 so that the normal UNIX function calls all work.	0
 And you have to have all the o-	0
-But the  problem  is that - that [MASK] didn't use anything like __JARGON__Autoconf__/JARGON__	0
 But the  problem  is that - that [MASK] didn't use anything like [MASK]	0
 and so you have the normal porting problems of	0
 different header files and th- some things are defined and some things aren't	0

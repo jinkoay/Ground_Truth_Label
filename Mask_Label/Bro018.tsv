@@ -25,17 +25,13 @@ And the other three features are [MASK] the variance of the difference between t
 the variance of the auto-correlation function, except the - the first point, because half the height value is  [MASK]  and	0
 the first coefficient of the auto-correlation function. That is like the energy	0
 with these three feature, also these three feature.	0
-You wouldn't do like [MASK] over __JARGON__ R_zero __/JARGON__ or something like that?	0
 You wouldn't do like [MASK] over [MASK] or something like that?	0
-I mean usually for [MASK] you'd do - yeah, you'd do something - you'd do energy but then you have something like spectral slope, which is you get like __JARGON__ R_one __/JARGON__ ov- over __JARGON__ R_zero __/JARGON__ or something like that.	0
-I mean usually for [MASK] you'd do - yeah, you'd do something - you'd do energy but then you have something like spectral slope, which is you get like [MASK] ov- over __JARGON__ R_zero __/JARGON__ or something like that.	0
 I mean usually for [MASK] you'd do - yeah, you'd do something - you'd do energy but then you have something like spectral slope, which is you get like [MASK] ov- over [MASK] or something like that.	0
 I'm sorry I missed it.	0
 Auto-correlation? Yes, yes, the variance of the auto-correlation function that uses that  @@	0
 Well that's the  variance,  but if you just say "what is -" I mean, to first order,	0
 um yeah one of the differences between voiced, unvoiced and silence is energy.	0
 Another one is - but the other one is the spectral  shape.	0
-Yeah, and so [MASK] over __JARGON__ R_zero __/JARGON__ is what you typically use for that.	0
 Yeah, and so [MASK] over [MASK] is what you typically use for that.	0
 No, I don't use that - I can't use -	0
 No, I'm saying that's what people us- typically use.	0
@@ -71,6 +67,7 @@ based on whether you  feed  it something different.	0
 And something different in some fundamental  way.  And so the kind of thing that - that she was talking about before,	0
 was looking at something uh ab- um -	0
 uh about the difference between the - the uh um	0
+[MASK] uh	0
 and the log magnitude uh F_F_- spectrum uh and the um uh [MASK]	0
 And so the filter bank	0
 is  chosen  in fact to sort of integrate out the effects of pitch and she's saying you know trying - So the particular measure that she chose was the variance of this m- of this difference,	0
@@ -142,9 +139,8 @@ The targets for the neural net,	0
 uh, they come from forced alignments?	0
 [MASK] canonical ma- mappings.	0
 Oh.  So, this is trained on  [MASK]	0
-Noisy [MASK] We have noisy __JARGON__ TIMIT __/JARGON__ with the noise of the - the	0
+Yeah,  noisy  [MASK]	0
 Noisy [MASK] We have noisy [MASK] with the noise of the - the	0
-[MASK] And now we have another noisy __JARGON__ TIMIT __/JARGON__ also with the noise of uh Italian database.	0
 [MASK] And now we have another noisy [MASK] also with the noise of uh Italian database.	0
 Well there's gonna be - it looks like there's gonna be a noisy uh -	0
 some large vocabulary noisy stuff too. Somebody's preparing.	0
@@ -328,7 +324,6 @@ Right? So - so it - I mean I - I guess it's -	0
 You know, it - it goes back to [MASK]  sort of thing, right? Um,	0
 i- i- if - is it eh w-	0
 When is [MASK] good? Well, [MASK] good - is good if you have lots and lots of examples.	0
-When is [MASK] good? Well, [MASK] good - is good if you have lots and lots of examples.	0
 Um but of course if you have lots and lots of examples, then it can take a while to - to  use  [MASK] There's lots of look ups.	0
 So a long  time  ago people talked about things where you would have	0
 uh a  condensed  [MASK] where you would - you would - you would pick out uh some representative examples which would uh be sufficient to represent - to - to correctly classify everything that came in.	0
@@ -360,6 +355,7 @@ But you have the distances to work with.	0
 You have the distances to work with, yeah.	0
 Cuz actually Mississippi State people did use support vector machines for uh uh speech recognition and they were using it to estimate probabilities.	0
 they had a - had a way to translate the distances into - into probabilities with the - with the simple	0
+uh [MASK]	0
 Yeah, and d- did they use  [MASK]	0
 Yeah, there's some - there's like one over one plus the exponential or something like that.	0
 Oh, so it  is  [MASK]	0
@@ -378,7 +374,6 @@ Oh I'm not do- I'm not planning on doing speech recognition with it. I'm just do
 this - this uh feature set called the uh sound patterns of English	0
 um is just a bunch of	0
 Let's say, is this voicing, or is this not voicing, is this	0
-[MASK] not [MASK] and	0
 [MASK] not [MASK] and	0
 Did you find any more mistakes in their tables?	0
 Oh! Uh I haven't gone through the entire table,  yet. Yeah, yesterday I brought Chuck	0
@@ -421,6 +416,7 @@ So um have you had a chance to do	1
 this um thing we talked about yet with the uh -	1
 Uh. No actually I was going a different - That's a good question, too, but I was gonna ask about the -	1
 changes to the data in comparing [MASK]	1
+for [MASK]	1
 Well what I've been -	0
 "Changes to the data", I'm not sure I -	0
 So we talked on the phone about this, that -	1
@@ -610,12 +606,14 @@ as far as  my  stuff goes,	1
 What's - what's on -	0
 tried this [MASK] Um. Due to Avendano,	1
 six seconds of speech, um	1
+[MASK] analysis frames,	1
 stepped by a half second	1
 so it's a quarter length step and I -	0
 I take  that  frame and four f- the four - I take - Sorry, I take the current frame and the four past frames and the	0
 four  future  frames and that adds up to six seconds of speech.	0
 of the log magnitude spectrum  over that [MASK]	1
 I use that to normalize the s- the current center frame	1
+by [MASK]	1
 And I then - then I move to the next frame and I -	0
 Well, actually I calculate all the means first and then I do the subtraction.	0
 the - I tried that with [MASK]	1

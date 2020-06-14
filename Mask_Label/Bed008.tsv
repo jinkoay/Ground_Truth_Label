@@ -44,7 +44,6 @@ uh current  @@  and so forth and so on or not at all, right?	0
 And so that a decision would be	0
 so you could - two different things you could do, you could have	1
 all those values for [MASK] or you could have [MASK] be binary and given that you're going there	1
-all those values for [MASK] or you could have [MASK] be binary and given that you're going there	1
 Yeah and so  forth .	0
 I mean it seems that you could	0
 uh it seems that those things would be logically independent like you would wanna have them	0
@@ -150,7 +149,6 @@ O_K, so this is w-	0
 Right, so what w- I - what we seem to need here, this is why it starts getting into the technical stuff	1
 the way we had been designing this, there were three intermediate nodes	1
 uh which were the endpoint decision as seen from	1
-[MASK] as seen from __JARGON__the ontology__/JARGON__ and as seen from the discourse.	1
 [MASK] as seen from [MASK] and as seen from the discourse.	1
 the way we had it designed, now we can change the design, but the design we had	0
 was there was a decision with the same three outcomes	1
@@ -734,7 +732,6 @@ right. So we've assumed equal weights whereas it might turn out that	0
 you know, some w- be that for example, what the um	0
 the uh verbal content of what the person said, like what	0
 uh what might be uh somehow more uh important than	0
-[MASK] matters more i- than __JARGON__X_two__/JARGON__ or	0
 [MASK] matters more i- than [MASK] or	0
 Sure, so we don't wanna like give them all equal weight so currently we've been giving them all weight one fourth	1
 so we could replace this by uh	0
@@ -751,7 +748,6 @@ these numbers have been replaced with point one, point three, point two, and poi
 So it would be, in this case	0
 So you can view these as gone.	0
 you just add up the - Yeah. So it would - it would - in this case, it would be -  [MASK] would be point three.	0
-[MASK] - yeah, [MASK] would be point th	0
 [MASK] - yeah, [MASK] would be point th	0
 If that - if that was the voting plan.	0
 So this is uh step two.	1
@@ -807,7 +803,6 @@ Yeah. Or in  @@  definitely could have - have other - it  absolutely  could have
 And it's s- it actually often does. So it is -	0
 It - it just seems that like without that - that outside input that you've got a situation where, you know, like if - if uh [MASK]	0
 says no, you know, a low value coming out of X_on- or i- if [MASK] says no then ign	0
-Yeah, well could be things like if [MASK] say yes then i- ignore __JARGON__X_one__/JARGON__ also.	0
 Yeah, well could be things like if [MASK] say yes then i- ignore [MASK] also.	0
 Or if [MASK] is greater th	0
 And  so these - so this is - this is one collection of technology that we could bring to bear. Yeah.	0
@@ -821,7 +816,6 @@ But, I still think it's a nice idea if the architecture  supports  it.	0
 So that, you know, you say, "here's the  design  and if enough data comes along uh, you co- you could use it - use the technology to - to  do  that."	0
 I still have trouble understanding the  very  first step, maybe just because I'm approaching it from the very wrong end. I don't know.	0
 So, this is true for the case that [MASK] voted	0
-Now, [MASK] could potentially also vote  __JARGON__E___/JARGON__ .	0
 Now, [MASK] could potentially also vote  [MASK] .	0
 That wo- that would be another sort of i-  Absolutely.	0
 So you specify one of these things for every one of those possi-	0

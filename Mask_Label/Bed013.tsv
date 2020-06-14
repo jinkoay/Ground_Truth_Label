@@ -457,7 +457,6 @@ we  don't  want a  hard  code,	0
 you know, sort of filter, or uh search [MASK]	0
 So what would be kind of  cool  is	1
 that if we  encounter  concepts that are castle, tower, bank, hotel,	1
-we run it through [MASK] and __JARGON__the ontology__/JARGON__ tells us it has	1
 we run it through [MASK] and [MASK] tells us it has	1
 um, admission, opening times, it has admission fees, it has this, it has that,	1
 and then we - we - we make [MASK] look up, and then search dynamically through the uh,	1

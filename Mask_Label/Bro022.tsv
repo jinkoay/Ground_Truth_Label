@@ -174,7 +174,6 @@ maybe in practice it is.	0
 That's something to think about. I don't know.	0
 I had a question about the system - the S_R_I system. So,  you trained it on [MASK]	0
 But except this, it's exactly the same system as the one that was tested before and that was trained on  [MASK] Right?	0
-So on [MASK] it gives you one point two percent error rate and on __JARGON__ Macrophone __/JARGON__ it's still O_ point eight.	0
 So on [MASK] it gives you one point two percent error rate and on [MASK] it's still O_ point eight.	0
 Uh, but is it  exactly the same system?	0
 I  think  so. If you're talking about [MASK] results that Andreas had about, um, a week and a half ago, I think it's the same system.	0
@@ -275,7 +274,6 @@ um, to train the S_R_I system on digits S_- Andreas used the	0
 [MASK] um, u	0
 So is that - ? Uh, are - are these results comparable? So you - you were getting with the, uh, [MASK]	0
 something like two point four percent  on	0
-when, uh, training the S_R_I system with clean [MASK] -  __JARGON__ T_I-digits. __/JARGON__ Right?	0
 when, uh, training the S_R_I system with clean [MASK] -  [MASK] Right?	0
 And, so, is your two point seven comparable,	0
 where you're, uh, uh, using,	0
@@ -289,6 +287,7 @@ for what you were talking about then, since it was [MASK] would be the	0
 It was four point something. Right?	0
 The H_T_K system with, uh, b-	0
 Oh, right, right, right, right.	0
+[MASK] features -	0
 Do you mean the b- ?	0
 [MASK]	0
 trained on [MASK] tested on Meeting Recorder near, I think we saw in it today, and it was about six point six percent.	0
@@ -303,7 +302,6 @@ cuz I'm still wondering  where this  improvement	0
 comes from. When you train on [MASK] it seems better on meeting digits.	0
 But I wonder if it's just because maybe  [MASK] is acoustically closer to the meeting digits than - th	0
 [MASK] are very  clean recorded digits and -	0
-You know, it would also be interesting to see, uh - to do [MASK] um, but use the S_R_I system instead of __JARGON__ H_T_K. __/JARGON__	0
 You know, it would also be interesting to see, uh - to do [MASK] um, but use the S_R_I system instead of [MASK]	0
 That's - Yeah. That's what  I wanted, just, uh - Yeah.	0
 So, just using the S_R_I system, test	0
@@ -365,6 +363,7 @@ Yeah. It might be useful	0
 for, like, noise estimation, and a lot of other  things that we want to work on. But - Mmm.	0
 Yeah. So I did - I just  started to test  putting together two [MASK] which was - was not much work actually.	0
 Um, I im- re-implemented [MASK] that's very close to the,	0
+um, [MASK]	0
 that, uh, the other [MASK] guys use.	0
 So, which is just putting a threshold on  the noise energy,	0
 and, detect- detecting the first  group of four frames  that have a energy that's above this threshold,	0
@@ -421,6 +420,7 @@ which I've just started yesterday to launch a bunch of, uh,	1
 uh, values for the parameters that are used. So,	1
 it's [MASK] which u	0
 the noise spectra that  is estimated  on the noise portion of the s- uh, the utterances.	0
+uh, [MASK]	0
 And after subtraction, I also add  a constant noise, and I also try different,	0
 noise, uh, values  and we'll see what happen.	0
 But st- still when we look at the, um -	0
@@ -442,6 +442,7 @@ It always started in the silence state, but it wasn't for some utterances.	0
 So the - it wasn't estimating the noise initially,	0
 and then it  never  estimated, because I assumed that it was always	0
 So this is on [MASK] Italian?	0
+Yeah. [MASK] Italian.	0
 So, in some cases s- there are also -	0
 Yeah. There're a few cases, actually, which I found later, that there are.	0
 So that was one of the  bugs that was there in estimating the noise.	0
@@ -497,7 +498,6 @@ Yeah. I - I - I would actually m- m- didn't get enough time to work on the subsp
 th- you know, things, and I didn't work much on that.	0
 Well, I am still working with, eh, [MASK] And, one of the things that last week,	1
 eh, say here is that maybe the problem was with the diff because the signal have different level of energy.	1
-And, maybe, talking with Stephane and with Sunil, we decide that maybe it was interesting to - to apply [MASK] before applying __JARGON__ V_T_S. __/JARGON__	1
 And, maybe, talking with Stephane and with Sunil, we decide that maybe it was interesting to - to apply [MASK] before applying [MASK]	1
 But then  we decided that that's - it doesn't work absolutely, because we modified also the noise.	1
 we then - we decide that maybe is a good idea.  We don't know. I don't hav- I don't - this is - I didn't  do the experiment yet - to apply V_T_S	1
@@ -513,6 +513,7 @@ It's quite a lot - It's a lot of work.  Well, it's not too much, but this - it's
 if we have some  feeling that  the result -	1
 I - I would like to know if -	0
 I don't have any feeling if this will work better than	1
+apply [MASK] aft-	1
 in filter [MASK]	1
 I r- I'm not sure. I don't - I don't know absolutely nothing.	1
 Yeah. Well, you're - I think you're the first one here to work with [MASK] so,	1
