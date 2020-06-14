@@ -64,7 +64,7 @@ on the far-mike data  using [MASK] but, um, the near-mike performance worsened, 
 wh- why would that be, um,	1
 considering that we actually got an improvement in near-mike performance using [MASK] And so,	1
 uh, with some input from, uh, Andreas, I have a theory in two parts. Um,	1
-first of all [MASK] - sorry, S_R- the S_R_I system is doing	1
+first of all [MASK] - sorry, S_R- the S_R_I system is doing [MASK] and so [MASK]  wasn't.  Um, so this, um -	1
 This mean subtraction approach will do a kind of channel  normalization and so that might have given [MASK] use of it a boost that wouldn't have been applied in the S_R_I case.	0
 And also, um, the - Andreas pointed out the S_R_I system is using more parameters. It's got finer-grained acoustic models.	1
 So those finer-grained acoustic models could be more sensitive to the artifacts  in the re-synthesized audio.	1
@@ -145,7 +145,7 @@ Or you just tested on this?	0
 Did I w- what? Sorry?	0
 Well, Morgan was just saying that, uh, as long as you do it in both training and testing, it shouldn't have any effect. But I -	0
 I was  sort of under the impression that you just  tested  with this data. You didn't  train it also.	0
-I - Right. I trained on clean [MASK] I - I did the mean subtraction on	0
+I - Right. I trained on clean [MASK] I - I did the mean subtraction on clean [MASK] But I didn't - I'm not sure if it made the clean ti- [MASK] any louder.	0
 I only remember noticing it made the, um, [MASK] louder.	0
 O_K. Well, I don't understand then. Yeah.	0
 I don't know. If it's - if it's - like, if it's trying to find a - a reverberation filter, it could be that this reverberation filter is	0
@@ -177,13 +177,13 @@ But except this, it's exactly the same system as the one that was tested before 
 So on [MASK] it gives you one point two percent error rate and on [MASK] it's still O_ point eight.	0
 Uh, but is it  exactly the same system?	0
 I  think  so. If you're talking about [MASK] results that Andreas had about, um, a week and a half ago, I think it's the same system.	0
-So you use [MASK] uh,	0
+So you use [MASK] uh, [MASK] and, um,	0
 like M_L_L_R transformations also, and -	0
 I'm sorry, was his point eight percent, er, a - a result on  testing  on [MASK] or - or training?	0
 It was  training on [MASK] and testing - yeah, on - on meeting digits.	0
 Oh. So that  was  done already. So we were -	0
 Uh, and it's point eight? O_K.	0
-Yeah. I - I've just been text-  testing the new  [MASK] front-end with - well,	0
+Yeah. I - I've just been text-  testing the new  [MASK] front-end with - well, [MASK]  actually - so front-end and [MASK]	0
 um, acoustic models on the meeting digits and it's a little bit better than the previous system. We have - I have two point seven percent error rate.	0
 And before with the system that was proposed, it's what? It was three point nine. So.	0
 Oh, that's a  lot  better.	0
@@ -247,6 +247,7 @@ Well, it sounds like they also have - he - he's saying they have all these, uh,	
 uh, different kinds of adaptation. You know, they have channel adaptation. They have speaker adaptation.	1
 Well, there's also the normalization. Like they do, um -	1
 I'm not sure how they would do it when they're working with the digits, but, like, in [MASK] there's, um -	1
+[MASK] for [MASK] and then  utterance normalization for [MASK]	1
 Yeah. This is another difference. Their normalization works like	1
 on - on the utterance levels.	1
 But we have to do it -	0
@@ -271,7 +272,7 @@ Right. For - with the S_R_I system -	0
 You know, the - [MASK] is set up with these, um -  this version of the clean training set that's been filtered	0
 with this [MASK] and,	0
 um, to train the S_R_I system on digits S_- Andreas used the	0
-[MASK] um, u	0
+[MASK] um, under [MASK] which don't have this filter. But I don't think there's any other difference.	0
 So is that - ? Uh, are - are these results comparable? So you - you were getting with the, uh, [MASK]	0
 something like two point four percent  on	0
 when, uh, training the S_R_I system with clean [MASK] -  [MASK] Right?	0
@@ -300,7 +301,7 @@ the S_R_I system that's trained on [MASK] - test it on,	0
 uh, [MASK]	0
 cuz I'm still wondering  where this  improvement	0
 comes from. When you train on [MASK] it seems better on meeting digits.	0
-But I wonder if it's just because maybe  [MASK] is acoustically closer to the meeting digits than - th	0
+But I wonder if it's just because maybe  [MASK] is acoustically closer to the meeting digits than - than [MASK] is, which is -	0
 [MASK] are very  clean recorded digits and -	0
 You know, it would also be interesting to see, uh - to do [MASK] um, but use the S_R_I system instead of [MASK]	0
 That's - Yeah. That's what  I wanted, just, uh - Yeah.	0
@@ -374,9 +375,9 @@ still o- on the noises where  our [MASK] doesn't  work a lot.	0
 Cuz I would have thought that having  some  kind of spectral  information,	0
 uh, you know, in the old days people would use energy and zero crossings, for instance - uh, would give you	0
 some  better performance. Right? Cuz you might have low-energy	0
-[MASK] or - or, uh	0
+[MASK] or - or, uh  [MASK] or something like that.	0
 So, your point is - will be to u- use  whatever  -	0
-Oh, that if you d- if you use  purely  energy and don't look at anything spectral, then you don't have a good way of distinguishing between [MASK]	0
+Oh, that if you d- if you use  purely  energy and don't look at anything spectral, then you don't have a good way of distinguishing between [MASK] and  [MASK]	0
 And, um, just as a gross generalization, most nonsp-  many  nonspeech noises have a low-pass kind of characteristic,	0
 um, [MASK] that are unvoiced have a -	0
 a high-pass kind of characteristic - an upward slope.	0
@@ -396,13 +397,13 @@ But s- still, the way it's done right now it - it helps on - on the noises where
 our [MASK] was not very  good.	0
 Well, I guess - I mean, one could imagine	0
 combining them in different ways. But - but,	0
-I guess what you're saying is that the - [MASK] h	0
+I guess what you're saying is that the - [MASK] has [MASK]	0
 Yeah. But the way it's combined wi- is maybe done - Well,  yeah .	0
 Well, you can imagine -	0
 The way I use a an- a "AND" operator is -	0
 So, it - I, uh -	0
 The frames that are dropped by [MASK] are - are, uh, dropped,	0
-even if the, um, __JARGON__ M_L_P __JARGON__ decides to keep them.	0
+even if the, um, --Jargon-- M_L_P --Jargon-- decides to keep them.	0
 Right. And that might not be optimal, but - but - I mean, I guess in principle what you'd want to do is have a -	0
 uh, a probability estimated by each one and - and put them together.	0
 Something that - that I've used in the past is, um - when just looking at the energy, is to look at the derivative.	0
@@ -418,7 +419,7 @@ what I observed was the re- was caused by this - this [MASK] problem. And it see
 Uh, the second thing is the - this [MASK] Um.	1
 which I've just started yesterday to launch a bunch of, uh,	1
 uh, values for the parameters that are used. So,	1
-it's [MASK] which u	0
+it's [MASK] which use  [MASK] So, we substr- I subtract more,	0
 the noise spectra that  is estimated  on the noise portion of the s- uh, the utterances.	0
 uh, [MASK]	0
 And after subtraction, I also add  a constant noise, and I also try different,	0
@@ -450,7 +451,7 @@ And, uh, so once it was cleared, uh, I ran a few experiments with  different way
 how t- estimated the noise and, eh, smoothing [MASK] also.	1
 And so the - the trend seems to be like,	1
 smoothing the  current estimate of the clean speech for deriving the	1
-[MASK] which is like  deriving	1
+[MASK] which is like  deriving [MASK] seems to be helping. Then updating it quite fast using a very small time constant.	1
 So we'll have, like, a few results where the -	0
 the - More smoothing is helping. But still it's like - it's still comparable to the baseline. I haven't got anything  beyond  the baseline. But that's, like, not using any [MASK]	1
 And, uh, so I'm - I'm trying a few more experiments with	0
@@ -462,8 +463,8 @@ some - In some cases the clean speech is, like - when it's estimated, it goes to
 so that actually creates a lot of variance in the low-energy region of the speech.	1
 So, I'm thinking of, like, putting a floor also for [MASK] so that it doesn't  vary a lot in the low-energy regions.	0
 And, uh. So. The results are, like -	0
-So far I've been testing only with the  baseline, which is - which doesn't have any [MASK]	1
-the contributions out. So it's just [MASK] plu	1
+So far I've been testing only with the  baseline, which is - which doesn't have any [MASK] and [MASK] I just want to separate the -	1
+the contributions out. So it's just [MASK] plus [MASK] plus the baseline system,	1
 which is, uh, just the spectral - I mean, the mel sp-	1
 And the other thing that I tried was - but I just	0
 took of those, uh,   [MASK]	0
@@ -513,7 +514,7 @@ It's quite a lot - It's a lot of work.  Well, it's not too much, but this - it's
 if we have some  feeling that  the result -	1
 I - I would like to know if -	0
 I don't have any feeling if this will work better than	1
-apply [MASK] aft-	1
+apply [MASK] aft- in [MASK] will work better than apply in m- [MASK] -	1
 in filter [MASK]	1
 I r- I'm not sure. I don't - I don't know absolutely nothing.	1
 Yeah. Well, you're - I think you're the first one here to work with [MASK] so,	1

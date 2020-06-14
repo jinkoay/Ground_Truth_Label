@@ -57,7 +57,7 @@ Uh, well, y- you're saying here.	0
 I c- I should just let you go on.	0
 Yeah, there were small tricks to make this tandem network work.	1
 and one of the trick was to,	1
-some kind of hierarchical structure where  the silence probability is not computed by  the final [MASK] but by th	1
+some kind of hierarchical structure where  the silence probability is not computed by  the final [MASK] but by the [MASK]	1
 so apparently it looks better when,	1
 uh, we use the silence probability from the V_A_D network	1
 and we re-scale the other probabilities by one minus	0
@@ -249,7 +249,7 @@ Well, it might be hard to do it but it- but - but the thing is that if you -	0
 if you detect that there's periodic - s- strong periodic components, then you can use a voiced -	0
 Yeah. I mean, it's probably not worth your  time.  It's - it's a side thing and - and - and there's a lot to do. But I'm - I'm just saying, at least as a  thought  experiment,	1
 that's what I would wanna  test.	0
-Uh, I wan- would wanna drive it with a - a - [MASK] rather than a - th	0
+Uh, I wan- would wanna drive it with a - a - [MASK] rather than a - than [MASK]	0
 And then that would  tell  you whether in fact it's -  Cuz we've talked about, like, this [MASK] or	0
 other things that people have done based on pitch,	0
 maybe that's  really  a key element.	0
@@ -504,7 +504,7 @@ conceptually  quite different from what we've done.	0
 Cuz we - you know, one thing that w- that,	0
 uh, Stephane and Sunil seemed to find,	0
 uh, was, you know, they could actually make a unified piece of software that handled a  range  of different things that people were talking about, and it was really just sort of setting of different  constants.	0
-And it would turn, you know, one thing into another. It'd turn [MASK] int	0
+And it would turn, you know, one thing into another. It'd turn [MASK] into [MASK] or whatever.	0
 But there's other things that we're  not  doing. So, we're  not  making any use of pitch,	0
 uh, uh, which again, might - might be important,	0
 uh, because the stuff between the harmonics is probably a [MASK] And - and the,	0
@@ -595,7 +595,7 @@ at how to approach it and  potentially  one that's	0
 m- maybe a bit more  systematic  than what we've done,	0
 uh, and a b- a  bit  more inspiration from - from auditory things. So it's - so I think it's a neat thing to try.	0
 um,  are  in fact -	0
-Yeah, essentially, it's - it's, uh, you know, [MASK] or -	0
+Yeah, essentially, it's - it's, uh, you know, [MASK] or - or [MASK] or something like that. You've - you've got some,	0
 uh,  compression.  We always have some compression. We always have some - you know, the - the -	0
 the kind of filter bank with a kind of	0
 Um,  if you put in - if you also include the  [MASK]  in it - i- RASTA - the filtering being done in the log domain	0

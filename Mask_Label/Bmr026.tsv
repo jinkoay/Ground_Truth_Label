@@ -1,6 +1,6 @@
 So, I think this is gonna be a pretty short meeting because I have  four  agenda items,  three  of them were	1
 requested by Jane who is not gonna be at the meeting today.	1
-The uh  first  was [MASK]  Does anyone besides Jane know wh	0
+The uh  first  was [MASK]  Does anyone besides Jane know what [MASK] is?	0
 Um, sort of, I do, peripherally. Um -	1
 Well first of all with I_B_M I got a note from Brian yesterday saying that they	1
 finally made the tape for	1
@@ -61,7 +61,7 @@ That's a good point. Yeah, it's - it's probably going to have to be the  uncompr
 Yeah, I was just wondering because we're uh running out of the un-backed-up disk space on	1
 Well, that was the other point.  Yep, that's another agenda item.	0
 Oh, was that another one? O_K. I'll wait.	0
-But that is a good point so we'll get to that, too. Um, [MASK] not much to say. The back-end stuff is working out fine. It's more or less ready to go. I've added some stuff that uh indes- indexes by	1
+But that is a good point so we'll get to that, too. Um, [MASK] not much to say. The back-end stuff is working out fine. It's more or less ready to go. I've added some stuff that uh indes- indexes by [MASK] et cetera and also by the user I_D.	1
 So that the  front-end  can then do  filtering  based on that as well.	1
 The back-end is uh, going more slowly as I s- I think I said before just cuz I'm not much of [MASK]	1
 And uh Dave Gelbart says he's a little too busy. So I think Don and I are gonna work on that and - and you and I can just talk about it off-line more.	0
@@ -71,7 +71,7 @@ I wondered whe- when we would reach Dave's saturation point. He's sort of been -
 O_ K.  Finally said he was too  busy.   I guess we  reached  it.	0
 Yeah, he - he actually - he volunteered but then he s- then he retracted it. So. Oh well.	0
 I was just showing Andreas, I got um [MASK]	1
-kind of display, and I don't know how much more we can do with it - with like [MASK] where we have lik	1
+kind of display, and I don't know how much more we can do with it - with like [MASK] where we have like [MASK] and the transcripts on the bottom so, right now it's just [MASK] and then you have three windows but I don't know, it looked pretty nice and I'm sure it - think it has potential for	1
 For a demo?  Yeah, sounds good.	0
 a little something, yeah, for a demo.	0
 O_K, so again, the issue is - For July, the issue's gonna be what can we fit into a Windows machine, uh, and so on, but -	0
@@ -82,13 +82,13 @@ Really? So is that -	0
 Because there's some people um -	0
 It would be cool if we could uh get that to work uh at - at [MASK] because the um -	0
 we have m- m- We have more Windows machines to run the -	0
-[MASK] very generic with	1
+[MASK] very generic with [MASK] so basically anything you can get [MASK] to run on, it will work.	1
 Yeah but - But the problem is	1
-the version [MASK] works with,	1
+the version [MASK] works with, [MASK] is one point six whatever and that's not anymore supported. It's not on - on the web page anymore. But I just wrote an email to - to the author of - to t[MASK] and he sent me to one point six whatever library and so it works.	1
 Well I thought it was packaged with  [MASK]	0
 Yeah, but then you can't add our patches and then	0
 the - the new version is - is totally different a- and in - yeah, in terms of - of the source code. You - you can't find [MASK] anymore. It's some whatever wrapped thing and you can't - you can't access that so	0
-you have to install - First install [MASK] then inst	0
+you have to install - First install [MASK] then install [MASK] and then install [MASK] and  then	0
 I - I wonder if - if we should	0
 contribute our changes back to the authors so that they maintain those changes along - We have? Oh.	0
 We have -  Yeah b- it's just hasn't made it into the release yet.	0
@@ -101,10 +101,10 @@ Yeah, it's basically ASCII files or binary files, whatever representation. Just 
 just [MASK] basically so it's -	0
 So - So - Well -	0
 I mean we could do it in Matl-  I mean you could do it in a number of different places I'm sure.	0
-But - But it would be cool if [MASK] had like another window for the - you know, maybe abov	1
+But - But it would be cool if [MASK] had like another window for the - you know, maybe above [MASK] where it would show some arbitrary	1
 valued function that is - that is you know time synchron- ti-	1
 Yeah, that'd be very cool.	0
-It'd be easy enough to add that. Again it's - it's  It's more [MASK] So someone who's familiar with	0
+It'd be easy enough to add that. Again it's - it's  It's more [MASK] So someone who's familiar with [MASK] has to do it, but uh, it wouldn't be hard to do.	0
 ti- [MASK]	1
 But it would almost be like having another [MASK] displayed. S- Right.	0
 Yeah.  Yeah, maybe we could l- look into that.	0
@@ -126,17 +126,17 @@ You know, wh- Yeah. So. Uh, no, we're talking about on the computer and - and um
 and,  the more live, the better, but uh, given the crunch of time, we may have to retreat from it to some extent. So I think -	1
 For a  lot  of reasons, I think it would be very nice to have [MASK] be able to show some other interesting signal along with it so it'd be a good thing to get in there. But,	1
 um -  Anyway,  jus- just looking for ways that we could actually show what you're doing, uh,	0
-Cuz a lot of this stuff,  particularly  for [MASK] uh certainly a significant chunk of the things that we waved our arms about th- originally had t- had to do with	0
+Cuz a lot of this stuff,  particularly  for [MASK] uh certainly a significant chunk of the things that we waved our arms about th- originally had t- had to do with [MASK]	0
 It'd  be nice to show that we can actually get them and	0
 And the last i- item on the agenda is disk issues yet again. So, we're doing O_K on backed up. We're - We're only about thirty percent on the second disk.	1
 we have a  little  bit of time before that becomes critical, but we are like ninety five percent, ninety eight percent on [MASK]	1
 And, my original intention was like we would just delete them as we needed more space, but unfortunately we're in the position where we have to deal with all the meeting data	1
 all at once, in a lot of different ways.	1
 Oh there's a lot of  transcribers,  too.	0
-Yeah, there're [MASK] and th	0
+Yeah, there're [MASK] and then [MASK] and I want to do uh, uh,	0
 uh, the permission forms, so I want those to be live, so there's a lot of data that has to be around.	0
 And Jane was gonna talk to, uh, Dave Johnson about it. One of the things I was thinking is we - we just got these hundred - alright, excuse me - ten, uh	0
-[MASK] They came in but they're not set up yet. And so it seems to me we could hang	0
+[MASK] They came in but they're not set up yet. And so it seems to me we could hang [MASK] on those	0
 [MASK] Yeah. They came in the other day.	0
 because they'll be in the machine room, they'll be on the fast connection to the rest of the machines.	0
 And if we just need un-backed-up space, we could just hang disks off them.	0
@@ -171,7 +171,7 @@ And uh - So but that - But -	0
 Which one was that, [MASK] O_K.	0
 That's also where we store the -	0
 [MASK] right?	0
-No. I don't think that's on [MASK] O	0
+No. I don't think that's on [MASK] On [MASK] is only Carmen and Du- and Stephane's disk.	0
 But that won't be getting any bigger, will it?	0
 But I've also been storing - I've been storing [MASK] there and I guess I can s- start deleting some because we now know what the best features are and we won't be using the old ones anymore.	0
 Yeah, I do- I don't think it was on [MASK] I th-	0
@@ -182,7 +182,7 @@ Oh that's [MASK] - Oh that's X_ -	0
 Maybe I'm confu- Oh no I'm sorry.	0
 But I'm using [MASK] - H_, too. So.	0
 Yeah, it's probably - Probably only about four gig is on X_ - on your [MASK] but we'll definitely take it up if you -	0
-I think you're right. It's  [MASK] - The b- I'm also using	0
+I think you're right. It's  [MASK] - The b- I'm also using  [MASK]  I got that confused. O_K.	0
 I think it's about four or five gig cuz I have  four   meetings on there, three or four meetings.	0
 O_K, so that will get us through the next couple days.	0
 There should - I d- There should just be a b- I should have a button.	0
@@ -339,7 +339,7 @@ For both females and males?	0
 Uh, well i- there was a little bit of a -	0
 They - They were - The  males  I think were slightly better and the  females  were slightly worse but nothing really. I mean definitely not significant.	1
 And then the really nice thing was that if - if we combine the two systems we get a one and a half percent  improvement.	1
-t- With [MASK] which is like our  new and  improved  version	1
+t- With [MASK] which is like our  new and  improved  version of [MASK]	1
 Which u- actually uses the whole[MASK] from both systems  to  mmm, uh  c- combine that.	1
 So except - I mean the only key difference between the two really is the kind of [MASK] which is the	0
 But a percent and a half? That's -	0
@@ -348,7 +348,7 @@ now they definitely want to, you know, uh, have a - Next time we have an evaluat
 Um, and, you know, why not? Uh.  So.	0
 We clearly gotta add a few more features, though.	0
 Uh w- what do you mean? More features in the sense of front-end features or in the sense of just bells and whistles?	0
-You know we did [MASK] Let's, you know, try	0
+You know we did [MASK] Let's, you know, try [MASK] and -	0
 Oh I mean - Yeah. Well  Right. So, we cou- Yeah. That's - the - the	0
 the - There's  one  thing uh - I mean you don't want to overdo it because y- every  front-end  - You know, if you - you know you basically multiply your effort by N_, where N_ is a number of different	1
 systems and - Um. So.	1
@@ -362,26 +362,26 @@ And then we had some results on  digits, uh,	1
 with um - We - We - So this was uh	1
 really    - really sort of just to get Dave going with his um	0
 uh. But as a  result,  um, you know, we were sort of wondering why is the	0
-[MASK] doing so well on the  digits.  And the reason is basically there's a whole bunch	1
+[MASK] doing so well on the  digits.  And the reason is basically there's a whole bunch of [MASK] And you c-	1
 Including digits I gather, yeah.	0
-And - Not all of - No it's actually, digits is only a maybe a fifth of it. The rest is - is read - is [MASK] and uh	1
+And - Not all of - No it's actually, digits is only a maybe a fifth of it. The rest is - is read - is [MASK] and uh [MASK] and Wall Street Journal and stuff like that.	1
 A fifth of it is how much?	0
 Right. But a fi- a fifth is how much?	0
 A fifth would be maybe	1
 Yeah, so I mean that's actually not that different from the  amount of training that there was. So.	1
 But it definitely helps to have the  other  read data in there  because we're doing -	1
-You know the error rate is  half  of what you do if you train only on ti- uh  [MASK]  -  uh n	1
+You know the error rate is  half  of what you do if you train only on ti- uh  [MASK]  -  uh not [MASK]  which is only what two hours something?	1
 Uh, more [MASK] definitely  helps.  And you can leave out all the  conversational  data with no performance penalty. That's e- That was e- Right, right.	1
 Yeah  that  was the interesting thing. Because - because uh, it was  apparent  if you put in a bunch more data it would be better, but - but uh.	1
 Well is there even  more   [MASK] around?	0
-Oh, yeah. So we only - for [MASK] we're only using uh a fairly small subset	0
+Oh, yeah. So we only - for [MASK] we're only using uh a fairly small subset of [MASK]	0
 Um, so, you could beef that up and probably do even  better.	0
 I could also put in  uh	0
 [MASK]	0
 which is mostly prepared speech.	0
 It's not exactly  [MASK] but it's pretty darn close.	0
 Well, I mean that's  plenty  of [MASK] I mean, Wall Street Journal,  uh, take one example.	1
-So, you know that might be useful for the people who train the - [MASK] to - to use uh something other th	1
+So, you know that might be useful for the people who train the - [MASK] to - to use uh something other than [MASK]	1
 Well they been using [MASK]	0
 They - they uh - they experimented for a while with a bunch of different databases with French and Spanish and so forth cuz they're [MASK] and - and uh,	0
 um, - and actually the  best  results they got wa- were uh using [MASK]	0
@@ -394,7 +394,7 @@ You wanna -  You wanna see where that  stands ?  @@	0
 Well, I'm - Yeah, so Andreas uh brought over [MASK] And so I'm in the process of um	1
 [MASK] that we can use to train	1
 uh a new net with. And uh so then I'll train the net. And.	1
-An- And one side effect of that would be that it's - um that [MASK] would change. S	1
+An- And one side effect of that would be that it's - um that [MASK] would change. So [MASK] would be trained on I think only forty-six or forty-eight - forty-eight phones?	1
 Uh which is smaller than the um	1
 than [MASK] that - that we've been using so far.	1
 And that - that -  that  will probably  help,  actually, because	0
@@ -434,7 +434,7 @@ uh  at the  time.   Uh.	0
 And.  Later  we got  away  from it because - because once we had decent  systems  going	0
 then it was - it was typically better to use our  own  systems cuz they were self- consistent but - but certainly to start off when we were	0
 trying to recover from our initial hundred and forty percent error uh rate. Uh.  But that was a - that was a good - good - good way to  start.	0
-And we're not  quite  that bad with our - [MASK] but it was - they certainly aren't as good	0
+And we're not  quite  that bad with our - [MASK] but it was - they certainly aren't as good as [MASK] so -	0
 W- What  is  the performance on s- [MASK] that we've done?	0
 Well, the  hybrid  system we never got better than about fifty percent	0
 error. And uh it was -  I think there's just a whole lot of things that uh no one ever had time for. We never  did  really	0
@@ -457,7 +457,7 @@ Yeah. It'll  still  probably be worse. I mean, it's - it'd be context independen
 Should we - Should we bother with um using the net	0
 I mean should - should we even  use  that? Or should I just go straight to -	0
 Oh  oh  that's  a good question. Yeah, we - we weren't sure whether it's worth to just use [MASK] um	0
-from [MASK] or whether to actually go through	0
+from [MASK] or whether to actually go through [MASK]	0
 You run it? Keep - keep both versions? See which one's better?	0
 Uh, yeah. I mean. I think I agree with Ad-	0
 I mean basically you would then - You  proceed  with [MASK] It's gonna take you a while to train at this net anyway. And while it's training you may as well test the one you have and see how it  did.	0
@@ -467,7 +467,7 @@ big improvements in s- on some tasks with [MASK] Or was it sort of small-ish uh 
 Uh well. It depended on the task. I mean I think in this one I would sort of expect it to be important because we're coming from	0
 uh, [MASK] that were achieved with an  extremely  different system.	0
 That are from another -	0
-I mean we've done it with - When we were combining with [MASK]	0
+I mean we've done it with - When we were combining with [MASK] [MASK] made it  worse.	0
 Which I've never figured out.	0
 Right. But I mean i-	0
 I think it's a bug.	0
@@ -476,11 +476,11 @@ Well, that might probably just - Hmm. That was  probably  because your initial  
 Was it? I don't think it was.	0
 No they were - they were comparable.	1
 No I mean it's weird that it did - I'm sorry. It's w-   It's weird that it got worse.	0
-Tha- u- we- we've see- I mean - and wi- with the numbers - [MASK] we've seen a number of times people doing	0
+Tha- u- we- we've see- I mean - and wi- with the numbers - [MASK] we've seen a number of times people doing [MASK] and things not getting better.	0
 Oh actually it's not  that  weird because we have seen -	0
 We have seen cases where acoustic - [MASK] after some other change made matters worse rather than better.	0
 But I- But I would - I would  suspect  that something that - that had um a very different	0
-[MASK] for instance - I mean they were using pretty diff- sim	0
+[MASK] for instance - I mean they were using pretty diff- similar [MASK] to us.	0
 I - I would expect that something that had a different [MASK] would - would uh benefit from -	0
 What about uh  [MASK]  on this.  Oh.	0
 Oh, wait a minute, and the other thing uh, sorry, it was - the other thing is that what was in  common	0
@@ -524,7 +524,7 @@ But  not  by a  lot.	0
 Not  by  much.  Fifty s- Fifty four to forty eight?	0
 Vast majority is from the input unit.	0
 Yeah. Yeah. It'll have a very tiny effect.	0
-Right, because you used [MASK]  and	0
+Right, because you used [MASK]  and so [MASK] is much, much larger.	0
 Oh  I  see,  I  see, yeah, of course. Yeah. It's negligible, O_K.	0
 Yeah, so it's - it'd be way,  way  less than ten percent of the difference.	0
 Let's see. What am I trying to think of?	0

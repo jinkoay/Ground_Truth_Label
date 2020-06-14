@@ -16,7 +16,7 @@ Change  what  in the software?	0
 Where like you just don't - like if you - if it starts catching zeros, like in the driver or something -	0
 in the card, or somewhere in the hardware -	0
 Where if you start seeing zeros on w- across one channel, you just add some  random,	0
-[MASK] - like a sm	0
+[MASK] - like a small [MASK]	0
 I mean  certainly  we could  do  that, but I don't think that's a good idea. We can do that in post-processing if - if the application needs it.	0
 Well, I - u- I actually don't know what the  default   is anymore as to how we're using the - the front-end stuff but -	0
 for - for - when we use [MASK]	0
@@ -130,12 +130,12 @@ I don't know - f- fourteen percent of the words to maybe	0
 I don't know, eleven percent or something - it's - it's not a  dramatic  change, so it's -	0
 Anyway, so it's uh -	0
 That was - that was one set of  results, and then the  second  one was just basically the -	1
-the stuff we had in the - in [MASK]	1
+the stuff we had in the - in [MASK] on [MASK]	1
 And we rescored things um, a little bit more carefully. We also fixed the transcripts in - in numerous ways.	1
 Uh, but mostly we added one -	0
 what if you  uh, basically score ignoring all -	0
 So - so the - [MASK] was that	1
-most of [MASK] is fr	1
+most of [MASK] is from [MASK]	1
 So, we scored  all [MASK]	0
 uh, in such a way that	0
 Oh by the way, who's on channel  four?  You're getting a lot of breath.	0
@@ -236,8 +236,8 @@ And of course the d- [MASK] we got from the original transcripts.	0
 So, and then we looked at the disti- so we looked at the  distribution of these different kinds of tags,  overall  uh, and - and - and particularly at [MASK]	0
 And uh, we found that there  is  a marked  difference  so	0
 that for instance  after  -	1
-so at the end  after  [MASK] or  after  [MASK] or	1
-O_K?  And also of course after  [MASK] which means basically in p-	1
+so at the end  after  [MASK] or  after  [MASK] or  after   [MASK] you're  much  more likely to be interrupted  than  before.	1
+O_K?  And also of course after  [MASK] which means basically in p- [MASK]  So pauses are always an  opportunity   for -	1
 So we have this little histogram which shows these distributions and,  um,	0
 you  know, it's - it's - it's  not  - No big surprises, but it is  sort of interesting from -	0
 It's nice to actually  measure  it though.	0

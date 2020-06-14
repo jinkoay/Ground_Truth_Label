@@ -161,7 +161,7 @@ Yeah, they will have no more [MASK] in front of them when they enter this room.	
 Then I suggest we move on to the -	0
 to  we have um uh [MASK] let me make one more general remark, has sort of two - two side uh um	1
 actions, its um action items that we're do- dealing with,	1
-one is modifying [MASK] and the other one is modifying	1
+one is modifying [MASK] and the other one is modifying [MASK]	1
 this is not too complicated but I'm just mentioning it - put it in the framework because this is	0
 something we will talk about now.	0
 Um, I have some news from the generation, do you have news from the parser?	0
@@ -243,7 +243,7 @@ we have a whole library of schemas.	0
 And they're gonna be, you know, fleshed out in - in their real ugly detail, [MASK] and there's gonna be s- a lot of stuff on the Goal and blah-blah-blah, that a goal can be and so forth.	1
 What we think is -	0
 And all the names could - should be taken   "cum grano salis".   So. This is a -	0
-the fact that we're calling [MASK] right now should not entail that we are going to  continue  calling	0
+the fact that we're calling [MASK] right now should not entail that we are going to  continue  calling [MASK] But what that means  is	0
 we have here first of all on the - in the - in the first iteration a stupid list of [MASK]	0
 Actions that can be categorized with - or that are related to [MASK]	0
 and we will have you know [MASK]	0
@@ -288,7 +288,7 @@ So in the future -	0
 Exactly. In the future though, the content of a hypothesis will not only be an object and an - an action and a domain object but an action, a domain object, and a rich action description,	1
 Right? that doesn't hurt the current way.	0
 Which - which we're abbreviating as [MASK]	0
-So um you had like an action schema and [MASK] right? So how d	0
+So um you had like an action schema and [MASK] right? So how does [MASK] fit into [MASK] Like is it one of the tags there?	0
 Yeah can you go back to that one?	0
 So [MASK] in this case,	0
 I've - if I understand how we described - we set this up,	0
@@ -307,12 +307,13 @@ instead of just making it an attribute and which - which is just one thing we - 
 explode it out later on	1
 in case there is some structure that - that we need to exploit.	1
 O_K, so th- sorry I just don't kn- um um um - This is just	0
-uh X_M_L mo- notational but um the fact that it's [MASK] and then sort	0
+uh X_M_L mo- notational but um the fact that it's [MASK] and then sort of [MASK] that's a whole entit- That's a block,	0
 whereas source is just an attribute? Is that -	0
 No, no, no. Source is just not spelled out here. Source meaning - Source will be uh will have a name, a type,	0
+maybe [MASK] maybe  [MASK]	0
 O_K could it - it could also be blocked out then as - O_K.	0
 Yeah, the - So - Yeah.	0
-s- Source it will be, you know we'll f- we know a lot about sources so we'll put all of that in Source. But it's independent whether we are using [MASK]	0
+s- Source it will be, you know we'll f- we know a lot about sources so we'll put all of that in Source. But it's independent whether we are using [MASK] in [MASK] right? This is just properties of [MASK]	0
 We can talk about Paths being the fastest, the quickest, the nicest and so forth, uh or - or - and [MASK] should be coming in there as well.	0
 And then G- the same about Goals.	0
 O_K. So I guess the question is when you actually fill one of these out, it'll be under [MASK] Those are -	0
@@ -330,12 +331,12 @@ What do you - what do you -	0
 I - I may be just um reading this and interpreting it into my head in the way that I've always viewed things	0
 and  that - that may or may not be what you guys intended.	0
 But if it  is,  then the top block is sort of like	1
-um, you know, you have to list exactly what [MASK]	0
+um, you know, you have to list exactly what [MASK] or  in [MASK] there'll be a certain one,	0
 that has its own s- structure and maybe it has stuff about that specific to entering or viewing or approaching,	1
 but those could include roles like the thing that you're viewing, the thing that you're entering, the thing that you're whatever, you know,	0
 So very specific role names are "viewed thing", "entered thing" -	0
 that - which are - think - think of enter, view and approach as frames and they have frame-specific parameters and - and roles	0
-and you can also describe them in a general way as [MASK] and maybe there'	1
+and you can also describe them in a general way as [MASK] and maybe there's [MASK] that you could you know add after this that you know,	1
 how do they work in terms of you know [MASK] or how do they work in f- terms of other things. So all of those have um	1
 basically f- either specific - frame specific roles or more general	1
 frame specific roles that might have binding. So the question is are um - how to represent when things are linked in a certain way.	1
@@ -346,7 +347,7 @@ The - wa- wasn't there supposed to be a link in the	0
 I don't know if this answers your question, I was just staring at this while you were talking, sorry.	0
 Uh a link between [MASK]	0
 a field in the s- in the	0
-schema for [MASK] that would link us t	0
+schema for [MASK] that would link us to [MASK] we were supposed to use so we could -	0
 Um, well that's - that's one - one thing is that	0
 we can have one or m- as many as we want links from - from the schema up to the s- action um description of it.	0
 But the notion I got from Nancy's idea was	0
@@ -374,10 +375,10 @@ So you have constraints that are dependent on the c- actual s- specific filler, 
 you know  this,  of course, does not make sense in light of the Statue of  Liberty,	0
 however  it is uh you know sort of - these sort of things are imaginable.	0
 Or the Gateway Arch in St. Louis. So.	0
-like are you gonna have similar schemas for [MASK] lik	1
-And if so like can - are you able to enforce that you know if - if it's - if it's [MASK] then you have that schema, if it'	0
+like are you gonna have similar schemas for [MASK] like [MASK] and [MASK] and stuff like you have for [MASK]	1
+And if so like can - are you able to enforce that you know if - if it's - if it's [MASK] then you have that schema, if it's [MASK] then you have the other schema	0
 Um we have absolute - No. We have absolutely no means of enforcing that,	0
-so it would be considered valid if we have [MASK] and n	1
+so it would be considered valid if we have [MASK] and no [MASK] but [MASK]	1
 Whi- which is not  bad,  because I mean, that there's multiple sens- I mean that particular case, there's mult- there - there's a forced side of -	0
 of that verb as well.	0
 Hmm. It - maybe it means we had nothing to  say  about [MASK]	0
@@ -447,7 +448,7 @@ the inference of that separate from the knowledge of "O_K they really want to kn
 Well there - there - there should never be a hard coded uh  shortcut from  the bakery question to the	0
 thing, how uh - And, as a matter of fact, when I have traveled with my friends we make these - exactly these kinds of appointments.	0
 Yeah.  Exactly.  It's - I met someone at the bakery you know in the Victoria Station t- you know  train station London before, yeah.	0
-I have a question about [MASK] S	0
+I have a question about [MASK] So  [MASK] the - the - [MASK] um, those are fixed slots in this particular action. Every action of this kind	0
 Or - or - or - or will it just	0
 um uh - is it change -	0
 [MASK] either is an Enter or a View or an Approach, right? O_K.	0
@@ -479,7 +480,7 @@ Cuz viewing in a tourist domain is going up to it and - or actually going from o
 Oh, s- so it's sort of automatic derived fr- from the structure that - that is built elsewhere.	0
 derived  I don't know if I u-	0
 This is a cate- this a category structure here, right? [MASK]	1
-What are some types of [MASK] Well one of the types	1
+What are some types of [MASK] Well one of the types of [MASK] is [MASK]	1
 And what are some types of  that?  And an Enter,	1
 a View, an Approach. Those are all [MASK]	1
 Inside of Enter there will be roles that can be filled	1
@@ -520,7 +521,7 @@ you could say "here, list all the kinds of schemas that -	0
 on the category that -	0
 List all the  parent  categories.	0
 you know i- list all the parent categories". It's just like	1
-[MASK] right? like you hav	1
+[MASK] right? like you have [MASK] So you would say enter and you'd say  my  parent	1
 frames are such-and-such, h- and then those are the ones that actually you then actually define and say how the roles bind to your  specific  roles which will probably be f- richer and fuller and have other stuff in there.	0
 This sounds like a  paper  I've read around here recently in terms of -	0
 Yeah it could  be not a coincidence.	0
@@ -573,7 +574,7 @@ Right? So there's just like sort of reverse organization, right?	0
 So like unless  @@  - Are there reasons why one is better than the other I mean that come from other sources?	1
 Yes because nobod- no- the modules don't - This is -	1
 this is a schema that defines X_M_L messages that are passed from one module to another,	1
-mainly meaning from [MASK] or fr	1
+mainly meaning from [MASK] or from [MASK] to [MASK]	1
 the reason for - for not	1
 using  this  approach is because	1
 you always will have to go back,	1
@@ -654,7 +655,7 @@ Yes. Yes. I've - I've - I've - I guess I'm on record for promising that now. So 
 Like have it - we'll have it in writing. So.	0
 This is it and um	0
 The other good thing about it is Jerry can be on here on Friday and he can weigh in as well.	0
-and um if you can get __JARGON__that  binding  point__JARGON__ also maybe with a nice example that would be helpful for Johno and me.	1
+and um if you can get --Jargon--that  binding  point--Jargon-- also maybe with a nice example that would be helpful for Johno and me.	1
 I think you've got one on hand, huh?	0
 I have several in my head, yeah.	0
 Well the - the - the binding is technically no problem but it's - it - for me it seems to be conceptually important that we find out if we can s- if - if there - if there are things	1
@@ -700,7 +701,7 @@ It just happened to be the acronym.	0
 Yeah. That's - doesn't make it a great term. It's just like those jokes where you have to work on both levels. Do you see what I mean? Like	0
 ye- no but i- but if you - if you - if you  work  in th- in  that  X_M_L community it is a  great  acronym because it e- evokes	0
 Just think of it as - as "wheel" in German.	0
-whatever [MASK] is the biggest thing right? That's the rich - sort	0
+whatever [MASK] is the biggest thing right? That's the rich - sort of [MASK]	0
 and um - and also - So,  description,  having the word d- term "description" in there is wonderful,	0
 uh "rich" is also great, rwww.	0
 Who doesn't like to be a-	0

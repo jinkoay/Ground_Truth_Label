@@ -39,7 +39,7 @@ if  you were just adjusting the back-end,	1
 how much better would you do, uh, in noise?	1
 the language scaling and insertion penalties and so forth are probably set to be about right for [MASK]	1
 they're probably not at  all  set right	1
-for these things, particularly these things that look over, uh, larger time windows, in one way or another with - with [MASK]	1
+for these things, particularly these things that look over, uh, larger time windows, in one way or another with - with [MASK] and [MASK] and neural nets and	1
 In the fa- past we've always found that we had to increase the insertion penalty to - to correspond to such things.	0
 I think that's, uh,  @@   that's kind of a first-order thing that - that we should try.	0
 so the experiment is to, um,	1
@@ -73,7 +73,7 @@ So maybe I can have that for next week when Hynek's here.	1
 Yeah. Cuz, I mean, the - the other -	0
 That, in fact, might have been	0
 part of what, uh, the difference was -	0
-at least part of it that - that we were seeing. Remember we were seeing [MASK] system was so much better th	0
+at least part of it that - that we were seeing. Remember we were seeing [MASK] system was so much better than [MASK]	0
 Part of it might just be that [MASK] system, they - they - they always adjust	0
 these things to be sort of optimized, and -	0
 I wonder if there's anything that we could do  to the  front-end	1
@@ -91,7 +91,7 @@ of the numbers - of the  differences  between different candidates from the acou
 Oh, right. So that w- Right. So, in effect,	1
 as opposed to what's coming from the language model.	1
 changing the  value  of your insertion penalty.	1
-Yeah. I mean, it's more directly like the - [MASK] or the, uh -	1
+Yeah. I mean, it's more directly like the - [MASK] or the, uh - [MASK] or [MASK]	1
 but you know that those things have kind of a similar effect to the insertion penalty anyway. They're a slightly different way of -	0
 of handling it. So, um -	0
 So if we know what the insertion penalty is, then we can get an idea	1
@@ -189,7 +189,7 @@ I don't have results yet.	1
 I mean, what- what's - what's going on now? What are you  doing?	0
 Uh, to try to found, nnn, robust feature for detect between voice and unvoice.	0
 we try to use  the variance	0
-of the es- difference between [MASK]	0
+of the es- difference between [MASK] and [MASK]	0
 Uh, also the - another parameter is - relates with the auto-correlation function.	0
 R_ze- energy and the variance a- also of the auto-correlation function.	0
 So, that's - Yeah. That's what you were describing, I guess, a week or two ago. So.	0
@@ -233,7 +233,7 @@ Yeah, yeah. We have, yeah, extracted actually the noises from  [MASK]	1
 we can train neural network	1
 with speech and these noises.	1
 It's difficult to say what it will give, because when we look at	1
-[MASK] -	0
+[MASK] - [MASK] experiments,	0
 they have these three conditions that have different noises, and	0
 apparently this system perform as well	0
 on the seen noises - on the unseen noises and	0
@@ -353,7 +353,7 @@ Uh. Yeah. So, this noise, um -	0
 Yeah. The [MASK] -	0
 There is something - perhaps, I could spend some days to look at this thing,	0
 cuz it seems that when we train networks on -	0
-let's say, on [MASK] with	0
+let's say, on [MASK] with [MASK], they -	0
 they look as good as networks trained on [MASK]	0
 when they are used on -	0
 on [MASK] data, it's not the case -  oh, well .	0
@@ -410,7 +410,7 @@ No. Again you don't really  look at that. It's something - that, and then it's g
 probably pretty close to - It's, eh, whatever [MASK] is doing. But it's probably pretty close to what a - a - a discrete cosine transformation is doing.	0
 But still it's - it's not gonna probably radically change the scale of things.	0
 I would think. And, uh -	0
-Yeah. It may be entirely off and - and it may be - at the very least it may be quite different for [MASK] than it is	0
+Yeah. It may be entirely off and - and it may be - at the very least it may be quite different for [MASK] than it is for [MASK] or [MASK]	0
 So that would be -	0
 So the first thing I'd look at without adjusting anything would just be to go back to the experiment and look at the, uh, substitutions, insertions, and deletions.	0
 And if the - if	0
@@ -418,7 +418,7 @@ i- if there's a fairly large effect of the difference, say, uh, uh, the r- ratio
 for  the   two cases then that would be, uh, an indicator that it might - might be in that direction.	0
 my - my point was more that it - it works sometimes and -	0
 but sometimes it doesn't work. So.	0
-And it works on [MASK] and	0
+And it works on [MASK] and on [MASK] it doesn't work, and -	0
 But, you know, some problems are harder than others, and -	0
 And, uh, sometimes, you know, there's enough evidence for something to work and then it's harder, it breaks. You know, so it's -	0
 But it - but, um, i- it - it could be that	0
@@ -477,7 +477,7 @@ um, to be able to distinguish between, uh, phones and words and stuff. And	1
 um, once we - we would figure out a set of these events that can be, you know, um,	1
 hand-labeled or - or derived, uh, from h- the hand-labeled phone targets.	1
 Um, we could take these events	1
-um, where we feed, um, these events into  [MASK] um, eh, and evaluate its performance	1
+um, where we feed, um, these events into  [MASK] um, eh, and evaluate its performance on [MASK] task.	1
 Can you give an example of an event?	1
 Yeah. Sure. Um, I - I can give you  an  example of  twenty-odd events.	0
 So, he- In this paper, um,  it's  talking about [MASK] recognition using acoustic events.	1
@@ -506,7 +506,7 @@ That was - that was the main thing that we were focusing on  there.  But there's
 beyond what we talked about there that aren't just sort of	0
 It's kinda like the difference between top-down and bottom-up.	1
 I think of the acoustic -	1
-you know, [MASK] features as being	1
+you know, [MASK] features as being [MASK] You know, you look at the phone and you say this phone is supposed to be - you know, have this feature, this feature, and this feature.	1
 Whether tha- those features show up in the acoustic signal is sort of irrelevant. Whereas, an acoustic event goes the other way. Here's the signal.	1
 Here's some event. What - ?	1
 And then that - you know, that may map to this phone	1
@@ -524,6 +524,7 @@ you know, I can ma- mea- measure my progress by comparing,	0
 um, the error rates in clean and noisy conditions to something like, uh, neural nets.	0
 so, once we have these - these, uh, event detectors,	0
 we could put  them   together and - and feed the outputs of the event detectors into - into [MASK] um,	0
+[MASK] - [MASK]	0
 um -  and test it on - on [MASK] or, um, maybe even [MASK] stuff.	0
 pretty much the - the big picture of - of	0
 there's, uh, a couple people who are gonna be here - I forget if I already told you this, but, a couple people who are gonna be here for six months. Uh -	0

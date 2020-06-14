@@ -109,11 +109,11 @@ what's the th- what is it - what is that user most likely to want to do?	0
 And, have it talk about -	0
 Well you can observe some user and  context  stuff and ask, what's the	1
 [MASK]	1
-You could even say, "let's take  [MASK] let's observe  nothing ", and query	0
+You could even say, "let's take  [MASK] let's observe  nothing ", and query all [MASK]	0
 It- it's gonna tell us  something.	0
 assign  values  to all the nodes. Yes.	1
 Yes. And come up with	0
-__JARGON__posterior probabilities for all the values of the  decision  nodes.__JARGON__	0
+--Jargon--posterior probabilities for all the values of the  decision  nodes.--Jargon--	0
 Which, if we have an algorithm that filters out whatever the - the best or the most consistent	0
 And that is exactly what would  happen  if we ask it to  produce  an utterance, it would be b- based on that extension,   ex nihilo,   which we don't know what it  is,  but it's  there.	0
 So we wouldn't even have to - t- to  kick  start it by  giving  it a certain intention or	0
@@ -400,7 +400,7 @@ Remember I came in and I started asking you about how we were sor- going to sort
 I  remember  you  talking  to me, just  not  what you  said.	0
 I  do  remember you talking to me.	0
 Well, there was like we needed to - or uh, in my opinion we need to design a Bayes - [MASK] -	0
-You know, it was whether - it was whether we would have [MASK]  on   the output  and  on the input, or whether the construction was gonna b	0
+You know, it was whether - it was whether we would have [MASK]  on   the output  and  on the input, or whether the construction was gonna be  in  [MASK]	0
 a- and  outside  of it, and -	0
 So that was - was that the question? Was that what -	0
 Well that was related to what we were talking about.	0
@@ -459,7 +459,7 @@ So what would be kind of  cool  is	1
 that if we  encounter  concepts that are castle, tower, bank, hotel,	1
 we run it through [MASK] and [MASK] tells us it has	1
 um, admission, opening times, it has admission fees, it has this, it has that,	1
-and then we - we - we make [MASK] look up, and then search dynamically through the uh,	1
+and then we - we - we make [MASK] look up, and then search dynamically through the uh, [MASK]	1
 for  occurrences of these things in a given	1
 And  that  might, you know, give us additional input to [MASK]	0
 So it's not just a particular word's - O_K, so the - you're looking for a few keys that you know are cues to -	0
@@ -494,7 +494,7 @@ prior  to the "where is it" question they say, you know, "how much does it cost 
 "where is the closest theater" - The - the - the point is that by mentioning  admission  fees, that just sort of stays active now.	0
 You know. That becomes part of like, their sort of current ongoing	0
 active conceptual structure. And then, um,	0
-over in [MASK] or whatever, when - when the person says "where is it", you've already got, you know since they were talking about  admission,  and  that  evokes the idea of  entering,  um, then when they go and ask "where is it", then you'	0
+over in [MASK] or whatever, when - when the person says "where is it", you've already got, you know since they were talking about  admission,  and  that  evokes the idea of  entering,  um, then when they go and ask "where is it", then you're [MASK] is already active because that's what the person is  thinking  about. I mean that's the sort of [MASK] and probably not practical.	0
 Yeah, e- ultimately that's  also  what we wanna get at. I think that's - that's the correct way. So, of course we have to keep	0
 memory of what was the last intention, and how does it fit to this, and what does it tell us, in terms of - of the - the - what we're examining.	0
 I mean we can  idealize  that, you know, people don't change topics,	1
@@ -508,7 +508,7 @@ and this is, again, for  your  benefit -	1
 observed and parsed an utterance such as "where is the  Powder-Tower ",	1
 or "where is the zoo",	0
 um, what - what we think the - the output	1
-uh, observe, out - i- input nodes for [MASK]	1
+uh, observe, out - i- input nodes for [MASK] for [MASK] for the discourse bit, should be.	1
 So that - And I will - I will then	1
 come up with [MASK]	1
 uh, bits and pieces, so that we can say, O_K we - we  always  just look at this utterance.	1
@@ -551,7 +551,7 @@ What - what is this gonna -  Exactly.  What is the uh -	0
 And then given that we know that  the construction  has these two  things,  we can set up probabilities -	0
 we can s- basically define all the  tables  for ev- for those -	0
 Yeah, it should be - So we have	0
-i- let's assume we - we call something like [MASK]	0
+i- let's assume we - we call something like [MASK] and [MASK]	0
 And what we actually  get  if we  just  look at the  discourse,	0
 "where is X_" should activate	0
 whereas maybe "where is X_  located ",	0
@@ -602,11 +602,11 @@ r- in here we have "I'll go there", right?	0
 And we have [MASK]	0
 So in my c- my case, this would	0
 sort of make  this   happy, and this would make [MASK]  happy.	0
-What  you're  saying is we have [MASK]	0
+What  you're  saying is we have [MASK]  [MASK]	0
 Right? That's what you're proposing, which is, in my mind  just  as fine.	0
 So w- if we have [MASK] "where is X_",	1
-po- [MASK] that - it'	1
-[MASK]  and th	1
+po- [MASK] that - it's [MASK]	1
+[MASK]  and that [MASK] as  well.	1
 Which would be exactly analogous to what I'm proposing is,	1
 makes something  here  true, and this makes something -  also  something here true, and this makes  this  True-up, and this makes this [MASK] as well.	1
 I kinda like it better  without that  extra level of indirection too. You know with - with this points to this points to that, and so on because  I don't know, it -	1
@@ -626,7 +626,7 @@ like, the fact that it is, you know, [MASK] whatever,	0
 it  is  a question. It's a question that,	0
 um, queries on some particular thing X_, and X_ is that location.	0
 There's, like, a lot of structure in representing that.	0
-So  that  seems different from just having [MASK] and that goes int	0
+So  that  seems different from just having [MASK] and that goes into [MASK] right?	0
 Precisely.  That's - that's -	0
 So tha- is that what you're t-	0
 Exactly. We have su- we have specified  two.	0

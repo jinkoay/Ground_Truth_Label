@@ -211,6 +211,7 @@ O_K, great. Alright. So -	0
 So basically all I did was I took [MASK]	1
 and I grouped things according to what - how I thought they would fit in to	1
 uh  [MASK] that would be related. And the two that I came up with	1
+were [MASK] and then [MASK] as initial ones.	1
 And then I said well, uh [MASK] would be the person in this case probably.	1
 you know, we have - we have the concept of what their intention was, whether they were trying to tour or do business or whatever,	1
 or they were hurried.  That's  kind of related to  that.  And then um	1
@@ -228,7 +229,7 @@ and then if you go up,	0
 in terms of Context, what we had currently said was	1
 whether they were a businessman or a tourist of some other	1
 Um, Discourse was related to whether they had asked about open hours or whether they asked about where the entrance was or the admission fee, or something along those lines.	1
-Uh, [MASK] I don't really - I'm not really sure wh	1
+Uh, [MASK] I don't really - I'm not really sure what [MASK] means, in this context,	1
 so I just made up you know whether - whether what they say is - or h-  how  they say it	0
 Um, the Parse would be what verb they chose, and then maybe how they modified it, in the sense of	1
 whether they said "I need to get there quickly" or whatever.	1
@@ -263,7 +264,7 @@ uh sort of back off on the purity of [MASK]	0
 so. If you co- you could ima- and I- now I don't	0
 know  that any of those actually  apply  in this case, but there is some technology you could try to apply.	0
 So it's possible that we could do something like [MASK] of some sort that -	0
-So in  that  case, the sum- we'd have - we - I mean, these wouldn't be [MASK] We'd hav	0
+So in  that  case, the sum- we'd have - we - I mean, these wouldn't be [MASK] We'd have [MASK] like where the things were - I guess maybe if thi- if things were related to business or	0
 So what I was gonna  say  is - is maybe a good at this point	0
 try to  informally  - I mean, not necessarily in th- in this  meeting,	1
 but to try to  informally  think about what the decision variables  are.	1
@@ -418,7 +419,7 @@ I mean that - that's certainly one thing we can do. Uh, it's true that	0
 the way you have this,	0
 a lot of the times you have -	0
 what you're having is the  values  rather than the  variable.	0
-So instead of in- instead it should really be - just be "intention" as a node instead of [MASK]	0
+So instead of in- instead it should really be - just be "intention" as a node instead of [MASK] or [MASK]	0
 Yeah, right, and then it would have values, uh, "Tour", "Business", or uh "Hurried".	0
 But then - but i- it still some knowledge design to do, about i- how do you wanna break this up, what really matters.	0
 You know, we have to - it's - it's iterative. We're gonna have to work with it some.	0
@@ -443,7 +444,7 @@ It's - you know, it's great - is - is, you know, as one step toward uh -	0
 toward where we wanna go.	0
 Also it strikes me that we - we m- may want to approach the point where we can sort of try to find a -	0
 uh, a specification for some interface, here that um	0
-takes [MASK] looks at it. Then we discu	0
+takes [MASK] looks at it. Then we discussed in [MASK] um how to ask [MASK] what to ask [MASK]	0
 um the fact that we can pretend we have one, make a dummy until we get the  real  one,	0
 and so um we -	0
 we  may  wanna decide we can do this from here, but we also could do it um	0
@@ -517,7 +518,7 @@ Seems like it has to be specific.	0
 [MASK] will be dec- specific for each decision. But what I'd like to be able to do	1
 is to have the way that you [MASK]	1
 that will go into [MASK] be	1
-So that if you have sources, you have [MASK] and stuff like that, and there's a language for  talking  abou	1
+So that if you have sources, you have [MASK] and stuff like that, and there's a language for  talking  about [MASK]	1
 you  shouldn't  have to do that  differently	1
 for uh uh going to something, than for circling it, for uh telling someone else how to go there,  whatever  it is.	1
 So that - that, the -	0

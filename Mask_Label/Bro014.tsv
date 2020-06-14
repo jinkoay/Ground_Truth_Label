@@ -22,7 +22,7 @@ I'm sorry, I didn't quite get that. There's - there's  four  and there's  seven 
 Yeah. Uh, maybe I should write it on the board. So,  there's four rounds of training. Um,	0
 I g- I g- I guess you could say iterations.	1
 The first one is three, then seven, seven, and seven.	1
-And what these numbers refer to is the number of times that [MASK] is run. It'	1
+And what these numbers refer to is the number of times that [MASK] is run. It's [MASK]	1
 But [MASK] between, uh, a - an inner loop and an outer loop in these iterations?	0
 O_K.  So what happens is, um, at each one of these points,	0
 you increase the number of Gaussians in the model.	0
@@ -60,7 +60,7 @@ And so we've got it - now [MASK] the Linux and for, um, the Sparcs.	0
 Um, you have to make -	1
 you have to make sure that in [MASK]  um,	1
 it detects whether you're running on the Linux or a - [MASK] to the right executables.	1
-Uh,  and you may not have  had  that in your [MASK] before, if you were always ju	1
+Uh,  and you may not have  had  that in your [MASK] before, if you were always just [MASK] So,  um,	1
 uh, I can - I can tell you  exactly  what you need to do to get all of that to work.	1
 But it'll - it really increases what we can run on. So,	0
 together with the fact that we've got these  faster Linux boxes and that it takes less time to do  these, um, we should be able to crank through a lot more experiments.	0
@@ -269,7 +269,7 @@ And if it turns out that  you can't improve on that, well,	0
 I mean, then, you know, nobody wins and you [MASK] Right?	0
 Yeah. I mean, it seems like,	0
 uh,  it should include sort of the current state of the art	0
-that you want - are trying to improve, and [MASK] you know,	0
+that you want - are trying to improve, and [MASK] you know, or [MASK] - it seems like	0
 reasonable baseline for the features, and anybody doing this task,	0
 uh, is gonna have  some  sort of voice activity detection at  some  level, in some way. They might use the whole recognizer to do it  but - rather than	0
 a separate thing, but -  but they'll have it on  some  level.	0
@@ -280,11 +280,11 @@ about the, uh - [MASK]	0
 And - and then when the - the - the proposals actually came in and half of  them   had [MASK] and half of  them    didn't,  and the half that did did well and the  half that didn't did poorly. So it's -	0
 Yeah. So we'll see what happen with this.	0
 Yeah. So what happened since, um,  last week is -	1
-well, [MASK] these experiments	1
+well, [MASK] these experiments on  [MASK]	1
 And these experiments also are using,	1
 uh, some kind of noise compensation, so spectral subtraction,	1
 um, just after this. So I think [MASK] so which is similar to	1
-the pro- proposal-one, but with  [MASK] in addition,  and it seems th	1
+the pro- proposal-one, but with  [MASK] in addition,  and it seems that [MASK] doesn't help further	1
 when you have [MASK]	1
 Is this related to the issue that you brought up a couple of meetings ago with the - the  musical tones and - ?	0
 I have no idea, because the issue I brought up was with a very simple [MASK] approach,	0
@@ -351,7 +351,7 @@ Wait a minute. I - what does that mean? The variance	0
 of [MASK]	0
 So basically [MASK]  for a purely periodic sig- signal shou- sh-	0
 what yo- what [MASK] as I recall, is you're subtracting the - the, um -	1
-the mel - mel -  [MASK] uh,	1
+the mel - mel -  [MASK] uh, [MASK] Right.	1
 That's right. Yeah. So -	0
 Yeah. So we have [MASK] we have [MASK] so we  just -	0
 So it's - it's not really an excitation, but it's something that hopefully tells you something about the excitation.	1
@@ -388,7 +388,7 @@ i- it - it may be that - that you're finding something  good  and that the varia
 Yeah. But  another  way of looking at it  might be that - I mean, what w- we- we  are  coming up with feature sets after all.	0
 So another way of looking at it is that	0
 um, [MASK]	0
-any of these variants, um, give you [MASK] It'	0
+any of these variants, um, give you [MASK] It's [MASK]	0
 By going back to [MASK]	0
 you're getting  something  that is  more like the raw data.	0
 So the question is, what characterization - and you're playing around with this - another way of looking at it is what characterization	1
@@ -468,7 +468,7 @@ Right. So i- so i- i- this is -	0
 I mean, i- you could argue about whether it should be linear interpolation or - or - or - or zeroeth order, but - but	0
 at any rate something  like  this  is what you're feeding your recognizer, typically.	0
 Like which  of the  - ?	0
-No. Uh, so [MASK] is the - is the -	0
+No. Uh, so [MASK] is the - is the - is [MASK] of this -	0
 So this is - Yeah.	0
 this, uh, [MASK] whatever it - You- you're subtracting in - in - in  power domain or log domain?	0
 O_K. So it's sort of like  division,  when you do the - yeah, the spectra.	0
@@ -478,7 +478,7 @@ Yeah. What happen if - what we have - have - what we would like to have is  [MAS
 Yeah. I guess that makes sense. Yeah.	0
 which is for voiced sound ideally a - a pulse train	0
 and for unvoiced it's something that's more flat.	0
-And the way to do this  is that - well, we have the - we have __JARGON____JARGON__[MASK] because it's computed in - in the - in the system, and we have	0
+And the way to do this  is that - well, we have the - we have --Jargon----Jargon--[MASK] because it's computed in - in the - in the system, and we have	0
 and so if we -	0
 if we, like, remove [MASK]	0
 we have something that's  close to [MASK]	0
@@ -584,6 +584,7 @@ I- i- it - Yeah.	0
 Seems like you'd wanna do it on [MASK]	0
 Maybe. I mean, certainly it'd be better.	0
 I- I mean, if you were gonna - uh, for - for this purpose, that is.	0
+try to convince --Jargon--O_G_I--Jargon----Jargon-- people to use the new -	1
 the new filters and -  Yeah.	1
 Uh, has - has anything happened yet on this business of having some sort of standard, uh,	1
 not yet but I wi- I will  call them and -	1

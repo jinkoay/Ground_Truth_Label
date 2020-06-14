@@ -99,7 +99,7 @@ Oh, this is - yeah, yeah.	0
 @@  Tell him about the cube.	0
 I should tell him about the cube?  Yeah.	0
 Uh we - actually we want to, mmm,	0
-the feature dimension, [MASK]	0
+the feature dimension, [MASK] and [MASK]	0
 Well, what we want to do is	0
 first we have number for each  uh task.	0
 So we have the um,	0
@@ -255,21 +255,21 @@ and it's beginning more and more looking like the, uh, the Borge cube thing.	0
 So are - are you going to be assimilated?	0
 Um, yeah, so I- [MASK]	1
 Um, the - [MASK] trying to get a,	1
-um - a labels file so we can, uh, train up a - [MASK] um, the difference betw	1
+um - a labels file so we can, uh, train up a - [MASK] um, the difference between [MASK] and a net trained on digits alone.	1
 Um, and seeing if - if it hurts or helps.	0
 And again, when y- just to clarify, when you're talking about training up a net, you're talking about training up a net for a tandem	0
 approach? And - and [MASK] or - ?	0
 Well, the inputs are one dimension of the cube, which, um, we've talked about it being, uh, [MASK]-	1
 Yeah, but your initial things you're making one choice there, right? [MASK]or something? Yeah.	0
 Um, I - I haven't - I haven't decided on - on the initial thing. Probably - [MASK]	0
-Um, so - [MASK] and you - you, uh, do it - uh, you -	0
+Um, so - [MASK] and you - you, uh, do it - uh, you - [MASK] with it with the transformed features using a neural net that's trained.	0
 And [MASK] And that's the - and, and th- and then the testing would be these other things which - which - which might be foreign language.	0
 I - I - I get in the picture about the cube. O_K.	0
 Um, I mean, those listening to this will not have a picture either, so, um, I guess I'm - I'm not any worse off.	0
 But  but at some point - somebody should just show me the cube. It sounds s- I - I get - I think I get the general idea of it, yeah.	0
 So, when you said that [MASK]	0
 um, are y- what do you mean by that?	0
-Oh, I'm just - I'm just, uh, transforming them from the, um, [MASK] into - int	0
+Oh, I'm just - I'm just, uh, transforming them from the, um, [MASK] into - into [MASK]	0
 Were the digits, um, hand-labeled for phones?	1
 Um, the - the digits -	0
 Or were they - those labels automatically derived?	0
@@ -278,7 +278,7 @@ using, um, embedded - embedded training and alignment.	1
 I was just wondering because that test you're t- I - I think you're doing this test because you want to determine whether or not,	1
 uh, having s- general speech performs as well as having specific  speech.	1
 Well, especially when you go over the different languages again, because you'd - the different languages have different words for the different digits, so it's -	0
-Mm-hmm. And I was - yeah, so I was just wondering if [MASK] -	1
+Mm-hmm. And I was - yeah, so I was just wondering if [MASK] - [MASK] might be - confuse the results that you get.	1
 I - I think it would, but - but on the other hand it might be better.	0
 Right, but if it's better, it may be better because  it was hand-labeled.	0
 Oh yeah, but still  @@  probably use it.	0
@@ -357,10 +357,10 @@ But, uh, well, not for the - the A_N_N. I mean -	0
 So, yeah, we could - [MASK]	0
 Probably should. I mean at least - at least conceptually, you know, it doesn't meant you actually have to do it, but conceptually it makes sense as a - as a base line.	0
 It'd be an interesting test just to have -	0
-[MASK] with the neural net and everything else the	0
+[MASK] with the neural net and everything else the same. [MASK] without the - the net.	0
 I think - I think Dan did some of that.	0
 Um, [MASK] And with the net it's - it's wonderful. Without the net it's just baseline.	0
-Um, [MASK] too. D- Because I think that for a bunch of their experiment	0
+Um, [MASK] too. D- Because I think that for a bunch of their experiments [MASK]	0
 of  course that's there and this is here and so on. O_K?	0
 Um, for the training  corpus   - corpus, um, we have,	1
 um, the - the d-  digits	1
@@ -441,13 +441,13 @@ And do we do all our  training on  clean  data?	0
 Um, no, no, we're - we're gonna be, um, training on the noise files that we do have.	0
 Also, we can clean that.	0
 Yeah, so I guess the question is how long does it take to do a - a training? I mean, it's not totally	0
-crazy t- I mean, these are - a lot of these are built-in things  and  we know - [MASK]	0
+crazy t- I mean, these are - a lot of these are built-in things  and  we know - [MASK][MASK] you know, a lot of these things	0
 will just kind of happen, won't take uh a huge amount of development, it's just trying it out.	0
 So, we actually can do quite a few experiments.	0
 But how - how long does it take, do we think, for one of these	0
 What about combinations of things?	0
 Oh yeah, that's right. I mean, cuz, so, for instance, I think [MASK] - Yeah, good point.	0
-[MASK] I see, th- that we've	0
+[MASK] I see, th- that we've seen in [MASK]	0
 Now, this is turning into a four-dimensional cube?	0
 Or you just add it to the features.	0
 Well, you just select multiple things on the one dimension.	0
@@ -597,7 +597,7 @@ n- it was a difficult work last week	1
 with the  labels   because the - the program with the  label   obtained that I have, the Albayzin, is different w- to the  label   to train the neural network.	1
 And   that is another work that we must to do, to - to  change .	1
 I - I didn't understand.	0
-Uh, [MASK] w	0
+Uh, [MASK] was  [MASK]	0
 It's not hand - it's not  labels   by hand.  Labels.   I'm sorry, I'm sorry. The  labels.  I'm sorry.	0
 Oh, "l-  labeled ". I'm sorry, I have a p- I had a problem with  the pronunciation.	0
 Yeah, O_K. So, O_K, so let's start over. So, TI- TIMI- TIMIT's hand-labeled, and - and you're saying about the Spanish?	0
@@ -607,7 +607,7 @@ It's - it's - Yeah.	0
 So you're just having a problem converting the labels.	0
 Yeah, but n- yes, because [MASK]	0
 I don't know what. I ask - e- even I ask to Dan Ellis what I can do that, and h- they - he say me that h- he does- doesn't any - any s- any form to - to do that.	0
-And at the end, [MASK]   format,	0
+And at the end, [MASK]   format, and [MASK]	0
 And I m- do another, uh, one program to put	0
 ASCII   format of H_T_K to ase- ay- ac-  ASCII   format to	0
 Exceed  and they used LabCut to -  to  pass .	0
@@ -674,17 +674,17 @@ Yeah, so basically, uh, Chuck will be the one who will be sorting out what disk 
 Which, I mean, n- these days, uh,	0
 if you're talking about scratch space, it doesn't increase the, uh, need for backup,	0
 and, uh, I think it's not that big a d- and the - the disks themselves are not that expensive. Right now it's -	0
-What you can do, when you're on that machine, is, uh, just go to [MASK]	0
+What you can do, when you're on that machine, is, uh, just go to [MASK] and [MASK] and it'll tell you if there's space available.	0
 Uh, and if there is then, uh -	0
 But wasn't it, uh - I think Dave was saying that he preferred that people didn't	0
 [MASK]	0
 Well, there's different - there, um, there's - Right.	0
-So [MASK]	0
+So [MASK] and [MASK]	0
 And both of those two kinds are not backed up.	0
 [MASK] it means it's probably an internal disk to the machine.	0
 And so that's the kind of thing where, like if -	0
 O_K, [MASK] but you have a - a - a Unix workstation,	0
-and they attach an external disk,  [MASK]	0
+and they attach an external disk,  [MASK] and [MASK]	0
 And if [MASK]	0
 But the problem is, if you ever get a new machine, they take your machine away. It's easy to unhook the external disks, put them back on the new machine, but [MASK]	0
 So, you don't wanna put anything in slash-scratch that you wanna keep around for a long period of time.	0
@@ -822,7 +822,7 @@ From each language to the superset, yeah. Mmm.	0
 it's an effort by linguists to come up with, um,	0
 [MASK] um, sort of thing, right?	0
 And, um, they - they have a web site that Stephane was showing us that has, um -	0
-has all [MASK] and then, um, they have Spanish, they have German, they have all - all sorts of languages, um, mapping -	0
+has all [MASK] and then, um, they have Spanish, they have German, they have all - all sorts of languages, um, mapping - [MASK] which -	0
 Yeah, the tr- the transcription, though, for Albayzin is n- [MASK]	0
 [MASK]	0
 I was gonna say, [MASK]	0

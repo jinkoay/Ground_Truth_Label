@@ -16,7 +16,7 @@ exchanging a couple of files, once we  have   them.	0
 And, um, it's not going to be a problem  because  we decided to stick to [MASK]	0
 approach. So I'm - I'm - I'm going backwards now, so	0
 [MASK] is where you sort of make this - uh, make these sounds,	0
-and [MASK] is feeding int	1
+and [MASK] is feeding into [MASK] giving it what needs to be said,	1
 and [MASK] so it can pronounce things better,	1
 presumably.  Then, just with text to speech.	1
 And, uh, Johno learned how to write	0
@@ -54,7 +54,7 @@ Right now it's brittle and you need to ch-	1
 start it up and then make ts- twenty changes on - on - on -	1
 on seventeen modules before they actually can stomach it,  anything.	1
 And send in a - a - a couple of side queries on some dummy center set-up program so that it actually	0
-works because it's designed for [MASK] where you hav	1
+works because it's designed for [MASK] where you have [MASK]	1
 running with this s- Siemens virtual touch screen, which we don't  have  here.	1
 And so we're doing it via mouse, but the whole system was designed to work with this thing and it was - It was a lot of	0
 No science in there whatsoever, but it's working now, and um,	1
@@ -81,9 +81,9 @@ It's eee  messy but once you understand it you understand it. It's - it's - Ther
 And I remember one thing that - that came up in the talk last Wednesday.	0
 this, I - I think he talked about the idea of like, um - He was talking about these lexicalized	0
 O_K, you know how to do it?	0
-uh, uh, [MASK] where you sort of - for each word you, um - F	0
+uh, uh, [MASK] where you sort of - for each word you, um - For [MASK]	0
 [MASK] says what all the uh trees are that it can appear in. And	0
-That's the  opposite  of [MASK] That's, you know, that's -	0
+That's the  opposite  of [MASK] That's, you know, that's - [MASK] or whatever. You know?	0
 Right. Now, we're - we're not	0
 to  do  any  of those things. So uh we  are  committed for our  funding.	1
 Make our stuff fit to that.	0
@@ -121,6 +121,7 @@ And, I don- I don't want you f-	0
 that you have to somehow meet all these  other  constraints.	0
 Um. And  similarly  with the  parsing,	0
 we're gonna worry about  parsing	0
+you know, [MASK] for  [MASK]	0
 And, if we need a cut-down version for something, or whatever, we'll worry about that  later.	0
 So I'd like to, for the summer turn into science mode.	1
 And I assume that's also, uh, your plan as  well.	0
@@ -221,6 +222,7 @@ all  have to work  out.	0
 Is - is that right?	0
 I mean that's - that's both you guys' understanding of where we are? O_K.	0
 So, I guess, um - Is there like a latest version of the	0
+[MASK] - of [MASK]	0
 We had um decided -	0
 Well, no, we didn't decide. We  wanted  to look into maybe	0
 getting it, the visualization, a bit clearer, but I think	0
@@ -331,7 +333,7 @@ And - and information  on  objects, in German, English, and Japanese. And there 
 Well, if yo- if you're  interested  in that,	0
 so how - how, I mean it does sort of go d- all the way down to the conceptual level to some extent. So.	0
 So, where is this huge project?	0
-It's [MASK] It's the uh	1
+It's [MASK] It's the uh [MASK]	1
 Well, that may be another thing that Keith wants to look at.	0
 But um, I - I think we should leave Japanese constructions maybe outside of the scope for - for now, but um	0
 definitely it's interesting to look at - at	0

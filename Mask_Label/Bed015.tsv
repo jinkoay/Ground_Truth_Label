@@ -3,7 +3,7 @@ Hello? Hello? Which am I?	0
 Are you doing something? O_K, then I guess  I'm  doing something. So, um,	0
 So basically the result of m- much thinking since the last time we met, um, but not as much writing, um, is a sheet that I have a lot of, like, thoughts and justification of comments on but I'll just pass out as is right now. So, um,	1
 here.  If you could pass this around?	0
-And there's two things. And so one on one side is - on one side is a sort of [MASK] And the other side is, um, sort	1
+And there's two things. And so one on one side is - on one side is a sort of [MASK] And the other side is, um, sort of [MASK] It's just one sheet.	1
 This is just one sheet, right?	0
 Ah! Just one sheet. O_K.	0
 It's just a - Nothing else. Um,	0
@@ -38,7 +38,7 @@ and then some  type  specification, is that it's -	0
 it's pro- it's often -  sometimes  the case in the first case here that you know what kind of construction it is. So for example	0
 whatever I have here is gonna be a form of the word "throw", or it's gonna be a form of the word,	0
 you know, I don't know, " happy ", or something like that. Or, you know, some- it'll be a specific word	0
-or maybe you'll have the  type.  You'll say "I need [MASK] here" or "I	0
+or maybe you'll have the  type.  You'll say "I need [MASK] here" or "I need [MASK] here".	0
 So-  uh  you could have a j- a actual type here.	0
 Um, or you could just say in the second case that you only know the meaning type. So a very common example of this is	1
 that, you know, in directed motion, the first person to do something should be an  agent  of some kind, often a  human.  Right? So if I -	0
@@ -53,7 +53,7 @@ about what meaning - what  specific  meaning you want.	0
 So the example again at the  bottom,  which is directed motion,	0
 you might need [MASK] to take the place of, you know, um,	0
 "the big th-", you- you know, "the big - the tall dark man", you know, "walked into the room". But	0
-because of the nature of this  particular  construction you know  not  just that [MASK] but in particular, that it's some kind	0
+because of the nature of this  particular  construction you know  not  just that [MASK] but in particular, that it's some kind of [MASK]	0
 and  which will apply just as well to like, you know, a per- you know, a simple proper noun or to some complicated expression.	0
 so I don't know if the syntax will hold but  something  that gives you a way to do  both  [MASK] So.	0
 O_K, then I don't think the,  um -	0
@@ -63,7 +63,7 @@ sort of available elements  and  scope,	0
 right? which here are the constructs,	0
 to say something about the relation.	0
 And I  think  i- if you not- if you compare like the top block and the textual block,	0
-um, we dropped like [MASK]	0
+um, we dropped like [MASK] [MASK] refer to the "form" piece of the construct.	0
 And I think that, um, in general it'll be unambiguous. Like if you were giving a formal constraint then you're referring to [MASK] So - so by saying -	0
 if I just said "Name  one " then that  means  name one  formal  and we're talking about formal struc-  Which - which makes sense. Uh, there are certain times when we'll have an  exception  to that, in which case you could just indicate	0
 "here I mean the meaningful for some reason".	0
@@ -124,7 +124,7 @@ to talk about there also being a designated  object  and we think that that'll b
 of the phrase, "the r- the -", um, "big red ball", and the  entity  denoted by the word "ball" is sort of [MASK] in some ways of - of this sort of, um,	0
 A- a- and the - Yeah. And there's - uh there's ca- some cases where the grammar depends on [MASK]  And - and this enables you to  get  that, if I  understand  you right.	0
 Yeah. That's the idea. Yeah.	0
-And, uh, you might be able to say things like if the head has to go  last  in [MASK] you can refer to the  head  as a p- the, you know -	0
+And, uh, you might be able to say things like if the head has to go  last  in [MASK] you can refer to the  head  as a p- the, you know - [MASK] as opposed to the  rest  of the form	0
 having to be at the end of that  decision . So that's a useful thing so that you can get some internal structural constraints in.	0
 O_K, so that all looks good. Let me -	0
 Oh, w- Oh. I don't know. Were you finished?	0
@@ -144,7 +144,7 @@ it was often used to give an extra meaning const-  type  constraint on the meani
 I - I don't know if we'll ever have a case where we actually h- if there  is  [MASK] you could imagine having a triple there that says, you know - that's kind of weird.	0
 No, no, no, I don't think so. I think that you'll - you'll do  fine.  In  fact,	0
 as long as - as Mark isn't around, these  are  [MASK] So [MASK] is - uh, the  fact  that it's  animate,	0
-is semantic. The fact that it's n- uh, [MASK] I would say on most people's notion of - of f- you know,	0
+is semantic. The fact that it's n- uh, [MASK] I would say on most people's notion of - of f- you know, [MASK] this i- this  is  one. And I think that's just fine.	0
 It's - that now, um, I'm mentioned this, I - I don't know if I ever explained this but the point of, um,	0
 I mentioned in the  last  meeting,	0
 the point of having something called [MASK] is, um,	0
@@ -343,7 +343,7 @@ Uh, you know, they - they have [MASK]	0
 right? So you can like nest things when you need to,	1
 but they can also overlap in a sort of flatter way.	1
 So if you don't have like a lot of grammar experience, then like this - this might, you know, be a little o- opaque. But, you know, we have the	1
-properties of [MASK] and some properties of constituents -	1
+properties of [MASK] and some properties of constituents - [MASK] So that's - I think that's sort of the main thing we wanted to aim for and so far it's worked out O_K. So.	1
 I can say two things about the f-	0
 Maybe you want to forget stress.	1
 No, as - as - Just don't - don't think about it. If -	0
@@ -360,7 +360,7 @@ It's complicated. And all -	0
 Yeah, I mean, I - I'm sort of inclined to say let's worry about specifying	0
 the information structure  focus  of the sentence and then,	0
 Mm-hmm. Ways that you can get it come from th- right.	0
-hhh,  [MASK] can handle actually assigning	0
+hhh,  [MASK] can handle actually assigning [MASK] to that. You know, I mean, later on we'll worry about exactly how -	0
 Or - or map  from  the contour to - to what the focus  exponent  is.	0
 Exactly. But figure out how the -	0
 But, uh, if you don't know what you're - what you're focus is then you're - you're  hopeless-uh-ly   lost anyways,	0
@@ -396,7 +396,7 @@ S- s- the  question  is, do we have a way on the  other  page, uh, when we get t
 Well, so that's why I was saying how - since I couldn't think of an  easy  like  limited  way of doing it, um, all I can say is that information structure has a focused slot and I think that should be able to refer to -	1
 So that's down at the bottom here when we get over there. O_K.	0
 Yeah, and, infer - and I don't have - I don't have a great way or great examples but I think that - something like that is probably gonna be, uh, more - more what we have to do. But, um, O_K, that was one comment. And you had another one?	0
-Yeah, well the - once you know what the focus is the - everything else is background. How about [MASK] that's the other side of informat	1
+Yeah, well the - once you know what the focus is the - everything else is background. How about [MASK] that's the other side of information. [MASK]	1
 Yeah, so that was the other thing. And so I didn't realize it before. It's like, "oh!" It was an epiphany that it - you know, topic and focus are a  contrast  set. So topic is -	0
 Topic-focused  seems to me like, um, background profile, O_K, or [MASK] or some- something like that. There's - there's definitely, um,	0
 that kind of thing going on. Now I don't know whether -	0
@@ -454,7 +454,7 @@ Right, "this guy I know from school came for dinner" does  not  mean, um, "there
 Yeah, it's a little bit - it's a little bit different. Right? So -  Or maybe that's like a restrictive, non-restrictive - you know, it's like it gets into that kind of thing for -	0
 um, but maybe I'm mixing, you know - this is kind of like the final result after parsing the  sentence.  So you might imagine that	0
 the information you pass to, you know - in  identifying  [MASK] would be, "oh, some -" you know, "it's a guy and it's someone I know from school". So maybe that would,	0
-you know, be some intermediate structure that you would pass into the disc- to the, whatever, [MASK] or whatever,	0
+you know, be some intermediate structure that you would pass into the disc- to the, whatever, [MASK] or whatever, [MASK] to find - you know, either create this reference, in which case it'd be created here, and -	0
 you know, so - so you could imagine that this might not -  So, uh, I'm  uncommitted  to a couple of these things. Um.	0
 But - to make it m- precise at least in  my  mind, uh, it's not precise. So "house" is gender neuter?	0
 Um, it could be in -	0
@@ -474,12 +474,12 @@ But in actual fact, I  think  that they're intended to be sort of  neutral  with
 in a way that's either static or dynamic. So "path", you could just be talking about the path between this and this. And you know, "container" that you can go in and out. All of these things. And so, um,	0
 I think this came up when, uh, Ben and I were working with the Spaniards, um, the other day - the "Spaniettes", as we  called them - um,	0
 to decide like how you want to split up, like, s- [MASK] How do you link them up. And I think again, um,	1
-it's gonna be something in [MASK] that tells you "is this static or is this dynamic". So we definitely need - that sort	1
+it's gonna be something in [MASK] that tells you "is this static or is this dynamic". So we definitely need - that sort of [MASK] gives you some of that. Um,	1
 that, you know, is it, uh, a state or is it a change of state, or is it a, um, action of some kind? Uh. Yeah.	0
 Uh, i- i- i- is there any meaning to when you  have  sort of parameters behind it and when you  don't?  Just means -	0
 Oh, oh! You mean, in the  slot?	0
-Um, no, it's like X_sc- it's - it's like I was thinking of  type  constraints but [MASK] well it obviously has to b	0
-"Agent", I mean, the - the  performer  of [MASK] that s- depends	0
+Um, no, it's like X_sc- it's - it's like I was thinking of  type  constraints but [MASK] well it obviously has to be [MASK]	0
+"Agent", I mean, the - the  performer  of [MASK] that s- depends on [MASK] . You know, and I - in general it would probably be, you know -	0
 So the difference is basically whether you thought it was obvious what the possible fillers were.	0
 Um, "aspectual type" probably isn't obvious but I should have - So, I just neglected to stick something in. "Perspective", "actor", "undergoer", "observer", um,	0
 I think we've often used "agent", "patient", obser- Yeah, exactly.  Exactly. Um, and so one nice thing that, uh,	0
@@ -559,7 +559,7 @@ You know, "In France it's like  this ". You know, great, we've learned something
 some implicit contrast, like "In  France  it's like  this ". And therefore you're supposed to say, "Boy, life  sure  -" You know, "in France kids are allowed to drink at age  three ". And w- you're - that's not just a fact about France. You also conclude something about how boring it is here in the U_ S.  Right? And so -	0
 S- so I would prefer not to worry about that for right now and to think that there  are,  um,	0
 That comes in and, uh -	0
-[MASK] in a sense, topic -	0
+[MASK] in a sense, topic - [MASK] that would say, "oh, when you focus something"	0
 then - just  done  the same way - just actually in the same way as the lower level. If you stressed, you know, " John  went to the -", you know, "the bar" whatever, you're focusing that and	1
 a- in- a possible inference is "in contrast to other things". So similarly for a whole sentence, you know, "in  France  such-and-such happens".	1
 So the whole thing is sort of like again  implicitly  as opposed to other things that are possible.	0
@@ -589,7 +589,7 @@ In fact, that's kind of constraining how - in some ways you know this  before  y
 I mean, how else would you	0
 You know, uh, uh, it's -  the speaker may - in English is allowed to say "I." Uh, among the twenty-five percent most used words. But wouldn't the " I " then set up [MASK] -	0
 that happens to be the  speaker  this time and not "they," whoever they are. Or "you" - much like the "you" could n-	0
-S- so - O_K, so I would say ref- under [MASK] should be something that corresponds to "I". And mayb	0
+S- so - O_K, so I would say ref- under [MASK] should be something that corresponds to "I". And maybe [MASK] should probably have a list of way- whatever, the way it was referred to.	0
 So  that's  "I" but, uh, uh, should we say it - it  refers  to,  what?  Uh, if it were " Harry " it would refer to like [MASK] If it were - if it's " I "  it would  refer to the current speaker,	0
 O_K, which is given to be like, you know, whoever it is.	0
 Well, not - not  always.  I mean, so there's "and then he said, I w-" Uh-huh.	0
@@ -629,7 +629,7 @@ if you have a verb of saying then,	0
 where - O_K, so a situation like "Bob said he was going to the movies", where that lower subject is the same as the person who was saying or  thinking,  you're actually required to have "I" there.	1
 Um, and it's sort of in an extended function -	0
 Mm-hmm. So we would have it be in  quotes  in English.	0
-But it's not perceived as [MASK] I mean, it's been analyzed by the formalists as being	1
+But it's not perceived as [MASK] I mean, it's been analyzed by the formalists as being [MASK]	1
 um which means a pronoun which refers back to the person who is speaking or that sort of thing, right? Um,	1
 Oh, right. Yeah, that makes sense.	0
 but - uh, that  happens  to sound like the word for "I" but is actually semantically unrelated to it.	0
@@ -637,14 +637,14 @@ Oh, good, I love the formali-	0
 There's a whole  book  which basically operates on this assumption. Uh, Mary Dalrymple, uh, this book, a ninety-three book on, uh	0
 Well, yeah. And then the same thing for [MASK] where, you know, you're signing and someone says something. And then, you know, so "he say", and then you sort of do a role shift. And then you sign "I, this, that, and the other". And you know, "I did this".	0
 That's  also  been analyzed as [MASK] and having nothing to do with "I". And the role shift thing is completely left out and so on. So,	0
-I mean, the point is that [MASK] uh, you know, sort of ties in with	1
+I mean, the point is that [MASK] uh, you know, sort of ties in with all [MASK] and so on, and so forth. And so, yeah, I mean -	1
 So that - that d- that does sound like it's co- consistent with what we're saying, yeah.	0
 O_K, so it's kind of like the  unspecified  [MASK] just are occurring in context. And then when you  embed  them sometimes you have to pop up to the h- you know, depending on the construction or the whatever,	1
 um, you - you - you're scope is - m- might extend out to the - the base one.	1
 It would be nice to actually use the same, um, mechanism since there are so many cases where you actually need it'll be one or the other. It's like, oh, actually, it's the same - same operation. So.	0
 Oh, O_K, so this - this is worth some thought.	0
 It's like - it's like what's happening - that, yeah, what- what's happening, uh, there is that you're moving the base space or something like that, right? So that's - that's how Fauconnier would talk about it. And it happens diff- under different circumstances in different languages. And so,	1
-um, things like [MASK] and  tense  which we're thinking of as being these discourse-y things actually are relative t	0
+um, things like [MASK] and  tense  which we're thinking of as being these discourse-y things actually are relative to [MASK] which can  change.  And we need all the same machinery.	0
 Well,  but, uh, this is very good actually cuz it - it - it - to the extent that it works, it y-	0
 Ties it all into it.  Yeah.	0
 it - it ties together several of - of  these   things.	0
@@ -786,7 +786,7 @@ W- what - Yeah, sure, tell us what it is.	0
 [MASK] that, um, has been  pointed  to but hasn't been, um, made  precise  by any means, um,	1
 may w- may work as follows. I thought that we would, uh -	1
 that the following thing would be in-  incredibly  nice and I have  no  clue whether it will work at all or nothing. So that's just a tangent, a couple of mental disclaimers here. Um, imagine you - you write [MASK] um -	1
-[MASK]  um,  completely  from scratch  every  time you	1
+[MASK]  um,  completely  from scratch  every  time you [MASK] So you have  nothing.	1
 Just a white piece of paper.	0
 You  consult   - [MASK] which will tell you a bunch of stuff, and parts, and properties, uh-uh-uh	1
 Grout out the things that - that you need.	1
@@ -794,7 +794,7 @@ then y- you'd simply write, uh, these into - onto your - your white piece of pap
 you will get a lot of notes and stuff out of there. You won't get -	1
 you won't  really  get [MASK]  therefore we need everything that -	1
 that  configures  to what the situation is, I_E, [MASK] So you get whatever comes from discourse	1
-but also  filtered.  Uh, so only [MASK] from the discourse plus the situat	1
+but also  filtered.  Uh, so only [MASK] from the discourse plus the situation and [MASK]	1
 And that fills in [MASK] with which you can then query, um, the - the net that you just wrote	1
 and find out [MASK]	1
 U_. And [MASK] works exactly like that, that once you -	1
@@ -802,10 +802,11 @@ we  have,  you know, precise format in which to  write  it, so we write it  down
 And the - the  nice  thing about this idea is that you don't ever have to sit down and  think  about it or  write  about it.	0
 You may have some general  rules  as to [MASK] as what, so that will allow you	1
 to craft the - the - the initial notes. But it's - in  that  respect it's completely scalable.	1
-Because it doesn't  have  any prior, um,  configuration.  It's just you need [MASK] and you	0
+Because it doesn't  have  any prior, um,  configuration.  It's just you need [MASK] and you need [MASK]	0
 modules.  And if  this  can be made to work	0
 at  all,   that'd be kind of  funky.	0
 Um, it sounds to me like you want [MASK]	0
+[MASK]- uh, [MASK] I mean, since you can [MASK] -	0
 Beca- because it - b- because -	0
 No, no, you  can't.  See the - the  critical  thing about [MASK] is it gives these relations in general form. So once you have  instantiated	1
 [MASK] with the  instances  and ther- then you can - then you can unfold it.	1

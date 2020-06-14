@@ -4,13 +4,13 @@ There's two sheets of paper in front of us.	0
 This is the arm wrestling?	0
 Uh. Yeah, we formed a coalition actually. We already  made it  into  one.	0
 So, tell me about it.	0
-So it's - well, it's  [MASK]	0
+So it's - well, it's  [MASK] or [MASK]	0
 depending on if we put - if we [MASK] or not.	0
 And then with [MASK]	0
-depending on the, uh - [MASK] with	0
+depending on the, uh - [MASK] with [MASK]	0
 [MASK] It's very simple, smoothing things.	0
 And, um,  the best result is	0
-when we apply this procedure on [MASK] uh,	0
+when we apply this procedure on [MASK] uh, [MASK]	0
 And there is no [MASK] after - after that.	0
 it's difficult when we have to add noise to - to - to find the right level.	0
 Are you looking at one in - in particular of these two?	0
@@ -41,11 +41,11 @@ Hynek and Guenter's and my opinion also that,	1
 you know, we sort of spread out to look at a number of different ways of doing [MASK]	1
 But given the limited time,	1
 uh, it was sort of time to  choose one.	1
-th- [MASK] hadn't really worked out that much. Uh,	1
+th- [MASK] hadn't really worked out that much. Uh, [MASK] uh, had not been worked with so much.	1
 Um, so it sort of came down to [MASK]	1
 Uh, we had a long discussion about how they were the same and how they were d- uh, completely different.	1
 And, uh, I mean, fundamentally they're the same sort of thing but the math is a little different so that there's a - a -	0
-there's [MASK] - you know, what'	0
+there's [MASK] - you know, what's [MASK] and depending on how you	0
 And, uh, I guess it's sort - you know, after - after that meeting it sort of made more sense to me because	0
 um, if you're dealing with [MASK]	0
 then how are you gonna choose your error? And typically you'll do - choose something like a variance.	0
@@ -56,7 +56,7 @@ of - you know, conceptually of - of, uh, a factor of two in the exponent.	0
 But  there're so many different little factors that you adjust in terms of - of, uh,	0
 uh, [MASK] and - and - and - and - and so forth, um, that	0
 arguably, you're c- and - and - and the choice of do you -	0
-do you operate on [MASK] or do you operate	0
+do you operate on [MASK] or do you operate on [MASK] beforehand.	0
 There're so many other choices to make that are - are almost -	0
 well, if not  independent,  certainly in  addition  to  the choice of whether you, uh, do [MASK]	0
 again we sort of felt	1
@@ -85,7 +85,7 @@ w- which we sort of were before but we were considerably far behind. And the thi
 So it - so, um, it's - it- it's not using our full bal- bag of tricks, if you will.	1
 And, uh, and it - it is, uh, very close in performance to the best thing that was there before.	1
 Uh, but, you know, looking at it another way, maybe more importantly, uh,	1
-we  didn't  have [MASK] uh,	1
+we  didn't  have [MASK] uh, [MASK] with - e- e- [MASK]	1
 So will the  neural net operate on	0
 [MASK]	0
 Well, so - so - so argu-  arguably,  I mean, what we should do - I mean, I gather you have -	1
@@ -101,7 +101,7 @@ of - of, uh, what things will be attacked.	1
 But I would - I would - I would thought- think that what we would wanna do is not futz with this stuff for a while	0
 because what'll happen is we'll change many other things in the system,	0
 and then we'll probably wanna come back to this and possibly make some other choices. But, um.	0
-But just conceptually, where does [MASK] go? Do - do you wanna h- run it	0
+But just conceptually, where does [MASK] go? Do - do you wanna h- run it on [MASK] - ?	0
 Well, depending on its  size  - Well, one question is, is it on the, um, server side or is it on the terminal side?	0
 Uh, if it's on the  server  side, it - you probably don't have to worry too much about size.	0
 So that's kind of an argument for  that.	0
@@ -115,7 +115,7 @@ uh, that - that have some of the noise removed.	0
 Um, after that we still do a mess of other things to - to produce a bunch of features.	0
 And then those features are not now currently transformed	0
 And then the - the way that we had it in our proposal-two before, we had [MASK]  and  we had	0
-[MASK] which I guess you - you actually	0
+[MASK] which I guess you - you actually did [MASK] but - but - but - uh, [MASK] - but -	0
 but they were not, uh, processed through [MASK] And Stephane's idea with that, as I recall, was that	0
 you'd have one part of [MASK] that was very discriminant and another part that  wasn't,	0
 uh, which would smooth things a bit for those occasions when, uh, the testing set was quite different than what you'd trained [MASK] for.	0
@@ -123,7 +123,7 @@ So, um, all of that is - is, uh - still seems like a good idea.	0
 The thing is now we know some other constraints. We can't have unlimited amounts of latency.	1
 Uh, y- you know, that's still being debated by the - by people in Europe but,	1
 uh, no matter  how  they end up there, it's not going to be  unlimited  amounts, so we have to be a little conscious of that.	1
-So there's [MASK] There'	1
+So there's [MASK] There's [MASK]	1
 And, uh, there's [MASK]	1
 And I think those that we - last time we agreed that those are the three things that have to get, uh, focused on.	0
 What was the issue with [MASK]	1
@@ -165,7 +165,7 @@ Um, so we have eleven,	0
 frames. And - for [MASK] yeah - and we take th- the third.	0
 Oh, this is for [MASK]	0
 So -  Yeah, I was just noticing on this that it makes reference to delay. So what's the - ? If you ignore -	0
-Um, [MASK] is sort of in - in  parallel,  isn't i- isn't it, with - with the - ? I mean, it isn't  additive  with the -	0
+Um, [MASK] is sort of in - in  parallel,  isn't i- isn't it, with - with the - ? I mean, it isn't  additive  with the - [MASK] and so forth. Right?	0
 Yeah. So - so what happened right now, we removed [MASK]	0
 So we - I mean, if - so if we - if - so which is like	1
 if we reduce the delay of V_A- So, the f- the final delay's now ba- is f- determined by [MASK]	1
@@ -203,11 +203,11 @@ The earlier system was [MASK] on the -	0
 Which could be a kind of a funny delta. Right?	0
 Oh, oh. So that's fixed in this. Yeah, we talked about that.	0
 So we have no  delta.  And then - So [MASK] is the  last  thing that we do.	1
-So, yeah, what we do is we [MASK]	0
+So, yeah, what we do is we [MASK] [MASK] and then in the end you c- up- [MASK] to	0
 [MASK] of -	0
 It seems to be helping on [MASK] So that's why this improvement	0
 I got from the last result.	0
-So. And it actually r- [MASK]	0
+So. And it actually r- [MASK] so [MASK] it's	0
 b- b- better because [MASK] than -	0
 I mean, you were doing a lot of changes. Did you happen to notice how much,	1
 uh, the change was due to just [MASK]  What about this?	1
@@ -239,8 +239,8 @@ Yeah. Right now we are -	0
 before  they get to the server.	0
 Uh, ri- Right now what - wha- what we did is, like, we just mark - we just have this additional bit which goes around the features,	0
 saying it's currently a - it's a speech or a nonspeech.	0
-So there is [MASK] like, including	0
-And after [MASK] you just pick u	0
+So there is [MASK] like, including [MASK]	0
+And after [MASK] you just pick up [MASK] and then drop them.	0
 So it would be more or less the same thing with [MASK] I guess, actually.	0
 So. Yeah, that's what - that's what - that's what, uh, this is doing right now.	0
 That's - that's a good set of work that - that, uh -	1
@@ -272,7 +272,7 @@ Mm-hmm. For [MASK] Yeah. We can try something.	0
 And then see how much better it gets.	0
 If it's, you know, essentially not better, then  it's probably not worth	0
 Yeah. But the  Guenter's   argument is slightly different. It's, like, ev- even - even if I use [MASK] I'm just averaging the -	0
-But the  Guenter's   argument is, like, if it is [MASK] then he doesn't u	0
+But the  Guenter's   argument is, like, if it is [MASK] then he doesn't update [MASK]	0
 So he's, like - he tries to capture only [MASK] in it. So the averaging is, like,	0
 different from  [MASK]	0
 So, th- the  Guenter   was arguing that, I mean, even if you have [MASK] averaging it, like, over the  whole  thing is not a good idea.	0
@@ -301,9 +301,10 @@ will you train the net on -  after  you've done [MASK]	0
 This is a different net.	0
 So we have [MASK] which is like neur- that's [MASK]	0
 Oh, you're talking about [MASK] O_K. I see.	0
-So that -  that  [MASK] was trained	0
+So that -  that  [MASK] was trained on [MASK]	0
 So, right now we have, like,	0
 uh - we have [MASK] so we can have a better	0
+[MASK] by [MASK]	0
 Yeah, but we need [MASK] also. So it's, like,	0
 where do we want to put [MASK]	0
 Can you use the same net to do both, or - ?	0
@@ -312,7 +313,7 @@ Uh, it actually comes at v- at the very end.	0
 So the net - the final net - I mean, which is [MASK] -	0
 so that actually comes after a chain of, like, [MASK] plus  everything.  So it's, like, it takes a long time to get a decision out of it. And -	0
 and you can actually do it for  [MASK] but	0
-not for [MASK]- f-	0
+not for [MASK]- f-  [MASK]	0
 You see, the idea is that the, um,	0
 initial  decision to - that - that you're in silence or speech happens pretty quickly.	0
 Oh, O_K. Cuz that's used by some of these other - ? Oh, O_K.	0
@@ -326,7 +327,7 @@ And it seems important for, like, [MASK]	0
 We don't want to update the mean and variance during silen- long silence portions.	0
 So it - it has to be done before	0
 this mean and variance normalization.	0
-Yeah. So probably [MASK] and - and maybe testing ou	0
+Yeah. So probably [MASK] and - and maybe testing out [MASK] a little bit.	0
 I mean, keeping the same  method  but - but, uh,	0
 seeing if you cou-  but, um  [MASK] could be improved.	0
 Those are sort of related issues.	0
@@ -353,7 +354,7 @@ we don't have too much trouble recognizing synthetic speech since we create it i
 Yeah. So, um, a better way would be something more - more data-driven, just looking at the data and seeing what's similar and what's not similar.	0
 So, I'm - I'm, um, taking a look at some of, um,	0
 [MASK] She did something where, um -	0
-w- where [MASK] learn- She clustered the -	0
+w- where [MASK] learn- She clustered the - [MASK] in - in m- averaged over many, many contexts.	0
 And, uh, some things tended to cluster.	0
 Right? You know, like stop - [MASK]	0
 Um, silence was by its own self. And, uh, um,  v- [MASK] And,	0

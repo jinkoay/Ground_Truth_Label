@@ -54,13 +54,13 @@ all the possible  outputs,   too.	0
 for example, the, uh, [MASK]	0
 and  not-going-there  and [MASK]	0
 because the output is always gonna be	0
-[MASK] and all the - the - a-	0
+[MASK] and all the - the - a- [MASK] for all the values.	0
 And then we would just look at [MASK] that we wanna look at in terms of if - if we're only asking about one of the -	0
 So like, if I'm just interested in [MASK]	0
 I would just pull that [MASK]	0
 that gets return- that would - [MASK] would output?	0
 I think it's a little bit more complex.	0
-As, if I understand it correctly, it  always  gives you  all  [MASK] for	1
+As, if I understand it correctly, it  always  gives you  all  [MASK] for  all  [MASK]	1
 we always get the, uh, [MASK] for all of these. Right?	0
 So there is no way of telling it t-	0
 not  to tell us about [MASK]	0
@@ -140,7 +140,7 @@ Yeah, so basically take these three things and then put  them   into [MASK]	0
 But, why - why - why only those  three?  Why not the whol-	0
 Well, I mean, d- For [MASK]	0
 So we'd have a node for [MASK]	0
-Yeah. But we believe that [MASK] are - can be relevant	0
+Yeah. But we believe that [MASK] are - can be relevant for [MASK]	0
 and [MASK]	0
 Is food not allowed in here?	0
 You can come in if you want.	0
@@ -173,7 +173,7 @@ Assume we have  something  coming in. A person says, "Where is X_?", and we get 
 An- an- and - and our - and our -	0
 Did you just sti- Did you just stick the m- the - the - the  microphone  actually in the  tea?	0
 I'm not drinking tea. What are you talking about?	0
-let's just assume [MASK] just h	0
+let's just assume [MASK] just has  [MASK] for the time being.	0
 These three, he wants to know something  about  it, he wants to know  where  it  is,  he wants to go there.	0
 In terms of, these would be wha- how we would answer [MASK] right?	0
 This is - i- That's what you s- it  seemed  like, explained it to me earlier w-	0
@@ -181,7 +181,7 @@ We - we're - we wanna know how to answer the question "Where is X_?"	0
 No, I can - I can do the Timing node in here,  too,  and say "O_K."	0
 Well, yeah, but in the s- uh, let's just deal with the s- the  simple  case of we're not worrying about timing or anything.	0
 We just want to know how we should answer "Where is X_?"	0
-[MASK] has two values, right?,	0
+[MASK] has two values, right?, [MASK]  Let's assume those are [MASK] of  that.	0
 [MASK] has True or False and Location. So, he wants to know something about it, and he wants to know something - he wants to know Where-it-is,	0
 Oh,  I  see why we can't do that.	0
 And, um, in  this  case we would probably all agree that	0
@@ -204,7 +204,7 @@ that I was as- er- wondering or maybe Robert was proposing to me	0
 How do we d- make the decision on - as to - which one to listen to?	0
 Yeah, so, the final d- decision is the combination of these three. So again, it's - it's some kind of, uh -	0
 O_K so, then, the question i- So then my question is t- to you then, would be -	0
-So is the only r- reason we can  make  [MASK] because we know we can only deal with	0
+So is the only r- reason we can  make  [MASK] because we know we can only deal with [MASK]	0
 Cuz oth- If we're just taking arbitrary language in, we couldn't have a node for every possible question, you know?	0
 [MASK] you mean?	0
 Well, I - like, in the case of - Yeah.	0
@@ -225,7 +225,7 @@ So, he wants to know  something about it, and what it does.	0
 Uh, regardless of - of - of the input. Wh- Regardle-	0
 But how does the expert - but how does the expert system	0
 know - how- who- which one to declare the winner, if it doesn't know the question it is, and how that question should be answered?	0
-Based on the k- what the  question   was,  so what [MASK] the situat	0
+Based on the k- what the  question   was,  so what [MASK] the situation and [MASK] gave us, we came up with these values for these decisions.	0
 Yeah I know. But how do we weight what we get out?	1
 As, which one i- Which ones are important?	1
 So my i- So, if we were to it with [MASK] we'd have to have a node -	1
@@ -236,7 +236,7 @@ Well, no. I - I guess my question is,	0
 Is the reason that we can make a node f- or - O_K. So, lemme	0
 see if I'm confused. Are we going to make a node for every question? Does that make sense? - Or not.	1
 For every question? Like -	0
-I don't - Not  necessarily,  I would think. I mean, it's not based on constructions, it's based on things like, uh, there's gonna be [MASK] or not, and there's gonna b	1
+I don't - Not  necessarily,  I would think. I mean, it's not based on constructions, it's based on things like, uh, there's gonna be [MASK] or not, and there's gonna be [MASK]	1
 So, someone asked a question.	0
 Face yourself with this pr- question. You get this -	0
 You'll have - y- This is what you get.	0
@@ -307,7 +307,7 @@ There was  a  confusion there, k- I didn't intend to say every possible thing sh
 is not necessarily relevant in [MASK]  until after you've decided whether you wanna  go  there or not.	0
 Show us the way, Bhaskara.	0
 I guess the other thing is that um, yeah. I mean, when you're asked a specific question and you don't even -	0
-Like, if you're asked [MASK] you may not even look - like,  ask	1
+Like, if you're asked [MASK] you may not even look - like,  ask  for [MASK] right?	1
 Cuz, that's what - I mean, in the Bayes-net you always ask for [MASK] So, I mean,	1
 you may not even bother to compute things you don't need.	1
 Aren't we  always  computing  all?	0
@@ -387,7 +387,7 @@ It's a pretty nice place,	0
 in my brief, uh, encounter with it.	0
 Do you guys - Oh, yeah. So.  Part  of what we actually  want  to do is sort of schedule out what we want to  surprise  him with when - when he comes  back.	0
 Oh, I think we should disappoint him.	0
-Yeah? You - or have [MASK]	0
+Yeah? You - or have [MASK] and [MASK] and uh -	0
 I think w- we should do absolutely no work	0
 for the two weeks that he's gone.	0
 Well, that's actually what  I  had planned,  personally.  I had - I - I had sort of scheduled out in my mind that  you  guys do a  lot  of work, and  I  do  nothing.	0
@@ -423,7 +423,7 @@ nine months or so. Yeah.	0
 The first bad version'll be done in nine months.	0
 Yeah, I can worry about the ontology interface and you can - Keith can worry about the discourse. I mean, this is pretty - Um, I mean, I - I - I hope everybody uh  knows  that	1
 these are just going to be uh  dummy  values, right?	0
-S- so - so if the  endpoint  - if [MASK]  is Yes and No, th	0
+S- so - so if the  endpoint  - if [MASK]  is Yes and No, then [MASK]  will just be fifty-fifty.	0
 Um, what do you mean?  If  [MASK] says No, then [MASK] is -	0
 Like, [MASK] depends on all those four things.	0
 But, what are [MASK]	0

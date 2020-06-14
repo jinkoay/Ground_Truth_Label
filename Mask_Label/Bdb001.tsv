@@ -47,6 +47,7 @@ and then [MASK]  And then,	1
 I also wanted to - to be i- to be able to not specify specifically what the time was and just have a stamp.	1
 Yeah, so these are arbitrary, assigned by a program, not - not by a user. So you have a whole bunch of those.	1
 And then somewhere la- further down you might have something like [MASK]	1
+equals [MASK] end equals [MASK]	1
 So what  that's  saying is, we know it starts at this particular time. We don't  know  when it  ends.	1
 Right? But it ends at this [MASK] which may be somewhere else. We say there's another utterance.	0
 We don't know what the t-  time  actually is but we know that it's the same time as this end time.	0
@@ -78,7 +79,7 @@ And you'd be able to propagate all of the -	0
 Right. That's, the who- that's  why  you do that  extra  level of indirection.	0
 So that you can just change the  time-line.	0
 Except the  time-line  is gonna be  huge.  If you say - suppose you have [MASK] You'd have - you'd have -	1
-Yeah, yeah, especially at the  [MASK]  The - we - we hav	0
+Yeah, yeah, especially at the  [MASK]  The - we - we have [MASK]	0
 Yeah, this - I don't think I would do this for phone-level.	0
 I think for phone-level you want to use some sort of binary representation because it'll be too dense otherwise.	0
 O_K. So, if you were doing that and you had this sort of companion, uh, thing that gets called up for phone-level, uh, what would that look like? How would you - ?	0
@@ -94,8 +95,8 @@ Um, cuz th- it does get very bush- with -	0
 Um, I'm just - what I'm wondering is whether - I think for  [MASK]  this would be O_K.	1
 For  lower  than word-level, you're talking about  so  much data that I just -  I  don't know. I don't know if that -	1
 I mean, we actually have - So, one thing that Don is doing, is we're - we're running -	0
-For every frame, you get [MASK] and not only	0
-Yeah, I mean, for something like that I would use [MASK] or -	1
+For every frame, you get [MASK] and not only [MASK] but different kinds of [MASK] depending on -	0
+Yeah, I mean, for something like that I would use [MASK] or - or [MASK] I would use [MASK]	1
 Uh, that's a - well, or something like it. It's ICS- uh, ICSI has a format for [MASK]	1
 O_K. That you could call - that you would tie into this representation with like an I_D.	1
 Right. Or - or there's a - there's a particular way in X_M_L to refer to external resources.	1
@@ -127,14 +128,14 @@ So I think it - it's debatable whether you want to do phone-level in the same th
 is too verbose. I would use something  tighter  than [MASK]	1
 Do you - Are you familiar with it? I haven't seen this particular format, but -	0
 I mean, I've - I've  used  them. I don't know what their structure is. I've forgot what the str-	0
-But, wait a minute, P_file for each frame is storing __JARGON__a vector of cepstral__JARGON__	1
+But, wait a minute, P_file for each frame is storing --Jargon--a vector of cepstral--Jargon-- or --Jargon--P_L_P values,--Jargon-- right?	1
 It's whatever you want, actually. So that - what's nice about the P_file - It - i-	1
 Built into it is the concept of  frames, utterances, sentences, that sort of thing, that structure.	1
 And then also  attached  to it is an arbitrary vector of values.	1
 And it can take different types. So it - th- they don't all have to be floats. You know, you can have integers and you can have doubles, and all that sort of stuff.	0
 So that - that sounds - that sounds about what I w-	0
 Right? And it has a header - it has a header format that  describes it  to some extent. So,	0
-the only  problem  with it is it's actually storing the  [MASK]	0
+the only  problem  with it is it's actually storing the  [MASK] and [MASK] in the file,	0
 even though they're always sequential.  And so it does waste a lot of space.	0
 But it's still a  lot  tighter than - than ASCII.  And  we have a lot of tools already to deal with it.	1
 You do? O_K. Is there some documentation on this somewhere? O_K, great. So,	0
@@ -151,7 +152,7 @@ Yeah, so there is something like that but it's, um, probably not as sophist-	0
 And I think there's -	0
 Well, what does [MASK]  do for features? Or does it even  have  a concept of features?	0
 They ha- it has its own -	0
-I mean, [MASK] has their own feature format that's called, like, S_-	0
+I mean, [MASK] has their own feature format that's called, like, S_- [MASK] or some so- [MASK] or something like that.	0
 I'm just wondering, would it be worth while to use that  instead?	0
 Yeah. Th- this is exactly the kind of decision - It's just whatever -	0
 But, I mean, people don't typically  share   this  kind of stuff, right? I mean -	0
@@ -261,6 +262,7 @@ and then from the  recognition  side we have	0
 [MASK] If - if it can handle  that,  it could handle states or whatever.	0
 And then [MASK]  we have	0
 frame - sort of like [MASK]	0
+[MASK] uh, like [MASK] or anything like that. And that's sort of the world of things that I -	0
 And then we have the aligned channels, of course, and -	0
 It seems to me you want to keep the frame-level stuff separate.	1
 Yeah. I - I definitely agree and I wanted to find actually a f- a nicer format or a - maybe a more compact format than what we used before. Just cuz you've got	0
@@ -434,7 +436,7 @@ looking at either [MASK]	0
 uh, an - a  value,  like a continuous value, like the slope of something. But	0
 you know, we'll do  something  where we -	0
 some kind of data reduction where the prosodic features are sort o- uh, either [MASK] or at the	0
-[MASK] or - or  something  like that. They're not gonna b	0
+[MASK] or - or  something  like that. They're not gonna be at [MASK]  and they're no- not gonna be at [MASK]  when we get done with	0
 sort of giving them simpler shapes and things.	0
 And so the main thing is just being able -	0
 Well, I guess, the  two  goals. Um, one that  Chuck  mentioned is	1
@@ -482,7 +484,7 @@ you know, have arbitrarily long f-	0
 Most of the tools can handle that. So that	0
 we didn't do it at the A_P_I-level. We did it at the t- tool-level. That - that - most - many of them can s- you can specify several P_files and they'll just be done sequentially.	0
 So, I guess, yeah, if - if you and Don can - if you can show him the P_file stuff and see. So this would be like for [MASK]	0
-I mean, if you do [MASK]	0
+I mean, if you do [MASK] or [MASK] you'll see a lot.	0
 I've  used  the P_file, I think. I've  looked  at it at least, briefly, I think when we were doing	0
 What does the P_ stand for anyway?	0
 I  didn't de- I didn't develop it. You know, it was - I  think  it was Dave Johnson.	0
@@ -615,7 +617,7 @@ one version in terms of the words - where the words are concerned.	0
 We'd still have the - the merging issue maybe if coding were done independently of the -	0
 And you're gonna  get  that because if the data gets out, people will do all kinds of things to it.	0
 And, uh, s- you know, several years from now you might want to look into, um,	0
-[MASK] And someone at the university of who knows where has ann	0
+[MASK] And someone at the university of who knows where has annotated [MASK]	0
 So you want to get that annotation and bring it back in line with your data.	0
 But unfortunately they've also hand-edited it.	0
 But they've also - Exactly. And so that's exactly what we should - somehow when you distribute the data, say that - you know,	0

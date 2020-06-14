@@ -9,7 +9,7 @@ So, uh, yeah - the suggestion was to	0
 have these guys start to -	0
 Why don't you go ahead, Dave?	1
 O_K.  Um,  so, yeah, the - this past week I've been main- mainly occupied with, um,	1
-getting some results, u- from [MASK] trained	1
+getting some results, u- from [MASK] trained on [MASK] for [MASK] And, um,	1
 I ran some tests  last  night. But, um,	1
 the results are suspicious. Um, it's, um,  cuz they're -	1
 the baseline results are worse	1
@@ -285,7 +285,7 @@ Um, but I'll just -	0
 Um, so the last week, uh, I	1
 showed some results with only [MASK] which was like some fifty-six percent.	1
 And, uh, I didn't h- I mean, I - I found that the results - I mean, I wasn't getting that	1
-r- results on [MASK] So I was like looking into "why, what is wrong with	1
+r- results on [MASK] So I was like looking into "why, what is wrong with [MASK] Why - why I was not getting it. And I found that, the	1
 noise  estimation   is a reason for	1
 [MASK] to perform worse than the baseline.	1
 So, uh, I actually, picked th-	0
@@ -315,7 +315,7 @@ Uh, and in that twenty percent  @@  it's very inconsistent across different nois
 a forty-five  percent for "Car noise" and then there's a minus five percent for the "Babble",	0
 and there's this thirty-three for [MASK]	0
 And so  it's - it's not - it's not actually very consistent across. So.	0
-The only correlation between [MASK] and this performance is the c- stationarity of the noise that is there in these condition	0
+The only correlation between [MASK] and this performance is the c- stationarity of the noise that is there in these conditions and [MASK]	0
 so the overall result is like in the last page, which is like forty-seven, which is still	0
 very imbalanced because there are like fifty-six percent on [MASK] and thirty-five percent on [MASK]	0
 uh, ps- the fifty-six percent is like comparable to what [MASK] gets, but the thirty-five percent is way off.	0
@@ -419,7 +419,7 @@ why we have the  problems  in this [MASK]	1
 That means [MASK] we trained, they are - they are based on Gaussians,	1
 and on modeling Gaussians.  And if you -	0
 Can I move a little bit with this? Yeah.	0
-And if we introduce now this - this u- [MASK]	1
+And if we introduce now this - this u- [MASK] or  [MASK] stuff -  So,	1
 usually what you have is maybe, um -	0
 maybe  you'll  - f-  for this  time.	0
 So usually you have - maybe in clean condition you have something	0
@@ -501,7 +501,7 @@ And then the final [MASK] that they - that they get, that - to the - to that the
 Yeah, but again, that's just [MASK] as opposed to	0
 Yeah. So it's not the mel. You know, it's not [MASK] bank output.	0
 [MASK] Yeah.	0
-These are  [MASK] computed from the time s- domain signal, not fr	0
+These are  [MASK] computed from the time s- domain signal, not from [MASK]	0
 Maybe it's just a way to decrease the importance of	0
 this particular parameter in the - in the  world  feature vector cu-	0
 if you add noise to one of the parameters, you widen the distributions and -	0
@@ -660,7 +660,7 @@ the neural network on -	0
 with embedded training. So re-estimation of the alignment using the neural network, I guess.	0
 Yeah. We actually trained, uh, the -	0
 on the Italian training part. We - we had another	0
-So it was a f- f- [MASK]	0
+So it was a f- f- [MASK] for [MASK]	0
 For [MASK] that it was trained on, it was different. Like, for [MASK] you used	0
 a - a previous system that you had, I guess.	0
 No it - Yeah, yeah. That's true.	0
@@ -710,7 +710,7 @@ For [MASK]	0
 uh, [MASK] included in the - our system,	0
 [MASK] are the right one, but not	0
 for the other system because I didn't test it yet -	0
-this system, including - with [MASK]	0
+this system, including - with [MASK] on [MASK]	0
 I just tested it on [MASK]	0
 Ah! So - so that means the only thing -	0
 Mm-hmm.  So - so - so  these   numbers are simply - Yeah. O_K.	0
@@ -826,7 +826,7 @@ and, if you say I'm - I'm - with my envelope I'm close to this noise estimate,	0
 then you have a bad [MASK] and then you - you would like to have a stronger smoothing.	0
 So you could - you could	0
 base it on your estimation of the signal-to-noise ratio on your actual -	0
-Yeah, or some [MASK] fr	0
+Yeah, or some [MASK] from [MASK] if you have -	0
 Um, yeah, but I don't trust  [MASK] So.	0
 Yeah, uh, so not - not right now maybe.	0
 [MASK] later will be  much  better. Yeah. So.	0

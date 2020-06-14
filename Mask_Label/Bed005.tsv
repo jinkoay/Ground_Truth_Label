@@ -96,7 +96,7 @@ uh, "today evening", uh i-	0
 O_K.  Key  words, e- basically.	0
 Ge- elaborate, or, more or less,  uh -	0
 Actually, it's a  little  tricky,	0
-[MASK] which aren'	0
+[MASK] which aren't [MASK] and so forth. And it  is  [MASK] So it - it -	0
 Oh.  So it - it doe- I- it - These -	0
 u- these optional elements, it's - it's actually a  set,  not a  sequence?	0
 Yeah. We were - I was afraid that, um -	0
@@ -151,7 +151,7 @@ Um, let's hope that the generation will not be more difficult, even though the g
 that means we may need two hours and twenty minutes rather than an hour ten minutes,	0
 And the next thing I would  like  to be able to do, and it seems like this would not be too difficult  either,  is	1
 to say, "O_K let's now pretend we  actually   wanted to not only change the -	1
-[MASK] but we also wanted to change - add a new sentence type and and make up some -	1
+[MASK] but we also wanted to change - add a new sentence type and and make up some - [MASK]	1
 That'd be  great.  It would be a good exercise to just see	0
 whether one can get that to  run.	0
 So, that's - Fine, yeah.	0
@@ -189,7 +189,7 @@ uh, that - that s- seemed to step - state variables somewhere, like the n- s- [M
 O_K. So that's going to be a call on the discourse and  confirm that it's -	0
 Oh, you mean that's not going to actually  modify  the tree, but it's going to  change  the event.  Oh.   Oh.	0
 I think that's right. I think it's actually - That  looks  like it's state modification.	0
-There is a feature called __JARGON__"Discourse-Status",__JARGON__	0
+There is a feature called --Jargon--"Discourse-Status",--Jargon--	0
 And so whenever I just say, "Write",	0
 it will - it will put this in here.	0
 Oh, so it always just - Is it - So it -	0
@@ -264,14 +264,14 @@ e- So that you understand, it is  really  simple. Uh - You - you have a  route, 
 every  element  of that e- r- r- f- of that -	1
 Every  segment  we call [MASK]	1
 And so, from A_ to B_ we cut up in three different steps,	1
-and every step has [MASK] where you  start,	1
+and every step has [MASK] where you  start,  [MASK] where y- where  you sort of  end,  and some points of interest along the way.	1
 What w- I was sort of missing here, and uh, maybe it was just me being too stupid, is,  I didn't sort of get the - the notion of the global goal	0
 of the whole route. Really, s- was not straightforward visibly for me.	0
 And some  other  stuff. And I	1
 suggested that they should n- be - k- uh, kind enough to do s-  two  things for us, is one, um,	1
 Also allocating, uh, some tags for our [MASK]	1
 um, since  you  had suggested that -	0
-that, um, we figure out if we ever, for a  demo  reason, wanted to shortcut directly to [MASK]	0
+that, um, we figure out if we ever, for a  demo  reason, wanted to shortcut directly to [MASK] and [MASK]	0
 of how we can do it.	0
 Now, what's the state of the art of getting to  entrances,  um, what's the syntax for that, how get- getting to   vista  points and calculating those on the spot.	0
 And [MASK] anyhow, is the default.	1
@@ -585,7 +585,7 @@ and use it to build [MASK]	0
 So, if [MASK] won't do it  for  you,	1
 that you can convert all that into what [MASK] would be.	0
 Um - and, what  I  sent out about a week ago, was an idea of how to  do  that,	0
-um, [MASK] So one of - one function that you  could  use as you	0
+um, [MASK] So one of - one function that you  could  use as your [MASK] is an e- e- [MASK] So you just take  the -	0
 uh, if each of th- if each of the ones has its own	0
 little table like that,  then you could take the,	0
 uh, strength of each of those, times its little table, and you'd add up [MASK]	0
@@ -643,6 +643,7 @@ There are a couple other ones. There are ways of breaking this up into s- to - t
 I think we definitely - I think it's a great idea tha- to - to pursue that.	1
 Wha- still sort of leaves one question.	0
 It - I mean you - you can always uh - see easily that - that I'm not grasping  everything  correctly, but  what seemed attractive to  me  in im- uh in the last discussion we had, was	0
+that we find out --Jargon--a means of -	0
 of getting these point four, point five, point one,	0
 not  because, you know, A_ is a Landmark or not, but we - we - we label this whatever object type,	0
 and if it's a garden,	0
@@ -659,7 +660,7 @@ that, it's one that is a monument,	0
 then, that would be stored  there.	0
 If you  don't,  you look up the hierarchy,	0
 Eh - so, you - you - you may or - So, then you'd have this little vector of,	1
-um, you know,  [MASK] Let's - O_K, so we hav	1
+um, you know,  [MASK] Let's - O_K, so we have  [MASK]  If you know it for a  specific  landmark you put it there.	1
 If you  don't,  you just go up the hierarchy to the first place you find one.	1
 So, is the idea to put it in [MASK]	0
 Uh, or, link to - or - but - but in any case - i- View it logically as being in the ontology. It's part of what you  know  about -	1
@@ -708,10 +709,10 @@ And, so, since the d- decision was on  types,  on a d- simply type-based,	1
 we now have to hook it up to  instances.	1
 But what i- What  is    [MASK]  gonna do about that?	0
 Cuz, they have instances  all  the  time.	0
-Yeah, but [MASK] is really n	0
+Yeah, but [MASK] is really not [MASK]	0
 in - in and of itself. That's more something that	0
-in - in [MASK] So it's a completely	0
-Uh - uh -  [MASK]  g	0
+in - in [MASK] So it's a completely [MASK]	0
+Uh - uh -  [MASK]  gonna  need  [MASK]	0
 Yes, u- a w- a lot of people are aware of that.	0
 I  understand,   but is anybody  doing  anything about it?	0
 O_K. It's  a  political problem. We won't worry about it.	0
@@ -759,7 +760,7 @@ Well, no, but - I mean - What I  uh the  -	0
 So you could have four different [MASK] that you're running, and then run your own - write your own function that would take the output of those four,	0
 and make your own [MASK] is what I was saying.	0
 Yeah, that's  fine  if it's - if it comes only at the  end.  But suppose you want it  embedded?	0
-Well, then you'd have to break all of [MASK] int	0
+Well, then you'd have to break all of [MASK] into [MASK] with all the -	0
 Oh,  that  - Yeah, that's a  truly  horrible way to do d- it. One would  hope  -	0
 Yeah, but I'm just -	0
 Yeah, yeah, yeah, yeah, yeah,  you bet .	0
@@ -767,11 +768,11 @@ But, at  that  point you may say, "hey, [MASK] isn't the only package in town. L
 another  package that's, eh, more  civilized  about this."	0
 is worth talking to on this,	0
 said that  he  actually  did	0
-hack [MASK] int	0
+hack [MASK] into [MASK]	0
 But he doesn't remember - at least when I talked to him, he didn't remember	0
 whether it was an e- an  easy  thing, a  natural  thing, or whether he had to do some violence to it to make it work.	0
 Uh. But he  did   do  it.	0
-I don't see why the, uh, [MASK] have to be directly hacked int	1
+I don't see why the, uh, [MASK] have to be directly hacked into [MASK] I mean, they're used to create tables so we can just make our own little functions that create tables in X_M_L.	1
 Well, I say that's  one  way to  do  it, is - is to just  convert  it	0
 int- into a - into [MASK]  that  you zip  -	0
 It's  blown  up, and is a - it's, uh - it's  huge,  but -	0
@@ -783,7 +784,7 @@ I- I understand. I'm just saying tha- that w-	0
 That was wi- that was my note.	0
 The little note I sent said that.	0
 It said, "Here's the way you'd take	0
-[MASK] and turn it int	0
+[MASK] and turn it into [MASK]	0
 I mean that - [MASK]	0
 So we could do that. And maybe that's what we'll  do.	0
 So, I will, e-  e-  before  next week, uh,  @@	0

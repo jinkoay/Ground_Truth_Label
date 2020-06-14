@@ -51,7 +51,7 @@ so anyway, I just -  reporting  that. But, uh, uh -	0
 So. Yeah, why don't we do the speech-nonspeech discussion?	0
 Do - I - I hear - you - you didn't -	0
 Um, so, uh, what we basically did so far was using the mixed file to - to detect s- speech or nonspeech  portions in that.	1
-what I did so far is I just used our old [MASK] which	1
+what I did so far is I just used our old [MASK] which is [MASK] with Gaussian mixtures for s- speech and nonspeech.	1
 And it  was  a system which used only one Gaussian for silence and one Gaussian for speech. And now I added, uh, multi-mixture possibility for -	1
 for speech and nonspeech. And I did some	1
 training on - on one dialogue, which was transcribed	1

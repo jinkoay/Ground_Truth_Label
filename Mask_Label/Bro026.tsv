@@ -102,7 +102,7 @@ it's on the transfer function.	0
 Oh, it's on the transfer function for [MASK]	0
 Yeah, so basically we tried	0
 different configuration within this idea.	0
-We tried u- u- applying this on [MASK] having	0
+We tried u- u- applying this on [MASK] having [MASK] instead of [MASK] Um.	0
 Well, finally we end up with  this configuration that works, uh, quite well. So we are going to fix this for the moment and work on the other aspects of  the whole system. So -	1
 Actually, let me int- eh,	0
 Dave isn't here to talk about it, but let me just interject.	0
@@ -119,7 +119,7 @@ i- in some of the work  he's  doing in [MASK] one of the things that we're findi
 is that, uh, it's - it's - for the -	0
 we can just deal with [MASK] and his techniques work really  well.	0
 But for the  real  situation	0
-uh, problem is, is that you don't just have [MASK] you hav	0
+uh, problem is, is that you don't just have [MASK] you have [MASK] in noise. And if you don't include that in the model, it doesn't work very well.	0
 So in fact it might be a very nice thing to do, to just take the noise	0
 removal part of it and put that in front of what he's looking at.	0
 And, uh, generate new files or whatever,	0
@@ -242,7 +242,7 @@ that in - in  both  cases,	0
 some kind of normalization is done	0
 to deal with convola- [MASK]	0
 Uh, they have some [MASK] right?	0
-In  our  case we have a  couple  things. We have [MASK] and then we hav	1
+In  our  case we have a  couple  things. We have [MASK] and then we have [MASK]	1
 they seem to comple- complement each other enough and be different enough that they both seem to help - help us.	0
 But in  any  event, they're both doing the same sort of thing. But there's one difference.	1
 [MASK]	1
@@ -531,7 +531,7 @@ from - from TIMIT, right?	1
 the most common [MASK] And each one of them has - has a - a nice pattern over time, a one - one second window.	0
 And it has - has these patterns.	0
 Um, so she has, um	0
-[MASK] for each one	0
+[MASK] for each one of [MASK]	0
 um, times fifteen, for each of the fifteen critical bands.	0
 And, um,  she does this [MASK]	0
 which - which basically, um, is [MASK] that, uh, starts with many, many, many different points - many different clusters - uh, corresponding to the number of data, uh, patterns that you have in the data.	0
@@ -546,7 +546,7 @@ when the sol- similarity measures,	0
 um, don't go down as much.	0
 And so, uh - so you stop at that point.	0
 And what she found was, sh- um, was there were five broad,	0
-uh, corresponding to, uh, things like, uh, [MASK] and, uh,	0
+uh, corresponding to, uh, things like, uh, [MASK] and, uh, [MASK] um, and, uh, stops.	0
 And, uh, one for silence and - and another one for schwa - [MASK]	0
 um, I was thinking about ways to - to generalize this because w- you're - it's sort of like a -	1
 it's not a completely automatic way of clustering,	1
@@ -600,7 +600,7 @@ And it's something that you really think you can pick up. But	0
 I think it's also essential that you wanna look at what are the   confusions	0
 that you're making and how can you come up with, uh,  categories  that, uh, can  clarify  these  confusions.	0
 So, I mean, the  standard  sort of way of doing that is take a look at the algorithms you're looking at, but then throw in some discriminative aspect to it.	0
-Y- y- this is more like, you know, how does [MASK] differ fr	0
+Y- y- this is more like, you know, how does [MASK] differ from [MASK]	0
 I mean, they're the same sort of thing. They're both orthogonalizing. But,	0
 you know - and - and, um,	0
 this is a little  harder  because you're not just trying to find  parameters.  You're actually trying to find the - the - the - the categories  themselves.	0

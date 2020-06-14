@@ -3,7 +3,7 @@ Yeah, Barry's not here and Dave's not here. Um, I can say about -	1
 just q- just quickly to get through it, that Dave and I submitted this A_S_R_U.	1
 it's interesting. I mean, basically we're dealing with rever- [MASK]	1
 and, um, when we deal with [MASK] the technique he's using works really, really well.	1
-Uh, and when they had the reverberation  here,  uh, we'll measure the [MASK] and it's, uh, abou	0
+Uh, and when they had the reverberation  here,  uh, we'll measure the [MASK] and it's, uh, about nine [MASK]	0
 a fair amount of -	0
 You mean, from the actual, uh, recordings?	0
 And actually it brought up a question which may be relevant to the [MASK] stuff too.	1
@@ -193,7 +193,7 @@ presumably to handle some, um,	0
 inertia in the - in the production system, and,	0
 Um, I've been playing with, first, the, um, [MASK]	1
 Um,  so it's exactly the same approach, but	1
-the features that [MASK] use are, uh,	1
+the features that [MASK] use are, uh, [MASK] after noise compensation.	1
 Oh, I think I have the results.	0
 What was it using before?	0
 Yeah, it  was  actually - No. Not - I mean, it was just the noisy features I guess. Yeah, yeah, yeah,  not   compensated .	1
@@ -202,7 +202,7 @@ This is what we get after -	0
 This - So, actually, we,  yeah,   here  the features are noise compensated and there is also the [MASK]	0
 Um, and then it's a pretty small neural network which use,	0
 um,  nine frames of -	0
-of six features from __JARGON__ C_zero to C_fives, __JARGON__ plus the first derivatives.	0
+of six features from --Jargon-- C_zero to C_fives, --Jargon-- plus the first derivatives.	0
 And it has one hundred hidden units.	0
 Is that nine frames u- s- uh, centered around the current frame? Or -	0
 S- so, I'm - I'm sorry, there's - there's - there's how many - how many inputs?	0
@@ -266,7 +266,7 @@ um, delta and double-deltas, which is fifty milliseconds.	0
 Yeah. No, I mean, the - after the noise part, the forty - the - the other hundred and eighty -	0
 Wait a minute.  Some  of this is, uh - is, uh - is in  parallel,  isn't it? I mean, [MASK] -	0
 Oh, you have [MASK] as part of the V_D_- uh, V_A_D? Or -	0
-[MASK] use, uh,	0
+[MASK] use, uh, [MASK] also.	0
 So in that case there isn't too much  in  parallel.	0
 and [MASK]	0
 Um, so [MASK] at the  end  is how much?	0
@@ -431,7 +431,7 @@ on the full set of  combined  features?	0
 Instead of just on the -	0
 Yeah. I g- I  guess.  Um. The reason I did it this ways is that	0
 in February, it - we - we tested different things like that,	0
-so, having two [MASK] having ju	0
+so, having two [MASK] having just [MASK]	0
 or having [MASK]	0
 So you  tried  [MASK] before and it didn't really -	0
 Yeah. And, uh, th- Yeah. The differences between these configurations were not huge, but -	0
@@ -468,7 +468,7 @@ but they're pretty correlated with one  another.	0
 they're being fed into these, uh, variants, only Gaussians and so forth, and - and, uh,	0
 so maybe it would be	0
 a better idea now than it was before to, uh, have, uh, one [MASK] over everything,	0
-What are [MASK] in the training set,	0
+What are [MASK] in the training set, [MASK]	0
 Yeah. From zero to clean.	0
 So we found this - this, uh - this Macrophone data,	0
 and so forth, that we were using for these other experiments, to be pretty good. So that's - i- after you explore these other alternatives, that might be another way to start looking, is - is just improving the training set.	0
@@ -508,11 +508,11 @@ Oh, so - Right. So the training - the - the  neural net   is being trained with 
 but, uh, you're saying - Yeah, the noisier	0
 ones are  still  going to be,	0
 even after our noise compensation, are still gonna be pretty noisy.	0
-Yeah, so now [MASK] is seeing a different set	0
+Yeah, so now [MASK] is seeing a different set of [MASK] than that was originally there in the training set.	0
 Of [MASK] Because in [MASK] it was zero to some clean.	0
 So the net saw all [MASK]  @@	0
 conditions. Now after cleaning up it's a different set of [MASK]	0
-And [MASK] may not be, like, com- covering the whole set	0
+And [MASK] may not be, like, com- covering the whole set of [MASK] that you're getting in [MASK]	0
 Right, but [MASK] that you're seeing is  also  reduced in noise by the  noise  compensation.	0
 Yeah, yeah, yeah, yeah, it  is.  But, I'm saying, there could be some -	0
 Well, if the initial range of [MASK] is different, we - the problem was already there before. And -	0
@@ -558,7 +558,7 @@ It's clean training - Well, close microphone training and	0
 distant microphone, um, high speed, I think. Well -	0
 The most noisy cases are the distant microphone for testing.	0
 Well, maybe the noise subtraction is	0
-I mean, but without [MASK] it's - well, it's better. It's just when w	0
+I mean, but without [MASK] it's - well, it's better. It's just when we add [MASK] The feature are the same except that -	0
 Yeah, right. Uh, that's right, that's right. Um -	0
 Well that - that says that, you know, the, um -	0
 the models in - in, uh,	0
@@ -614,11 +614,11 @@ You know,  I've  been wondering about something. In the, um - a lot of the, um -
 the Hub-five systems, um, recently have been using [MASK]	1
 and - and they, um -	1
 They run [MASK] on the features right before they train the models.	1
-So there's the - [MASK] is - is right there b	0
+So there's the - [MASK] is - is right there before [MASK]	0
 So, you guys are using [MASK] but it seems like it's pretty far back in the process.	0
-Uh, [MASK] is different from [MASK] that you are talking abou	1
+Uh, [MASK] is different from [MASK] that you are talking about. [MASK] that you -	1
 saying is, like, you take a block of features, like nine frames or something,	1
-and then do [MASK] on it, and then redu	1
+and then do [MASK] on it, and then reduce [MASK] to something like twenty-four or something like that.	1
 And then feed it to H_M_M.	0
 Yeah, you c- you c- you  can.  I mean, it's - you know, you're just basically i-	0
 Yeah, so this is like a two d-	0
@@ -640,7 +640,7 @@ Yeah, I know. That - that - Yeah. Well, in the proposal, they were	1
 transformed u- using [MASK] but -	1
 Yeah, it might be [MASK]	1
 The a- the  argument  i- is kind of i- in - and it's not like we really  know,   but the  argument  anyway is that, um,	0
-uh, we  always  have the prob- I mean, discriminative things are good. [MASK]	0
+uh, we  always  have the prob- I mean, discriminative things are good. [MASK] [MASK] they're good.	0
 Uh, they're good because you - you - you learn to distinguish between these categories that you want to be good at distinguishing between.	0
 And [MASK] doesn't do that. It - P_A_C- P_C_A -	0
 [MASK] throws away pieces that are	0
@@ -688,7 +688,7 @@ one of the things that always disturbed me, uh, in the - [MASK] that happened in
 a lot of people - Because [MASK] were pretty easy to - to use -	0
 a lot of people were just using them for all sorts of things without,	0
 uh, looking at  all  into the linear, uh - uh,  versions  of them. And,	0
-uh, people were doing [MASK] but not looking	0
+uh, people were doing [MASK] but not looking at [MASK] and - You know, I mean, uh, so I think, yeah, it's definitely a good idea to try it.	0
 Yeah, and everybody's putting that on their   systems  now, and so, I- that's what made me wonder about	0
 Well, they've been putting them in their systems off and on for ten years, but - but - but, uh,	0
 Yeah, what I mean is it's - it's like in [MASK] you know, and you read the system descriptions and	0
@@ -707,7 +707,7 @@ I think you r- I mean, this is - it doesn't have the	0
 [MASK] aspect but th- as far as the	0
 orthogonalizing transformation, you were trying  that  at one point, right?	0
 Does  something.  It doesn't work as well.	0
-So, yeah, I've been exploring [MASK] withou	0
+So, yeah, I've been exploring [MASK] without [MASK] with, like,	0
 less latency using [MASK]	0
 um, after the cleaning up.	0
 So what I'd been trying was, um,	0
@@ -733,7 +733,7 @@ Yeah. So that delay, plus the L_D_A.	0
 Uh, so the delay is only the forty millisecond of the noise cleaning, plus the hundred millisecond smoothing at the output.	0
 So. Yeah. So the - the - di- the biggest -	0
 The problem f- for me was to find a consistent threshold that works  well across the different databases, because I t-	0
-I try to make it work on tr- [MASK] and it fails	0
+I try to make it work on tr- [MASK] and it fails on [MASK] or if I try to make it work on that it's just the Italian or something, it doesn't work on the Finnish.	0
 So there are - there was, like, some problem in balancing the deletions and insertions when I try different thresholds. So -	0
 I'm still trying to make it	0
 better by using some other features from the -	0
@@ -787,7 +787,7 @@ So you're saying, feed that,  also,  into	1
 the neural net. Yeah.  Yeah.	1
 You could feed it into the neural net. The  other  thing  you could do	1
 modify the, uh,  output  probabilities of the - of the, uh,	1
-um, [MASK]	1
+um, [MASK]  [MASK]  based on the fact that you have a  silence  probability.	1
 So you have [MASK] of what the silence probability is,	0
 and you could  multiply  the two things, and renormalize.	0
 Uh, I mean, you'd have to do the	0

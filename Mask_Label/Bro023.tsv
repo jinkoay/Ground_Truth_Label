@@ -54,10 +54,10 @@ but if you have shorter  utterances   you use what you  can.	1
 Right. And that's actually what we're planning to do in [MASK]	1
 But - s- so I g- So I guess the que- the question I was trying to get at with those experiments is,	0
 "does it matter what  models  you use? Does it matter how much time y- you use to calculate the mean when you were, um, tra- doing the  training  data?"	0
-But I mean the other thing is that that's - I mean, the other way of looking at this, going back to, uh, [MASK] versu	0
+But I mean the other thing is that that's - I mean, the other way of looking at this, going back to, uh, [MASK] versus [MASK] kind of things, is that you could look at	0
 [MASK] especially the way  you're  doing it, uh, as being a kind of filter.	0
 And so, the other thing is just to design a  filter.	0
-You know, basically you're - you're - you're doing a [MASK]	0
+You know, basically you're - you're - you're doing a [MASK] or [MASK] of some sort and - and just design a  filter.	0
 And then, you know, a filter will have a certain behavior and you loo- can look at the start up behavior	0
 when you start up with nothing. And - and, you know, it will, uh, if you have [MASK] for instance, it will, um,	0
 uh, not behave in the steady-state way that you would like it to behave until you get a long enough  period,  but, um,	0
@@ -132,14 +132,14 @@ So, I've been playing with the v-	0
 Improves over the base line [MASK] Yeah.	1
 Yeah. Yeah. Yeah. So, um -  So that's - The improvement is somewhere around, like, thirty percent over the baseline.	1
 Is that using - in  combination  with something else? With - with a -	1
-No, just - just one stage [MASK] which is a	1
-No, no, but I mean in combination with our [MASK] or with	0
+No, just - just one stage [MASK] which is a standard [MASK]	1
+No, no, but I mean in combination with our [MASK] or with [MASK] Oh, O_K.	0
 Yeah, yeah, yeah, yeah. So I just plug  in  [MASK]	0
 I mean, in the s- in our system, where - So, I di- i- di-	0
 So, does it g- does that mean it gets  worse?  Or - ?	0
 No. It actually improves over the baseline of  not  having [MASK] in the whole system.	0
-Like I have [MASK] f-	0
-and then I plug in [MASK] in that,  so it improves over not having	0
+Like I have [MASK] f- [MASK]	0
+and then I plug in [MASK] in that,  so it improves over not having [MASK]	0
 So it improves but it - it doesn't take it like be- beyond like thirty percent over the baseline.	0
 But that's what I'm confused about, cuz I think - I thought that our system was more like  forty  percent  without  [MASK]	0
 well,   these  are not -	0
@@ -152,7 +152,7 @@ Oh, O_K, O_K, O_K.  Errors, right,  I don't have. It's all accuracies.	0
 O_K, cuz then you can figure out the  percentages.	0
 The baseline is something similar to	0
 the t- the - the baseline that you are talking about is [MASK] right?	0
-The t- yeah, there are  two  baselines. O_K. So the baseline -  One  baseline is [MASK] that - When I said thirty percent improvement it's lik	0
+The t- yeah, there are  two  baselines. O_K. So the baseline -  One  baseline is [MASK] that - When I said thirty percent improvement it's like [MASK]	0
 So - so - so  what's it start on?  [MASK] is - is  what?  Is at what  level?	0
 it's just [MASK] and that's it.	0
 No, what's - what's the  number?	0
@@ -227,7 +227,7 @@ noisy speech rather the c- s- first -	0
 output of the first stage and that doesn't -	0
 seems to be a - giving, I mean, that much improvement. I - I didn- didn't run it for the whole case.	0
 and what I t- what I tried was, by using the  same  thing but - Uh, so we actually found that	0
-[MASK] is very, like, crucial. I mean, just by changing	0
+[MASK] is very, like, crucial. I mean, just by changing [MASK]  itself gives you the - a lot of improvement by instead of using	0
 [MASK] if you just take up [MASK] output from the channel zero,	0
 when -  instead of using channel zero and channel one,	0
 because that was the p- that was the reason why I was  not  getting a lot of improvement for estimating  the  noise.	0
@@ -284,13 +284,14 @@ And - and then you	0
 What you do is you, uh b-	0
 So again, I can write down some of these eq- Oh, O_K.	0
 And then you do this - uh, this is [MASK] of the	0
+[MASK] so [MASK]	0
 And "N_" is [MASK]	0
 And so this is [MASK]	0
 Right  actually, I guess -	0
-And then you multiply your [MASK] with this. You get an estimate	0
-but the thing is that you have to estimate [MASK] fr	0
+And then you multiply your [MASK] with this. You get an estimate of [MASK]	0
+but the thing is that you have to estimate [MASK] from [MASK] what you have.	0
 So you estimate [MASK] from the initial noise portions	0
-and then you subtract that from [MASK] to get an estimate	0
+and then you subtract that from [MASK] to get an estimate of [MASK]	0
 So sometimes that becomes zero because you do- you don't have a true estimate of the noise.	0
 So the f- filter will have like sometimes zeros	0
 in it because some frequency values will be zeroed out because of that.	0
@@ -339,7 +340,7 @@ So, that - that was just the, uh, reason for doing that experiment.	0
 Yeah, but this - all these things, I have to still try it on [MASK] which is like I'm just running. And there seems to be not improving a -	0
 a  lot  on [MASK] so I'm like investigating that,  why  it's not.	0
 So, uh - so the other - the  other  thing is - like I've been - I'm doing all this stuff on [MASK]	0
-Tried this stuff on [MASK] as well - mel and the magnitude,	0
+Tried this stuff on [MASK] as well - mel and the magnitude, and [MASK] and all those things. But it seems to be [MASK] seems to be getting the best result.	0
 So, one of - one of reasons I thought like doing the averaging, after the filtering using the mel filter bank, that seems to be maybe  helping  rather than trying it  on  [MASK] ba- filtered outputs.	0
 So just th- Yeah, th- that's - that's the only thing that I could think of why - why it's giving improvement on [MASK]	0
 And, yep. So that's it.	0
@@ -351,7 +352,7 @@ Do you wanna go, Stephane?	1
 Uh, yeah. So,  I've been, uh, working still on [MASK]	1
 So to r- to remind you   a little bit of - of what I did before, is just  to apply some [MASK] with an overestimation factor also to get,	1
 um, an estimate of the noise, uh, spectrum,	0
-and subtract this  estimation   of [MASK] from the, uh,	0
+and subtract this  estimation   of [MASK] from the, uh, [MASK]	0
 but subtracting  more  when [MASK] is - is, uh,  low,	0
 which is a technique that it's	0
 "Subtracting more", meaning - ?	0
@@ -361,7 +362,7 @@ it's  one,  so you just subtract the noise.	0
 Generally - Well, I use, actually, a linear, uh, function of [MASK]	0
 which is bounded to, like, two or three,	0
 when [MASK] is below zero D_B.	0
-Um, doing just this, uh, either on [MASK] or	1
+Um, doing just this, uh, either on [MASK] or on [MASK] um,	1
 t- doesn't yield any improvement	1
 Um, uh, what are you doing with negative, uh, powers?	0
 Yeah. So there is also a threshold, of course, because after subtraction you can have negative energies, and -	0
@@ -369,7 +370,7 @@ So what I - I just do is to put,	0
 uh - to - to  add  - to put the threshold first and then to add	0
 a small amount of noise,	0
 which right now is [MASK]	0
-Yeah, so it's - a- it has the overall - [MASK] uh - pow- it h	0
+Yeah, so it's - a- it has the overall - [MASK] uh - pow- it has [MASK]	0
 So with a bump around one kilohertz.	0
 So when y- when you talk about there being something less than  zero  after subtracting the noise, is that at a particular	0
 Yeah. There can be frequency bins with negative values.	0
@@ -482,7 +483,7 @@ Yeah, filtering. Yeah, it's not exactly [MASK] but some variant of [MASK]	0
 Yeah, plus, uh, I guess they have some sort of [MASK] as well.	0
 They have like - yeah, th- the - just [MASK] is a variant of [MASK] plus they do some -	0
 some smoothing techniques on the final filter. The - th- they actually do the filtering in the time domain.	0
-So they would take this [MASK] squared back, taking	0
+So they would take this [MASK] squared back, taking [MASK]	0
 And they convolve the time domain signal with that.	0
 And they do some smoothing on that final filter, impulse response.	0
 But they also have two - two different smoothing  @@ . One in the time domain and one in the frequency domain by just taking the first, um, coefficients of the impulse response.	0
@@ -499,7 +500,7 @@ I mean, it's not clear that these musical noises hurt us in recognition. We don'
 But we're not listening to it, usually.	0
 Uh, actually the - the smoothing that I did - do here reduced the musical noise. Well, it -	0
 Mm-hmm. Yeah, yeah,  the -	0
-Well, I cannot - you cannot hear beca- well, actually what I d- did not say is that this is not in [MASK] This	0
+Well, I cannot - you cannot hear beca- well, actually what I d- did not say is that this is not in [MASK] This is in [MASK]	0
 So, it could be seen as a f- a - a smoothing in the frequency domain because I used, in ad- mel bands in addition and then the other phase of smoothing in the time domain.	0
 But, when you look at [MASK] if you don't have an- any smoothing, you clearly see, like -	0
 in silence portions, and at the beginning and end of speech, you see spots of high energy randomly distributed over the - the spectrogram.	0
@@ -611,7 +612,7 @@ Um. But, so what's this result you told me about, the fact that if you use more 
 Well, that's - that's using the channel zero.	0
 If I use a channel zero VAD to estimate the noise.	0
 Oh, O_K. But this is ten frames plus - plus	0
-Uh, no, these results with two stage [MASK] is ten frames but possibly  more.  I mean, if channel	0
+Uh, no, these results with two stage [MASK] is ten frames but possibly  more.  I mean, if channel one [MASK] gives you - Yeah.	0
 O_K. Yeah, but in this experiment I did - I didn't use any [MASK] I just used the twenty first frame to estimate the noise. And -	0
 So I expected it to be a little bit better,  if, uh, I use more - more frames.	0
 O_K, that's it for [MASK] The second thing I was working on is to, um,	1
@@ -631,7 +632,7 @@ the minima are between the harmonics.	0
 And - If you have other - other kind of speech sounds then it's not the case, but if the time frame is long enough,	0
 uh, like s- five hundred milliseconds seems to be long enough,  you still have portions which, uh, are very close - whi- which minima are very close to the noise energy.	0
 I'm confused. You said five hundred milliseconds but you said sixty-four milliseconds. Which is which? What?	0
-Sixty-four milliseconds is to compute [MASK] uh, bins. The -	0
+Sixty-four milliseconds is to compute [MASK] uh, bins. The - [MASK]	0
 Um, actually it's better to use sixty-four milliseconds because, um, if you use thirty milliseconds, then, uh, because of the - this short windowing and at low pitch,	0
 uh, sounds,  the harmonics are not, wha- uh, correctly separated.	0
 So if you take these minima, it -	0
@@ -648,7 +649,7 @@ which is not the case if you rely on the voice activity detector. So even if the
 The only requirement is that you must have, in these five hundred milliseconds segment,  you must have  voiced  sound at least.	0
 Cuz this - these will help you to - to track the - the noise level.	0
 Um. So what I did is just to simply replace [MASK] uh, noise estimate by this estimate,	0
-first on [MASK] - Well,  only  on [MASK] actually. And it's, uh, slightly worse, like one percent relative compared t	0
+first on [MASK] - Well,  only  on [MASK] actually. And it's, uh, slightly worse, like one percent relative compared to [MASK]	0
 I think the reason why it's not better, is that the [MASK] noises are all stationary.	0
 y- y- there really is no need to have something that's adaptive and - Uh, well, they are mainly stationary. Um.	0
 But, I expect s- maybe some improvement on [MASK] because, nnn, in this case the noises are all sometimes very variable.	0
@@ -672,7 +673,7 @@ n- new noise estimate technique on this [MASK] what  I'm  trying.	0
 So I - I have, like, some experiments running, I don't have the results.	0
 So. I don't estimate the f- noise on the ten frames but use  his  estimate.	0
 Yeah. I, um, also implemented a sp- um -	0
-[MASK] idea which is in the, um,	0
+[MASK] idea which is in the, um, [MASK]	0
 Uh, the idea is just to	0
 um, and to flatten it more if the - the probability of silence is higher.	0
 So in this way, you can also reduce - somewhat reduce the musical noise and you reduce the variability if you have different noise shapes, because	0

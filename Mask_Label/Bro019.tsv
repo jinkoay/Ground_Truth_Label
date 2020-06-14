@@ -104,7 +104,7 @@ So "run command" doesn't use [MASK] or - ?	0
 i- It's meant to be run one job at a time?	0
 So you could fire off a  thousand  of those, and it doesn't know - any  one  of those doesn't know about the other ones that are running.	0
 So why would one use that rather than  P_make ?	0
-Well, if you have, um - Like, for example, uh if you didn't wanna write [MASK] and you just had a, uh -	0
+Well, if you have, um - Like, for example, uh if you didn't wanna write [MASK] and you just had a, uh - [MASK] training job that you know is gonna take uh, six hours to run,	0
 and somebody's using, uh, the machine you typically use, you can say "run command" and your [MASK] thing and it'll find another machine, the fastest currently available machine and - and run your job there.	0
 Now, does it have the same sort of behavior as [MASK] which is that, you know, if you run something on somebody's machine and they come in and hit a key then it -	0
 Yes. Yeah, there are um - Right. So some of the machines at the institute, um,	0
@@ -151,7 +151,7 @@ First I tried just [MASK] And then I found that uh,	0
 I mean, if - if I combine it with [MASK] it gives  @@  improvement over  theirs.	0
 Are y- are you saying L_D_A?	0
 just - just [MASK] I just plug in -	0
-I just take [MASK] coming from their system and then plug	0
+I just take [MASK] coming from their system and then plug in [MASK] on top of that.	0
 But [MASK] that I used was different from what we submitted in the proposal. What I did was	0
 I took [MASK] design using  clean  speech,	0
 uh, mainly because the speech is already cleaned up after the enhancement so, instead of using this,	0
@@ -245,7 +245,7 @@ remind us about the related experiments. Cuz you did some stuff that you talked 
 Um, where you were also combining something -  both  of you I guess were both combining something from the uh,	1
 [MASK] with  the u- uh - I - I don't know whether it was system one or system two, or - ?	1
 Mm-hmm. It was system one. So we -	0
-The main thing that we did is just to take [MASK] fr	1
+The main thing that we did is just to take [MASK] from [MASK] which provide us  some  speech samples that are uh, with noise removed.	1
 So I let me - let me just stop you there. So then, one distinction is that	0
 uh, you were taking the actual [MASK] features and then applying something to -	0
 Uh, no there is a slight different. Uh	0
@@ -256,7 +256,7 @@ But u- u- Sorry, yeah, I'm not being - I'm not being clear.	0
 What I meant was you had something like [MASK] or something, right?	0
 And so one difference is that, I guess you were taking  spectra.	0
 Yeah. But I guess it's the s- exactly the same thing because	0
-on the heads- uh, handset they just applied this [MASK] and then compu	0
+on the heads- uh, handset they just applied this [MASK] and then compute [MASK] right? or - ?	0
 Yeah, [MASK] f- The difference is like - There may be a slight difference in the way - because they use exactly the baseline system for converting the cepstrum once you have the speech.	0
 I mean, if we are using our own code for th-	0
 I mean that - that could be the only difference. I mean, there is no other difference. Yeah.	0
@@ -302,7 +302,7 @@ frame dropping in the baseline system,	0
 it will improve a lot H_M, and M_M,  so,	0
 um, I guess what will happen -	0
 I don't know what will happen. But, the different contribution, I think, for the different test set will be more even.	0
-Because the - your improvement on [MASK]	0
+Because the - your improvement on [MASK] and [MASK] will also go down significantly in the spreadsheet so. But the  the well-matched may still - I mean the well-matched may be the one which is least affected by adding the	0
 Yeah. So the - the M_M -	0
 M_M and H_M are going to be v- hugely affected by it. Yeah.	0
 But they d- the -  everything  I mean is like, but there	0
@@ -340,14 +340,14 @@ I - I - you know, I  guess  they're saying that if you were a company that was s
 that you would have a bunch of people driving around in a bunch of cars, and - and you would have something that was roughly similar and maybe that's the argument, but I'm not sure I buy it, so.	0
 What else is going on?	0
 You- Yeah. We are playing - we are also playing, trying to put other	1
-it would be a very simple [MASK] on the um,	1
+it would be a very simple [MASK] on the um, [MASK]	1
 which I already tested but without the um	0
 frame  dropping  actually, and I think it's important to have frame dropping	0
 Is it - is [MASK] typically done on the - after the mel, uh, scaling or is it done on [MASK] bins?	0
 if you use [MASK]	0
 Does it matter, or - ?	0
 I don't know. Well, it's both - both uh, cases can i-	0
-So- some of the proposal, uh, we're doing this on the bin - on [MASK] others on the um,	0
+So- some of the proposal, uh, we're doing this on the bin - on [MASK] others on the um, [MASK]  You can do both, but I cannot tell you what's -	0
 which one might be better or -	0
 I guess if you want to reconstruct the speech, it may be a good idea to do it on [MASK]	0
 But for speech recognition, it may not.	0
@@ -368,20 +368,20 @@ try to inspire me from	0
 this kind of thing and - Yeah.	0
 Well, the  other  thing would be to combine what you're  doing.  I mean maybe one or - one or the other of the things that you're doing would benefit from the other happening  first.	0
 Right, so he's doing [MASK] thing, maybe it would work better if you'd already done some simple [MASK] or maybe vi- maybe the other way around, you know?	0
-So  I 've been thinking about combining [MASK] with	0
+So  I 've been thinking about combining [MASK] with [MASK]	0
 I mean just to see all - some - some such permutation combination to see whether it really  helps  or not.	0
 How is it - I - I guess I'm ignorant about this, how does -	0
 I mean, since [MASK] also assumes that you're - that you're adding together the two signals,	0
 how is - how is that differ from [MASK]	0
 [MASK]	0
 [MASK] approach  has  actually an in-built [MASK] in it.	0
-Yeah. It is like [MASK] followed by	0
+Yeah. It is like [MASK] followed by [MASK]	0
 Is the signal is - is [MASK] .	0
 Oh, oh, O_K so the difference is [MASK]	0
 So, the - the different - the c- the - the advantage of combining two things is mainly coming from [MASK] approach doesn't	0
 work very well if [MASK] is very bad.	0
 it works very poorly with the poor [MASK] conditions, and in colored noise.	0
-So essentially you could do simple [MASK] followed by	0
+So essentially you could do simple [MASK] followed by [MASK] followed by a	0
 It's a - it's a cascade of two s-	0
 Yeah, in general, you don't - that's right you don't wanna othorg- orthogonalize if the things are noisy.	0
 Um, that was something that uh, Herve and I were talking about with um, [MASK] stuff, that if you're converting things to	0
@@ -413,6 +413,7 @@ uh, agree to maybe work with us,	1
 and they have implementation of [MASK] techniques	1
 [MASK] that are used to mmm,	1
 uh f- to model the transformation between clean	1
+[MASK] and [MASK]	1
 So. Well, if you take the standard model of channel plus noise,	0
 uh, it's - it's a nonlinear	0
 eh- uh, transformation in [MASK]	0
@@ -424,7 +425,7 @@ Uh w- working in [MASK] So there is one guy	0
 and another in  uh, Lucent that I met at I_CASSP.	0
 Who's the guy in Grenada?	0
 I don't know  him .	0
-This [MASK] has been proposed by	0
+This [MASK] has been proposed by [MASK] Is it - is it [MASK] Yeah, yeah, O_K. From C_.	0
 Yeah, yeah, yeah. Originally the idea was from [MASK]	0
 Well, it's again a different thing   that could be tried.	0
 Yeah, so at any rate, you're looking	0
@@ -435,7 +436,7 @@ uh, with - with these other things we have,	0
 uh, looks like a worthy thing to -	0
 But, yeah. But for sure there's required to - that requires to	0
 re-check everything else, and re-optimize	0
-for sure the [MASK] may b	0
+for sure the [MASK] may be [MASK]	0
 Well one of the - seems like one of the things to go through next week when Hari's here, cuz Hari'll have his own ideas	0
 too - or  I guess not next week, week and a half,	0
 uh, will be sort of go through these alternatives, what we've seen so far, and come up with some game plans. Um. You know. So, I mean one way would -	0
@@ -450,7 +451,7 @@ using some continuous speech at all. So, there are some - I mean, I was looking 
 applied to large vocabulary tasks and	0
 [MASK]  doesn't  seems to be the thing to do for	0
 large vocabulary tasks. And it's -	0
-Always people have shown improvement with [MASK] and mayb	0
+Always people have shown improvement with [MASK] and maybe [MASK] approach over [MASK] everywhere.	0
 But if we - if we have to use simple spectral subtraction, we may have to do some optimization  to make it	0
 So they're making - there - Somebody's generating Wall Street Journal with additive - artificially added noise or something?	0
 Sort of a - sort of like what they did with [MASK] and? Yeah, O_K.	0
@@ -532,7 +533,7 @@ um, you throw away some information.	1
 And, that's mostly viewed on as a good thing, in the way  we  use it, because we wanna suppress things that will cause variability for uh particular, uh, [MASK]	0
 but, you'll do throw something away.	0
 And so the question is, uh, can we figure out if there's  something  we've thrown away that we  shouldn't  have.	1
-when they were looking at the  difference  between [MASK] and [MASK] that was going  int	1
+when they were looking at the  difference  between [MASK] and [MASK] that was going  into  [MASK] I was thinking "oh, O_K, so they're picking on something	1
 they're looking on it to figure out  noise,  or  voice  -  voiced  property whatever." So that - that's interesting. Maybe that helps to drive the -	1
 the thought process of coming up with the features. But for  me  sort of the interesting thing was, "well,	1
 but is there just something in that  difference  which is  useful? " So  another  way of doing it, maybe, would be just to take [MASK]	1
@@ -571,7 +572,7 @@ Maybe.  Yeah, I can - I will try to do that.	1
 What - one - one um p-	0
 one thing is like what - before we started using this [MASK]	0
 the - th- what we did was like,	0
-I - I guess most of you know about this, adding this additional [MASK] bit t	0
+I - I guess most of you know about this, adding this additional [MASK] bit to [MASK] and training [MASK] on that.	0
 That is just a binary feature and that seems to be  improving a lot on [MASK] where there is a lot of	0
 noise but not much on [MASK] So, a- adding an additional feature to distin- to discriminate between speech and nonspeech was helping.	0
 Wait - I - I'm sorry?	0
@@ -602,7 +603,7 @@ Um, nothing I wanna really talk about. I can - I can just uh, um, share a little
 um, I told you I was - I was - I was getting prepared to take this qualifier exam. So basically that's just, um, trying to propose um, uh,	1
 your next your - your following years of - of your P_H_D work, trying - trying to find a project to - to define and - and to work on.	1
 So, I've been, uh, looking into, um, doing something about r- uh, speech recognition using acoustic events. So,	1
-um, the idea is you have all these - these different events, for example voicing, nasality, [MASK] you know burst or noise, uh,	1
+um, the idea is you have all these - these different events, for example voicing, nasality, [MASK] you know burst or noise, uh, [MASK] that kinda stuff, um, building robust	1
 um, primary detectors for these acoustic events, and using the outputs of these robust detectors to do speech recognition.	1
 Um, and, um, these - these primary detectors, um, will be, uh,	0
 inspired by, you know, [MASK] techniques, um, doing things, um, similar to Larry Saul's work on, uh, graphical models	0
@@ -613,7 +614,7 @@ um, I kinda see - like, after - after building the primary detectors I see um, m
 and feeding them in, sorta tandem style into - into a um, Gaussian mixtures [MASK] um, and doing recognition. Um.  So, that's -	0
 that's just generally what I've been looking at. Um,	0
 By - by the way, uh, [MASK] version of that for instance could tie right in to what Carmen was looking at. So,	0
-you know, um, if you - if [MASK] approach was helpful as - as I think it is, it seems to be helpful for determining	0
+you know, um, if you - if [MASK] approach was helpful as - as I think it is, it seems to be helpful for determining [MASK] that one might be another	0
 Um, were - were you gonna say something? Oh. It looked - O_K, never mind. Um, yeah. And so, this - this past week um, I've been uh, looking a little bit into uh, TRAPS	0
 and doing - doing [MASK] on - on these e- events too, just, um, seeing - seeing if that's possible. Uh, and	0
 um, other than that, uh, I was kicked out of I_house for living there for four years.	0
@@ -647,7 +648,7 @@ how people respond to formant changes, I  think.  Um. So he - he created a lot o
 And he wanted to look at um,	1
 how the energy is moving  over time in that spectrum and compare that to the - to the listener tests. And, um. So, I	1
 gave him a P_L_P spectrum. And - to um - he - he t- wanted to track the peaks so he could look at how they're moving. So I took the um, [MASK] coefficients and um,	0
-I found the roots. This was something that Stephane suggested. I found the roots of the um, [MASK] to, um, track the peaks in the, um,	0
+I found the roots. This was something that Stephane suggested. I found the roots of the um, [MASK] to, um, track the peaks in the, um, [MASK]	0
 well  there is  aligned  spectral pairs, is like the - the - Is that the aligned s-	0
 It's a r- [MASK] uh, of some sort.	0
 Oh, no. So you just -	0
@@ -660,7 +661,7 @@ So it's  like  line spectral pairs. Except I think what they call line spectral 
 Oh, it's like line sp-	0
 But it - But uh, you know. But what we'd used to do w- when I did synthesis at National Semiconductor twenty years ago, the	0
 technique we were playing with initially was - was taking [MASK] and - and uh,	0
-finding the roots. It wasn't [MASK] cuz Hynek hadn't invented it yet, but it was ju	0
+finding the roots. It wasn't [MASK] cuz Hynek hadn't invented it yet, but it was just [MASK] and	0
 uh, we found the roots of the polynomial, And th- When you do that, sometimes	0
 they're f- they're what most people call formants, sometimes they're not.	0
 So it's - it's - it's a little, uh - Formant tracking with it can be a little tricky cuz you get these funny  values in - in real speech, but.	0
@@ -692,7 +693,7 @@ in  addition,  um, is that I - I might be able to find the b- the bandwidths	0
 of these humps as  well.  Um, Stephane suggested looking at each complex pair as a - like a se- second-order [MASK] Um, but I don't think	0
 there's a g- a really good reason not to um, get the formant frequencies from the synthesizer  instead.  Except that you don't have [MASK] in that.	0
 Yeah, so the actual - So you're not getting the actual formants per se. You're getting the - Again, you're getting sort of the, uh -	0
-You're getting something that is - is uh, af- strongly affected by [MASK] And so it's m	0
+You're getting something that is - is uh, af- strongly affected by [MASK] And so it's more [MASK] So it's a little - It's - It's - It's sort of - sort of a different thing.	0
 That's sort of the  point.	0
 But - Yeah. i- Ordinarily, in a formant synthesizer, the bandwidths as well as the ban- uh, formant centers are - I mean, that's -  Somewhere  in the synthesizer that was put  in,  as -	0
 as what you - But - but yeah, you view each complex pair as essentially a second-order section, which has, uh, band center and band width, and um,	0

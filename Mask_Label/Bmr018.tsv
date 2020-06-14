@@ -123,7 +123,7 @@ If  it's got like for speakers then	0
 I guess - I mean if - hhh	0
 We're just doing [MASK] right?	1
 So it's gonna be, depending on the number of people in the meeting,	0
-I guess there is this issue of, you know, if - if the segmenter thought there was no speech on - on [MASK]	1
+I guess there is this issue of, you know, if - if the segmenter thought there was no speech on - on [MASK] on [MASK] and there really  was,	1
 then, if it didn't show up in a mixed signal to verify, then it might be overlooked,	1
 so, I mean, the question is "should - should a transcriber listen to the entire thing or can it	1
 g- can it be based on the mixed signal?" And I th- eh so far as I'm concerned it's fine to base it on the mixed signal at this point, and -	1
@@ -160,7 +160,7 @@ and it would probably be  more  than that.	1
 Right? Because they'd have to at least listen to each  [MASK]	0
 But i- but it's very  quick,  right? I mean, you scan - I mean, if you  have  a display of [MASK]	0
 Oh, you're talking about visually. I just don't think -	0
-the other problem is the breaths cuz you also see the breaths on [MASK] I've - I've looked at the int- uh, s- I've tried to do that with	0
+the other problem is the breaths cuz you also see the breaths on [MASK] I've - I've looked at the int- uh, s- I've tried to do that with [MASK]	0
 and - and you do see all sorts of other stuff besides just the voice.	0
 Yeah, and I - I think that	0
 they're going much more on [MASK] than they are on visuals.	0
@@ -180,7 +180,7 @@ But the procedure that you're imagining, I mean, people vary from this, is that 
 and they have multiple, uh, well, let's see, there isn't -	1
 we don't have transcription yet.	1
 So - but there's  markers  of some sort that have been happening automatically, and those show up on the mixed signal? There's a  @@  clicks?	1
-Oh, they show up on [MASK] So you hav	1
+Oh, they show up on [MASK] So you have [MASK] for each [MASK]	1
 and - and i- i- it'll be - because it's being segmented as [MASK] at a time with his - with Thilo's new procedure, then	1
 you don't have the correspondence of the times across the bins - uh across [MASK] uh you could have -	1
 And is there a line moving across [MASK] as it goes? O_K, so	1
@@ -210,6 +210,7 @@ I mean, so - so we could  use  like [MASK] instead of Transcriber,	0
 What if you were to  preload  all the channels or -	0
 Well that's what I tried originally. So I - I actually before,	0
 Dave Gelbart did this, I  did  an interface which showed each [MASK] and ea-	0
+[MASK]  for each [MASK]	0
 but the  problem  with it is even with just  three  [MASK] it was just painfully slow to scroll.	0
 So you just scroll a  screen  and it would, you know go	0
 And so it just was not doable with the current interface.	0
@@ -281,7 +282,7 @@ So that - that means to me that  somewhere  in the  other  recordings there are 
 you know, we - th- that  may   not be  true.  It may be just  some  of the segments they're just doing a lousy  job  on.	1
 So I'll -  I'll  listen to it and find out since you'd actually split it up by	1
 segment.  So I can actually  listen  to it.	1
-Did you run [MASK] -	1
+Did you run [MASK] - [MASK] on the digits?	1
 Oh, I thought he had sent that around to  everyone,  did you just sent that to me?	0
 No, I d- I didn't.	0
 Since I considered those preliminary, I didn't.	1
@@ -388,7 +389,7 @@ um, but then if you add the dynamic aspect of adapting distances, then it wasn't
 I guess it just wasn't something that he could  do  quickly  and not - in time for us to be able to do something by two weeks from now, so. Well less than a week.	0
 So - um, so I don't know what we can do if anything, that's sort of worth,	1
 you know, a Eurospeech paper at this point.	1
-Well, [MASK] how well did it work	1
+Well, [MASK] how well did it work on [MASK] stuff?	1
 Yeah. That's what I was gonna say. C-	0
 I haven't  checked  those yet. It's very tedious to  check  these.	1
 Um, we would  really  need, ideally, a  transcriber	1
@@ -496,7 +497,7 @@ Oh, I see. So then they could just like put - Oh that's what you meant by just p
 Uh,  that's  an interesting idea.	0
 So - so all they - So that all they would have to do is put like an "X_" there.	0
 Yeah, or some, you know, dummy reject mod-	0
-blank for silence, [MASK] for speech,	0
+blank for silence, [MASK] for speech, [MASK] for	0
 whatever, yeah. That's actually a better way to do it cuz the a- the forced alignment will probably be more consistent than -	0
 Well, like, I think there's a complication which is that - that you can have speech and noise in s-	0
 I mean if it's just as easy, but -	0

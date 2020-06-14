@@ -22,8 +22,8 @@ Well,  I  sort of had  informal  talks with	0
 most  of you. So, Eva just reported she's really happy about [MASK] being in the same order in the X_M_L as in the	0
 um - be- Java declaration format so you don't have to	0
 do too much in the style sheet	0
-The - uh, Java - [MASK]  wants to take input - uh, uh,	1
-Eva is using [MASK] to conv	1
+The - uh, Java - [MASK]  wants to take input - uh, uh, [MASK] - in - in some Java notation	1
+Eva is using [MASK] to convert [MASK]	1
 for the - into the, uh, [MASK]	1
 Actually, maybe I could try, like,  emailing  the guy and see if he has any- something already.	1
 he has both [MASK] in -	0
@@ -46,7 +46,7 @@ I didn't finish the  sentence  but he  understood  it.	0
 I  know what he's talking about.	0
 We - w- um -	0
 not a - just a surface string that is fed into a text-to-speech	1
-but, [MASK] that's fed int	1
+but, [MASK] that's fed into [MASK]	1
 Now and [MASK] has  certain rules on how  if you get the following syntactic	1
 structure, how to map this onto  [MASK]	1
 And  Fey  has foolheartedly agreed to  rewrite	1
@@ -58,7 +58,7 @@ if it's O_K that we give her a couple of more hours per week, then  she'll do th
 What   language  is that  written i- Is that [MASK] that you showed me?	0
 She knows how to program in [MASK]  I hope?	0
 My  guess is - I - I asked for a commented version of that file?	0
-If we get that, then it's  doable, even without getting into it, even though [MASK] is really well docu	0
+If we get that, then it's  doable, even without getting into it, even though [MASK] is really well documented in [MASK]	0
 Well, I guess if you're not used to functional programming, [MASK] can be completely incomprehensible.	1
 Like  there's lots of unnamed functions and -  You know?	0
 Anyway, it - We'll sort this out. Um.	0
@@ -71,12 +71,12 @@ of the - of the thing, because right now the voice sounds like a murderer.	0
 Yep. We ha- we  have  to change the voice.	1
 The - the little Smarticus - Smarticus sounds like a murderer.	0
 But I will  not  give them to you unless you come into my lair.	0
-It is - Uh, we have the choice between the, uh, usual [MASK] which I already t	1
+It is - Uh, we have the choice between the, uh, usual [MASK] which I already told [MASK] we  aren't  gonna use because they're really bad.	1
 It's the name of some  program,   the - the  synthesizer.	0
 Oh, oh. Got it. O_K.	0
 You know, the usual party voices.	0
 Yeah, I know.  That doesn't sound,  exactly right either.	0
-[MASK] has, uh, crafted a couple	1
+[MASK] has, uh, crafted a couple of [MASK]	1
 type voices that are really nice and we're going to use  that. We can still, um, d- agree on a  gender,  if we want.	1
 So we still have male or female.	0
 Well, let's just pick whatever sounds best.	0
@@ -88,7 +88,7 @@ He's- spends a fair amount of time here.  Anyway.	0
 Leave it.  Won't be a problem.	0
 O_K.  And it's probably also absolutely uninteresting for all of you to, um	1
 learn that as of twenty minutes ago, David and I, per accident, uh managed to get	1
-[MASK] running on the - uh, ICSI Linux machines with	1
+[MASK] running on the - uh, ICSI Linux machines with [MASK]	1
 thereby increasing the number of [MASK] in this house from  one on my laptop to  three.	0
 How was this by accident?	0
 Yeah, I know. Tha- that's the part I didn't understand.	0
@@ -130,9 +130,9 @@ We've been so far working on things that are easy.	0
 It's a hard puzzle.  But  the other  part  of it is the way they connect to	1
 these, uh, [MASK]	1
 So  there's  all  the problems that the  linguists  know about, about [MASK] and the  cognitive  linguists know about, but then there's this problem of the	1
-[MASK]  people have only done a  moderately  good job of dealing with	1
+[MASK]  people have only done a  moderately  good job of dealing with  [MASK]	1
 Uh, which they call dynamic -	0
-they  incorrectly  call  [MASK] So there'	0
+they  incorrectly  call  [MASK] So there's a term [MASK]  doesn't  mean that. It means  [MASK] And Srini used those and people use them.	0
 one of the things I w- would  like  to do over the next, uh, month, it may take more,  is to st- understand to what extent we can not only figure out the constructions for them	1
 uh sort of what the formalism will look like and where the slots and fillers will be, but also what that would translate into in terms of [MASK] and the  inferences.	1
 So the  story  is that if you  have  these [MASK]  they're set up, in  principle,  so that you can make new instances and instances connect to each other, and all that sort of stuff, so it  should  be feasible	0
@@ -148,7 +148,7 @@ And  sometimes  it's actually  easier	0
 to solve two hard problems than  one  because they  constrain  each other. I mean if you've got huge ra- huge range of possible choices	0
 We'll  see.  But  anyway,  so that's, um -	0
 Oh yeah, like uh, I solved the - the problem of um - we were talking about how do you -	0
-various issues of how come a plural noun gets to quote "count as a noun phrase", you know, occur as [MASK] bu	0
+various issues of how come a plural noun gets to quote "count as a noun phrase", you know, occur as [MASK] but [MASK] doesn't get to act that way. Um,	0
 and it would take a really long time to explain it now, but I'm about to write it up this evening.	0
 I solved that at the same time as "how do we keep adjectives from floating to the left of determiners and how do we keep all of that from floating outside the noun phrase" to get something like "I the kicked dog". Um.	0
 Did it - did it at once. So maybe - maybe it'll be a similar thing.	0
@@ -235,7 +235,7 @@ um, which we wanted to, uh, get your input on, and that concerns the -	0
 But the  nice  thing is w- we  would  have a person that would like to  work  on it, and that's Ir- Irina  Gurevich   from [MASK]  who is going to be visiting us, uh, the week before, uh, August	1
 and a little bit into August.	0
 And she would like to  apply [MASK] that is, um	1
-being crafted at [MASK] That's not the one I sent you. The one I sent you was fr	1
+being crafted at [MASK] That's not the one I sent you. The one I sent you was from [MASK] out of a European CRUMPET.	1
 Um, and one of the reas- one of the - those ideas was,	0
 back to the old Johno observation that if y- if you have a dialogue history  and it said	1
 the word " admission  fee"	1
@@ -249,7 +249,7 @@ for each e- entity. We look it up	1
 check whether any of these were mentioned	1
 and then activate the corresponding nodes on the discourse	1
 But Keith suggested that a - a much cleaner way would be -  is,   you know, to keep track of the discourse in such a way that you - if you  know  that something like that ha- has been mentioned  before,  this just a- continues to add up, you know, in th- in a -	1
-So if someone mentions admission f- fees, that activates [MASK] which sticks around for a little while in your rep- in the representation of what's being talked about. And then when someone asks "where is X_?" you've already got the -	0
+So if someone mentions admission f- fees, that activates [MASK] which sticks around for a little while in your rep- in the representation of what's being talked about. And then when someone asks "where is X_?" you've already got the - [MASK] activated and you're able to - to conclude on it. Yeah.	0
 Yeah. So that's certainly  more  realistic. I m- I mean  psychologically.  Now  technically	0
 Well, uh, is it - doesn't it seem like if you just managed the dialogue history with a - a thread, that	0
 you know, kept track of ho- of the activity of -	0
@@ -498,12 +498,12 @@ It's like, "this is what we're doing. And the complement is Robert."	0
 I'll - I'll send you -	0
 I'll - I'll send you a style file, right? You just -	0
 I already sent you my fi-  my bib file. So.	0
-Someday we also have to - we should probably talk about the other side of [MASK] which is the issue of, um, how do you simulate questions? What d	1
+Someday we also have to - we should probably talk about the other side of [MASK] which is the issue of, um, how do you simulate questions? What does [MASK] look like for a question?	1
 Because  it's a little different. We had to - we had an idea for this which seemed like it would  probably  work.	0
 Yeah, now, we- we w-	0
 Great. O_K. Yeah. [MASK] may need - we may n- need to re-name that.	0
 I - Yeah. I -	0
-O_K? So let's think of a name for - for whatever the - this intermediate structure is. Oh, we talked about  [MASK]	1
+O_K? So let's think of a name for - for whatever the - this intermediate structure is. Oh, we talked about  [MASK]  for [MASK] and that seems -	1
 You know, so it's a m- minimal change.	0
 Only have to change one vowel. That's great. All the old like  graphs, just change the - just, like, mark out the -	0
 Right, a little substi- substi- You know, that's what text  substitution	0

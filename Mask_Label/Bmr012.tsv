@@ -136,7 +136,7 @@ and as I said I would like to look at the lattices because it sounded like even 
 Well so I guess we can generate	0
 There are a fair number of errors that are, you know where - got the plural S_ wrong or [MASK] wrong.	1
 Yeah, and who cares? And - and there were lots of - of course the "uh uh"-s, "in on"-s	0
-a lot of the errors I think are out of vocabulary, so is it like [MASK] is three words, it'	1
+a lot of the errors I think are out of vocabulary, so is it like [MASK] is three words, it's [MASK] I mean there's nothing	1
 There's [MASK]	0
 Did you say there's [MASK]	0
 [MASK] I mean those -	0
@@ -148,6 +148,7 @@ so  but this is really encouraging because	0
 so, I mean the bottom line is even though it's not a huge amount of data	1
 uh reasonable to actually run recognition and be like within the scope of -	1
 of r- reasonable s- you know [MASK] this is like h- about how well we do	1
+on [MASK] with [MASK] and  [MASK]   is -	1
 got sort of a different population of speakers	1
 and a different topic and they're talking about things in the news that happened after [MASK] so there was  @@  so that's great.	1
 Yeah so we're in better shape than we were say when we did - had the ninety-three workshop	0
@@ -164,13 +165,13 @@ um just the words that the recognizer would use for scoring.	0
 I had to deal with some of it by hand but I think a lot of it	0
 can be automated s- by -	0
 Oh one thing I guess I didn't get so	0
-you know [MASK] was straight from - fr	1
+you know [MASK] was straight from - from [MASK]	1
 [MASK] were also from [MASK] or - or	1
 So they didn't have anything from [MASK] in yet? O_K.	0
 And actually - we actually um used [MASK]	1
 I was just gonna say, yeah.	0
 Well that's - those are the only we- ones there are, I mean	0
-so that's the on- that's [MASK] that we have a lot of and I guess  Ramana ,	0
+so that's the on- that's [MASK] that we have a lot of and I guess  Ramana , so [MASK] said that	0
 um there's not a huge amount of difference	0
 going from - it's - it's not like we probably lose a huge amount but we won't know because we don't have any [MASK]	0
 It's probably not as bad as going f- using [MASK] on	0
@@ -203,7 +204,7 @@ so I guess the good news is that	0
 and - and again this is without	0
 a lot of the sort of bells and whistles that we c- can do with [MASK]	1
 and we'll have more data and we can also start to	1
-maybe adapt __JARGON__the language models/__JARGON__ once we have enough meetings. So this is only twenty minutes of one meeting with no - no	1
+maybe adapt --Jargon--the language models/--Jargon-- once we have enough meetings. So this is only twenty minutes of one meeting with no - no	1
 I mean clearly there are um with just a small amount of uh actual	1
 meeting transcriptions uh thrown into [MASK] you can probably do quite a bit better because	1
 The voca- the vocabulary especially yeah.	0
@@ -215,8 +216,8 @@ for the transcription I got when someone has a digit in the transcript I don't k
 there's things like that where, you know the	0
 um we'll probably have to ask the transcribers to indicate some of those kinds of things but	0
 in general it was really good and I'm hoping - and this is -	1
-this is good news because that means [MASK] should be g	1
-For example about, you know [MASK] and speaker overlaps and so forth directly fr	1
+this is good news because that means [MASK] should be good and if [MASK] I mean it's good news anyway but if [MASK] are good we can get all kinds of information.	1
+For example about, you know [MASK] and speaker overlaps and so forth directly from [MASK]	1
 Um so that'll be something that	1
 actually in order to assess [MASK]	1
 um we need s- some linguists or some people to look at it and say are these boundaries in about the right place.	1
@@ -304,10 +305,10 @@ No, I'm using uh S_N	0
 [MASK] Yeah and Dan's archaic acronyms.	0
 I just - yeah I found it.	0
 Some of the vowels, almost all the vowels, that's the hard part.	0
-So - so the other thing we should try is to just take [MASK] I mean segment them but n	1
+So - so the other thing we should try is to just take [MASK] I mean segment them but not [MASK] them.	1
 And a few of the consonants.	0
 Yeah we could - we could try that and - and	0
-And - and feed them to - feed them to [MASK] and see if -	1
+And - and feed them to - feed them to [MASK] and see if - if [MASK] does something.	1
 I suspect that's sort of premature optimization, but	0
 We can try it. I - I only [MASK] first cuz I was	0
 I mean that's just one line - that's one line of code to comment at so	0
@@ -386,7 +387,7 @@ Oh yeah there was just one more thing I wanted to say which is totally unrelated
 well it's sort of related but um good news also	0
 uh I got - well Chuck Fillmore agreed to record meetings but he had too many people in his meetings and that's too bad cuz they're very animated and	1
 but uh Jerry also agreed so uh we're starting on - on	1
-Well but he has fewer - he - he won't have more than eight and it's [MASK] so that sounds interesting. As a compliment t	1
+Well but he has fewer - he - he won't have more than eight and it's [MASK] so that sounds interesting. As a compliment to [MASK]	1
 and um so that's gonna start Monday and one of the things that I was realizing is um	1
 it would be really great if anyone has any ideas on some kind of	1
 [MASK] that people in the meeting can make a comment to the person whose gonna transcribe it	1
@@ -549,10 +550,11 @@ to be basically in three parts, the acoustic part coming first which would be	0
 basically the room engineering aspects um other things	0
 and he'll be also presenting [MASK] and -	0
 uh number two would be sort of a	0
-the - the transcription process so this would be a focus on like [MASK]	0
+the - the transcription process so this would be a focus on like [MASK] and [MASK] which allows [MASK]	0
 which uh Dave Gelbart's been doing and then um	0
 uh and of course [MASK]	0
 and then um the third part would - and again he has some stuff that's i- relevant [MASK] and then the third one would be focus on transcription standards so	0
+at [MASK] he's interested in [MASK] I guess I would say and I want it, you know k- yeah	0
 see what they're doing and also present	0
 we've chosen as ours and - and discuss that kind of thing.	0
 And so but he's only here  until	0
@@ -602,4 +604,4 @@ Yeah, I'm in Morgan's course, yeah.	0
 Then you - then you go back to Norway, that's	0
 We were just talking about something like this yesterday	0
 About doing some of the	0
-[MASK] or possibly	0
+[MASK] or possibly [MASK] so.	0

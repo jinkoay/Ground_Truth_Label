@@ -64,7 +64,7 @@ uh, some- and then somebody said "yeah, it does seem like, you know, [MASK] is	0
 the one that's, you know, the major one" or, uh, s- I can't remember exactly what it was now.	0
 Yeah. There - uh, actually, yeah.	0
 S- um, it's very important to [MASK] and  much less to normalize the other coefficients. And, um,	0
-actu- uh, well, at least with the current von-line normalization sch	0
+actu- uh, well, at least with the current von-line normalization scheme. --/Jargon-- And	0
 we - I think, we	0
 kind of know that normalizing [MASK] doesn't help with the current scheme. And -	0
 In my idea, I -	0
@@ -153,7 +153,7 @@ It was the same system.	0
 A third thing is that, um,	1
 I play a little bit with the, um -  finding what was different between,	1
 And there were a couple of differences, like [MASK] were not the same.	0
-he had __JARGON__ the France Telecom __JARGON__  blind  equalizat	1
+he had [MASK] in the system.	1
 the number o- of [MASK] that was - were used was different. You used thirteen and we used fifteen.	1
 Well, a bunch of differences. And, um, actually	0
 the result that he - he got were much better on [MASK] especially.	0
@@ -295,7 +295,7 @@ at least in principle it looks like there's - there's, uh, a couple potential wa
 and, uh - in rectangular kind of coordinates. And the other is	0
 to, uh, do [MASK] -	0
 Well. So you work with the complex numbers	0
-and then when you get [MASK] -	0
+and then when you get [MASK] - [MASK] -	0
 um, actually divide it out,	0
 um, as opposed to taking the log and subtracting.	0
 um, you know, there might be some numerical issues. We don't really know that.	0
@@ -346,7 +346,7 @@ the subspace approach. And I'm in the process of, like, building up that stuff.	
 I guess - Yep. I guess that's it. And, uh, th- th- that's where I am right now.	0
 Oh. How about you, Carmen?	1
 Mmm. I'm working with [MASK]	1
-Um, I do several experiment with the Spanish database first, only with [MASK] and nothing more. Not [MASK] n	1
+Um, I do several experiment with the Spanish database first, only with [MASK] and nothing more. Not [MASK] no [MASK] nothing more.	1
 What - what is [MASK] again?	0
 Eh, [MASK]	0
 To remove the noise too.	1
@@ -550,9 +550,9 @@ the clean speech conditional to, uh, the noise signal -	0
 the probability f- of the - the statistic of the clean speech and the statistic of the noise.	0
 This is the methods that say that we're going obtain this.	0
 And we can put that this is equal to the estimated value of E_ minus a function	0
-that conditional to [MASK] t	0
+that conditional to [MASK] to [MASK] - to the noise signal. Well, this is - this function is the	0
 the term - after develop this, the term that we - we take.	0
-Give [MASK] and, uh,	0
+Give [MASK] and, uh, [MASK] the noise.	0
 And I can  put that this is equal to  the  noise signal minus -	0
 Well, I put before  this name,  uh -	0
 And I can calculate this.	0

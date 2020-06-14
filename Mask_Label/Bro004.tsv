@@ -67,7 +67,7 @@ is  not  digits, it's the broad	1
 And the fourth test is uh  excluding from these three languages the language  that is  the task language.	1
 Oh, O_K, yeah, so, that  is  what I wanted to know.	0
 I just wasn't  saying  it very well, I guess.	0
-[MASK]for ins- example  uh	1
+[MASK]for ins- example  uh [MASK] uh we lose  uh around ten percent, uh.	1
 The error rate increase u- of - of -	1
 So this is not so bad. And then when we jump to the multilingual data it's uh it become worse and, well	1
 Around uh, let's say,  twenty perc- twenty percent further.  So.  Yeah.	0
@@ -615,7 +615,7 @@ In   earlier  experiments, [MASK]	0
 from a  completely  different  database,  right?	0
 Yeah, because maybe it the same situation that the neural network training with their own	0
 So that's a good question.   Where  does it come from?	0
-but uh to tell you the  truth, [MASK] so much when I - I was looking at it I was  mostly thinking	0
+but uh to tell you the  truth, [MASK] so much when I - I was looking at it I was  mostly thinking [MASK]	0
 [MASK]	0
 I don't understand also what is -	0
 [MASK] over ?	0
@@ -633,6 +633,7 @@ Yeah.  So - so what they're doing here is,	0
 i- if you look down at the block diagram,	0
 they estimate - they get a -	0
 they get an estimate  of whether it's speech or silence,	0
+and then they have a median --/Jargon-- filter  of it.	0
 basically they're trying to find  stretches.	0
 The median filter is enforcing a - i- it having some  continuity.	0
 You find  stretches  where [MASK] and the -	0

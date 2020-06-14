@@ -30,7 +30,7 @@ or we simply adopt the ah um	1
 um style that is implemented in the German system	1
 are then able not only to produce	0
 strings but also [MASK]	0
-[MASK] that is underneath	0
+[MASK] that is underneath in [MASK]	0
 which is the way we decided we were gonna go because A_, it's easier in the beginning	0
 and um it does require some - some knowledge of - of those grammars and - and - and	0
 But um it shouldn't be a problem for anyone.	0
@@ -49,6 +49,7 @@ then in this case Johno will have acquired the knowledge of how to extend it.	0
 When needed, if needed, when wanted	0
 Ralf has hooked up with David and you're gonna	0
 continue either all through tonight or tomorrow on whatever	0
+to get --Jargon--the er parser interface working.	0
 They are thinning out and thickening out lattices and doing this kind of stuff to see what works best.	0
 So, you guys enjoy your weekend?	0
 O_K, before - before you got put to work?	0
@@ -303,7 +304,7 @@ Because what - what they take is sort of this - this fixed representation of a -
 And that can be as detailed or as crude as you want it to be.	0
 But um the internal workings of	0
 of the - whether you know there're [MASK] -	0
-action planners that work with [MASK] that are action planners that work with you know	0
+action planners that work with [MASK] that are action planners that work with you know [MASK] .	0
 So that shouldn't really matter too much.	0
 I mean it does matter because it does have to keep track of you - we are on part six of r- a route that consists of eight steps and so forth	0
 Yeah, th- there - there - I think there are a  lot  of reasons why it matters.	0
@@ -392,7 +393,7 @@ I- I totally agree. Sure.	0
 Yeah I - I agree. There is - there's a logic to dialogue which - which is - is separable.	0
 what it wants in a - in a rather a- abstract uh way, you know f-	0
 "Find me a good route for this."	0
-It doesn't really have to worry ab- how [MASK] or how	0
+It doesn't really have to worry ab- how [MASK] or how [MASK] actually wants it.	0
 seemed like a good idea.	0
 It's tricky because one could  well  imagine - I think it will turn  out  to be the case that	0
 uh, this thing we're talking about, th- the extended n-	0
@@ -417,6 +418,7 @@ Yeah, yeah it - it -	0
 concept that people have, yep.	0
 And - and the - the underlying idea of course is	1
 that there is something like	1
+[MASK] with [MASK] that you can plug uh	1
 certain applications like tourist information or	1
 um the home scenario with uh controlling a V_C_R and so on.	1
 And then extend it to	0
@@ -466,7 +468,7 @@ No - no it's - uh I think it's	0
 it's just one - one person and so	0
 I have to keep the -	0
 Oh,  you  have to do it.  You  have to do it, yeah.	0
-but uh,  Miel  __JARGON__syntactic analysis__JARGON__ with u	0
+but uh,  Miel  [MASK]	0
 But the people at D_F_-	0
 People at [MASK] have  written  a fair number of  parsers.	1
 Other - you know,  people  over the  years.	0
@@ -496,7 +498,7 @@ h- used more  context.  Right?	0
 and - and especially you	0
 was [MASK] which	0
 learned from a big corpus of - of trees.	0
-And yes the - it - [MASK] w	0
+And yes the - it - [MASK] was [MASK] that	0
 um Mark  Light  originally w-	0
 worked on in - while he was in	0
 Tuebingen and then somebody else in Tuebingen	0
@@ -523,7 +525,7 @@ That seems to me kind of a last resort if uh	0
 do it any other way.	0
 but I dunno. It may - i- i- may be that's what you guys finally decide do.	0
 And have you looked - uh just - again for context -	0
-There is this - this one that they did at [MASK] some years ago -	0
+There is this - this one that they did at [MASK] some years ago -  [MASK] ?	0
 um yeah, I've - I've looked at it but -	0
 but it's no - not much uh information available.	0
 I found, but it's also	0
@@ -625,7 +627,7 @@ uh from  our  point of view this is also a research project	0
 and there are a couple of people  not  here	0
 for various reasons who are doing  doctoral  dissertations on this,	1
 the idea that we're  really  after	1
-is [MASK] based	1
+is [MASK] based on  [MASK]  and the notion that there are a  relatively   small  number	1
 of  [MASK]  that  characterize  a lot of  activity.	1
 So a  typical  one in this  formulation  is a  container.	0
 So this is a  static  thing.	0
@@ -666,14 +668,14 @@ in that context. or -	0
 Well that's - that's - that's where [MASK] comes  in.  So th- the idea is,	0
 let's take this business about going to the  Powder-Tower.	0
 So  part  of what you'll get out of this will be the fact tha- w- if it works right, O_K, that this is an agent that wants to go to this place and that's their goal  and  there will be additional  situational  information.	0
-Uh, O_K, part of it comes from [MASK]  The tower is  this  kind of object. Part of it comes fr	0
+Uh, O_K, part of it comes from [MASK]  The tower is  this  kind of object. Part of it comes from [MASK]	0
 And the idea of [MASK]  is it combines	1
 information  from the  dialogue  which comes across in this  general  way,	1
 you know this is a - this is a goal seeking behavior,	0
 along with  specific  information from [MASK]  about the kinds of objects involved and about the  situation	0
 O_K, Yeah, yep yep yep yep	0
 about "Is it raining?" I don't know. Whatever it is. And so that's [MASK] that we've laid  out.	0
-And so th- the  coupling  to the situation comes in this model from, at th- at th- at [MASK] combining evidence from the dialogue with	1
+And so th- the  coupling  to the situation comes in this model from, at th- at th- at [MASK] combining evidence from the dialogue with [MASK] with the situation.	1
 But Nancy isn't gonna talk about  that,  just about the	0
 Yeah, oh yeah, I see, yeah yeah, really.	0
 Right. The - [MASK]	0

@@ -41,7 +41,7 @@ command line version of the indexing and the querying is now working.	1
 So at least on the  one  meeting that I had the  transcript  for	1
 uh  conveniently  you can now do information retrieval on it, do - type in a - a string and get back a list of start-end times for the meeting,	1
 What - what kind of uh - what does that look like? The string that you type in. What are you - are you - are they keywords, or are they - ? O_K.	0
-Right? And so - and then it munges it to pass it to [MASK] which u	0
+Right? And so - and then it munges it to pass it to [MASK] which uses [MASK]	0
 does it play something back or that's something you're having to program?	0
 Um, right now, I have a tool that will  do  that on a command line using our standard tools,	0
 but my intention is to do a prettier user interface based  either  -	1
@@ -93,7 +93,7 @@ Um Dave Gelbart expressed some interest in working on that so I'll work with him
 And it - it's looking pretty good, you know, the fact that I got the query system working.	0
 So if we wanna just do a video-based one I think that'll be easy.	0
 If we wanna get it to Windows it's gonna be a little more work because the	0
-[MASK] the information retrieval tool's - um, I had difficulty ju	0
+[MASK] the information retrieval tool's - um, I had difficulty just [MASK]	0
 So getting them to compile on	0
 But you were saying that - that the uh -	0
 that there's that set of tools, uh,  [MASK] that -	0
@@ -137,7 +137,7 @@ Having him volunteer to work on it is a really good thing	0
 because he's worked on [MASK]	0
 and he's more familiar with [MASK] than I am.	0
 And then you get - they - then you get the Windows media playing for free.	0
-Well that's  [MASK]  not - n	0
+Well that's  [MASK]  not - not [MASK]	0
 Right.  But the point is that [MASK] and then you can - but you can use a - a lot of the same functionality and it's -	0
 Yeah, yeah, I mean, I - I think THISL - [MASK]	0
 And so my intention was just to base it on that.	0
@@ -487,7 +487,7 @@ You're - you're gonna  tease  me? O_K.	0
 Ordered - Uh, well I'm  always  gonna do  that.  W- uh -	1
 wireless,  and so they should be coming in at some point.	1
 And then at the same time I'll probably rewire the room as per Jane's suggestion so that	1
-uh [MASK] eh are the m-	1
+uh [MASK] eh are the m- [MASK]	1
 You know what he means but isn't that funny sounding? "We ordered more  wireless. " It's like  wires  are the  things  so you're  wiring   - you're - you're -  you  - we're - we ordered more  absence  of the thing.	0
 statement from Morgan. I just - it's sort of a anachronism, I mean it's like -	0
 wired less , wired more.	0

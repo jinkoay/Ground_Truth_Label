@@ -81,7 +81,7 @@ working basically on our parts which we I think a little bit neglected,	1
 Uh so we are looking in ways is - in uh which - uh with which we can provide better initial estimate of the mel spectrum basically,	1
 which would be a l- uh, f-	1
 more robust to noise, and so far not much uh success.	1
-things which uh a long time ago Bill Byrne suggested, instead of using [MASK] fr	0
+things which uh a long time ago Bill Byrne suggested, instead of using [MASK] from [MASK] use the spectrum from [MASK]	0
 Their argument there was [MASK] fits the  peaks  of the spectrum, so it may be m- naturally more robust in  noise.	0
 And I thought "well, that makes sense," but so far we can't get much - much  out  of it.	0
 uh we may try some standard techniques like spectral subtraction and -	0
@@ -112,7 +112,7 @@ Ah, you don't know about TRAPS!	0
 [MASK] sound familiar, I - but I don't -	0
 Yeah I mean tha- This is familiar like sort of because we gave you the  name,  but, what it is, is that	1
 normally what you do is that you recognize uh speech based on a shortened spectrum.	1
-Essentially L_P_- [MASK]	1
+Essentially L_P_- [MASK] [MASK] uh, everything starts with a spectral slice.	1
 Uh so if you s- So, given the  spectrogram  you essentially are sliding - sliding the spectrogram along the uh f- frequency axis and you keep shifting this thing,	1
 and you have a  spectrogram.  So you can say "well you can also take the  time  trajectory	1
 of the energy at a given  frequency ",	1
@@ -209,7 +209,7 @@ Oh yeah. We had - well  I  had a incentive because he - he always had this plan 
 Sort of figured that -	0
 That was a uh that he uh	0
 he told me the day when	0
-we did very well at our __JARGON__ NIST __JARGON__ evaluations of speaker recognition, the technology, and he was involved there.	0
+we did very well at our --Jargon-- NIST --Jargon-- evaluations of speaker recognition, the technology, and he was involved there.	0
 We were - after presentation we were driving home and he told me.	0
 When he knew you were happy, huh?	0
 Yeah. So I - I said "well, yeah, O_K" so he took another - another three quarter of the year but uh he was out. So I - wouldn't surprise me if he has a plan like that,  though  -	0
@@ -584,7 +584,7 @@ to - to do some experiments.	0
 Yeah because Intel paid us uh should I say on a microphone? uh some amount of money, not much. Not much I can say on a microphone. Much less then we should have gotten  for this amount of work.	0
 And they wanted uh to - to have software so that they can also play with it, which means that it has to be in a certain environment - they use actu- actually some Intel	0
 libraries, but in the process, Lucash just rewrote the whole thing because he figured rather than trying to f- make sense uh of uh - including ICSI software	0
-uh not for  training  on the nets but I think he rewrote the - the - the - or so- maybe somehow reused over the parts of the thing so that - so that - the  whole  thing, including [MASK]	0
+uh not for  training  on the nets but I think he rewrote the - the - the - or so- maybe somehow reused over the parts of the thing so that - so that - the  whole  thing, including [MASK] trained [MASK] is	0
 Yeah.  I mean, I remember when we were trying to put together all the ICSI software for the submission.	0
 That's what he was saying, right. He said that it was like - it was like just  so  many libraries and nobody knew what was used  when,  and -	0
 and so that's where he started and that's where he realized that it needs to be - needs to be uh uh at least cleaned up, and so I think it - this is available.	0

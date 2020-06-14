@@ -364,7 +364,7 @@ Yeah, that's a good point.	0
 Now, what will uh - Is the plan to g-  to -	0
 stuff will be  saved,  it's just that you're relocating it?	0
 I mean, so we're gonna get more disk space? Or did I - ?	0
-No, the - the - these are [MASK] from Broadcast News, which	0
+No, the - the - these are [MASK] from Broadcast News, which are  [MASK]   -  [MASK]	0
 um, if we really need to, but we had a  lot  of them.	0
 And - for the full, uh, hundred forty hour	0
 And so they - they were two gigabytes per file and we had	0
@@ -643,7 +643,7 @@ Right, you can't analyze it.	0
 eh put up  with your hand	0
 in the different parameter, but eh -	0
 If you use [MASK] is - is a good idea, but eh	0
-you don't know what happened in the interior	0
+you don't know what happened in the interior of --/Jargon--the neural net.--/Jargon--	0
 Well, actually, you  can  do sensitivity analyses	0
 which show you what the importance of the different  parce-   pieces of the input are.	0
 It's hard to - w- w- what you - It's hard to tell on [MASK] is what's going on  internally.	0
@@ -656,7 +656,7 @@ a- a- any reasonable classifier is gonna be a mess, and it's gonna be hard to fi
 I - I - I will  include  too the - the - the differential  de-  derivates	0
 I - I mean, I think the other thing that one - I mean, this is, I think a good thing to do, to sort of look at these things at least -	0
 See what I'd - I'd - Let me tell you what  I  would do.	0
-just a  few  features. Instead of taking all [MASK] or	1
+just a  few  features. Instead of taking all [MASK] or all [MASK] or whatever,	1
 I would just take a  couple.	1
 O_K? Like - like [MASK] something like that, so that you can  visualize  it.	1
 and look at these different examples and look at  scatter  plots.	1
@@ -673,7 +673,7 @@ But I think this is a good place to start.	0
 But don't uh- anyway, this is my suggestion, is don't just, you know,	1
 throw in twenty features at it, the deltas, and the delta del- and all that	1
 into some classifier, even -	1
-even  if it's [MASK] you  still  won't know what it's doing, even - You know it's n	1
+even  if it's [MASK] you  still  won't know what it's doing, even - You know it's not a [MASK]	1
 Uh, I think to know what it's - to have a better feeling for what it's doing, you wanna  look  at it.	0
 So you wanna look at - at som- some picture that shows you, "Here's - These things uh, uh are - offer some separation."	0
 And, uh, in [MASK] uh, the thing to particularly look at is, I think - is something	1
@@ -698,7 +698,7 @@ I - I - I - I would like to - to t- prove.	0
 you have, eh, eh s- eh the transition of speech or - or silence	0
 probably with, eh, this kind of, eh,	0
 eh the - the - the more eh use eh - use eh -  used   eh	0
-em  normal,  regular  eh [MASK]	0
+em  normal,  regular  eh [MASK]  [MASK]	0
 you - you have to - to - to find - you can find	0
 You can find the - nnn, the - the acoustic change.	0
 I - I understand that you - your objective is  to eh  classify,	1
@@ -748,8 +748,8 @@ Well, you'll - you'll get a  feeling  for what's happening, you know, so if you 
 Suppose you look at first- and [MASK] for some one of these kinds of things	1
 and you find that [MASK] is much more effective than the second,	1
 and then you look at the third and there's not - and not too much there,	1
-[MASK] right? And with [MASK] I think	1
-Uh, and uh on the other hand, [MASK] the energy in th	1
+[MASK] right? And with [MASK] I think [MASK] per se isn't gonna tell you much more than - than - than the other, maybe.	1
+Uh, and uh on the other hand, [MASK] the energy in the [MASK]	1
 will say how well, uh	1
 model's fitting it, which should be	1
 pretty poorly for two- two or more	1

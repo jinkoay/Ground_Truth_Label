@@ -31,7 +31,7 @@ Yeah. So let me pop up a level.	0
 s- s- make sure that we're all oriented	0
 What we're gonna do today is two related things.	1
 Uh one of them is to work on	1
-the semantics of [MASK] which is going to b	1
+the semantics of [MASK] which is going to be [MASK]	1
 uh making decisions. And decisions are going to turn out to be	1
 parameter choices for calls on other modules.	1
 so f- [MASK]	0
@@ -107,7 +107,7 @@ I can report a - so I did this but I also tried to do	0
 this - so if I click on here, Isn't this wonderful?	0
 we get to the uh -	1
 uh [MASK] just focusing on - on the g-	1
-[MASK] uh - Analogously this would be sort	1
+[MASK] uh - Analogously this would be sort of [MASK] and [MASK] and so forth. And what w-	1
 design-wise I'd sort of n- noticed that we can -	1
 we still get a lot of	1
 errors from a lot of points to one of [MASK]	1
@@ -122,11 +122,11 @@ having specified sort of these - uh - this - this - intermediate level	0
 and sort of noticing that	0
 everything that  happens   here - let's go to our	0
 more or less - we have - um - then [MASK]	0
-[MASK] contributing to the -	0
+[MASK] contributing to the - [MASK] which contributes to the endpoint and so forth.	0
 um - I can now sort of draw straight lines from these to here, meaning it	1
 g- of course goes where [MASK]	1
-everything that comes from situation, everything that comes from user goes with [MASK] and whatever we specify	1
-parser, [MASK] um will contribute t	1
+everything that comes from situation, everything that comes from user goes with [MASK] and whatever we specify for [MASK] or the discourse, what comes from the - um -	1
+parser, [MASK] um will contribute to [MASK]	1
 one just s- sort of has to watch which -	1
 also final decision node so it doesn't make sense -	1
 t- to figure out whether he wants to enter, view or approach an object if he never wants to go there in the first place.	1
@@ -556,7 +556,7 @@ Right, Right. Existence proof, you know. Set up the	0
 Um sometime, I have to talk to some subset of the people in this group, at least about um	0
 what sort of constructions I'm looking for. I mean, you know obviously like just	0
 again, looking at this one uh thing, you know, I saw y- things from -	0
-sort of [MASK] Oh, you know, I have to d	0
+sort of [MASK] Oh, you know, I have to do [MASK] I have to do uh - uh - unbounded dependencies, you know, which have a variety of constructions in - uh - uh - instantiate that.	0
 On the other hand I have to have, you know, there's particular	0
 fixed expressions, or semi-fixed expressions like "Get" plus path expression for, you know, "how d- ho- how do I get there?", "How do I get in?", "How do I get away?" and all that kind of stuff.	0
 Um, so there's a variety of sort of different	0

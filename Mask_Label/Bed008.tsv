@@ -24,6 +24,7 @@ basic design of what influences what	1
 done before we decide exactly how to compute it.	1
 So I didn't - did you get a chance to look at all - yet?	0
 Yeah, I looked at some of that stuff.	0
+uh [MASK] [MASK] and then we'll - then we'll also	0
 at some point break and talk about the techy stuff.	0
 Well I think one could go	0
 I think we can di- discuss everything.	0
@@ -54,7 +55,7 @@ it's much more complex to query	0
 when would be the most appropriate time.	0
 And so I've tried to come up with some initial	0
 things one could observe so who is the user?	0
-Everything that has user comes from [MASK] everything that has situation comes fr	1
+Everything that has user comes from [MASK] everything that has situation comes from [MASK]	1
 But when it comes to sort of writing down when you - when you do these things is it here?	0
 have to a- write the values this can take.	0
 And here I was really	0
@@ -442,7 +443,7 @@ uh [MASK] like we have object properties and we don't know what they are yet.	1
 So that - that [MASK] will have	0
 uh discourse, and I guess why don't we just stick a discourse thing up there to be	0
 We - we also had discourse features of course for the endpoint.	0
-again re- that's completely correct, we have [MASK]	0
+again re- that's completely correct, we have [MASK] [MASK] here, we don't have [MASK] here yet.	0
 Much the same way as we didn't - we don't have [MASK] here.	0
 Well [MASK] we sort of	0
 said we would pull these various kinds of properties from [MASK] like exhibiting, selling, and so forth.	0
@@ -504,6 +505,7 @@ uh to [MASK]	0
 And I - don't worry about layout, I mean then we'll go - we'll go nuts	0
 Maybe we could um have  intermediate   node that just [MASK]	0
 Because that's what we, I mean that's why this situation comes up.	0
+Well [MASK] actually [MASK] could feed - feed into [MASK]	0
 That's right, so [MASK] make that up t- t-	0
 and again we'll have to do layout at some point, but something like that.	0
 Now it's gonna be important not to have loops by the way.	0
@@ -694,7 +696,7 @@ so the conditional property of	1
 this given all those, right? That's the way	1
 [MASK] are defined, like each node given its parents, right?	1
 that's what we want, we want for example [MASK] of um	0
-let's call this guy [MASK] and let's call th	0
+let's call this guy [MASK] and let's call these [MASK]	0
 So we want probability that [MASK] equals, you know, for example	0
 given that these guys are	0
 I'll just refer to this as like [MASK]	0
@@ -706,7 +708,7 @@ It's - it's cl- e-	0
 is - is it clear what	0
 what we don't wanna do is to	0
 for every single combination of	0
-__JARGON__E_ and V_ and A___JARGON__ and every single letter E_, s- give a number because that's	0
+--Jargon--E_ and V_ and A_--Jargon-- and every single letter E_, s- give a number because that's	0
 What we wanna do is find some principled way of um	0
 saying what each of these is	0
 and we want it to be a valid probability distribution, so we want it to um	0
@@ -725,6 +727,7 @@ and probability of V_ is one out of four.	0
 step - that's the uh	0
 yeah that's the - that's the basic uh thing.	0
 And that one outcome, that's	0
+[MASK] voted for [MASK] and so forth?	0
 S- so this assumes symmetry and equal weights and all this sort of things, which	1
 may or may not be a good assumption, so that	1
 So step two is um	1
@@ -737,18 +740,19 @@ Sure, so we don't wanna like give them all equal weight so currently we've been 
 so we could replace this by uh	0
 [MASK]	0
 And in order for this to be a valid probability distribution for each um	0
-[MASK] we just need th	0
+[MASK] we just need that [MASK] sum to one.	0
 So they can be for example, you know	0
 you - you could have point one, point three, point two, and point four, say.	0
 So that um also seems to work fine.	0
 So I jus- just to make sure I understand this, so in this case	0
 You'd compute the weighted average, so	1
 so in this case the probability that [MASK] would be	0
+[MASK] times - or [MASK] or - let's see, one  full  quarter times point one	0
 these numbers have been replaced with point one, point three, point two, and point four.	0
 So it would be, in this case	0
 So you can view these as gone.	0
 you just add up the - Yeah. So it would - it would - in this case, it would be -  [MASK] would be point three.	0
-[MASK] - yeah, [MASK] would be point th	0
+[MASK] - yeah, [MASK] would be point three and [MASK] would be point four.	0
 If that - if that was the voting plan.	0
 So this is uh step two.	1
 So the next possibility is that um	1
@@ -757,7 +761,7 @@ in certain situations one of the experts is more uh reliable and in certain situ
 the way this is handled is by what's called a mixture of experts, so	0
 what you can have is	0
 you augment these diagrams like this so	0
-you have a new thing called [MASK] O_K? This	1
+you have a new thing called [MASK] O_K? This is [MASK]	1
 it gets its input from [MASK] and what it does is it decides	1
 which of the experts is to be trusted in this particular situation.	1
 So this is sightly uh more complicated.	0
@@ -775,7 +779,8 @@ No it isn't. Because the  other  thing you can do is you - So this - in this cas
 Right, so you can have a mixture that	0
 A  weighted  one. So what you can  do,  if you - if you  need  it is to say that - I mean  here  there's a  fourth  parameter. There's a  fifth  parameter.	0
 O_K? which is [MASK]	0
-So let's suppose [MASK] says in situ-  @@  different uh,	0
+So let's suppose [MASK] says in situ-  @@  different uh,  [MASK]	0
+O_K, in [MASK] that's [MASK] but in [MASK]  it's [MASK]	0
 So you still combine these with weight, but the weights aren't always the same.	0
 That this guy uh detects for you that this is a situation in which you should weight this  more  or  less.	0
 So - so the function of the thing that comes out of [MASK] is very different from the function of the other inputs.	0
@@ -802,11 +807,11 @@ that's determined by what the experts are saying, like the type of situ- O_K.	0
 Yeah. Or in  @@  definitely could have - have other - it  absolutely  could have other inputs from something that has n- doesn't have anything directly to do with these experts.	0
 And it's s- it actually often does. So it is -	0
 It - it just seems that like without that - that outside input that you've got a situation where, you know, like if - if uh [MASK]	0
-says no, you know, a low value coming out of X_on- or i- if [MASK] says no then ign	0
+says no, you know, a low value coming out of X_on- or i- if [MASK] says no then ignore [MASK] you know, I mean that seems like	0
 Yeah, well could be things like if [MASK] say yes then i- ignore [MASK] also.	0
-Or if [MASK] is greater th	0
+Or if [MASK] is greater than [MASK] I could imagine i- all  sorts  of garbage.	0
 And  so these - so this is - this is one collection of technology that we could bring to bear. Yeah.	0
-The situations that [MASK] has, are they built int	1
+The situations that [MASK] has, are they built into [MASK] or	1
 O_K, so they - they could either be hand coded or learned or	1
 It depends on - on - on, you know, what situations you're  in.	0
 Based on training data, O_K.	1
@@ -815,7 +820,7 @@ Um, I don't think we're gonna be in a situation where realistically we're gonna 
 But, I still think it's a nice idea if the architecture  supports  it.	0
 So that, you know, you say, "here's the  design  and if enough data comes along uh, you co- you could use it - use the technology to - to  do  that."	0
 I still have trouble understanding the  very  first step, maybe just because I'm approaching it from the very wrong end. I don't know.	0
-So, this is true for the case that [MASK] voted	0
+So, this is true for the case that [MASK] voted for [MASK] [MASK] voted for [MASK]	0
 Now, [MASK] could potentially also vote  [MASK] .	0
 That wo- that would be another sort of i-  Absolutely.	0
 So you specify one of these things for every one of those possi-	0

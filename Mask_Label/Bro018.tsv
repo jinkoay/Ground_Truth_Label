@@ -7,7 +7,7 @@ The - [MASK]	0
 No,  satly  the mes- [MASK] the new base system - the new base system.	0
 Oh the - O_K, [MASK]  system.	0
 Yeah, we - yeah [MASK] with the new filter,	0
-[MASK] or something like that. And I'm trying tw	1
+[MASK] or something like that. And I'm trying two [MASK] one	1
 one that only have t- three output,  voice, unvoice, and silence, and	1
 other one that have fifty-six output.	1
 The probabilities  of the allophone . And	1
@@ -22,7 +22,7 @@ The feature - the  input?	0
 The inputs are the fifteen - the fifteen uh	0
 the - with the new code.	0
 And the other three features are [MASK] the variance of the difference between the two spectrum,	0
-the variance of the auto-correlation function, except the - the first point, because half the height value is  [MASK]  and	0
+the variance of the auto-correlation function, except the - the first point, because half the height value is  [MASK]  and also [MASK]	0
 the first coefficient of the auto-correlation function. That is like the energy	0
 with these three feature, also these three feature.	0
 You wouldn't do like [MASK] over [MASK] or something like that?	0
@@ -67,7 +67,7 @@ based on whether you  feed  it something different.	0
 And something different in some fundamental  way.  And so the kind of thing that - that she was talking about before,	0
 was looking at something uh ab- um -	0
 uh about the difference between the - the uh um	0
-[MASK] uh	0
+[MASK] uh [MASK] uh	0
 and the log magnitude uh F_F_- spectrum uh and the um uh [MASK]	0
 And so the filter bank	0
 is  chosen  in fact to sort of integrate out the effects of pitch and she's saying you know trying - So the particular measure that she chose was the variance of this m- of this difference,	0
@@ -122,7 +122,7 @@ Oh yeah, in  training.   Still,	0
 Well  actually,  so this is a test that you should  do  then.	0
 Um, if you're getting fifty-six percent over here, uh that's in noise  also,  right?	0
 If you're getting fifty-six  here,	0
-try adding together the probabilities of all of [MASK] here and all	0
+try adding together the probabilities of all of [MASK] here and all of [MASK]	0
 and see what you get  then.	0
 I bet you get better than sixty- three.	0
 Well I don't know, but -	0
@@ -356,7 +356,7 @@ You have the distances to work with, yeah.	0
 Cuz actually Mississippi State people did use support vector machines for uh uh speech recognition and they were using it to estimate probabilities.	0
 they had a - had a way to translate the distances into - into probabilities with the - with the simple	0
 uh [MASK]	0
-Yeah, and d- did they use  [MASK]	0
+Yeah, and d- did they use  [MASK]  or a  [MASK]  type thing? And didn't they like exponentiate or something and then  divide by the sum of them, or - ?	0
 Yeah, there's some - there's like one over one plus the exponential or something like that.	0
 Oh, so it  is  [MASK]	0
 Did the - did they get	0
@@ -415,7 +415,7 @@ I expect you could do that. That's probably not what he's going to do on his cla
 So um have you had a chance to do	1
 this um thing we talked about yet with the uh -	1
 Uh. No actually I was going a different - That's a good question, too, but I was gonna ask about the -	1
-changes to the data in comparing [MASK]	1
+changes to the data in comparing [MASK] and [MASK]	1
 for [MASK]	1
 Well what I've been -	0
 "Changes to the data", I'm not sure I -	0
@@ -423,7 +423,7 @@ So we talked on the phone about this, that -	1
 that there was still a difference of a -	1
 you told me that there was a difference in how the normalization was done.	1
 And I was asking if you were going to do -	1
-uh for [MASK] with the normalization done as it had been done	1
+uh for [MASK] with the normalization done as it had been done for [MASK]	1
 right, no I haven't had a chance to do that.	1
 What I've been  doing  is	1
 trying to figure out - it just seems to me like there's a um -	1
@@ -540,7 +540,7 @@ So that, in effect, what I could  do  is use our code but produce [MASK]	0
 and compare that directly to -	0
 you can definitely change the - [MASK] from being uh	0
 a uh trapezoidal integration to a - a - a triangular one,	0
-which is what the typical mel - [MASK] uh	0
+which is what the typical mel - [MASK] uh [MASK] does.	0
 And some people have claimed that they got some better performance doing that, so you certainly could do that	0
 But the fundamental difference, I mean, there's other small differences -	0
 There's a cubic root that happens, right?	0
@@ -616,7 +616,7 @@ I use that to normalize the s- the current center frame	1
 by [MASK]	1
 And I then - then I move to the next frame and I -	0
 Well, actually I calculate all the means first and then I do the subtraction.	0
-the - I tried that with [MASK]	1
+the - I tried that with [MASK] [MASK] setup of [MASK] training on clean T_I-digits,	1
 it - it helped um in a phony reverberation case	1
 where I just used the simulated impulse response	1
 the error rate went from something like eighty	1
@@ -633,7 +633,7 @@ on - on the far field  data	0
 uh for - recorded in - in  meetings.	0
 Adam ran [MASK] recognizer.	0
 On the  near  field, on the ne-	0
-On the  far  field  also.  He did one [MASK] channel and	0
+On the  far  field  also.  He did one [MASK] channel and one [MASK] channel.	0
 Oh! I didn't  recall  that.	0
 What kind of numbers was  he  getting with that?	0
 I'm not  sure,  I think it was about five percent error for [MASK] channel.	0

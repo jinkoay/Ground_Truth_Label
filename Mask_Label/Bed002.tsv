@@ -82,7 +82,7 @@ And then  also,  um, it's a very, very hard task in terms of speech recognition.
 And so, uh, on the far field mikes we can expect very low recognition results.	0
 So we wanted [MASK] to at least  isolate  the difference between the two.	0
 So that's why we're recording in parallel with [MASK] at the same time.	0
-And then,  all  these channels are recorded simultaneously and [MASK]   so that you can also do things like, um,	0
+And then,  all  these channels are recorded simultaneously and [MASK]   so that you can also do things like, um, [MASK] on all the microphones and do research like that.	0
 Our intention is to release this data to the public,	0
 um, probably through f- through a body like [MASK]	0
 And, uh, just make it as a generally available corpus.	0
@@ -147,7 +147,7 @@ Okay, I - This, um -	0
 These intentions, we - w- w- we  could,	0
 call it the - [MASK]	0
 where we just want to - eh - s- get the overview or look at it,	0
-and the, well, [MASK] I always come up with - with silly names. So th	0
+and the, well, [MASK] I always come up with - with silly names. So this [MASK] means, literally translated, "to touch".	0
 So - But sometimes the - [MASK] is really relevant in the - in the sense that, um,	0
 if you want to, uh -	0
 If you don't have the intention of  entering  your building,	1
@@ -205,7 +205,7 @@ So, basically  all  of these things will result in the same	0
 Sort of action "go", and then an object. Yeah? and a source. So it's - it's - it's way too crude to d-	1
 capture those differences in intentions.	1
 So, I thought, "Mmm! Maybe for a deep understanding task, that's a nice sort of playground or first little thing."	1
-Where we can start it and n- sort of look - "O_K, we  need,  we gonna get [MASK]	1
+Where we can start it and n- sort of look - "O_K, we  need,  we gonna get [MASK] [MASK]	1
 We may need additional part of speech, or maybe just some information on the verb, and [MASK]	0
 We'll see. And I will try to - to sort of come up with a list of factors that we need to get out of there, and maybe we want to get a g- switch for the context.	1
 So this is not something which we can actually monitor,	0
@@ -213,7 +213,7 @@ but just is something we can set.	0
 And then you can all imagine sort of a - [MASK] depending on - on what, um, comes out.	0
 We want to have an - a structure resulting	0
 if we feed it through [MASK] or - or something along those lines.	1
-We'd get an inferred intention, we - we produce a structure that differentiates between [MASK]	1
+We'd get an inferred intention, we - we produce a structure that differentiates between [MASK] [MASK] and the,	1
 um, [MASK] Which I think we maybe want to	1
 That's my idea. It's up for discussion.	0
 We can change all of it, any bit of it.	0
@@ -236,7 +236,7 @@ And, so that's - that's the quote "deep" that we're trying to get at. And, Rober
 doesn't give you any way to - Not only doesn't it  do  it,	0
 but it also doesn't  give  you enough information to do it. It isn't like, if you just took what the front-end  gives  you,	0
 and used some clever  [MASK] on it, you would be able to figure out which of these is going on.	0
-uh, and this is - Bu- I- in general it's gonna be true of any kind of deep understanding, there's gonna be [MASK] there're gonna b	1
+uh, and this is - Bu- I- in general it's gonna be true of any kind of deep understanding, there's gonna be [MASK] there're gonna be [MASK] there're gonna be [MASK]	1
 and they gotta be combined.	1
 And, my idea on how to  combine  them is with [MASK] although it may turn out that t- some totally different thing is gonna work better.	1
 the idea would be that	0
@@ -303,14 +303,15 @@ So, where would we extract that information from? From [MASK]	0
 No.  See, [MASK] is not gonna give th- What he was  saying  is,	1
 [MASK] does not have  any  of that. All it has is some  really  crude stuff saying,	1
 "A person wants to go to a place."	0
-[MASK]  itself  refers t	0
+[MASK] is [MASK]	1
+[MASK]  itself  refers to [MASK]	0
 It's just a language. Right, yeah.	0
 So we have th- w- we- we	0
 we have to have a better w- way of referring to -	0
 [MASK] I think it's what they call it, really,   oder   -	0
 o- th- No, actually, [MASK] is what we're gonna get.	0
 Is- i- but they c- they call it [MASK] but tha-  Anyway.	0
-In- in- a- [MASK]  They	0
+In- in- a- [MASK]  They call it [MASK]	0
 So, th- they're gonna give us some cr- uh - or - We can assume that y- you get this crude information.	1
 About intention, and that's all they're going to provide.	1
 And they  don't  give you the kind of object, they don't give you	1
@@ -357,7 +358,7 @@ Yeah, well I think we ought to d-	1
 a- As we have all along, d-	1
 We - we've been distu-	1
 distinguishing between  [MASK] which is what you have as context,	1
-and  [MASK] which you have	1
+and  [MASK] which you have as [MASK] I don't know what the H_ means.	1
 So we can work out terminology later.	0
 So, they're - they're quite distinct.	0
 I mean, you  need  them both, but they're quite  distinct.	0
@@ -372,7 +373,7 @@ see if we could actually  build  [MASK]	1
 that  would  make [MASK]	1
 uh, in a plausible  way,  given	1
 these - We have all these transcripts and we're able to,	1
-by  hand,  extract the features to put in [MASK] Saying, "Aha! here're the things which, if you  get  them out of - out of the language and discourse, and put them int	1
+by  hand,  extract the features to put in [MASK] Saying, "Aha! here're the things which, if you  get  them out of - out of the language and discourse, and put them into [MASK]  it would tell you	1
 which of these three uh,  intentions  is most  likely. "	1
 And if - to actually  do  that, build it, um - you know, run it - y- y- run it on the  data  where you hand-transcribe	1
 And see how that goes.	0
@@ -593,14 +594,14 @@ Now, how you  determine  that	1
 is another  issue.  But fo- for the  current  problem,	1
 it would just be, "O_K, if you can be sure that it's a tourist, versus a businessman, versus a  native, "	0
 uh, that would give you	0
-a  lot  of  discriminatory   power and then just have a little section in your [MASK] that said,	1
+a  lot  of  discriminatory   power and then just have a little section in your [MASK] that said, [MASK]	1
 Though sin- f- in the  short  run, you'd  set  them,	1
 and see ho- how it worked, and then in the longer run,	1
 you would figure out how you could  derive  them.	1
 From previous discourse or w- any- anything else you  knew.	1
 So, how should - What's the uh, plan? Like, how should we go about figuring out these -	0
 O_K. So, first of all is, uh, do e- either of you guys,	1
-you got a favorite [MASK] that you've, you know, played with?	1
+you got a favorite [MASK] that you've, you know, played with? [MASK] or something?	1
 O_K. Well, anyway. f-  Get  one.	0
 O_K? So - y- so one of th- one of the things we wanna do is actually,	1
 uh, presumably one that's got good interactive abilities, cuz a  lot  of what we're gonna be d-	0
@@ -646,7 +647,7 @@ relatively easily, get all the  other  Java packages for  GUIs   or whatever els
 a lot of people doing research  use  that.	0
 But  it   may  not  be - I have  no  idea whether that's the best choice an- and	1
 there're plenty of people around, students in the department who, you know, live and  breathe  [MASK] So, uh,	1
-tool kit that um, Kevin Murphy has developed,	0
+tool kit that um, Kevin Murphy has developed,--/Jargon--	0
 which might be useful too. And it's available Matlab code.	0
 So, yeah, Kevin would be a good person to start with.	0
 Nancy  knows him well. I don't know I don't know whether you guys have met Kevin yet or not, but, uh -	0
@@ -686,7 +687,7 @@ if - if there are l- nets that can actually lear- try to set their own, um,	0
 probability factors based on - on - on - on input -	0
 which is in file format,	0
 um, get  really  w- wild on this, we may actually want to use some - some corpora that  other  people made and, for example, if - if they are in - in  [MASK]	1
-then we get X_M_ L  documents with [MASK] t- you know, t-	1
+then we get X_M_ L  documents with [MASK] t- you know, t- [MASK]	1
 Um,  Michael   has a project where - you know, [MASK] and he does it all in MATE, and so	0
 they're actually annotating data and data and data.	0
 if we  think  it's  worth  it one of these days,	0
@@ -698,7 +699,7 @@ that the data will come, and you don't have to actually design the nets.	0
 Nuh. Just a back door that -	0
 I - I think we should devote m-	0
 Could  happen. Yeah. So in terms of - of the, um -	1
-the - what [MASK] gives us	1
+the - what [MASK] gives us for [MASK] it could be that they're fine, or it could be eeh.  You don't -	1
 You know, you don't really  like  it.	0
 So we're not - we're not abs- we're not  required  to use	1
 their packages. We  are  required at the end to give them stuff in their  format,  but hey.	1
@@ -706,7 +707,7 @@ It doesn't control what you do in- you know,  internally.	0
 What's the time frame for this?	1
 Yeah bu- w- I'd like that this - y- yeah, this  week,  to ha- to n- to	1
 have y- guys, uh, you know, pick	1
-the - y- you know, [MASK] and tell us what it is, and give u	1
+the - y- you know, [MASK] and tell us what it is, and give us [MASK] so we can play with it or something.	1
 And, then as soon as we  have  it,	1
 I think we should start	1
 populate  it for this  problem.	1
@@ -775,7 +776,7 @@ and then for these certain tasks,	1
 and  we know that [MASK] are gonna be a  core  domain of the new system,	1
 it all - all of a sudden it does much  better.	1
 tell the person, as I s- showed you on this map,	0
-n- you know, produce either you know, a red line that goes to [MASK] or a red line that goes t	0
+n- you know, produce either you know, a red line that goes to [MASK] or a red line that goes to [MASK] or red line that goes to the door,	0
 So not only can you show that you know something sensible but ultimately, if you  produce  a system like this, it	1
 takes the person where it wants to  go.	1
 always to the geometric  center  of a building, which is what they do now.	1
