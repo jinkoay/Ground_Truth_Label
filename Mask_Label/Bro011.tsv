@@ -47,6 +47,7 @@ well,  we don't  know  really what's the important part	0
 in the frequency response and there is the fact that	0
 in the very low frequency,	0
 these filters don't - don't	0
+to the uh [MASK]	0
 probably a reason why,  yeah,  [MASK] helps because	0
 it - it,  yeah,  it removed this mean.	0
 Yeah,  but perhaps everything could -	0
@@ -79,6 +80,7 @@ too short with the time and	0
 But there was also problem -	1
 perhaps a problem of communication. So,  yeah.	1
 Now we will try to -	1
+Yeah, [MASK]	0
 Alright. Well maybe we should just	0
 uh I mean you're - you're bus- other than that you	0
 folks are busy doing all the - all the things that you're trying that we talked about before right? And this - machines are busy and	0
@@ -130,6 +132,7 @@ I know this is mine here.	0
 you're also gonna be doing [MASK] between the -	0
 the close mounted and the -	0
 and the - the - the -	0
+what we're calling [MASK]	0
 I'm hoping Espen will do it.	0
 I - I think he's at least	0
 planning to do it for the	0
@@ -200,6 +203,7 @@ um within the sub-bands and um and at the upper level detecting uh sonorance and
 So how did he combine all these features? What - what r- mmm	0
 Um he used uh um uh	0
 where the [MASK] are - correspond to individual tests of	0
+whether there is [MASK]	0
 and then at an upper-level um there's like this soft "OR" gate so if -	0
 Oh right. You were talking about that, yeah.	0
 And the other thing you were talking about is - is - is where we get the  targets  from.	0
@@ -304,6 +308,7 @@ you - you wanna get a strong concurrence of all the different things that indica
 and then he "OR's" across the different - soft-"OR's" across the different uh	0
 for the training of the "AND" - "AND'ed" things	0
 uh as a hidden variable,	0
+and is [MASK]	0
 So he doesn't have -	0
 Whereas what  we  were doing is -	0
 the  phone  target and then just back propagating	0
@@ -325,7 +330,9 @@ Right. For the full band.	0
 But he's - but what he's- but what he's  not  training up - uh what he doesn't	0
 depend on as truth is	0
 I guess one way of describing would be	0
-i- It's hard to even answer that what you really mean is that [MASK] So	0
+if [MASK]	0
+[MASK]	0
+i- It's hard to even answer that what you really mean is that __JARGON__the whole  sound  is sonorant.__JARGON__ So	0
 then  it comes down to, you know, to what extent should you make use of information from particular band	0
 in a  sense  sort of this  hard  decision that you should - you should use everything	0
 And uh because in the  ideal  case we would be going for posterior  probabilities,  if we had	0
@@ -341,6 +348,7 @@ it's unclear um eh [MASK] right.	0
 Using TIMIT? or using -	0
 he does some fine tuning	0
 I mean we ha- we have a kind of	0
+because we do [MASK]	0
 uh so there is some-	0
 based on the data but it's -	0
 I think it s- doesn't seem like it's quite the same,	0
@@ -360,6 +368,7 @@ I could say a little bit about w-	1
 wanted to do this experiment to see um	1
 uh what happens if we	1
 uh improve the performance of the back-end	1
+[MASK]	1
 and see how that affects things.	1
 And so I had this um -	0
 I think I sent around last week a -	0
@@ -504,6 +513,7 @@ just continue on these - these same things we've been talking about	1
 Yeah, I guess we can try to	1
 have some kind of new baseline for next week perhaps.	1
 with all these minor things	1
+play with [MASK]	0
 retry [MASK] and things like that.	0
 Yeah we - we have a big list.	0
 You have a big list of -  of things to do.	1
@@ -523,6 +533,7 @@ I - I think uh Mike tried it	0
 and he says it's impossible so [MASK]	0
 [MASK] of - of Matlab which you can batch.	0
 I was going  crazy  trying to  do  that.	0
+[MASK]  so ?	0
 Uh, [MASK] Yeah it's - it's - it's free. I think we have it here	0
 And it does the same syntax and everything eh	0
 like Matlab, or - ?	0

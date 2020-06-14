@@ -30,6 +30,7 @@ Yeah. They can be very different. Yeah. Mm-hmm.	0
 So do you maybe make errors in different places? Different kinds of errors?	1
 I didn't look, uh, more closely. Um. It might be, yeah. Mm-hmm.	1
 Well, eh, there is one thing that we can observe, is that the mean are more different for -	0
+for [MASK] and __JARGON__ C_one __/JARGON__ than for the other coefficients.	0
 for [MASK] and [MASK] than for the other coefficients.	0
 And - Yeah, it - the C_one is -	0
 There are strange - strange thing happening with [MASK] is that	0
@@ -153,7 +154,7 @@ It was the same system.	0
 A third thing is that, um,	1
 I play a little bit with the, um -  finding what was different between,	1
 And there were a couple of differences, like [MASK] were not the same.	0
-he had [MASK]  blind  equalizat	1
+he had __JARGON__ the France Telecom __JARGON__  blind  equalizat	1
 the number o- of [MASK] that was - were used was different. You used thirteen and we used fifteen.	1
 Well, a bunch of differences. And, um, actually	0
 the result that he - he got were much better on [MASK] especially.	0
@@ -163,6 +164,7 @@ was the main factor for this difference. And it seems that	0
 Um,  so when we put s- some noise compensation	0
 the, um, [MASK] that - that's derived from noisy speech is not more - anymore optimal.	0
 And it makes a big difference, um,  on [MASK]	0
+Uh, if we use the - the old [MASK] I mean __JARGON__ the L_D_A filter __/JARGON__ that was in the proposal, we have, like, eighty-two point seven percent recognition rate,	0
 Uh, if we use the - the old [MASK] I mean [MASK] that was in the proposal, we have, like, eighty-two point seven percent recognition rate,	0
 on noisy speech when the system is trained on clean speech.	0
 and when we use the filter that's derived from clean speech we jumped -	0
@@ -248,6 +250,7 @@ So maybe, um, Chronos or -	0
 An- and you're gonna - the - you're gonna do phone recognition with that? O_K, O_K.	0
 So. And, uh, another thing would be to extend this to, uh, digits or something where I can look at whole words.	0
 And I would be able to see, uh, not just, like, [MASK] events,	0
+but, um,  [MASK] events.	0
 So, like, this is from a stop to - to a vo- a vocalic	0
 segment. You know, so- something that is transitional in nature.	0
 So that's - that's it.	0
@@ -331,6 +334,7 @@ stuff. And then he showed up and then I told him. And then he gave me a whole bu
 uh, thesis and then  that was something which came up. And then, um -	1
 uh, thinking of using  that   also  in this, uh,	0
 W- [MASK] because that is a m- modified [MASK] approach, where instead of using the  current  frame, it uses	0
+W- [MASK] because that is a m- modified [MASK] approach, where instead of using the  current  frame, it uses	0
 adjacent frames also in designing [MASK]	0
 So instead of designing our own new [MASK] I may just use one of those Carlos filters in - in this implementation and see whether it - it actually gives me something better	1
 than using  just  the current f- current frame, which is in a way, uh, something like the smoothing - [MASK] -	0
@@ -344,8 +348,10 @@ the subspace approach. And I'm in the process of, like, building up that stuff.	
 I guess - Yep. I guess that's it. And, uh, th- th- that's where I am right now.	0
 Oh. How about you, Carmen?	1
 Mmm. I'm working with [MASK]	1
+Um, I do several experiment with the Spanish database first, only with [MASK] and nothing more. Not __JARGON__ V_A_D, __/JARGON__ n	1
 Um, I do several experiment with the Spanish database first, only with [MASK] and nothing more. Not [MASK] n	1
 What - what is [MASK] again?	0
+Eh, [MASK]	0
 To remove the noise too.	1
 I think I ask you that every single meeting, don't I?  I ask you that question every meeting.	0
 Yeah. If - Well -	0
@@ -356,6 +362,7 @@ And when we put the -	1
 [MASK] the result is better. And we put everything,	1
 the result is better, but it's not better than the result that we have without [MASK]	1
 I see. So that  @@	1
+given that you're using [MASK]  also,  the effect of __JARGON__ the V_T_S __/JARGON__ is not  so far -	1
 given that you're using [MASK]  also,  the effect of [MASK] is not  so far -	1
 Do you - How much of that do you think is due to just	0
 the particular implementation and how much you're adjusting it? Or how much do you think is intrinsic to - ?	0
@@ -408,8 +415,10 @@ And - but Y_ is what? Y_ of - the  spectrum  or - ?	0
 Uh, this - this is  this  and this is  this.	0
 No, no. The top Y_ is what?	0
 Is that  [MASK] No, is that  [MASK] Is it - ?	0
+Is that  [MASK] No, is that  [MASK] Is it - ?	0
 Uh, this is the noisy speech.	0
 Yeah. I guess it's the power spectrum of noisy speech. Yeah. And -	0
+Yeah. It's [MASK]	0
 This is the noisy - Yeah, it's -	0
 Yeah, O_K. So this - it's the magnitude squared or something. O_K, so you have [MASK] added there	0
 and down  here  you have -	0
@@ -534,6 +543,7 @@ beginning of the sentence. This is the first experiment. And I fix this for all 
 Uh, because - well, the V_T_S methods -	0
 In fact the first thing that I do is to - to obtain, uh, an expression for E_ -	0
 probability e- expression of - of E_.  That   mean that [MASK] - mmm, with [MASK] we obtain, uh -	0
+probability e- expression of - of E_.  That   mean that [MASK] - mmm, with [MASK] we obtain, uh -	0
 well, we - we obtain the means for each Gaussian	0
 This is one. Eh, this is the composition of the dictionary.	0
 This one thing. And the other thing that this - with these methods is to, uh, obtain - to calculate this value.	0
@@ -547,6 +557,7 @@ This is the methods that say that we're going obtain this.	0
 And we can put that this is equal to the estimated value of E_ minus a function	0
 that conditional to [MASK] t	0
 the term - after develop this, the term that we - we take.	0
+Give [MASK] and, uh,	0
 And I can  put that this is equal to  the  noise signal minus -	0
 Well, I put before  this name,  uh -	0
 And I can calculate this.	0

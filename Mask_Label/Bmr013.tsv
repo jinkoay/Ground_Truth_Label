@@ -1,5 +1,6 @@
 Um, so I wanted to discuss digits briefly,	0
 but that won't take too long.	0
+[MASK]	1
 do we wanna say something about the,	0
 Yeah, why don't you summarize the -	0
 an update of the, uh, transcript?	0
@@ -19,6 +20,7 @@ You know, someone fills out the form and then they're not at the meeting and so 
 Um, but those are almost all filled in as well.	0
 And so, once we're - it's  done  it would be very nice to train up a recognizer and actually start working with this data.	1
 So we'll have a corpus that's [MASK]	1
+[MASK]	1
 So, I - I extracted,	0
 Ther- there was a file sitting around which people have used here as a test set.	0
 It had been randomized and so on and that's just what I used to generate the order.	0
@@ -94,6 +96,7 @@ Anyway,  just an indication once you get into this kind of realm even if you're 
 It's gonna be fun to see how we,	0
 How did we do on [MASK]	0
 Well [MASK]  are so much different s- it's gonna be,	0
+I mean [MASK] are not the same as __JARGON__T_I-digits,__/JARGON__ for example.	1
 I mean [MASK] are not the same as [MASK] for example.	1
 So I'm - I'm not sure how much of effect that will have.	0
 What do you mean, the prosodics?	0
@@ -162,7 +165,9 @@ Cuz I don't think anybody is, I- at least, I don't know,	0
 That could - could be an interesting design, too, cuz then you'd have the com- the comparison of the,	0
 uh, predictable speech versus the less predictable speech and maybe you'd find that it worked in,	0
 case of the pr- of the, uh, non-predictable.	0
+[MASK] too, because,	0
 they wouldn't be able to mark, like,	0
+you know, uh, [MASK]	0
 Some things are really difficult.	0
 M- I think we can get Ohala in to,	0
 give us some advice on that.	0
@@ -180,9 +185,11 @@ I guess with vowels that would be pretty hard,	0
 To identify actually, you know, which one it is?	0
 It would seem to me that [MASK] would be m- more,	0
 g- uh, I mean that's - I think about [MASK] I think about,	0
+[MASK] which means,	0
 Points  of articulation? What do you mean?	0
 So, is it, uh, [MASK] or is it, you know,	0
 Which - which are all like where - where your tongue comes to rest.	0
+Place of ar- [MASK]	0
 Place. Thank you, what - whatev- whatever I s- said, that's - I really meant place.	0
 O_K we got our jargon then, O_K.	0
 the pronunciation models in the dictionary, and,	0
@@ -291,6 +298,7 @@ so it should be something broader. But,	0
 The -  but  uh where I'm coming from is, uh,	0
 we're coming off of stuff that  Larry Saul  did with - with, um,	0
 uh,  John Dalan  and  Muzim Rahim  in which, uh, they,	0
+a m- [MASK]	0
 uh, value for m- for - for a particular feature.	0
 And this is part of a larger,	0
 image that  John Dalan  has about how the human brain does it in which he's sort of imagining that,	0
@@ -325,6 +333,7 @@ to do it with respect to,	0
 generate first  guesses  at what [MASK] would be,  based  on the phone representation at that lower level. It might be a time gain.	0
 But also in terms of comparability of, um,	0
 Well cuz the- yeah, and then also, if you did it on [MASK] you would have,	0
+[MASK] You'd have it,	0
 from the lowest level, [MASK] then you'd have the,	0
 you know, the phonetic level that Steve did, and,	0
 Yeah that - that's all I was thinking about. it  is  telephone band, so,	0
@@ -395,6 +404,7 @@ But not just fill pauses but all kinds of ways of  interrupting  and so forth.	0
 And some of them are,  yeah, "uh-huh"s, and "hmm"s, and,	0
 Grunts, uh,  that  might be interesting.	0
 He's got lip -  lipsmacks.	0
+[MASK]	0
 I worked a little bit on the - on [MASK] to - to get another version which d	1
 And, what I did is I used some normalized features which, uh, look in- into the - which is normalized energy, uh,	1
 energy normalized by the mean over the channels and by the,	1
@@ -601,9 +611,11 @@ Uh, so I think that's a good - you can always clean that up, post-processing.	0
 So a lot of little details, but I think we're,	0
 coming to some kinda closure,	0
 on that. So the idea is then,	1
+uh, [MASK]	1
 with some scripts, you know, convert that to -	1
 to a reference for the recognizer and we can,	1
 ready - you know, as soon as that's ready, and as soon as the recognizer is here we can get,	1
+[MASK]	1
 working on it, so we're,	0
 I dunno a coup- a week or two away I would say from,	0
 uh, if - if that process is automatic once we get your [MASK]	0

@@ -47,6 +47,7 @@ So those are - those are the two options.	0
 But there's often things where people do false starts. I know  I've  done it, where I say -	0
 What [MASK] did with that is if they did a correction,	1
 and they eventually did read [MASK]	1
+you extract [MASK]	1
 Oh, you're talking about where they  completely  read the wrong string and didn't correct it?	1
 Which happens in a few places.	0
 Well, and s- and you're talking  string-wise,  you're not talking about the entire page?	0
@@ -200,6 +201,7 @@ Yeah it's go-  higher  level	1
 stuff than we've been talking about for Meeting Recorder.	1
 Yeah the other things that we have, uh,	0
 uh,  especially  with the newer things - with the	0
+more [MASK]things are -	0
 are - are - are lower level.	0
 uh, mapping on the level of - of, um,	1
 So it's all- it's all stuff that none-  none  of us are doing right now,	0
@@ -319,6 +321,7 @@ But m- I was experimenting  with  doing this by hand and	0
 I really  do  think that it's  wise  that we've  had  them start the way we have with,	1
 uh, m- y- working off the mixed signal, um,	1
 doesn't require them to do the ti-	1
+uh, [MASK] for every single __JARGON__channel__/JARGON__ at a t- uh,	1
 uh, [MASK] for every single [MASK] at a t- uh,	1
 Um, I  did  discover a couple  other  things by  doing  this though, and  one  of them is that, um,	0
 um, once in a while [MASK]  will be overlooked by	1
@@ -356,6 +359,7 @@ some kind of a, um -	1
 and other fre- [MASK] that, eh,	1
 eh, I have to -	1
 to talk with y- with  you,  with the group,	1
+eh, about [MASK]	1
 t- t- results - similar results,	0
 like, eh, the paper, eh,	0
 that I - I am following.	0
@@ -392,12 +396,14 @@ And,  eh, if you - if you compare the - [MASK]  eh,	0
 of the - of [MASK]	0
 that, eh - that, eh, they  used   eh, to -  to - to get, eh, the -	0
 it probably too, you can find,	0
+eh, that [MASK]	0
 eh - the output of [MASK]	0
 And in  my case - i- in -  equal  with our signal,	0
 Yeah. I'd hafta look at that and think about it. It's - it's -	0
 it's - I haven't worked with that either so I'm not sure -	0
 the simple-minded way I suggested was what Chuck was just saying, is that you could make a - a sieve.	0
 You know, y- you actually say that here is -	0
+let's hypothesize that it's [MASK] or __JARGON__that frequency,__/JARGON__ and -	0
 let's hypothesize that it's [MASK] or [MASK] and -	0
 and, uh, maybe you - maybe you could use some other	0
 short cut it by - by uh, making some guesses, but -	0
@@ -417,6 +423,7 @@ To get the pitch, yes.	0
 But [MASK] are gonna be,	0
 I don't know what the right word is. Um,	0
 they're gonna be dampened by the	0
+The response of [MASK]	0
 just looking at the  energy  on those - at [MASK]	0
 is that gonna - ?	0
 Well so the thing is that	0
@@ -463,6 +470,7 @@ I - I mean I - I really -	0
 I- I really  thought  that the best way to do it,	0
 and I'm speaking with no experience on this particular point,	0
 but,  my  impression  was that the best way to do it was  however  you -	0
+You've used [MASK]  whatever.	0
 However  you've come up - you - with your  candidates,	0
 you wanna see how much of the energy	0
 as  coppo-   as opposed to all of the - all - the  total  energy.	0
@@ -494,6 +502,7 @@ and to study the energy and the multiples of	0
 And another - another algorithm I have	0
 is the - in [MASK]	0
 based on - on -	0
+on [MASK] to -	0
 to - to calculate the - [MASK]	0
 Eh, uh n- the d-	0
 I mean I - I have two - two algorithms.	0
@@ -501,6 +510,7 @@ But, eh, in m-  i- in my  opinion  the - the - [MASK]	0
 the - the - the  behavior,	0
 th- it was very interesting.	0
 Because I - I saw  eh,  how  the spectrum  concentrate, eh,	0
+around the - [MASK]	0
 when I apply the - the rule,	0
 eh, of the - in the -  [MASK] of the ne- of the continuous filter in the - the near filter,	0
 the - the rule that, eh, people propose in the paper	0
@@ -511,6 +521,7 @@ I - I - I not sure.	0
 I - I - I try to - to -	0
 When   first I -   I calculate, eh, using [MASK]	0
 I get the -  the spectrum,	0
+I obtained [MASK]	0
 And I change  the - the - the  @@ ,	0
 Oh, so you scale - you s- you do a -	0
 a scaling along that axis according to instantaneous - It's a kinda normalization.	0
@@ -520,6 +531,7 @@ eh, the range is different, and the resolution is different.	0
 the paper said that, eh,	0
 based   in the - in the -	0
 to - to calculate the	0
+they use [MASK]	0
 And, they said that, eh,	0
 if  these  peak are, eh, [MASK]	0
 or have to be very near.	0
@@ -528,6 +540,7 @@ I - and I don't know what is the -	0
 And I tried to - to put different distance,	0
 to put difference, eh -	0
 eh,  length   of the  window,	0
+eh, different  [MASK] ,	0
 and I - I not sure what happened.	0
 O_K, yeah well I - I guess I'm not  following   it enough. I'll  probably gonna hafta look at the paper, but -	0
 which I'm not gonna have time to do in the next few days,  but -	0

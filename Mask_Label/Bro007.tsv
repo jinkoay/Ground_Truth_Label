@@ -6,12 +6,18 @@ a system where we have these features	0
 that go through a network and then	0
 this same string of features but low-pass filtered with the low-pass filter used in	0
 And so these low-pass filtered	0
+[MASK]	0
+and then [MASK]	0
+just by adding [MASK]	0
 the output is used as	0
 let me try to restate this and see if I have it right.	0
+uh [MASK]	0
 go through a contextual - uh l- l- let's take this bottom arr-	0
 one pointed to by the bottom arrow.	0
+[MASK]	0
 yeah I could perhaps draw this on the blackboard	0
 The graph, yeah another one.	0
+So [MASK]	0
 that goes through the three paths.	0
 also using nine frames - several frames of features	0
 Adding the outputs just like in the second propose- the - the proposal from - for the first evaluation.	0
@@ -27,14 +33,19 @@ used as additional feature stream.	0
 Do you e- um they mentioned - made some - uh when [MASK] they - they mentioned some	1
 scheme that was used to evaluate all of these numbers.	1
 Uh actually the way things seems to	0
+[MASK] sixty for	1
 [MASK] well all these languages.	1
 the well match is forty, medium thirty five and high mismatch twenty-five.	0
+Um and [MASK]	1
 Generally [MASK] are very close	1
 whatever the - the system.	1
 put all these numbers together	1
 into a single number representing that? I mean not -	1
 O_K so that should be pretty easy to do and that would be good - then we could compare the two and say what was better.	1
 and how does this compare	0
+oh [MASK] -	0
+[MASK] the -	1
+[MASK]	1
 this is not exactly the result that they have	1
 because they've - they're still	1
 made some changes in the	1
@@ -64,6 +75,7 @@ some kind of compromise between the delay that's on the handset and on the serve
 Perhaps try to reduce the delay on the handset and -	0
 For the moment they have this large delay on the -	0
 Alright so for now at least that's not	0
+[MASK]	0
 doesn't have a huge effect but it - but it looks like it	0
 you know maybe could help in a couple places.	0
 I guess it makes a l- um at this point this is	0
@@ -83,16 +95,19 @@ and it - yeah and it's	0
 actually  does - does significantly better on the uh	0
 uh highly mismatched Italian, so	0
 s- and little worse on the	0
+mis- on [MASK] but	0
 Well yeah it's worse than a few things	0
 let's see how that c- that c- c- see how that comes out on their -	0
 their measure and - are - [MASK] or uh	0
 Now is T_I di - is- is that part of the result that they get for the uh development - th- the results that they're supposed to get at the end of - end of the month, [MASK]	0
 And see what else there is here.	0
 Oh I see - the one - I was looking down here at the - the o- the row below the	0
+that's with [MASK] -	0
 is it's around the same	0
 and so you could reduce the dimension as you were saying	0
 Yeah, it's - it's significantly worse well but - Mm-hmm.	0
 It's significantly worse - it's -	0
+Exc- [MASK]	0
 For many a mismatch it's worse.	0
 it's - it's mostly worse.	0
 But it is little. I mean	0
@@ -122,24 +137,30 @@ sizes of these test sets were actually.	1
 The size that we have?	0
 Yeah. We could - we could run - run some kind of significance tests or	0
 well also just to know the numbers, right. So these - these are word error rates so this is on how many words.	1
+Yeah we have [MASK]	0
 of sentences, no it's the number isn't.	0
 Yeah sure - sure. Yeah sure. Yeah.	0
 Yeah so anyway if you could just mail out what those numbers are and then - then - that - that be great.	1
 what else is there here?	0
 Um see the second -	0
 [MASK] but this is some different kind of silence or thing or -	0
+[MASK]	0
 It's only one small experiment to know what happened.	1
 also to in- include also the -	1
 [MASK] and the silence to pick up the silence and we include those.	1
+[MASK]	1
 Oh so you're only using the silence.	0
 Yeah, because when we apply	0
 No they're - I think there is [MASK] it is because we - we - we just keep	1
 in addition, yes. In addition t-	0
+uh [MASK]	1
 and we not s- we are not sure if we pick - we have the silence.	1
 we try to add the silence also in addition to the - these twenty-eight	1
 And what - and [MASK]	0
 Uh it's o- [MASK] it's - so the - th- it's the features from the first line	0
+[MASK]	0
 Right, but I mean what's the - what does the last row mean?	0
+So it's uh [MASK]	0
 on the - from the left path.	0
 I thought that was the one - I thought that was the second row.	0
 So what's the difference between the second	0
@@ -185,6 +206,7 @@ H- yeah. Have y- have you seen alt- d- do they have a format for how they want t
 There is the format of the table which is	0
 Yes, for those who are listening to this and not looking at it uh it's not really that impressive, it's just tiny.	0
 It's all these little categories	0
+[MASK]	0
 Do you know what no - what no mitigation means  here ?	0
 the problem with the error - channel error or	0
 Oh that's probably the -	0
@@ -196,11 +218,14 @@ tuning that's gone on on the	0
 see- what they call seen databases and	0
 there won't be tuning for the uh unseen.	0
 So they have - looks like they have	0
+so [MASK] I see.	0
+So [MASK] that's the	0
 Yeah, so it's not divided between languages you mean or -	0
 Well, it is. It is, but there's also - there's these tables over here for the - [MASK]over here for the car	0
 data which is - which is I guess all the multilingual stuff	0
 and then uh there's -	0
 they also split up between multi-condition and clean only.	0
+Yeah, actually yeah. [MASK]	0
 So we're doing that also, I guess.	0
 do we have the features? Yeah. [MASK] but we did not test it yet.	0
 Uh the clean training stuff.	0
@@ -260,6 +285,9 @@ I think it's O_K um.	0
 so basically we will - I think we'll try to -	1
 to focus on these three	1
 and perhaps I was thinking also a fourth one with	1
+just - [MASK] -	1
+[MASK] and	0
+[MASK]	0
 Yeah, I mean that would be pretty	1
 low maintenance to try it.	1
 Uh if you can fit it in.	0
@@ -268,6 +296,7 @@ I should tell people outside of this group too uh	0
 I don't know if we're gonna need it	0
 uh Jeff up at the	0
 has uh gotten a hold of a uh uh some kind of server farm of uh	0
+of [MASK]	0
 and - and uh so I think each one is four processors or something or - I don't know, eight hundred megahertz or something and	0
 there's four processors in a box and there's ten boxes and there's some kind of ti- so if - you know he's got a lot of processing power	0
 and um we'd have to schedule it but if we have some big jobs and we wanna -	0

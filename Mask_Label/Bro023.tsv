@@ -17,6 +17,8 @@ Um, I went around and talked to everybody, and it seemed like they - they had so
 coming up and telling me I figured we should just wait a week and they can tell both - you know, all of us.	0
 why don't we - why don't we start with  you,  Dave, and then, um, we can go on. So.	1
 So, um, since we're looking at putting this, um -	1
+[MASK] um, into __JARGON__ the SmartKom system, __/JARGON__	1
+[MASK] um, into [MASK]	1
 I- I did a test seeing if, um, it would work using past  only   and plus the present to calculate the mean. So, I did a test, um,	1
 where I used twelve seconds from the past and the present frame to, um, calculate the mean.  And -	1
 Twelve - twelve seconds back from the current  frame, is that what you mean?	0
@@ -113,6 +115,7 @@ that you didn't have enough speech because you need a longer - longer window to 
 then, uh, one tactic is - you know, looking at the larger system and not just at the front-end stuff  -	0
 is to take in, um, the speech with some  simpler  mechanism or shorter  time  mechanism,	0
 um, do the best you  can,  and come up with some al- possible  alternates  of what might have been  said.	0
+And, uh, either in the form of [MASK] or in the form of a lattice, or - or __JARGON__ confusion network, __/JARGON__ or whatever.	0
 And, uh, either in the form of [MASK] or in the form of a lattice, or - or [MASK] or whatever.	0
 And then the  decoding  of  that  is much, much faster or  can  be much, much faster if it isn't a big bushy network.	0
 And you can decode  that  now with speech that you've actually  processed  using this  longer  time, uh, subtraction.	0
@@ -124,6 +127,7 @@ So, uh - I mean, there's lots of things you can do in second passes, at all sort
 So is that, uh -	0
 O_K, uh, do you wanna go, Sunil?	1
 the last two weeks was, like - So I've been working on that [MASK]	1
+found that, uh, s- single - like, I just do a s- normal [MASK] like the standard method of __JARGON__ Wiener filtering. __/JARGON__	1
 found that, uh, s- single - like, I just do a s- normal [MASK] like the standard method of [MASK]	1
 And that doesn't actually  give  me any	1
 I mean, uh, b- it actually improves over the  baseline  but it's not like - it doesn't meet something like fifty percent or something.	1
@@ -142,6 +146,7 @@ and then I plug in [MASK] in that,  so it improves over not having	0
 So it improves but it - it doesn't take it like be- beyond like thirty percent over the baseline.	0
 But that's what I'm confused about, cuz I think - I thought that our system was more like  forty  percent  without  [MASK]	0
 well,   these  are not -	0
+Is this with [MASK]	0
 No, it's [MASK] So my baseline was,	0
 nine - This is like - w- the baseline is ninety-five point six eight,	0
 So I mean, if you can do all these in  word  errors it's a lot - a lot easier actually.	0
@@ -171,6 +176,7 @@ Oh, O_K. So - Sorry.	0
 So, with the - with [MASK] the performance was, um,	0
 ten  - O_K, so it's like four point three.	0
 Uh, and again, that's the ba- the ten point, uh, four	0
+That was with [MASK]	0
 So the h- well matched has like literally not changed by adding [MASK] on it.	0
 I mean, even the medium mismatch is pretty much the same.	0
 And the high mismatch was improved by twenty percent absolute.	0
@@ -182,10 +188,12 @@ um, uh, [MASK] for instance? Do you know?	0
 Yeah, so it looks to be, um -	0
 uh, eight point, uh, seven,  and, uh, thirteen point seven.	0
 So, uh, this is the	0
+[MASK]	0
 with - The noise estimation was based on	0
 Actually I started with - using [MASK] to estimate the noise and then I found that it works -	0
 it  doesn't work for Finnish and Spanish because [MASK] endpoints are not good	0
 to estimate the noise because it cuts into the speech sometimes, so I end up overestimating the noise and getting a  worse  result.	0
+So it works only for Italian by u- for - using [MASK] to estimate noise. It works for Italian because __JARGON__ the VAD __/JARGON__ was  trained  on Italian.	0
 So it works only for Italian by u- for - using [MASK] to estimate noise. It works for Italian because [MASK] was  trained  on Italian.	0
 So, uh - so this was, uh -	0
 And so this was giving -	0
@@ -224,6 +232,7 @@ output of the first stage and that doesn't -	0
 seems to be a - giving, I mean, that much improvement. I - I didn- didn't run it for the whole case.	0
 and what I t- what I tried was, by using the  same  thing but - Uh, so we actually found that	0
 [MASK] is very, like, crucial. I mean, just by changing	0
+[MASK] if you just take up __JARGON__ the VAD __/JARGON__ output from the channel zero,	0
 [MASK] if you just take up [MASK] output from the channel zero,	0
 when -  instead of using channel zero and channel one,	0
 because that was the p- that was the reason why I was  not  getting a lot of improvement for estimating  the  noise.	0
@@ -279,6 +288,7 @@ And - and then you	0
 What you do is you, uh b-	0
 So again, I can write down some of these eq- Oh, O_K.	0
 And then you do this - uh, this is [MASK] of the	0
+And "N_" is [MASK]	0
 And so this is [MASK]	0
 Right  actually, I guess -	0
 And then you multiply your [MASK] with this. You get an estimate	0
@@ -293,14 +303,17 @@ discontinuities across the spectrum because  @@  the filter.	0
 uh, so - that's what - that was just the first stage of [MASK] that I tried.	0
 basically s- uh, similar to just [MASK]	0
 It's all pretty related, yeah. It's - it's - there's a di- there's a whole class of techniques where you try in some sense to minimize the noise.	0
+And it's typically [MASK] uh - uh - uh, i- in - in - in some way. And, uh - uh, __JARGON__ spectral subtraction __/JARGON__ is - is, uh - uh, one approach to it.	0
 And it's typically [MASK] uh - uh - uh, i- in - in - in some way. And, uh - uh, [MASK] is - is, uh - uh, one approach to it.	0
 Do people use [MASK] in combination with the spectral subtraction typically, or is i- are they	0
+They are very s- similar techniques. So it's like I haven't seen anybody using s- [MASK] with __JARGON__ spectral subtraction. __/JARGON__	0
 They are very s- similar techniques. So it's like I haven't seen anybody using s- [MASK] with [MASK]	0
 I mean, in the long run you're doing the same thing but y- but there you make different approximations, and -	0
 in [MASK] for instance, there's a - a - an estimation factor. You sometimes will figure out what the noise is and you'll multiply	0
 that noise spectrum times some constant and subtract that rather than - and sometimes people -	0
 even though this really should be in [MASK] sometimes people s- work in the magnitude domain because it - it - it works better.  And, uh,	0
 So why did you choose, uh, [MASK] over some other - one of these other techniques?	0
+Uh, the reason was, like, we had this choice of using [MASK] __JARGON__ Wiener filtering, __/JARGON__ and there was one more thing which I- which I'm trying, is this sub space approach. So,	0
 Uh, the reason was, like, we had this choice of using [MASK] [MASK] and there was one more thing which I- which I'm trying, is this sub space approach. So,	0
 Stephane is working on [MASK]	0
 So I picked up -	0
@@ -349,6 +362,7 @@ and subtract this  estimation   of [MASK] from the, uh,	0
 but subtracting  more  when [MASK] is - is, uh,  low,	0
 which is a technique that it's	0
 "Subtracting more", meaning - ?	0
+So you overestimate [MASK] You multiply __JARGON__ the noise spectrum __/JARGON__ by a factor,	0
 So you overestimate [MASK] You multiply [MASK] by a factor,	0
 uh, which depends on [MASK] So, above twenty D_B,	0
 it's  one,  so you just subtract the noise.	0
@@ -433,6 +447,7 @@ Yep. Well, actually I tried,  something else based on this, um,	1
 is to - to put some smoothing, um, because it seems to - to help or it seems to help the Wiener filtering and, mmm -	1
 So what I did is, uh, some kind of nonlinear smoothing.  Actually I have a recursion that computes -	1
 Yeah, let me go back a little bit. Actually, when you do [MASK] you can,	0
+uh, find this - this equivalent in the s- in [MASK] You can uh compute, y- you can say that d- your __JARGON__ spectral subtraction __/JARGON__ is a filter, um, and the gain of this filter is the, um,	0
 uh, find this - this equivalent in the s- in [MASK] You can uh compute, y- you can say that d- your [MASK] is a filter, um, and the gain of this filter is the, um,	0
 signal energy minus what you  subtract,   divided by [MASK]	0
 And this is a gain that varies over time, and, you know, of course, uh, depending on the s- on the noise spectrum and on [MASK] And -	0
@@ -464,14 +479,19 @@ And then, uh, d- uh, nine point, uh, one.	0
 And finally, uh, sixteen point five.	0
 And this is, um, [MASK] plus what?	0
 Plus - plus nonlinear smoothing. Well, it's - the system - it's exactly the sys- the same system as Sunil tried, but -	0
+[MASK] Yeah.	0
+Yeah. But instead of double stage [MASK] it's - it's this  smoothed   __JARGON__ spectral subtraction. __/JARGON__ Um, yeah.	0
 Yeah. But instead of double stage [MASK] it's - it's this  smoothed   [MASK] Um, yeah.	0
 What is it the, um,	0
 for - Do they use [MASK] or - ?	0
+They use [MASK] right.	0
 It - it's [MASK]   am I right?	0
 Oh, it's - it's [MASK] Sorry.	0
 Well, it's some kind of [MASK] -	0
+Yeah, filtering. Yeah, it's not exactly [MASK] but some variant of __JARGON__ Wiener filtering. __/JARGON__	0
 Yeah, filtering. Yeah, it's not exactly [MASK] but some variant of [MASK]	0
 Yeah, plus, uh, I guess they have some sort of [MASK] as well.	0
+They have like - yeah, th- the - just [MASK] is a variant of __JARGON__ Wiener filtering, __/JARGON__ plus they do some -	0
 They have like - yeah, th- the - just [MASK] is a variant of [MASK] plus they do some -	0
 some smoothing techniques on the final filter. The - th- they actually do the filtering in the time domain.	0
 So they would take this [MASK] squared back, taking	0
@@ -482,6 +502,7 @@ I mean, I'm - I'm  @@ .  But .	0
 So, basically it's similar. I mean, what you did, it's similar because you have also two - two kind of smoothing. One in the time domain, and one in the frequency domain, yeah.	0
 It's similar in the smoothing and -	0
 Does the smoothing in the time domain help -	0
+Well, do you get this musical noise stuff with [MASK] or is that only with, uh, __JARGON__ spectral subtraction? __/JARGON__	0
 Well, do you get this musical noise stuff with [MASK] or is that only with, uh, [MASK]	0
 No, you get it with	0
 Does the smoothing in the time domain help with that?	0
@@ -524,6 +545,7 @@ Oh, yeah, it did very well.	0
 Um, but to some extent that's	0
 kind  of what we're  doing.  I mean, we're not doing  exactly  that, we're not	0
 trying to generate good examples but by trying to do the best classifier you possibly can,	0
+for these little [MASK]	0
 You could say it's sort of built in.	0
 It's - Yeah, it's kind of built into that. And - and that's why we  have  found that it - it  does  help.	0
 Um - so, um, yeah, I mean, we'll just have to try it. But I - I would - I would - I would  imagine  that it will help  some.	0
@@ -639,6 +661,7 @@ The only requirement is that you must have, in these five hundred milliseconds s
 Cuz this - these will help you to - to track the - the noise level.	0
 Um. So what I did is just to simply replace [MASK] uh, noise estimate by this estimate,	0
 first on [MASK] - Well,  only  on [MASK] actually. And it's, uh, slightly worse, like one percent relative compared t	0
+first on [MASK] - Well,  only  on [MASK] actually. And it's, uh, slightly worse, like one percent relative compared t	0
 I think the reason why it's not better, is that the [MASK] noises are all stationary.	0
 y- y- there really is no need to have something that's adaptive and - Uh, well, they are mainly stationary. Um.	0
 But, I expect s- maybe some improvement on [MASK] because, nnn, in this case the noises are all sometimes very variable.	0
@@ -646,6 +669,8 @@ Uh, so I have to test it. Mmm.	0
 But are you comparing with something - e- I'm - I'm - p- s- a little confused again, i- it -	0
 Uh, when you compare it with [MASK]	0
 which  [MASK] Is this - is this the - ?	0
+It's [MASK] s- uh, __JARGON__ Wiener filtering __/JARGON__ and __JARGON__ V_A_D. __/JARGON__ So it's their system but just I replace their noise estimate by  this  one.	0
+It's [MASK] s- uh, [MASK] and __JARGON__ V_A_D. __/JARGON__ So it's their system but just I replace their noise estimate by  this  one.	0
 It's [MASK] s- uh, [MASK] and [MASK] So it's their system but just I replace their noise estimate by  this  one.	0
 Oh, you're not doing this with  our  system?	0
 In i- I'm not - No, no.	0
@@ -709,6 +734,7 @@ Th- there seems to be a problem. Well. Because -	0
 So, it doesn't seems to help by  their  use of channel zero or channel one.	0
 Uh, you mean their d- the frame dropping, right?	0
 Yeah. So, u- but actually [MASK] was trained on  Italian  also, so -	0
+Um, the c- [MASK] that we have was trained on, uh, t- SPINE, right? Italian, and __JARGON__ T_I-digits __/JARGON__ with noise and -	0
 Um, the c- [MASK] that we have was trained on, uh, t- SPINE, right? Italian, and [MASK] with noise and -	0
 Uh, yeah. And it seems to work on Italian but not on the Finnish and Spanish data.	0
 So, maybe one reason is that s- s- Finnish and Spanish noise are different. And	0

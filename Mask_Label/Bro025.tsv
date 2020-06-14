@@ -6,6 +6,7 @@ Uh. Yeah, we formed a coalition actually. We already  made it  into  one.	0
 So, tell me about it.	0
 So it's - well, it's  [MASK]	0
 depending on if we put - if we [MASK] or not.	0
+And then with [MASK]	0
 depending on the, uh - [MASK] with	0
 [MASK] It's very simple, smoothing things.	0
 And, um,  the best result is	0
@@ -16,6 +17,7 @@ Are you looking at one in - in particular of these two?	0
 Yeah. So the sh- it's the sheet that gives fifty-f- three point sixty-six.	0
 the second sheet is abo- uh, about the same.	0
 It's the same, um, idea but it's working on [MASK]	0
+and it's [MASK]	0
 and there is also [MASK]	0
 Well, the results are similar.	0
 Yeah. I mean,  it's -  it's actually, uh,	0
@@ -23,6 +25,7 @@ very similar. I mean,  if you look at databases,	0
 one that has the smallest - smaller overall number is actually better on the Finnish and Spanish,	0
 uh, but it is, uh,	0
 worse on the, uh, Aurora - I mean on the, uh, T_I- [MASK] uh, uh.	0
+[MASK] Yeah.	0
 So, it probably doesn't matter  that  much either way.	0
 But, um, when you say u- uh, unified do you mean, uh, it's one piece of software now, or - ?	0
 So now we are, yeah, setting up the software.	0
@@ -84,6 +87,7 @@ And, uh, and it - it is, uh, very close in performance to the best thing that wa
 Uh, but, you know, looking at it another way, maybe more importantly, uh,	1
 we  didn't  have [MASK] uh,	1
 So will the  neural net operate on	0
+[MASK]	0
 Well, so - so - so argu-  arguably,  I mean, what we should do - I mean, I gather you have -	1
 Or will it operate on the original?	0
 it sounds like you have a few more days of - of nailing things down with the software and so on. But -	1
@@ -119,6 +123,8 @@ So, um, all of that is - is, uh - still seems like a good idea.	0
 The thing is now we know some other constraints. We can't have unlimited amounts of latency.	1
 Uh, y- you know, that's still being debated by the - by people in Europe but,	1
 uh, no matter  how  they end up there, it's not going to be  unlimited  amounts, so we have to be a little conscious of that.	1
+So there's [MASK] There'	1
+And, uh, there's [MASK]	1
 And I think those that we - last time we agreed that those are the three things that have to get, uh, focused on.	0
 What was the issue with [MASK]	1
 Well, better  ones are good.	0
@@ -163,6 +169,7 @@ Um, [MASK] is sort of in - in  parallel,  isn't i- isn't it, with - with the - ?
 Yeah. So - so what happened right now, we removed [MASK]	0
 So we - I mean, if - so if we - if - so which is like	1
 if we reduce the delay of V_A- So, the f- the final delay's now ba- is f- determined by [MASK]	1
+because [MASK]	0
 So if we re- if we [MASK] I mean, it's like effectively reducing the delay.	0
 How - how much, uh, delay was there on [MASK]	0
 So [MASK] both had a hundred millisecond delay.	0
@@ -197,6 +204,7 @@ Which could be a kind of a funny delta. Right?	0
 Oh, oh. So that's fixed in this. Yeah, we talked about that.	0
 So we have no  delta.  And then - So [MASK] is the  last  thing that we do.	1
 So, yeah, what we do is we [MASK]	0
+[MASK] of -	0
 It seems to be helping on [MASK] So that's why this improvement	0
 I got from the last result.	0
 So. And it actually r- [MASK]	0
@@ -209,6 +217,7 @@ Sometime we - we change two - two things together and -	0
 But it's around  maybe - it's less than one percent.	0
 But like we're saying, if there's four or five things like that then  pretty sho- soon you're talking real improvement.  @@  Yeah.	0
 And then we have to be careful with that also - with	1
+in  the proposal [MASK] was also, uh, working on - after __JARGON__frame-dropping.__/JARGON__	1
 in  the proposal [MASK] was also, uh, working on - after [MASK]	1
 Oh, that's a real good point.	1
 So. Well, we'll have to be -	0
@@ -254,6 +263,7 @@ We don't have nothing  that -	0
 Is there - was there any experiment with - ?	0
 Well, I - I did -	0
 The only experiment where I tried was	0
+I [MASK]	0
 and  [MASK] So I don't have a -	0
 I don't have a split, like which one helped  more.	0
 It - it was the best result I could get.	0
@@ -265,6 +275,7 @@ If it's, you know, essentially not better, then  it's probably not worth	0
 Yeah. But the  Guenter's   argument is slightly different. It's, like, ev- even - even if I use [MASK] I'm just averaging the -	0
 But the  Guenter's   argument is, like, if it is [MASK] then he doesn't u	0
 So he's, like - he tries to capture only [MASK] in it. So the averaging is, like,	0
+different from  [MASK]	0
 So, th- the  Guenter   was arguing that, I mean, even if you have [MASK] averaging it, like, over the  whole  thing is not a good idea.	0
 Because you're [MASK] and finally you end up getting something	0
 which is not  really  the s- because, you - anyway, you can't remove the stationary part fr- I mean,  [MASK]	0
@@ -282,12 +293,14 @@ So, should we keep the same - ? I think we	0
 might try to keep the same idea of having [MASK] but	0
 adding better features, I think, but - because the current network is just [MASK]	0
 Well, it's trained on [MASK] -	0
+[MASK] But	0
 there is no- nothing particularly robust in these features.	0
 So, I- I- uh -	0
 There's no [MASK] no -	0
 I don't remember what you said  the answer to my, uh, question earlier. Will you -	0
 will you train the net on -  after  you've done [MASK]	0
 This is a different net.	0
+So we have [MASK] which is like neur- that's __JARGON__a neural net.__/JARGON__	0
 So we have [MASK] which is like neur- that's [MASK]	0
 Oh, you're talking about [MASK] O_K. I see.	0
 So that -  that  [MASK] was trained	0
@@ -301,6 +314,7 @@ Uh, it actually comes at v- at the very end.	0
 So the net - the final net - I mean, which is [MASK] -	0
 so that actually comes after a chain of, like, [MASK] plus  everything.  So it's, like, it takes a long time to get a decision out of it. And -	0
 and you can actually do it for  [MASK] but	0
+not for [MASK]- f-	0
 You see, the idea is that the, um,	0
 initial  decision to - that - that you're in silence or speech happens pretty quickly.	0
 Oh, O_K. Cuz that's used by some of these other - ? Oh, O_K.	0

@@ -34,9 +34,11 @@ Uh one of them is to work on	1
 the semantics of [MASK] which is going to b	1
 uh making decisions. And decisions are going to turn out to be	1
 parameter choices for calls on other modules.	1
+so f- [MASK]	0
 gonna only have to choose parameters, but	0
 You know, a fairly large set of parameters. So to do that, we need to do two things. One of which is figure out what all the choices are, which we've done a fair amount.	0
 Then we need to figure out what influences its choices and finally we have to do some technical work on	0
+[MASK] and	0
 presumably estimates of the probabilities and stuff. But we aren't gonna do the probability stuff today.	0
 Technical stuff we'll do -	0
 another day. Probably next week.	0

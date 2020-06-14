@@ -80,12 +80,14 @@ we talk about wh- what's been going on.	1
 uh, what's been going on? Why don't we start - start over here.	1
 Well, preparation of the French test data actually.	1
 well, it is, uh, a digit French database of microphone speech,	1
+[MASK] and	0
 I've added noise to one part,	1
 with the - actually the	1
 so this is a training part.	0
 And then  the remaining part, I use for testing and -	0
 with other kind of noises. So we can -	0
 So this is almost ready. I'm preparing the - [MASK]	0
+So [MASK] -	0
 so [MASK] and so on, or - ?	0
 And again, I guess the p- the plan is, uh,	0
 The plan with  these data?	0
@@ -97,6 +99,7 @@ Oh, this is - yeah, yeah.	0
 @@  Tell him about the cube.	0
 I should tell him about the cube?  Yeah.	0
 Uh we - actually we want to, mmm,	0
+the feature dimension, [MASK]	0
 Well, what we want to do is	0
 first we have number for each  uh task.	0
 So we have the um,	0
@@ -108,11 +111,14 @@ And then to have systems with neural networks trained on,	0
 data from the same language, if possible, with,	0
 well,  using a more generic database, which is phonetically - phonetically balanced, and.	0
 So- so we had talked - I guess we had talked at one point about	0
+[MASK]	0
 Is that a possibility for that?	0
 Yeah, but, uh these corpus, w- w- there is a CallHome and a CallFriend also,	0
 The CallFriend is for language ind- identification. Well,	0
 anyway, these corpus are all telephone speech. So, um.	0
 This could be a -  a problem for -	0
+the - [MASK]	0
+[MASK] but -	0
 they are not  uh with telephone bandwidth.	0
 That's really funny isn't it?	0
 I mean cuz th- this whole thing is for  developing new standards for the telephone.	0
@@ -125,12 +131,14 @@ the features are computed locally, and so they aren't necessarily telephone band
 Did you  happen to find out anything about [MASK]	1
 Yeah, that's wh- that's wh- that's what I  meant.	0
 I said -  @@ , there's - there's - [MASK] not the - not the, uh -	0
+[MASK]	0
 Yeah, there are also two other databases.	0
 One they call the multi-language database,	1
 and another one is a twenty-two language, something like that.	1
 But it's also telephone speech.	1
 But I'm not sure -	0
 I mean, we'r- e- e- The bandwidth shouldn't be such an issue right? Because	0
+e- e- [MASK] right?	0
 So it's just the fact that it's not telephone.	0
 And there are so many other differences between these different databases. I mean some of this stuff's recorded in the car, and some of it's - I mean there's - there's many different acoustic differences. So I'm not sure	0
 I mean, unless we're going to include a bunch of car recordings in the - in the training database,	0
@@ -166,6 +174,7 @@ uh, we're the ones who have been weird by - by doing this training.	0
 But if we say, "No, you have to have a different feature set for each language," I think this is ver- gonna be very bad.	0
 So - Oh yeah. Yeah. I mean,	0
 in  principle,  I mean  conceptually,  it's sort of like they want a re-  @@	0
+well, [MASK]	0
 So, we say "O_K, this is the year two thousand, [MASK] It's, you know, gobbledy-gook." O_K? And so	0
 we give them these gobbledy-gook features but these gobbledy-gook features are supposed to be good for any language.	0
 Cuz you don't know who's gonna call, and you know, I mean so it's - it's - it's, uh, uh - how do you know what language it is?	1
@@ -238,6 +247,7 @@ people rode in on horses and	0
 Oh, my turn. Oh, O_K. Um,	1
 Let's see, I - I spent the last week, uh, looking over Stephane's shoulder.	1
 And -  and understanding some of the data.	1
+um, [MASK]	1
 so, um, everybody's now using three point O_, which is [MASK]	1
 Yeah. So, without - without any licensing big deals, or anything like that.	0
 And, um, so we've been talking about this - this, uh, cube thing,	0
@@ -292,11 +302,13 @@ So we plan to develop a subset of the phonemes,	1
 uh, that includes, uh, all the phonemes of our training languages, and	1
 use a network with kind of one hundred outputs or something like that.	0
 You mean a superset, sort of.	1
+I th- [MASK]	0
 [MASK] For English - uh American English, and the - the - the language who have more phone are the English.	1
 Of the - these language.	1
 But n- for example, in Spain, the Spanish have several phone that d- doesn't appear in the E- English and we thought to complete.	1
 But for that, it needs - we must r- h- do a lot of work  because we need to generate new tran- transcription for the database that we have.	1
 Other than the language, is there a reason  not  [MASK]	0
+[MASK]	0
 Oh, you mean why map the sixty-one to the fifty-six?	0
 I don't know. I have -	0
 Um, I forget if that happened starting with you, or was it - o- or if it was Eric, afterwards who did that. But I think,	0
@@ -340,6 +352,7 @@ And then multi-band after networks. Meaning that we would have, uh, neural netwo
 And using the - the outputs of these networks or the linear outputs or something like that.	0
 Or is that - you don't include that because it's part of the base or  something ?	0
 Well, y- you do have a baseline	0
+[MASK] right? So.	0
 But, uh, well, not for the - the A_N_N. I mean -	0
 So, yeah, we could - [MASK]	0
 Probably should. I mean at least - at least conceptually, you know, it doesn't meant you actually have to do it, but conceptually it makes sense as a - as a base line.	0
@@ -385,6 +398,7 @@ Oh, no, no. It's - it's Spanish from Spain, Spanish. Yeah, O_K.	0
 Spanish from Spain. Yeah, we're really covered there now. O_K.	0
 And the French from France.	0
 Yeah, the - No, the French is f- yeah, from, uh, Paris, also.	0
+[MASK]  Yeah.  Yeah.	0
 From T_I. From - i- It's from Texas. So may- maybe it's -	0
 So- s- so it's not really from the U_S either. Is that - ? O_K.	0
 O_K. And, um, with- within the training corporas um, we're, uh, thinking about, um, training with noise.	0
@@ -486,6 +500,7 @@ But there is the testing also, which implies training, uh, [MASK] and, well,	0
 The - the model - [MASK]	0
 it's - yeah. But it's - it's - it's not so long. It  @@  - Yeah.	0
 Right. So if you do have lots of combinations, it's -	1
+[MASK]	1
 It's around six hours, I think.	1
 For training and testing, yeah.	0
 It depends on the -	0
@@ -512,8 +527,11 @@ It s- also depends on the  net.	0
 How big is the net?	0
 For Albayzin I trained on neural network, uh, was, um, one day also.	0
 Uh, but on what machine?	0
+I - [MASK] Yes.	1
 Y- you did a - [MASK]	1
+O_K, again, [MASK]	1
 And I think there - there - there's - I think you folks are probably go- the ones using them right now.	0
+[MASK] or - ?	0
 Uh, don't know. Used to be.	0
 It's - [MASK] Yeah, yeah.	0
 Ad- Adam - Adam did some testing. Or either Adam or - or Dan did some testing and [MASK] And	0
@@ -563,8 +581,11 @@ I don't know exactly [MASK]	0
 has the  potential  to do better, but it doesn't always.	0
 It's - i- i- [MASK]	0
 It's - it's, uh - [MASK]	0
+[MASK]	0
+[MASK]	0
 uh, which is supposed to be sensitive to the amount of noise there is.	0
 So, it's sort of like the right transformation to do the filtering in, is dependent on how much  noise  there is.	0
+[MASK]	0
 It's a little complicated because once you do that, you end up in some funny domain and you end up having to do a transformation afterwards, which requires some tables.	0
 And, uh, so it's - it's - it's a little messier, uh, there's more ways that it can go wrong, uh, but if - if - if you're careful with it, it can do better. So, it's - So.	0
 It's a bit - I'll  do better.	0
@@ -576,6 +597,7 @@ n- it was a difficult work last week	1
 with the  labels   because the - the program with the  label   obtained that I have, the Albayzin, is different w- to the  label   to train the neural network.	1
 And   that is another work that we must to do, to - to  change .	1
 I - I didn't understand.	0
+Uh, [MASK] w	0
 It's not hand - it's not  labels   by hand.  Labels.   I'm sorry, I'm sorry. The  labels.  I'm sorry.	0
 Oh, "l-  labeled ". I'm sorry, I have a p- I had a problem with  the pronunciation.	0
 Yeah, O_K. So, O_K, so let's start over. So, TI- TIMI- TIMIT's hand-labeled, and - and you're saying about the Spanish?	0
@@ -655,15 +677,19 @@ and, uh, I think it's not that big a d- and the - the disks themselves are not t
 What you can do, when you're on that machine, is, uh, just go to [MASK]	0
 Uh, and if there is then, uh -	0
 But wasn't it, uh - I think Dave was saying that he preferred that people didn't	0
+[MASK]	0
 Well, there's different - there, um, there's - Right.	0
+So [MASK]	0
 And both of those two kinds are not backed up.	0
 [MASK] it means it's probably an internal disk to the machine.	0
 And so that's the kind of thing where, like if -	0
 O_K, [MASK] but you have a - a - a Unix workstation,	0
 and they attach an external disk,  [MASK]	0
+And if [MASK]	0
 But the problem is, if you ever get a new machine, they take your machine away. It's easy to unhook the external disks, put them back on the new machine, but [MASK]	0
 So, you don't wanna put anything in slash-scratch that you wanna keep around for a long period of time.	0
 But if it's a copy of, say, some data that's on a server,	0
+[MASK] um,	0
 first of all it's not backed up, and second it doesn't matter if that machine disappears and you get a new machine because you [MASK]	0
 So tha- that's why I was saying you could check slash-scratch on those - on - on, um, Mustard and - and Nutmeg to see if - if there's space that you could use there.	0
 [MASK] on Mustard and Nutmeg.	0
@@ -792,11 +818,13 @@ Yeah, yeah, with the  @@  three languages, and -	0
 The multiple language. Maybe for [MASK]	0
 So you'd have to create a mapping from each language to the superset.	0
 From each language to the superset, yeah. Mmm.	0
+[MASK]  and it's, um,	0
 it's an effort by linguists to come up with, um,	0
 [MASK] um, sort of thing, right?	0
 And, um, they - they have a web site that Stephane was showing us that has, um -	0
 has all [MASK] and then, um, they have Spanish, they have German, they have all - all sorts of languages, um, mapping -	0
 Yeah, the tr- the transcription, though, for Albayzin is n- [MASK]	0
+[MASK]	0
 I was gonna say, [MASK]	0
 No, it's - it's saying - y-	0
 It uses special diacritics and stuff, which you can't do with ASCII characters.	0
@@ -876,6 +904,7 @@ it'd be  an  interesting experiment just to see, you know, if you  did  get all 
 Should  be. Because if you get  all  of them in there, that defines all of the  phones.  So that's - that's equivalent to saying that you've got -	0
 got all the  phones  right. So, if that  doesn't  help, there's -	0
 Although, yeah, it  would  be - make an interesting cheating experiment because we are using it in this funny way, where we're converting it into features.	0
+And [MASK]	0
 It sort of gives you your - the best you could hope for, kind of.	0
 The soft training of the nets still requires the vector to sum to one, though, right?	0
 To sum up to one.	0
@@ -889,6 +918,7 @@ You, um - I think - I think apparently, the, uh -	0
 Did we just run out of disk, or - ?	0
 Why don't you just choose linear?	0
 Isn't that what you'll want?	0
+[MASK]	0
 Right, but during the training,	0
 we  would train  on sigmoid-X_ and then	0
 at the end just chop off the	0

@@ -108,6 +108,8 @@ I know that the files that you've been cutting up for us	1
 f- for the recognition experiments, uh, one way - one really	1
 uh, brain-dead way of - of - of	1
 not causing any trouble, but saving disk space is to, uh, use the s- the	1
+[MASK], the __JARGON__NIST__/JARGON__, uh, __JARGON__W_encode__/JARGON__ program.	1
+[MASK], the [MASK], uh, __JARGON__W_encode__/JARGON__ program.	1
 [MASK], the [MASK], uh, [MASK] program.	1
 to - to encode, you know, to compress them.	1
 Shorten. Is that the same as shorten?	0
@@ -115,12 +117,14 @@ Uh, yeah, but it does it s- it happens so that the program that reads the wavefo
 Well, O_K, you mean it's built into the [MASK], because we have the same thing with shorten in the  sound  tools.	0
 Y- uh, I  guess,  but it	0
 So it's just a question of - of what decompression is built into your tools.	1
+It's actually built into the [MASK] library that __JARGON__NIST__/JARGON__ delivers, so - Right.	0
 It's actually built into the [MASK] library that [MASK] delivers, so - Right.	0
 Oh really? I didn't know that.	0
 And actually, s- the sound tools  don't  understand that.	0
 At least  [MASK]  doesn't. So.	0
 Well, that's not a sound tool, right.	0
 But since - since these files are made to be used with the [MASK] recognizer,	1
+uh and the [MASK] front-end uses the __JARGON__Sphere__/JARGON__ library which in turn does this	1
 uh and the [MASK] front-end uses the [MASK] library which in turn does this	1
 uh, that will be a quick and -	1
 quick and easy way to just, uh, get you know, uh, be able to use more -	1
@@ -271,6 +275,7 @@ I'm not sure whether that's right.	0
 Yeah, one can imagine the problems that that would  engender.	0
 But this - this name change affects a subset, doesn't need to reflect everything, yeah.	0
 Thilo, you had - you wanted to talk about the -	0
+Yeah, I had one - one short point. I have just installed a [MASK] version on one of our __JARGON__N_T__/JARGON__ machines so it's available under Windows now.	1
 Yeah, I had one - one short point. I have just installed a [MASK] version on one of our [MASK] machines so it's available under Windows now.	1
 Oh great. Actually someone - I just got an email this week from someone as-	0
 Yeah I re- responded to sh- I have already responded to him. I - I don't know what - what - what he - what the problem was. It was really straightforward, really easy.	0
@@ -278,6 +283,7 @@ And this is not - Mm-hmm.	0
 Oh, I'm sorry, I - I just - So, who did you talk to?	0
 There was some - some guy from [MASK] who wanted to - to install - Yeah.	0
 And he sent an email that he couldn't - couldn't install it and I - I just described him, well, what I did and it was really straightforward, so.	0
+And this is not just the [MASK], this is the __JARGON__Channeltrans__/JARGON__, right?	0
 And this is not just the [MASK], this is the [MASK], right?	0
 Yeah, it's the [MASK], so the -	0
 things that Dave Gelbart -	0
@@ -310,7 +316,9 @@ trained uh on the same training set uh a standard system with the  [MASK]  front
 um, and compared the two -	0
 So, w- what features did you use?	1
 Well, we used, uh, twelve [MASK] uh, uh -	0
+So not [MASK], just __JARGON__P_L_P__/JARGON__.	1
 So not [MASK], just [MASK].	1
+Just [MASK] and actually that - uh, one of the questions I had was what the __JARGON__RASTA__/JARGON__ would possibly buy us. But um, we'll	0
 Just [MASK] and actually that - uh, one of the questions I had was what the [MASK] would possibly buy us. But um, we'll	0
 talk about that later. So, the uh - so the baseline system - w- the [MASK] system was - uh used - uh also uh uh used t- twelve uh mel - uh mel cepstra	0
 um  based on a twenty-four filter bank	0
@@ -334,6 +342,8 @@ Right,  right, right. Um, and  then,  after - But after they done this waveform 
 So it's their kind of two stage normalization.	1
 Um now, I understand that the common practice  here  has been to just do c- standard uh mean subtraction, um on the waveform.	0
 Right. But in what  we've  done so far, because we didn't have any special provision for  [MASK] , we just treat it as - as any of the  other  features, we've done standard mean subtraction over the whole	1
+um since both [MASK] and __JARGON__ICSI__/JARGON__ use this sort of local normalization for __JARGON__C_zero__/JARGON__ that's presumably, you know, someone has done some experiments to - and found out that that works better.	1
+um since both [MASK] and [MASK] use this sort of local normalization for __JARGON__C_zero__/JARGON__ that's presumably, you know, someone has done some experiments to - and found out that that works better.	1
 um since both [MASK] and [MASK] use this sort of local normalization for [MASK] that's presumably, you know, someone has done some experiments to - and found out that that works better.	1
 Um, so that's another difference, and that might account for some of the	0
 discrepancies in the results. Um, but you know. So the	0
@@ -353,6 +363,7 @@ That's error rate or recognition rate?	1
 this - this was fifty-two point six.	0
 and then, when I combined them - I can actually combine them with	0
 something like [MASK]. It's actually more sophisticated than [MASK] but it's -	0
+something like [MASK]. It's actually more sophisticated than [MASK] but it's -	0
 and here I got forty-six point five.	0
 So this is just combination at the utterance level.	0
 At the utterance level, right.	0
@@ -363,6 +374,7 @@ Um, so, one percent I would attribute to the lack of [MASK], about one percent. 
 Oh right. Right, right, right.	0
 And then maybe another up - I don't know how much the [MASK] normalization business really matters I can't it see, I mean can't see it - the  @@	0
 Ca- can you run the [MASK] - Just as an experiment, run the [MASK] front-end without vocal tract norma- normalization, and see how much difference it makes?	1
+Ca- can you run the [MASK] - Just as an experiment, run the [MASK] front-end without vocal tract norma- normalization, and see how much difference it makes?	1
 I could certainly do that. Yeah.	0
 We could  also  do the vocal tract length normalization with the  [MASK]  features. That's something we wanted to do - yeah. We could - I was actually thinking we could use the warping factors that we compute for the M_F_C_C's	0
 If we could figure out how.	0
@@ -372,6 +384,7 @@ to the [MASK] c-  uh Dan added the  -	0
 Yeah, Dan added that in, but -	0
 they don't correspond one-to- one  though.	0
 No, but they  should  be	0
+Anyway. But I can certainly try the [MASK] front-end without uh __JARGON__V_T_L__/JARGON__. That sh- that's - that's certainly quick to do.	0
 Anyway. But I can certainly try the [MASK] front-end without uh [MASK]. That sh- that's - that's certainly quick to do.	0
 Yeah, and - and then there's all these um -	0
 You know, the number of um -	0
@@ -401,6 +414,8 @@ And m- my experience with that in Broadcast News was usually combining at other 
 For - for whatever that's worth.	0
 Oh, you tried that on Broadcast News? Concatenating	0
 Did you try uh -	0
+It was mostly [MASK], __JARGON__P_L_P__/JARGON__, __JARGON__RASTA__/JARGON__.	0
+It was mostly [MASK], [MASK], __JARGON__RASTA__/JARGON__.	0
 It was mostly [MASK], [MASK], [MASK].	0
 So, you know, the feature sets we had available. And it was almost always better to combine at the probability level. You know, so we'd run the neural nets and combine the probabilities.	0
 Yeah, and it  does  become sort of unwieldy to have these very large feature vectors. And that would	0
@@ -408,10 +423,12 @@ You'd also have to do some sort of normalization afterwards	0
 so that they're uh orthogonal.	0
 So you'd wanna do a linear transform also.	0
 the - Yeah, and then we could start experimenting a little bit to try to get the [MASK] front-end to perform better.	1
+Um. And - and as a preliminary just sort of diagnostic experiment we can - I can certainly run a [MASK] system without __JARGON__V_T_L__/JARGON__	1
 Um. And - and as a preliminary just sort of diagnostic experiment we can - I can certainly run a [MASK] system without [MASK]	1
 just uh to get -	0
 Wi- without what? Without [MASK]. O_K.	0
 And that - that's quick to do.	0
+[MASK] - Well, let's not talk about it here, but I had some thoughts about the [MASK].	0
 [MASK] - Well, let's not talk about it here, but I had some thoughts about the [MASK].	0
 yeah so but things are moving ahead, so	0
 O_K, should we do digits?	0

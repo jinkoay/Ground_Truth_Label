@@ -19,6 +19,7 @@ uh whether they're using it with the high-pass filter option or not.	1
 I don't know if anybody  knows.  But.	0
 Yeah. So when we're doing all these things using our software there  is  -	1
 um if it's - if it's based on [MASK]	0
+which does [MASK]	0
 uh there is an option there which then comes up through to [MASK] which	0
 um allows you to do high-pass filtering and in  general  we like to  do  that,  because  of things like this and	1
 it's - it's pretty - it's not a very severe	1
@@ -228,6 +229,7 @@ I guess - I guess it's - it's the filter.	0
 well uh we don't have complete result, but the filter -	1
 So the filter with the shorter delay hurts on Italian [MASK]	1
 And the other things, like um  downsampling, upsampling, don't seem to hurt and	0
+[MASK] neither. So.	0
 I'm  really   confused  about something.	0
 If we saw that making a small change like, you know, a tenth, to the  self-loop  had a huge effect,  can we really make any conclusions about	0
 differences in this stuff? I mean,  especially  when they're  this   small.  I mean.	0
@@ -268,6 +270,7 @@ uh which has an extended deadline. So.	0
 The deadline is in May.	0
 For uh -  Oh, for Eurospeech?	0
 Yeah. So f- only for [MASK] So it - it's good, yeah.	0
+[MASK] That's  great.	0
 Mm-hmm. Where  is  Eurospeech this year?	0
 So the deadline - When's the  deadline?	0
 I think it's the thirteenth of May.	0
@@ -442,17 +445,20 @@ Yeah.  But I think they'r-	0
 I think we want to work on  this.  They also want to work on  this,  so.	0
 We - we will try [MASK]	0
 I think they want to work on the second stream also, but more with  some kind of multi-band or, well,	0
+what they call [MASK]	0
 O_K.  Do you remember when the next meeting is supposed to be?  the next uh - In  June.  O_K.	1
 Yeah, the other thing is that you saw that - that mail about uh [MASK] performing quite differently?	1
 So um. This - there was this experiment of uh "what if we just take the baseline?"   set uh  of features, [MASK]	1
 and you inc- incorporate [MASK]	1
 And it  looks  like the - [MASK] is actually uh better - significantly better.	1
 Yeah but I don't know which [MASK] they use.	1
+If the use [MASK]	0
 I th- I think it's on -	0
 I think it's easy to do  better  because it doesn't work at  all.	0
 I - I don't know which - which one. It's  Pratibha  that - that did this experiment.	1
 Um. We should ask which [MASK]	1
 He - Actually, I think that he say with [MASK]	1
+and with [MASK]	0
 And the experiment was sometime better, sometime worse.	0
 Yeah but I - it's uh - I think you were talking about the  other  mail that used [MASK] on the reference features.	0
 And on  that  one, uh the French one is - was better.	0
@@ -536,11 +542,13 @@ And then that would be -	0
 Yeah, well, I was not thinking this - yeah, this could be an- yeah	0
 So you mean have some kind of probability for the v- the voicing and then	0
 Right. So you have a  second  neural net. It could be pretty small.	0
+use [MASK] and	0
 Yeah. If you have a tandem system and then you have some kind of - it can be pretty small - net -  we used - we d- did some of this stuff. Uh I - I did, some years ago, and the - and - and you use -  the thing is to use information  primarily  that's different	0
 as  you  say, it's more fine-structure-based than - than envelope-based  uh so then it you - you - you can pretty much guarantee it's stuff that you're not looking at very  well  with the other one,  and uh then you  only  use for this one distinction.	0
 And - and so now you've got a probability of the cases,  and you've got uh the probability of the  finer  uh categories on the other side. You multiply them where appropriate and uh  um	0
 if they really are from independent  information sources then  they should have different kinds of errors and roughly  independent  errors, and  it's a good choice for -	0
 Yeah, that's a good idea.	1
+Because, yeah, well, [MASK]	1
 is good and we could u- we could use the fine structure to - to have a better estimate of the  noise  but	1
 still there is this issue with [MASK] that it seems to increase the variance of -	1
 Well it's this musical noise which is	1

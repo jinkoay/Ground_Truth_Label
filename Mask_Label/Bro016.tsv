@@ -348,6 +348,7 @@ putting into one net. So is it - ?	0
 Is it balanced, um, in terms of gender - the data?	0
 O_K.   Y- you're - you were saying before - ?	0
 Uh. Yeah. So, this noise, um -	0
+Yeah. The [MASK] -	0
 There is something - perhaps, I could spend some days to look at this thing,	0
 cuz it seems that when we train networks on -	0
 let's say, on [MASK] with	0
@@ -363,6 +364,8 @@ Do you kno- recall if the insertions were -	0
 I don't know. I cannot tell. But -	0
 the - the error rate is higher.	0
 Yeah. But you should always look at insertions, deletions, and substitutions. So -	0
+[MASK] is very, very dif- Eh, __JARGON__ P_L_P __/JARGON__ is very much like __JARGON__ mel cepstrum. __/JARGON__	0
+[MASK] is very, very dif- Eh, [MASK] is very much like __JARGON__ mel cepstrum. __/JARGON__	0
 [MASK] is very, very dif- Eh, [MASK] is very much like [MASK]	0
 [MASK] is very different from both of them.	0
 So, if it's very different, then this is the sort of thing - I mean I'm really glad Andreas brought this point up.	0
@@ -370,9 +373,12 @@ I  sort of had forgotten to discuss it.	0
 You always have to look at how	0
 And even though we're not allowed to do that, again we maybe could reflect that back to our use of the features.	0
 So if it - if in fact, uh - The problem might be that the range of [MASK] features is quite different than the range	0
+of [MASK] or __JARGON__ mel cepstrum. __/JARGON__	0
+of [MASK] or [MASK]	0
 And you might wanna change that.	0
 But, it's d- it's after - Well, it's	0
 Yeah. We - we have estimation of post- posteriors	0
+with [MASK] and with __JARGON__ M_S_G __/JARGON__ as input, so I don- Well.	0
 with [MASK] and with [MASK] as input, so I don- Well.	0
 That means they're between zero and one.	0
 But i- it - it - it - it doesn't necessarily - You know, they could be,	0
@@ -477,6 +483,7 @@ um, where we feed, um, these events into  [MASK] um, eh, and evaluate its perfor
 Can you give an example of an event?	1
 Yeah. Sure. Um, I - I can give you  an  example of  twenty-odd events.	0
 So, he- In this paper, um,  it's  talking about [MASK] recognition using acoustic events.	1
+So, things like [MASK]	1
 paper by Hubener and Cardson  Benson - Bernds- Berndsen.	1
 Yeah. I think the -	0
 just to expand a little bit on the idea of acoustic event.	1
@@ -519,6 +526,7 @@ you know, I can ma- mea- measure my progress by comparing,	0
 um, the error rates in clean and noisy conditions to something like, uh, neural nets.	0
 so, once we have these - these, uh, event detectors,	0
 we could put  them   together and - and feed the outputs of the event detectors into - into [MASK] um,	0
+um -  and test it on - on [MASK] or, um, maybe even __JARGON__ Aurora __/JARGON__ stuff.	0
 um -  and test it on - on [MASK] or, um, maybe even [MASK] stuff.	0
 pretty much the - the big picture of - of	0
 there's, uh, a couple people who are gonna be here - I forget if I already told you this, but, a couple people who are gonna be here for six months. Uh -	0

@@ -59,6 +59,7 @@ So you can give  that  as an attribute and it'll  only  run on  that.	0
 If there's already a  job  running, on some machine that you're trying to select, your job will get queued up,	0
 and then when that resource, that machine becomes available, your job will get exported there. So,	0
 there's a lot of nice features to it and it kinda helps to balance the load of the machines and uh,	1
+right now Andreas and I have been the main ones using it and we're - Uh. [MASK] has all this __JARGON__ P_make __/JARGON__ customs stuff built into it. So.	0
 right now Andreas and I have been the main ones using it and we're - Uh. [MASK] has all this [MASK] customs stuff built into it. So.	0
 So as I understand,  you know ,  he's  using all the machines and  you're  using all the machines,	0
 is the rough division of -	0
@@ -85,7 +86,9 @@ I remember I - I forget whether it was when the Rutgers or - or Hopkins workshop
 everybody was real excited cuz they got twenty-five machines and there was some kind of [MASK] like thing that sit- sent things out.	0
 So all twenty-five people were sending things to all twenty-five machines  and  and things were a lot less efficient than if you'd just use your own machine.  as I recall, but.  Yeah.	0
 Yeah, exactly. Yeah, you have to be a little bit careful.	0
+but uh, you can also - If you have  that  level of parallelization um, and you don't wanna have to worry about writing the logic in - in [MASK] to take care of that, you can use um, __JARGON__ P_make __/JARGON__	0
 but uh, you can also - If you have  that  level of parallelization um, and you don't wanna have to worry about writing the logic in - in [MASK] to take care of that, you can use um, [MASK]	0
+Just do [MASK] s-	0
 and - and you basically write a [MASK] that uh, you know your final job depends on these one thousand things, and when you run	0
 P_make, uh, on your Make file, you can give it [MASK]	0
 and - and then a number, and that number represents how many uh, machines to use at once.	0
@@ -132,6 +135,7 @@ You probably wouldn't  ordinarily.   I mean you sort of -	0
 you're at home and you're trying to log in, and it takes forever to even log you in, and you probably go, "screw this", and -  You know. Yeah.	0
 Yeah, so, um, yeah. I - I can - I'm not sure about that one. But uh.	0
 Uh, I need a little orientation about this environment and uh scr- s- how to run some jobs here because I never d- did anything so far	0
+with this [MASK]   So,	0
 I think maybe I'll ask you after the meeting.	0
 Yeah. Yeah, and - and also uh,  Stephane's  a - a really good resource for that if you can't	0
 Yeah, yeah, yeah. Yep. O_K, sure  @@	0
@@ -172,6 +176,7 @@ That's all I found  So I have to .	0
 uh, the other - other thing what I tried was, I just um,	1
 uh, took the baseline and then	1
 ran it with the endpoint inf- uh th- information,	1
+just [MASK]	1
 to see that how much the baseline itself improves	1
 by just supplying the information of the - I mean the w-	1
 I found that the baseline itself improves by twenty-two percent by just giving the  wuh- .	1
@@ -181,6 +186,7 @@ No. No. No, things didn't get better with the same time constant that we used.	0
 No, no. With a  different  time constant.	0
 With the different time constant I found that -	0
 I mean, I didn't get an improvement over	0
+not  using [MASK]	0
 Oh. No you didn't, O_K.	0
 because I - I found that I would have change the value of the update factor.	0
 But I didn't play it with	0
@@ -223,6 +229,7 @@ I just went home f- I just had a vacation fo- for four weeks.	0
 O_K. No, that's - that's - that's a good - good update.	0
 Yeah, and I - I came back and I started working on	0
 uh, some other speech enhancement algorithm. I mean, so -	0
+I - from the submission what I found that people have tried [MASK] and __JARGON__ Wiener filtering. __/JARGON__ These are the main	0
 I - from the submission what I found that people have tried [MASK] and [MASK] These are the main	0
 uh, approaches where people have tried, so just to -	0
 just to fill the space with some f- few more speech enhancement algorithms to see whether it	0
@@ -338,7 +345,9 @@ You- Yeah. We are playing - we are also playing, trying to put other	1
 it would be a very simple [MASK] on the um,	1
 which I already tested but without the um	0
 frame  dropping  actually, and I think it's important to have frame dropping	0
+Is it - is [MASK] typically done on the - after the mel, uh, scaling or is it done on __JARGON__ the F_F_T __/JARGON__ bins?	0
 Is it - is [MASK] typically done on the - after the mel, uh, scaling or is it done on [MASK] bins?	0
+if you use [MASK]	0
 Does it matter, or - ?	0
 I don't know. Well, it's both - both uh, cases can i-	0
 So- some of the proposal, uh, we're doing this on the bin - on [MASK] others on the um,	0
@@ -361,12 +370,14 @@ So maybe in my implementation I should also	0
 try to inspire me from	0
 this kind of thing and - Yeah.	0
 Well, the  other  thing would be to combine what you're  doing.  I mean maybe one or - one or the other of the things that you're doing would benefit from the other happening  first.	0
+Right, so he's doing [MASK] thing, maybe it would work better if you'd already done some simple __JARGON__ spectral subtraction, __/JARGON__ or maybe vi- maybe the other way around, you know?	0
 Right, so he's doing [MASK] thing, maybe it would work better if you'd already done some simple [MASK] or maybe vi- maybe the other way around, you know?	0
 So  I 've been thinking about combining [MASK] with	0
 I mean just to see all - some - some such permutation combination to see whether it really  helps  or not.	0
 How is it - I - I guess I'm ignorant about this, how does -	0
 I mean, since [MASK] also assumes that you're - that you're adding together the two signals,	0
 how is - how is that differ from [MASK]	0
+[MASK] approach  has  actually an in-built __JARGON__ Wiener filtering __/JARGON__ in it.	0
 [MASK] approach  has  actually an in-built [MASK] in it.	0
 Yeah. It is like [MASK] followed by	0
 Is the signal is - is [MASK] .	0
@@ -468,6 +479,7 @@ the  digits  that we do at the end of these things. And that's what most o- agai
 but uh, we have recognition now	0
 with some of the continuous speech,	0
 large vocabulary continuous speech, using [MASK] - uh, [MASK] recognizer,	0
+large vocabulary continuous speech, using [MASK] - uh, [MASK] recognizer,	0
 uh, no training,  from this, just - just plain using [MASK]	0
 Oh. You just take [MASK] trained - ? Yeah, yeah.	0
 That's - that's what we're doing, yeah. Now there are some adaptation though, that - that uh, Andreas has been playing with, but we're hop- uh, actually uh, Dave and I were just talking earlier today about maybe at some point not that distant future, trying some of the techniques	0
@@ -487,6 +499,7 @@ You're talking about your voicing?	0
 Yeah. So maybe - You probably need to back up a bit  seeing as how Sunil, yeah .	1
 I tried to include another new parameter to the	1
 traditional parameter, the coe- [MASK] that, like, the	1
+and [MASK]	1
 and another estimation of the	1
 var- the variance of the difference for - of the spec- si- uh, spectrum of the signal and -	1
 and the spectrum of time after	1
@@ -523,6 +536,7 @@ um, you throw away some information.	1
 And, that's mostly viewed on as a good thing, in the way  we  use it, because we wanna suppress things that will cause variability for uh particular, uh, [MASK]	0
 but, you'll do throw something away.	0
 And so the question is, uh, can we figure out if there's  something  we've thrown away that we  shouldn't  have.	1
+when they were looking at the  difference  between [MASK] and __JARGON__ the F_F_T __/JARGON__ that was going  int	1
 when they were looking at the  difference  between [MASK] and [MASK] that was going  int	1
 they're looking on it to figure out  noise,  or  voice  -  voiced  property whatever." So that - that's interesting. Maybe that helps to drive the -	1
 the thought process of coming up with the features. But for  me  sort of the interesting thing was, "well,	1
@@ -531,6 +545,7 @@ uh, [MASK] and feed it into a  neural  network,	1
 and then use it, you know, in combination, or alone, or - or whatever	0
 Voiced, unvoiced is like -	0
 No the - just the same - same way we're using - I mean, the same way that we're using [MASK]	0
+Exact way - the same way we're using [MASK] I mean, __JARGON__ the filter bank __/JARGON__ is good for all the reasons that we say it's  good.  But it's  different.	0
 Exact way - the same way we're using [MASK] I mean, [MASK] is good for all the reasons that we say it's  good.  But it's  different.	0
 And, you know, maybe if it's used in combination, it will get at something that we're  missing.	1
 And maybe, you know, using, orth- you know, [MASK] or uh, um,	0
@@ -543,6 +558,7 @@ But I - I - I have to tell you, I can't remember the conference, but, uh, I thin
 ten years ago, I remember going to	0
 one of the speech conferences and - and uh,	0
 I saw within very short distance of one another a couple different posters that showed about the wonders of some auditory inspired front-end or something, and a couple posters away it was somebody	0
+who compared one to uh, just putting in [MASK] and [MASK] did slightly better.	0
 who compared one to uh, just putting in [MASK] and [MASK] did slightly better.	0
 So I mean the - i- i- It's true there's lots of variability, but again we have these wonderful statistical mechanisms for	0
 quantifying  that a- that variability, and you know,  doing  something  reasonable  with it. So, um,	0

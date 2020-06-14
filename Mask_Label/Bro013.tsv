@@ -22,6 +22,7 @@ uh a sub- s- [MASK]	0
 I guess it's - it's uh [MASK] so, well -	0
 Yeah. I think so, because it's their very d- huge, their huge system.	1
 But. So. There is one difference - Well, [MASK] - the result for [MASK] that are represented here are with adaptation. So there is -	0
+But. So. There is one difference - Well, [MASK] - the result for [MASK] that are represented here are with adaptation. So there is -	0
 It's their complete system and - including on-line	0
 And if you don't use adaptation, the error rate is	0
 fifty percent worse, I think, if I remember. Yeah.	0
@@ -43,6 +44,7 @@ Well, you could do  that,  but I'm saying  even  with it not - with  that  part 
 on - on huge -	1
 just - just using - having [MASK] -	1
 f- for [MASK] Yeah. Mm-hmm.	0
+[MASK] Yeah.	1
 But just  train  [MASK] using different  features,  the features coming	0
 But  what would be interesting to see also is what - what -	1
 perhaps it's not related, the amount of data but the um	1
@@ -149,7 +151,9 @@ and we - if we put it on the server side,	1
 it doesn't  work,  because on the server side features [MASK]	1
 from the f- from the terminal side and	1
 so you accumulate the delay so	1
+[MASK]	0
 which means perhaps on the terminal side and then smaller	0
+So wha- [MASK]	1
 it's the network trained -	0
 it's the network with the huge amounts on hidden - of hidden units, and	0
 nine input frames compared to	0
@@ -195,6 +199,7 @@ with Matlab and to found some parameter robust for [MASK]	1
 But only to play. And we -	1
 they - we found that maybe w- is a classical parameter, the	1
 between [MASK] and the small	1
+we - after [MASK]	1
 And, well, is more or less robust.	1
 Is good for clean speech. Is	1
 but um we must to have [MASK]	0
@@ -242,6 +247,7 @@ using Matlab without going factor and s-	0
 Yeah so it's - doesn't do too well there.	0
 And the - I think that this is good.	0
 ho- how I obtained the	0
+with [MASK]	0
 So now I wonder - I mean, do you want to -	1
 I  know  you want to get at  something   orthogonal  from what you get with the smooth spectrum	1
 But if you were to really try and get [MASK] do you - do you want to  totally  ignore that? I mean, do you - do you - I mean,	1
@@ -271,6 +277,7 @@ and it clearly appears here,	0
 the - the harmonics are resolved by the f- Well,	1
 there are still appear after mel-filtering,	1
 for high pitched voice because	1
+the width of [MASK]	1
 is sometimes even smaller than the pitch.	1
 It's around one hundred, one hundred and fifty hertz	0
 And so what happens is that this	0
@@ -342,6 +349,7 @@ Oh, and um,  another f- first step is um, so the - the way I want to extend his 
 we don't really know  how fast	1
 the um - the reverberation response is varying the Meeting Recorder data	1
 we - we have this um block least squares um	0
+imp- [MASK] and um	0
 I want to try  finding	0
 the - the response, say, between a near mike and the table mike for someone using [MASK] and then	0
 see how fast that varies  from block to block. That should give an idea of how fast the reverberation response is changing.	0

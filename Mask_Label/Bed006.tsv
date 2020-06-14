@@ -193,6 +193,7 @@ not unless you really really want to.	0
 Not unless you really want to.	0
 And they're both nice guys so you may - may want to.	0
 O_K, that much from the parser and generator side, unless there are more questions on that.	0
+So, no [MASK] yet?	0
 It - Just a mail that, you know, he's sending me the - the - the stuff soon and I was completely flabbergasted here and I - and that's also it's - it's going to produce [MASK] uh blah-blah-blah information for - necessary for one point one in English - based on the English, you know, in English. So.	0
 This is being sent, mm-hmm.	0
 So that was like one of the first l- You know, the first task was getting it working for English. So that's basically	0
@@ -236,6 +237,7 @@ the schema of the X_M_L here, not	0
 an example or something like that.	0
 Yeah this is not an X_M_L this is sort of towards an -  a schema , nuh?  definition.	0
 The idea is, so, imagine we have a library of	1
+schema such as [MASK]	1
 and then we have forced uh motion,	1
 we have a whole library of schemas.	0
 And they're gonna be, you know, fleshed out in - in their real ugly detail, [MASK] and there's gonna be s- a lot of stuff on the Goal and blah-blah-blah, that a goal can be and so forth.	1
@@ -247,6 +249,7 @@ Actions that can be categorized with - or that are related to [MASK]	0
 and we will have you know [MASK]	0
 And then those actions can be in multiple categories at the same time if necessary.	1
 So a push may be in - in - in both you know push uh in this or this uh -	0
+[MASK] for instance, O_K.	0
 Exactly. Yeah.  Also,  these things may or may not	0
 get their own structure in the future.	0
 So  this  is something that, you know,  may  also be a res- As a result of  your  work in the future, we may find out that, you know, there're really s- these subtle differences between um  even   within  the domain of entering in the light of [MASK] that we need to put in - fill in additional structure up there.	0
@@ -337,6 +340,7 @@ how do they work in terms of you know [MASK] or how do they work in f- terms of 
 basically f- either specific - frame specific roles or more general	1
 frame specific roles that might have binding. So the question is are um - how to represent when things are linked in a certain way.	1
 So we know for Enter that there's Container potentially involved and it's not -	0
+uh I don't know if you wanna have in the same level as [MASK] it - it's somewhere in there that you need to represent that there is some container and the interior of it corresponds to some part of __JARGON__the Source-Path-Goal__/JARGON__	1
 uh I don't know if you wanna have in the same level as [MASK] it - it's somewhere in there that you need to represent that there is some container and the interior of it corresponds to some part of [MASK]	1
 um you know goal - uh goal I guess in this case. So uh is there an easy way in this notation to show when there's  identity  basically between things and I di- don't know if that's something we need to invent or you know just -	1
 The - wa- wasn't there supposed to be a link in the	0
@@ -350,11 +354,13 @@ But the notion I got from Nancy's idea was	0
 that we may f- find sort of	0
 concepts floating around i- in the a- action description of the action f- "Enter" frame up there that are,	0
 e- when you talk about the  real  world, actually identical to the goal of the -	0
+[MASK] and	0
 do we have means of - of telling it within that a- and the answer is absolutely.	1
 The way - we absolutely have those means that are even part of [MASK]	0
 meaning we can reference. So meaning -	1
 Great. That's exactly what is necessary.	0
 And um. This referencing thing however is of  temporary  nature because sooner or later [MASK] will be	0
+finished with [MASK] uh,	0
 specification and then it's going to be even  much  nicer. Then we have  real  means of  pointing  at an  individual   instantiation   of one of our elements here and link it to another one, and this not only  within  a document but also  via  documents,	1
 and - and all in [MASK]	0
 So you know - happen to know how - what - what "sooner or later" means like in practice?	0
@@ -385,6 +391,7 @@ have the buying snack schema?	0
 I'm sure there's a commercial event schema in there somewhere.	0
 Yeah, a "commercial event" or something. Yeah? So uh -	0
 Yeah I - I -	0
+so we would - we would instantiate [MASK] with __JARGON__a Source-Path-Goal__/JARGON__ blah-blah-blah and the buying event	0
 so we would - we would instantiate [MASK] with [MASK] blah-blah-blah and the buying event	0
 you know at which - however that looks like,	0
 Interesting. Would you say that the - like -	1
@@ -404,6 +411,7 @@ Yeah because they're two different things one of which is l- you could think of 
 Right. Yeah, yeah. So. So. O_K.	1
 So there's like  levels  of granularity. So uh there's - there's um a  single  event of which they are	1
 both a part. And they're -  independently  they - they are events which have	0
+very different characters as far as [MASK] whatever. So when you identify [MASK] and	0
 very different characters as far as [MASK] whatever. So when you identify [MASK] and	0
 whatever, there's gonna to be a desire, whatever, eating, hunger, whatever other frames you have involved,	0
 they have to match up in - in nice ways. So it seems like each of them has its own  internal  structure and mapping to these	0
@@ -461,11 +469,13 @@ No, no. There - a- a- actually by I think my question is simpler than that, um	0
 is - O_K, so you have [MASK] and - and it has three different um uh aspects um	0
 because you can either enter a building or view it or - or approach it and touch it or something.	0
 Um now you define uh  another  action, it's - it's called um	0
+[MASK]	0
 uh s- [MASK] that has to do with writing a letter, let's say. I mean not even within this context, but	0
 a different action. Um and this - uh action-two would have various variable possibilities of interpreting what you would like to do.	0
 And - i- in - in a way similar to either [MASK] you may want to send a letter, read a letter, or dictate a letter, let's say.	0
 Oh the - O_K  uh maybe I'd -	0
 These actions - I don't know if I'm gonna answer your question or not with this, but	0
+the categories inside of [MASK] so, __JARGON__S_P_G action__/JARGON__ is a  category.	0
 the categories inside of [MASK] so, [MASK] is a  category.	0
 Real- although I think what we're specifying here is this is a category where the	0
 actions "enter, view and approach" would fall into because they have a related [MASK] in our tourist domain.	0
@@ -648,7 +658,7 @@ Yes. Yes. I've - I've - I've - I guess I'm on record for promising that now. So 
 Like have it - we'll have it in writing. So.	0
 This is it and um	0
 The other good thing about it is Jerry can be on here on Friday and he can weigh in as well.	0
-and um if you can get [MASK] also maybe with a nice example that would be helpful for Johno and me.	1
+and um if you can get __JARGON__that  binding  point__JARGON__ also maybe with a nice example that would be helpful for Johno and me.	1
 I think you've got one on hand, huh?	0
 I have several in my head, yeah.	0
 Well the - the - the binding is technically no problem but it's - it - for me it seems to be conceptually important that we find out if we can s- if - if there - if there are things	1

@@ -49,6 +49,7 @@ And is it a -	0
 Well I - I don't remember.	0
 They were  three  off, basically.	0
 Yeah, and it was a hundred-ish.	0
+And this is [MASK]	0
 So - so if you get one -	0
 uh, uh, excuse me. If you get one off, it - t- everything is off  cuz of [MASK]  right?	1
 Uh, and this is all in one file that's continuous.	1
@@ -75,6 +76,7 @@ that they made mistakes on is	0
 They are played from the	0
 Or they're indivi- If it's individual, um -	1
 y- c- we can -	1
+probably  [MASK]	1
 where you c- include the beeps as words	1
 and pretty much figure out where the  errors  are.	1
 I don't think we could do it on [MASK] cuz it -	1
@@ -86,6 +88,7 @@ Cuz if a beep is treated as a	0
 You mean, so, actually put - put [MASK] in with beep in it.	0
 Put in - put "beep" in as a word.	0
 And pu- and have [MASK]	0
+We  have  [MASK]	0
 the beep model - Actually, you could  train  [MASK] That - that's a good idea.	0
 It would be very good.	0
 Yes, it would be, cuz it's very, very regular.	0
@@ -116,6 +119,7 @@ That's  what I was  saying.  Is that - that you could have -  each  speaker coul
 See, I should  listen.  Yeah?	0
 And you know, since there are no more than,	0
 you know, ten speakers or so per meeting,	0
+there's plenty of [MASK]	0
 Uh, O_K, yeah. So the only -	0
 That  might work too. Yeah, I was just thinking that actually  temporally  just, uh, uh, uh, an increasing tones so that	0
 they would really have a sense of whether they were going, you know, forward or backward or - Yeah.	0
@@ -261,6 +265,7 @@ It might make the transcript faster - W- wel- I mean I - A quick conversation wi
 And other than that -	0
 Actually, if it  is  -	0
 I mean, it's not a bad	1
+idea to  try  [MASK]	1
 Um, if there's only like  three  of  them,	1
 if you  align,  the first point at which things get messed up is sort of the location of the first problem.	1
 And then, the second p- I mean,	0
@@ -316,6 +321,7 @@ You need some of the  words  in there, so that you can say "well,  this  segment
 unless we insert a  beep ".	0
 I mean  the  only  thing I'm worried about with that approach is that if	1
 before the transcribers do the corrections here,  then we're in trouble. In other words, if the transcripts aren't sort of	1
+good enough that [MASK]	1
 [MASK] are good enough to sort of	1
 show you where the errors are, then	1
 it wouldn't work. But it  might  work. It might work to do this if their transcripts are pretty close	1
@@ -538,6 +544,7 @@ another issue on file reorganization is, uh,	1
 making data available to people outside ICSI.	1
 So, specifically, the U_ W  folks have been	0
 wanting to get  access  to it. So I think the right thing to do for that, is figure out how to do [MASK] without	0
+uh, compromising security. [MASK]	0
 Well, I- I was -	0
 and then give them access.	0
 I was reading through some of [MASK] and you  can  ju	0
@@ -672,6 +679,7 @@ you can have multiple people modifying and if the changes don't  overlap  each o
 they can just  do  it.	0
 So the problem with  [MASK]  is that if two people	0
 want to modify a file at the same  time  they  can't,	0
+because [MASK]	0
 What- what does [MASK] do if they - if they  do  overlap?	0
 Uh, there're lots of different policies for dealing with it. So -	0
 But typically a person has to,	0
@@ -802,7 +810,9 @@ um, annotations on one version and you don't have the latest corrections maybe a
 corrections  made on your  originals  and then	0
 you have to  merge  them.	0
 the  thing  that makes it ea- O_K to  do  that, is	0
+knowing where [MASK] are.	0
 Cuz you can automatically pretty much  merge  things if you've only got twenty words or so in an utterance. It's when you get the whole  meeting	0
+and [MASK] ch-	0
 have changed, or you can't correspond to a previous version with [MASK] that you get in trouble.	0
 Was there anything else on your list?	0
 Shall we do some digits?	0

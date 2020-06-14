@@ -34,6 +34,7 @@ Yeah, I think that's the right way to do it, especially for the information retr
 Anything else on transcription status?	0
 [MASK] we had the submeeting the other day.	1
 So I've been working on using [MASK] to do information retrieval on meeting data	1
+and [MASK] are -	1
 there're two sets, there's a back-end and a front-end, so the front-end is the user interface and the back-end is the indexing tool and the querying tool.	1
 And so I've written some tools to convert everything into the right for- file formats.	1
 command line version of the indexing and the querying is now working.	1
@@ -59,6 +60,7 @@ as it stands within the - [MASK] it's  possible  to do a find and a play.	0
 You can find a searched string and play. So e- Are you - So you're adding like um,	0
 I don't know, uh are they fuzzy matches or are they  uh - ?	0
 It's a sort of standard,	0
+So it's uh [MASK]	0
 and then there are all sorts of metrics for spacing how far apart they have to be and things like that.	0
 It's a lot more sophisticated than the uh	0
 it's like doing a Google query or anyth- anything else like that.	0
@@ -70,6 +72,7 @@ uh to get it to work on the  UNIX  systems,  our  side is just	0
 rewriting them and modifying them	0
 to work for  meetings.  So that it understands that they're different speakers and that it's one big audio file instead of a bunch of little ones and just	0
 So what does the user see as the result of the query?	0
+[MASK] which is the one that Dan wrote, __JARGON__Tcl-T_K__/JARGON__	0
 [MASK] which is the one that Dan wrote, [MASK]	0
 um you type in a query and then you get back a list	0
 and you can type on them and listen to them.	0
@@ -99,6 +102,7 @@ It certainly helps. Um, I mean  without  those I wouldn't even  attempt  it.	0
 But what those - they - what those do is provide sort of [MASK]	0
 so that the normal UNIX function calls all work.	0
 And you have to have all the o-	0
+But the  problem  is that - that [MASK] didn't use anything like __JARGON__Autoconf__/JARGON__	0
 But the  problem  is that - that [MASK] didn't use anything like [MASK]	0
 and so you have the normal porting problems of	0
 different header files and th- some things are defined and some things aren't	0
@@ -343,6 +347,7 @@ I think the  pen  is really noisy.	1
 So you have ka- kaplunk, kaplunk, kaplunk.	0
 And I - and I don't know if it's audible on the -	0
 but I - I sort of thought that was a disadvantage. I  do  take notes, I mean, I could be taking notes on these things and I guess the  plus  with [MASK] would be the  time  markings but -	0
+Uh, what  is  [MASK]	0
 So it's - it's um - it's a regular pad, just a regular pad of paper but there's this  pen	0
 And so you have time and position	0
 stuff  stored  so that you can - you have a record of whatever it is you've  written.	1

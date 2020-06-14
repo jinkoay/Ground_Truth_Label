@@ -255,6 +255,7 @@ are going to be  these  kinds of things.	0
 And, then the question is -	0
 there are  two  questions - is, uh,  one,  where do you get this i-	1
 information from, and  two,  what's the structure of [MASK]	1
+So what  are  [MASK]	1
 of this, that, and the other, given these things?	1
 And you probably need intermediate nodes. I - we don't know what they are yet.	1
 So it may well be that, uh, for example,	0
@@ -302,6 +303,7 @@ So, where would we extract that information from? From [MASK]	0
 No.  See, [MASK] is not gonna give th- What he was  saying  is,	1
 [MASK] does not have  any  of that. All it has is some  really  crude stuff saying,	1
 "A person wants to go to a place."	0
+[MASK]  itself  refers t	0
 It's just a language. Right, yeah.	0
 So we have th- w- we- we	0
 we have to have a better w- way of referring to -	0
@@ -367,6 +369,7 @@ is the notion would be -	0
 Uh, this may be a bad dis- bad  idea,  but the idea is	1
 to take as a first  goal,	1
 see if we could actually  build  [MASK]	1
+that  would  make [MASK]	1
 uh, in a plausible  way,  given	1
 these - We have all these transcripts and we're able to,	1
 by  hand,  extract the features to put in [MASK] Saying, "Aha! here're the things which, if you  get  them out of - out of the language and discourse, and put them int	1
@@ -526,6 +529,7 @@ s- stuff. Right? So -	0
 Oh yeah, but - to  some  extent this is a different discussion.	0
 Uh, we - we have to have this discussion of th- the experiment, and the data collection, and all that sorta stuff	1
 and we do have, um, a student who	0
+is [MASK]	0
 Uh, she's gonna get in touch with me. It's a student of Eve's.	0
 F_E_Y, Fey? Spelled F_E_Y. Do you - do you -	0
 Oh, Fey Parrill. Yeah. Uh-huh.	0
@@ -614,6 +618,7 @@ There're  even  ones tha- that you can do  learning	0
 O_K? So you have all their cases and - and their results and you have a - algorithms to go through and run around trying to set the - the probabilities for you.	0
 probably that's not worth it.	0
 I mean, my guess is we aren't gonna have enough data that's good enough to make	0
+the - [MASK]	0
 worth it, but I don't know.	0
 So I would say you guy- the first task for you two guys is to um, pick a package.	0
 O_K, and you wanna it s- You know, the  standard  things you want it stable, you want it - yeah,  @@ .	1
@@ -764,6 +769,7 @@ that both will merge into a harmonious and, um, wonderful,	1
 we can  not  only do the bare necessities, I_E, changing the table so it does exactly in English what it does in German,	1
 but also that we can sort of have the system where we can say, "O_K, this is what it  usually  does,	1
 and now we add  this  little thing to it",	1
+you know? whatever, [MASK]	1
 and we plug it  in,	1
 and then for these certain tasks,	1
 and  we know that [MASK] are gonna be a  core  domain of the new system,	1

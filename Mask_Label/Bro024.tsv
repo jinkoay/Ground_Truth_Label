@@ -18,6 +18,7 @@ That's on digits. It c- it - it could h- it could have something to do with, um,
 [MASK] That's - that's worth looking into.	0
 ap- ap-  apart  from that, I guess the - the main thing I have t- ta- I have to talk is, um,	1
 where I'm planning to go over the  next  week. Um.	1
+So I've been working on integrating this [MASK] approach into __JARGON__ the SmartKom system. __/JARGON__	1
 So I've been working on integrating this [MASK] approach into [MASK]	1
 And there's this question of, well, so, um, in my tests before with [MASK] I found it worked - it worked the best with about twelve seconds of data used to estimate the mean, but,	1
 we'll often have less  in [MASK]  Um.	1
@@ -73,6 +74,7 @@ we - we d- in - we tried this approach in, uh,  interactive system", which I don
 And - and then there was two research questions from that. And one is the k- does it still work if you just use the  past  history?	0
 Alright, and the other was this question of, um	0
 what I was just talking about now. So I guess that's why I thought it was interesting.	0
+I mean, [MASK]	0
 uh, mean - u- mean calculation work that people have in commercial systems, they do this all the  time.  They - the - they	0
 calculate it from previous utterances and then use it, you know. But - but, uh,	0
 as you say, there hasn't been that much with this long -  long-time,  uh,	0
@@ -135,6 +137,7 @@ uh, in  that  sense of "filter"? And, um,	0
 as I was saying, I think the  simplest  thing to do is not to train  anything,  but just to do some sort of, uh,	0
 uh, hamming or Hanning, uh, kind of window,	0
 kind of thing, just sort of to de-emphasize the jarring. So I think that would sort of be the first thing to do.	0
+But then, yeah, [MASK]	0
 i- uh, is interesting because it would sort of say	0
 well, suppose you actually trained this up to do the best you  could  by some criterion,	0
 what would the filter look like  then?	0
@@ -147,6 +150,7 @@ lasting  a long time, people still  using  it quite a bit, because	0
 y- you don't  change  it. So	0
 a- actually I was just thinking about	1
 what I was asking about  earlier,  wi- which is about having  less than say twelve seconds	1
+in [MASK] to do the mean subtraction. You said in  systems where you use __JARGON__ cepstral mean subtraction, __/JARGON__	1
 in [MASK] to do the mean subtraction. You said in  systems where you use [MASK]	1
 they [MASK] and,  do you know how they address this issue of, um, testing versus training? Can -	1
 I think what they do is they do it always  on-line,  I mean, that you just take what you have from the  past,	1
@@ -223,6 +227,7 @@ Um, so I should probably have some kind of default  mean for the first f- couple
 Yeah. Or subtract nothing. I mean, it's -	0
 Or subtract nothing. And - and that's - that's - I guess that's something that's p- people have figured out how to deal with in [MASK] as well?	0
 Yeah, people do something. They - they, uh, they have some, um,	0
+in - in [MASK]	0
 for short-term window -  analysis  windows, as is usually done,	0
 you're trying to get rid of some very general characteristic. And so,	0
 uh, if you have any other information about what a general kind of characteristic would be, then you - you can do it there.	0
@@ -285,6 +290,7 @@ noise  estimation   is a reason for	1
 So, uh, I actually, picked th-	0
 I mean, the  first  thing I did was I just scaled the noise estimate by a factor which is less than one to see if that -	0
 because I found there are a lot of zeros in the	0
+spectrogram for [MASK]	0
 when I used this approach. So	0
 the first thing I did was I just scaled the noise estimate.  And  I found -	0
 So the - the results that I've shown here are the	0
@@ -310,6 +316,7 @@ and there's this thirty-three for [MASK]	0
 And so  it's - it's not - it's not actually very consistent across. So.	0
 The only correlation between [MASK] and this performance is the c- stationarity of the noise that is there in these condition	0
 so the overall result is like in the last page, which is like forty-seven, which is still	0
+very imbalanced because there are like fifty-six percent on [MASK] and thirty-five percent on __JARGON__ the T_I-digits. __/JARGON__	0
 very imbalanced because there are like fifty-six percent on [MASK] and thirty-five percent on [MASK]	0
 uh, ps- the fifty-six percent is like comparable to what [MASK] gets, but the thirty-five percent is way off.	0
 I'm sort of confused but - this - I'm looking on the second page,	0
@@ -335,6 +342,7 @@ The reference drops like a very fast -	0
 Oh, oh, oh, oh, oh, oh. I see.	0
 Like for clean - clean training condition.	0
 This is - this is [MASK]   we're looking at? This whole page is T_I-digits or this is - ?	0
+Oh. Yeah. It's not written anywhere. Yeah, it's [MASK] The first r- spreadsheet is [MASK]	0
 Oh. Yeah. It's not written anywhere. Yeah, it's [MASK] The first r- spreadsheet is [MASK]	0
 Mmm. How does clean training do for the, uh, "Car"	0
 The "Car"? Oh. Still - it still, uh - that - that's still consistent. I mean, I get the best performance in the case of "Car", which is the third column in [MASK]	0
@@ -389,6 +397,7 @@ So that's where the biggest improvement came up. Not much in the well match and 
 So this is still at three or four percent improvement over the first proposal.	0
 Then  if we can improve the noise estimation, then it should get better.	0
 Yeah, I - I started thinking about also - I mean yeah, uh,  I discovered the same problem when I started working on -	0
+on this [MASK] task  almost two years ago, that you have the problem with this mulit- a- at the beginning we had  only  this multi- condition training of __JARGON__ the T_I-digits. __/JARGON__	0
 on this [MASK] task  almost two years ago, that you have the problem with this mulit- a- at the beginning we had  only  this multi- condition training of [MASK]	0
 And, uh, I - I found the same problem. Just taking	0
 um, what we were  used  to u-  use,	0
@@ -435,6 +444,7 @@ actually I als- always had a good experience with [MASK]	0
 just a straight [MASK] when I was using neural networks,	0
 big neural networks, which maybe are more	0
 able to model strange distributions and -	0
+Then I tried the same - exactly the same [MASK] on these __JARGON__ Aurora __/JARGON__ tasks  and	0
 Then I tried the same - exactly the same [MASK] on these [MASK] tasks  and	0
 it, uh,  hurts  even. So.	0
 We  probably  should at some point here try the tandem - the - the - the system- two	0
@@ -469,12 +479,14 @@ If we look at [MASK] they	0
 use some kind of noise addition.	0
 They have a random number generator, right?	0
 on the trajectory of, uh, [MASK] energy only, right?	0
+[MASK] also, yeah.	0
 But I don't know how much effect it - this have, but	0
 So it - it - it - it -	0
 it is l- somehow similar to what -	0
 I think because they have th-	0
 [MASK] yeah, and then just generate random number. They have some kind of mean and variance,	0
 and they add this number to -	0
+to [MASK] simply.	0
 Yeah - the - the log energy, the - after the clean - cleaning up.	0
 So they add a random - random noise to it.	0
 To the - just the  energy,  or to the mel - uh, to the mel filter?	0
@@ -491,6 +503,7 @@ Yeah - then after that it is s- almost the same as the baseline prop- system.	0
 And then the final [MASK] that they - that they get, that - to the - to that they add some random noise.	0
 Yeah, but again, that's just [MASK] as opposed to	0
 Yeah. So it's not the mel. You know, it's not [MASK] bank output.	0
+[MASK] Yeah.	0
 These are  [MASK] computed from the time s- domain signal, not fr	0
 Maybe it's just a way to decrease the importance of	0
 this particular parameter in the - in the  world  feature vector cu-	0
@@ -504,6 +517,7 @@ issue where the delay of the system is like a hundred and eighty millisecond. So
 sk- system - I mean, another  filter  which I've like shown at the end. Which is  very  similar to the existing	1
 Only - Uh, only thing is that the phase is - is like a totally nonlinear phase because it's a -	1
 it's not a symmetric filter anymore.	0
+This is for [MASK]	0
 Yeah - so - so this - this is like - So this makes the delay	0
 like  zero  for [MASK] because it's completely  causal .	0
 So I got actually just the results for the Italian for that and that's like -	0
@@ -564,6 +578,7 @@ Ah, we need one more over here.	0
 O_K, maybe there's not enough for everybody. But -	0
 I can share with Barry.	0
 yeah, there are two figures showing actually the, mmm,	1
+performance of [MASK]	1
 So it's a n- neural network based on [MASK]	1
 uh, which estimate silence probabilities, and then	1
 just put [MASK] on this	1
@@ -593,6 +608,7 @@ well, the reference alignment. Because right now I	0
 just use an alignment obtained from -	0
 from a system trained on channel zero.	0
 I checked it a little bit but	0
+there might be [MASK]	0
 the - the models tend to align	0
 their first state on silence and their last state o- on silence also. So	0
 the reference - reference alignment would label as speech some silence frame before speech and after speech.	0
@@ -647,6 +663,7 @@ with embedded training. So re-estimation of the alignment using the neural netwo
 Yeah. We actually trained, uh, the -	0
 on the Italian training part. We - we had another	0
 So it was a f- f- [MASK]	0
+For [MASK] that it was trained on, it was different. Like, for __JARGON__ T_I-digits __/JARGON__ you used	0
 For [MASK] that it was trained on, it was different. Like, for [MASK] you used	0
 a - a previous system that you had, I guess.	0
 No it - Yeah, yeah. That's true.	0
@@ -671,9 +688,12 @@ the first frame of speech or -  So there are some utterances where it's almost	0
 So the next thing is	0
 I have the spreadsheet for three different system.	0
 But for this you only have to look right now on [MASK]	0
+uh, because I didn't test - so - I didn't test [MASK] on __JARGON__ T_I-digits __/JARGON__ yet.	0
 uh, because I didn't test - so - I didn't test [MASK] on [MASK] yet.	0
 Uh, so you have three she- sheets. One is	0
 the um [MASK] Actually, it's not exe- exactly proposal-one. It's the system that	0
+uh, [MASK] from	0
+um, [MASK] included.	0
 Um, so this gives like fifty-seven point seven percent, uh,	0
 s- uh, error rate reduction on [MASK]	0
 Mmm,  and then I have two sheets where it's for a system where -	0
@@ -689,6 +709,7 @@ and for these s- two system we have like fifty-five	0
 So again, it's around fifty-six, fifty-seven.  Uh -	0
 Cuz I notice [MASK] is exactly the same for these last two?	0
 Yeah, because I didn't -	0
+For [MASK]	0
 uh, [MASK] included in the - our system,	0
 [MASK] are the right one, but not	0
 for the other system because I didn't test it yet -	0
@@ -768,10 +789,12 @@ there is a three percent hit on Italian.	1
 d- Does latency - Sorry. Go ahead.	0
 Yeah.  Your - your smoothing was	0
 s- so to say, the -	0
+[MASK]	0
 And then it's, uh -	0
 What  was  it? This -	0
 this smoothing, it was over the	0
 subtraction factor, so to say.	0
+the gain of [MASK]	0
 And - and you are looking into the future, into the past.	0
 So, to smooth this  thing. Yeah.	0
 And did - did you try simply to smooth	0
@@ -874,12 +897,16 @@ It's with the noisy one. Yeah.	0
 It's with the noisy. Yeah. It's - it's not [MASK]	0
 It's - In - in the  front  sheet, I have like - like the summary. Yeah.	0
 And - and  your  result  is with the -	0
+It's with [MASK]	0
 Oh. This is - Your results are  all  with [MASK]  result ?	0
+Yeah, with [MASK]	0
 Is that the  reason ?	0
 And in your case it's all -	0
 all noisy, yeah.  But -	0
 But I observe my case it's in, uh,	0
+uh, at least on [MASK] it doesn't matter but __JARGON__ T_I-digits __/JARGON__ it's	0
 uh, at least on [MASK] it doesn't matter but [MASK] it's	0
+On [MASK] this matters.	0
 like two or three percent absolute,	0
 So you really might wanna	0
 Yeah, I - I - I will have to look at it. Yeah, that's true.	0

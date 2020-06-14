@@ -96,6 +96,7 @@ uh, "today evening", uh i-	0
 O_K.  Key  words, e- basically.	0
 Ge- elaborate, or, more or less,  uh -	0
 Actually, it's a  little  tricky,	0
+[MASK] which aren'	0
 Oh.  So it - it doe- I- it - These -	0
 u- these optional elements, it's - it's actually a  set,  not a  sequence?	0
 Yeah. We were - I was afraid that, um -	0
@@ -188,7 +189,7 @@ uh, that - that s- seemed to step - state variables somewhere, like the n- s- [M
 O_K. So that's going to be a call on the discourse and  confirm that it's -	0
 Oh, you mean that's not going to actually  modify  the tree, but it's going to  change  the event.  Oh.   Oh.	0
 I think that's right. I think it's actually - That  looks  like it's state modification.	0
-There is a feature called [MASK]	0
+There is a feature called __JARGON__"Discourse-Status",__JARGON__	0
 And so whenever I just say, "Write",	0
 it will - it will put this in here.	0
 Oh, so it always just - Is it - So it -	0
@@ -200,6 +201,7 @@ e- I'm not sure - e- that -	0
 Um - well, we - we'll see, when we say,	0
 causes it to c- to create basically [MASK]  Which is a means of telling the system to shut down.	0
 Now, if we know that "Write"	0
+produces [MASK]	0
 So if I now say "Write,	0
 It sho- it creates  this,	0
 But there  is  some kind of function call, because how does it know to put Goodbye in Content, but, uh, Confirm in Features?	0
@@ -223,6 +225,7 @@ Our d- This is re- um	0
 Here, we change - and so, we - Here we add something to [MASK] that the user wants to change something that was sort of done before	0
 and that, whatever is being changed has something to do with the cinema.	0
 So then, whatever takes [MASK] is what actually changes the state, not the -	0
+No, right, [MASK] yeah.	0
 I  see. And it - and it runs around looking for [MASK]	0
 and doing whatever it does with them.	0
 And other people  ignore  those tags.	0
@@ -315,6 +318,7 @@ Uh, this - and this, of course, was just the	1
 action  end. Uh, at some point we're going to have to worry about the  language  end. But for the moment just	1
 uh, t- for this class of - of  things,  we might want to try to encompass.	0
 Then the scope of this is beyond	0
+[MASK] Yeah, yeah.	0
 Oh, yeah, yeah yeah yeah. This is - this is everything that - that,	1
 we might want to do in the next couple years.	1
 So what would - O_K.	0
@@ -399,6 +403,7 @@ So I don't - I don't think,	0
 Uh, to convert them to question forms that  really  exist and people say all the  time,	0
 And - sort of - we don't know how to handle them,  too.  Right? I mean, it's -	0
 We  don't  know how to handle [MASK]	0
+and, then, [MASK] ah-oh.	0
 Yeah. Nancy, it looked like you were s-	0
 Oh. it's just that - that the goals	0
 are g- very different to cases - So we  had  this problem last year when we first  thought  about this domain, actually, was that	0
@@ -502,6 +507,7 @@ the typical example is that, um, these are all a bunch of cues for something, an
 Like, let's just look at the case when, um, this is actually the - the final action, right? So this is like, uh,	0
 touch, or - Sorry. Uh	0
 Yeah, E_-   [MASK] , right?	1
+[MASK] right?	1
 W- what was this? It - i- i- i- ehhh,  i- ehhh.	0
 Wri- write it out for- for -	0
 So, I mean, we'd like to - take all these various cues, right? So this one might be, say, uh -	0
@@ -553,6 +559,7 @@ this is a deterministic function of these,	1
 so we don't  need   to specify any probabilities.	0
 We just have to, um, say what function this is, right?	0
 So we can let this be, um -	0
+[MASK]	0
 and our example [MASK] would be, um,	0
 Well. O_K, so th- so the  important  point -	0
 W-  not  what [MASK] is.	0
@@ -621,12 +628,14 @@ way of referring to this, because	0
 Yeah. This isn't [MASK] anymore.	0
 That one actually  isn't  [MASK] So we'll have to think of	0
 of a way t- t-	0
+it's [MASK]	0
 Yeah, whatever. Yeah.  So -	0
 Well, my point was more that we just - eh - With [MASK] right, eh, things come in, you have a function that combines them and -	0
 Yeah, it - it - Tha- that's true. It is a- is also [MASK] although -	0
 Uh, it isn't  necessarily  sum -	0
 uh, s- you know,  sum  of weights or anything like that.	0
 I mean i- You could have,	1
+uh, like [MASK]	1
 really  is  one that's essentially says, uh, take the max.	1
 Right. I guess you're right. Yeah.	0
 And, I thi- I think that's the  standard  way people	1
@@ -641,6 +650,7 @@ it's point three, point four, point two. If it's a castle, it's point eight, poi
 And we don't want to write this down -	0
 necessarily  every time for something but, uh -	0
 It'll be students -  Where else would it  be stored? That's the question.	0
+Well, in the beginning, we'll write up [MASK] We know we have twenty object types and we'll write it down in [MASK]	0
 Well, in the beginning, we'll write up [MASK] We know we have twenty object types and we'll write it down in [MASK]	0
 Well, let me say something, guys, cuz there's not - There's a pretty point about this we might as well get in right now.	1
 The hierarchy that s- comes with [MASK]	1
@@ -670,9 +680,11 @@ Does this make sense to  you?  Bhask- ?	0
 So, we are - but we - we're not doing [MASK] so we have to get to whoever is doing the - u- ultimately,	0
 Indeed. So, that's another thing we're gonna need to do, is - is, to,	0
 we have to get them to -	0
+We're gonna need  some  way to either get [MASK]  in __JARGON__the ontology,__/JARGON__ or add  fields,  or -	1
 We're gonna need  some  way to either get [MASK]  in [MASK] or add  fields,  or -	1
 some  way to associate - Or, w- It may be that all we can do is, um, some of our own hash tables that it -	0
 Th- the - th- you know, there's  always  a way to  do  that. It's a just a question of -	0
+Yeah, [MASK] or whatever.	0
 But it's, uh -  Well, it strikes me as a  What For-	0
 If we  get  the mechanism,	0
 that will be sort of the  wonderful  part. And then,	0
@@ -720,9 +732,11 @@ Like, i- i- it - it  may  be,	0
 the - the instance - w- That we have to build our own	0
 Yeah, it's - Right, we can just assume -	0
 with their  types,  and then it goes off to [MASK] once you have its type. So we build a little  data  structure   And so what we would do in  that  case,	0
+is, in [MASK] have	0
 And if we- d- there  isn't  one we'd get the  type  and then have [MASK]  So we'd have our own little,	0
 uh, vectors that we need. So, we'd have our own little  things so that whenever we needed one, we'd just use the ontology to get the type,	0
 and then would hash or whatever we do to say, "ah! If it's that type of thing,	1
+and we want [MASK]	1
 So, I- I think we can handle that. And then - But, [MASK]	1
 and whether we can put those in [MASK] and all that sort of stuff,	1
 is, uh - is the  bigger  deal.	1
@@ -755,6 +769,7 @@ But, at  that  point you may say, "hey, [MASK] isn't the only package in town. L
 another  package that's, eh, more  civilized  about this."	0
 is worth talking to on this,	0
 said that  he  actually  did	0
+hack [MASK] int	0
 But he doesn't remember - at least when I talked to him, he didn't remember	0
 whether it was an e- an  easy  thing, a  natural  thing, or whether he had to do some violence to it to make it work.	0
 Uh. But he  did   do  it.	0
@@ -779,6 +794,7 @@ and try to  understand  it.	0
 Uh, you'll make a couple of more copies of [MASK] to give	0
 Yeah, I - I would like a copy,  y- y- yeah .	0
 O_K. And I- I'll - I'll think s- through this, uh,	1
+eh - getting [MASK]   dynamically out of __JARGON__ontologies__/JARGON__ one more time because I s- I - I - I'm not quite sure whether we all think of the same thing or not, here.	1
 eh - getting [MASK]   dynamically out of [MASK] one more time because I s- I - I - I'm not quite sure whether we all think of the same thing or not, here.	1
 Well, you and I should talk about it.	1
 And, Robert, thank you for	0

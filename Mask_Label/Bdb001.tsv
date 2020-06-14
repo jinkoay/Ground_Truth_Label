@@ -64,6 +64,7 @@ and then you could have, um -	0
 the utterance that it's  referring  to could be [MASK] or something like that.	0
 O_K. So, I mean, that seems -	0
 great for all of the	0
+[MASK] and,	0
 I - I guess my question is more,	0
 uh, what d- what do you do with, say, [MASK]  I mean  you've got all these phone labels, and what do you do if you -	1
 just conceptually, if you get, um, transcriptions where the words are staying	1
@@ -126,7 +127,7 @@ So I think it - it's debatable whether you want to do phone-level in the same th
 is too verbose. I would use something  tighter  than [MASK]	1
 Do you - Are you familiar with it? I haven't seen this particular format, but -	0
 I mean, I've - I've  used  them. I don't know what their structure is. I've forgot what the str-	0
-But, wait a minute, P_file for each frame is storing [MASK]	1
+But, wait a minute, P_file for each frame is storing __JARGON__a vector of cepstral__JARGON__	1
 It's whatever you want, actually. So that - what's nice about the P_file - It - i-	1
 Built into it is the concept of  frames, utterances, sentences, that sort of thing, that structure.	1
 And then also  attached  to it is an arbitrary vector of values.	1
@@ -208,6 +209,7 @@ Can you - But you can add to those structures	1
 If you have more information.   So what -	1
 What  [MASK]  would say is that instead of doing  this,  you would say something like "link	1
 start equals, um, you know, some node I_D, end equals some other node I_D",	1
+and then [MASK]	1
 You know, so it's very similar.	0
 So why would it be a - a  waste  to  do  it this way if it's  similar  enough that we can always  translate  it?	0
 It probably wouldn't be a  waste.  It would mean that at some point if we wanted to switch, we'd just have to	0
@@ -428,6 +430,7 @@ someone would build a  tool  that used that as a library.	1
 So that they - so that you wouldn't have to construct the internal representations yourself.	0
 See, I think the kinds of questions, at least in the next - to the end of this year, are -	0
 there may be a lot of different ones, but they'll all have a similar nature. They'll be	0
+looking at either [MASK]	0
 uh, an - a  value,  like a continuous value, like the slope of something. But	0
 you know, we'll do  something  where we -	0
 some kind of data reduction where the prosodic features are sort o- uh, either [MASK] or at the	0

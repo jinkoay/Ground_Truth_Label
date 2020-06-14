@@ -8,7 +8,9 @@ It's - it's - it's - it was updated yesterday, right?	1
 Oh, right, I saw - I saw the note.	0
 You probably received the mail. Yeah.	0
 So there is th- then - the - all the new features  that go in .	1
+[MASK]	1
 These are the - Yeah.	1
+[MASK] working  well?	1
 uh, up at [MASK] grabbing code	1
 Uh, I don't think - I don't think -	0
 I don't know if they use it, but.	1
@@ -57,6 +59,7 @@ to me might be - I me- I'm sure you've just been working on -	0
 details of that since the meeting, right?	0
 That was - that was Tuesday.	0
 well, I - I've been - I've been train-	0
+training [MASK]	0
 So they should be ready.	0
 But I guess maybe the thing -	1
 yo- you guys weren't at that - that meeting,	1
@@ -123,6 +126,7 @@ uh - and  then  do the reverberation part.	0
 So Dave hasn't  tried that yet?	0
 No, no. He's - I mean, e- a-	0
 I guess he's busy with -	0
+Yeah, [MASK] right. Yeah.	0
 but - but, you know, that'll - uh, it's clear that we, uh -	0
 we are not - with the  real  case that we're looking at,	0
 we can't  just  look at reverberation in isolation because the interaction between that and noise is - is considerable.	0
@@ -132,6 +136,7 @@ the interaction between channel effects	0
 and - and, uh - and additive noise, uh, so [MASK] and - and additive effects.	0
 And that's hard enough. I mean, I don't think we really - I mean, we're  trying  to deal with that.	0
 In a sense that's what we're trying to deal with in [MASK]	0
+And we have, uh, the, uh, uh, [MASK] stuff that in principle is doing something about __JARGON__ convolutional effects. __/JARGON__	0
 And we have, uh, the, uh, uh, [MASK] stuff that in principle is doing something about [MASK]	0
 noise suppression that's doing something about noise.	0
 Uh, even that's hard enough. And - and [MASK] as well, in that s- category.	0
@@ -151,9 +156,16 @@ the blocks that were already present before and that	0
 we did not modify a lot.	0
 So that's - again, that - that's the Wiener filtering, followed	0
 uh, that's done at [MASK]	0
+Yeah, th- then [MASK]	0
 The - the - the filtering is done	0
+in [MASK]	0
+And then [MASK]	0
+Then [MASK]	0
+then, um, [MASK]	0
 Then finally, we compute delta and	0
+[MASK] also.	0
 Right, and then in parallel with - an - [MASK] And then following neural net, some - probably some orthogonalization. Uh -	0
+And finally [MASK]	0
 be [MASK] also, used for estimated silence probabilities. And	0
 the input of this [MASK] would be	0
 somewhere between log  mel bands or	0
@@ -183,6 +195,7 @@ There's a question about  exactly  how we do it. We probably will go to somethin
 the  initial  thing is that [MASK] behave  differently,  so.	0
 I think Tony Robinson used to do -	0
 I was saying this before. I think he used to do	0
+mel, uh, [MASK]	0
 He used them as alternate features.	0
 So if you took the system the way it is now, the way it's fro- you're gonna freeze it,	1
 and it ran it on the last evaluation, where it would it be?	1
@@ -259,6 +272,7 @@ uh, after the noise removal, after [MASK]	0
 There's even a question in my mind anyhow of whether th- you should take the log or not.	0
 I sort of think you should, but	0
 What about norm- normalizing also?	0
+but [MASK]	0
 Some  kind would be  good.	0
 You know? I would  think.	0
 Well, it - it - it -	0
@@ -285,7 +299,9 @@ in terms of what data it's depending on. It's depending on the same data as the 
 So with this, uh, new stream would you train up a V_A_D on  both  -  both  features, somehow?	0
 No, I guess the V_A_D has its own set of features.	0
 I mean, which could be this - one of these streams, or it can be something derived from  these streams.	0
+And there is also the idea of using [MASK] maybe, for __JARGON__ the V_A_D, __/JARGON__	0
 And there is also the idea of using [MASK] maybe, for [MASK]	0
+Well, [MASK] apparently showed,	0
 when, she was at [MASK] that	0
 Would - would that fit on the handset, or - ?	0
 Well, it has t- I mean	0
@@ -299,6 +315,7 @@ and - and how big are they?	0
 So that'll - that'll be, you know, an issue.	0
 Maybe they can be little ones.	0
 Cuz she also does the, uh - the correlation-based,	0
+with-  without  [MASK] just	0
 And maybe for [MASK] they would be O_K. Yeah.	0
 Or a  simple  neural net, right? I mean, the thing is, if you're doing correlation, you're just doing a simple -	0
 dot product, you know, with some weights which you happened to learn from this - learn from the  data.  And so,	0
@@ -451,6 +468,8 @@ You know, their - their -	0
 They have a lot of options	0
 in their recognizer and - and [MASK] is one of the things they've done with it, but it's not their more standard thing.	0
 For the most part it's - it's Gaussian mixtures.	0
+It's just [MASK]	0
+[MASK] O_K.	0
 Yeah, [MASK] It was just a - it - it - it was like a hybrid, like - what? Yeah.	0
 Yeah, this is a g- yeah, this i- yeah.	0
 So, just so that I understand, they're providing scripts and everything so that	0
@@ -508,6 +527,7 @@ from - from TIMIT, right?	1
 the most common [MASK] And each one of them has - has a - a nice pattern over time, a one - one second window.	0
 And it has - has these patterns.	0
 Um, so she has, um	0
+[MASK] for each one	0
 um, times fifteen, for each of the fifteen critical bands.	0
 And, um,  she does this [MASK]	0
 which - which basically, um, is [MASK] that, uh, starts with many, many, many different points - many different clusters - uh, corresponding to the number of data, uh, patterns that you have in the data.	0
@@ -609,6 +629,7 @@ i- i- i- if you go all the way to  words,  I mean, that's  really  - I mean, d- 
 In many applications you wanna go  further.  You wanna go to  concepts  or something, or have - have - have concepts, actions, this sort of thing. But, words aren't bad, yeah. And - and	0
 But words would be a nice -	0
 Yeah, so the common - right, the common wisdom is you can't do  words  because there's too many of them, right? So you have to have some smaller set that you can	0
+and - and so everybody goes to  [MASK]  But the problem is that we - we build models of words in terms of  __JARGON__ phonemes __/JARGON__  and these models are -	0
 and - and so everybody goes to  [MASK]  But the problem is that we - we build models of words in terms of  [MASK]  and these models are -	0
 are  really  cartoon-ish, right? So when you look at conversational speech, for example, you don't see [MASK] that you - that you have in your  word  models.	0
 But - but - but we're not trying for  models  of words here. See, so her- here's maybe where - If the issue is that we're trying to come up with, um, some sort of intermediate categories which will then be useful	0

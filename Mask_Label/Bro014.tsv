@@ -248,6 +248,7 @@ So there's this assumption that the v- the voice activity detector can  only  us
 That's not clear, but this -  e-	0
 So - so if you use other features then y- But it's just a question of what is your baseline.	0
 Right? What is it that you're supposed to do  better  than? And so	0
+having the baseline be [MASK]  means that people could   choose  to pour their ener- their effort into trying to do a really good __JARGON__V_A_D__/JARGON__	0
 having the baseline be [MASK]  means that people could   choose  to pour their ener- their effort into trying to do a really good [MASK]	0
 But they seem like two  separate issues. Right? I mean -	0
 They're  sort  of separate. Unfortunately there's coupling between them,	0
@@ -280,13 +281,16 @@ about the, uh - [MASK]	0
 And - and then when the - the - the proposals actually came in and half of  them   had [MASK] and half of  them    didn't,  and the half that did did well and the  half that didn't did poorly. So it's -	0
 Yeah. So we'll see what happen with this.	0
 Yeah. So what happened since, um,  last week is -	1
+well, [MASK] these experiments	1
 And these experiments also are using,	1
 uh, some kind of noise compensation, so spectral subtraction,	1
 um, just after this. So I think [MASK] so which is similar to	1
 the pro- proposal-one, but with  [MASK] in addition,  and it seems th	1
+when you have [MASK]	1
 Is this related to the issue that you brought up a couple of meetings ago with the - the  musical tones and - ?	0
 I have no idea, because the issue I brought up was with a very simple [MASK] approach,	0
 and the one that  they use at [MASK] is one from - from  the proposed - the - the -	0
+[MASK] prop- uh, proposals,	0
 which might be much better.	0
 So, yeah. I asked  Sunil for more information about that,	0
 but, uh,  I don't know yet.	0
@@ -311,6 +315,7 @@ uh, y- putting neural network  compared to n- not having any neural network.	0
 I mean, this new system is - is - is  better,  because it has	0
 um, this sixty-four hertz cut-off,	0
 uh, clean  downsampling, and, um - what else?	0
+Uh, yeah, [MASK]	0
 Yeah, I don't know. I - I - j- uh, uh - pr-	0
 But the latencies - but you've got the latency shorter now. Yeah.	0
 Latency is short - is - Yeah.	1
@@ -344,10 +349,12 @@ uh, um, this, this, and this.	0
 of the excitation, something like this,	1
 which is - should be high for voiced sounds.	1
 Wait a minute. I - what does that mean? The variance	0
+of [MASK]	0
 So basically [MASK]  for a purely periodic sig- signal shou- sh-	0
 what yo- what [MASK] as I recall, is you're subtracting the - the, um -	1
 the mel - mel -  [MASK] uh,	1
 That's right. Yeah. So -	0
+Yeah. So we have [MASK] we have __JARGON__the F_F_T,__/JARGON__ so we  just -	0
 Yeah. So we have [MASK] we have [MASK] so we  just -	0
 So it's - it's not really an excitation, but it's something that hopefully tells you something about the excitation.	1
 Yeah, that's right.  Um -	1
@@ -382,6 +389,7 @@ really that's sort of a cartoon picture about what's voiced and unvoiced. So tha
 i- it - it may be that - that you're finding something  good  and that the variance is sort of artificial because of how you're getting your truth.	0
 Yeah. But  another  way of looking at it  might be that - I mean, what w- we- we  are  coming up with feature sets after all.	0
 So another way of looking at it is that	0
+um, [MASK]	0
 any of these variants, um, give you [MASK] It'	0
 By going back to [MASK]	0
 you're getting  something  that is  more like the raw data.	0
@@ -472,7 +480,7 @@ Yeah. What happen if - what we have - have - what we would like to have is  [MAS
 Yeah. I guess that makes sense. Yeah.	0
 which is for voiced sound ideally a - a pulse train	0
 and for unvoiced it's something that's more flat.	0
-And the way to do this  is that - well, we have the - we have [MASK][MASK] because it's computed in - in the - in the system, and we have	0
+And the way to do this  is that - well, we have the - we have [MASK] because it's computed in - in the - in the system, and we have	0
 and so if we -	0
 if we, like, remove [MASK]	0
 we have something that's  close to [MASK]	0
@@ -567,9 +575,11 @@ you know, if you actually j- uh, need to do - [MASK] it may be - it may be pushi
 And - and, uh -	0
 Would you - would you wanna do this kind of, uh, difference thing   after  you do [MASK]	0
 Maybe we can do that.	0
+[MASK] is being done	0
 at what level? Is it being done at [MASK] or at the level of, uh, mel spectrum or something?	0
 I mean, how are  they  doing it?	0
 How they're doing it? Yeah.	0
+[MASK] no?	0
 It's on [MASK] so.  So, yeah, probably -	0
 So in that case, it might not make much difference at all.	0
 I- i- it - Yeah.	0
@@ -629,6 +639,7 @@ and, uh, the importance of it in speech recognition. And I found some -  some, u
 neat papers,  um, historical papers from,  um,	1
 And they - they did a lot of experiments where th- where,  um, they take speech	1
 and, um, e- they modify  the, uh - they - they - they measure the relative importance of having different,	1
+um, portions of [MASK]	1
 And they find that the - the spectrum between one and sixteen hertz in the modulation  is, uh - is im- important for speech recognition.	1
 Sure. I mean, this sort of goes back to earlier stuff by [MASK]	0
 And - and, uh, the - [MASK] were sort of built up	0

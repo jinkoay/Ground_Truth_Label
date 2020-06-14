@@ -30,6 +30,7 @@ in a LISP-like - the knowledge base is in a LISP-like form. And then the thing t
 So, you have a - basically, a goal and it, you know, says "O_K, well I'm gonna try to do the	0
 Greet-the-person goal, so it just starts - uh, it binds some variables and it just decides to, you know, do some  subscold . Basically, it just means "build the tree."	0
 And then it passes the tree onto, uh,	0
+the ge- [MASK]	0
 But I think that the point is that out of the	1
 twelve possible utterances that the German system can do,	1
 we've already written the -	1
@@ -472,6 +473,7 @@ and uh, Johno is point person on the parser, analyzer, whatever that is, and we'
 um, the  grammar  stuff.  But	1
 we're gonna need to make some decisions like	1
 so, um - And so this is another thing where we're gonna, you know, have to get involved and make s-  relatively  early I think, make some decisions on	0
+uh, "is there [MASK]	0
 that - that" - There's a sort of standard way of getting things from [MASK] and we	0
 build the parser and stuff around  that,  or is there [MASK] that we're gonna standardize on, and if so - For example, is there something	0
 that we can use  there.	0

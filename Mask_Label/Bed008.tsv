@@ -44,6 +44,7 @@ uh current  @@  and so forth and so on or not at all, right?	0
 And so that a decision would be	0
 so you could - two different things you could do, you could have	1
 all those values for [MASK] or you could have [MASK] be binary and given that you're going there	1
+all those values for [MASK] or you could have [MASK] be binary and given that you're going there	1
 Yeah and so  forth .	0
 I mean it seems that you could	0
 uh it seems that those things would be logically independent like you would wanna have them	0
@@ -99,6 +100,7 @@ Yeah - this is where	0
 The other thing is that um every time that's updated [MASK] will have to be propagated but then the question is	1
 do you - do we wanna [MASK] every single time it's updated or only when we need to?	1
 Yeah, that's a good question.	0
+does it have [MASK]	0
 Well, I mean, in Srini's thing there was this thing - there was this um	0
 option like  [MASK] which suggests that uh	0
 someone has to track that down, but I - but uh	0
@@ -140,6 +142,7 @@ and then of course we had the fact that	0
 given the fact that he's thrifty and there will be admission then we get all these cross um	0
 We did, but the three things w- that - that it contributed to this	0
 in fact, the other two aren't up there.	0
+so one was [MASK]	0
 We'll d- what type of building is it? Yeah.	0
 And the - and the third thing we talked about was something from the discourse.	0
 What he has mentioned before.	0
@@ -147,6 +150,7 @@ O_K, so this is w-	0
 Right, so what w- I - what we seem to need here, this is why it starts getting into the technical stuff	1
 the way we had been designing this, there were three intermediate nodes	1
 uh which were the endpoint decision as seen from	1
+[MASK] as seen from __JARGON__the ontology__/JARGON__ and as seen from the discourse.	1
 [MASK] as seen from [MASK] and as seen from the discourse.	1
 the way we had it designed, now we can change the design, but the design we had	0
 was there was a decision with the same three outcomes	1
@@ -182,6 +186,7 @@ so there're two separate things. One is -	0
 uh at least two. One is how do we want to handle the notion of [MASK]	0
 now what we talked about, and this is another technical thing Bhaskara, is	0
 uh can we arrange so that	0
+so that [MASK] itself	1
 and the properties are filled in uh from on- [MASK] So the - let's take the case of the	1
 uh this endpoint thing, the notion was	0
 that if you had a few key properties like is this a tourist site, you know some kind of landmark	0
@@ -190,6 +195,7 @@ So that there'd be certain properties that would fit into the decision node	1
 again as part of the ou- outer controlling conditioning of this thing	1
 those would be set, so that some- somehow	1
 someone would find this word, look it up in [MASK] pull out these properties, put it into	1
+[MASK] and then the	1
 Seems to me that we've sort of e- em-  embedded   a lot, em-	0
 embedded a lot of these uh things we had	0
 in - in - in some of the other final decisions done here, for example	0
@@ -301,6 +307,7 @@ Well this was uh let's p- put it this - let's do endpoint	0
 i- endpoint, e- end poi- this is sa-	0
 let's say [MASK] so that's the endpoint decision	0
 uh as seen through the	0
+As related from [MASK]	0
 So let's - let's actually	0
 yeah so lin- you can link that up to the	0
 Should I rename this  too? No.	0
@@ -317,6 +324,7 @@ Well if he's usi- if he's in a car right now	0
 people with Harry drove the car into the cafe	0
 Now but the - now so - so - but then the question is	0
 so - and - and we assume that some of these properties would come indirectly through [MASK] but then we had this third idea	1
+of [MASK]	1
 let's - should we finish this, I mean but surely the user interests	0
 The user thrift, the user budget.	0
 Well, maybe, I- again, I d-	0
@@ -494,6 +502,7 @@ is what this says is that	0
 uh there sh- should be a link, and this is where things are gonna get very messy	0
 decision maybe the t- they're final re- and, I guess	0
 the very bottom endpoint decision	0
+uh to [MASK]	0
 And I - don't worry about layout, I mean then we'll go - we'll go nuts	0
 Maybe we could um have  intermediate   node that just [MASK]	0
 Because that's what we, I mean that's why this situation comes up.	0
@@ -565,11 +574,13 @@ you know, get closure that	0
 that'll be the game then, so the	0
 semantics that you'll get out of the	0
 of values that go into	0
+the various [MASK]	0
 And now some of those will get fancier like mode of transportation and stuff so it isn't by any means	1
 thing that you want out.	0
 So uh if there is an- and there is mode of transportation	0
 there's a sort of also a split if you loo- if you blow this up and look at it in more detail there's something that comes from the discourse in terms of what was actually just said	0
 what's the utterance go- giving us	0
+and then what's [MASK]	0
 Yeah, well that, well, we'll have to decide	0
 That's uh two things  then .	0
 how much of th- where that goes.	0
@@ -583,6 +594,7 @@ I wanna go back there, wow, what does that mean and	1
 But is th- is this picture that's emerging here	0
 just my wish that you have noticed already for symmetry or is it that we get for each -	0
 each decision on the very bottom we sort of get [MASK]	0
+and maybe [MASK]	0
 This is - this is getting into the thing I wanna talk about next, which is	0
 uh how do we wanna combine those?	0
 O- or when it's true?	0
@@ -696,7 +708,7 @@ It's - it's cl- e-	0
 is - is it clear what	0
 what we don't wanna do is to	0
 for every single combination of	0
-[MASK] and every single letter E_, s- give a number because that's	0
+__JARGON__E_ and V_ and A___JARGON__ and every single letter E_, s- give a number because that's	0
 What we wanna do is find some principled way of um	0
 saying what each of these is	0
 and we want it to be a valid probability distribution, so we want it to um	0
@@ -722,9 +734,11 @@ right. So we've assumed equal weights whereas it might turn out that	0
 you know, some w- be that for example, what the um	0
 the uh verbal content of what the person said, like what	0
 uh what might be uh somehow more uh important than	0
+[MASK] matters more i- than __JARGON__X_two__/JARGON__ or	0
 [MASK] matters more i- than [MASK] or	0
 Sure, so we don't wanna like give them all equal weight so currently we've been giving them all weight one fourth	1
 so we could replace this by uh	0
+[MASK]	0
 And in order for this to be a valid probability distribution for each um	0
 [MASK] we just need th	0
 So they can be for example, you know	0
@@ -737,6 +751,7 @@ these numbers have been replaced with point one, point three, point two, and poi
 So it would be, in this case	0
 So you can view these as gone.	0
 you just add up the - Yeah. So it would - it would - in this case, it would be -  [MASK] would be point three.	0
+[MASK] - yeah, [MASK] would be point th	0
 [MASK] - yeah, [MASK] would be point th	0
 If that - if that was the voting plan.	0
 So this is uh step two.	1
@@ -756,12 +771,14 @@ values of those guys and it decides in	0
 which of these isn't likely to be	0
 more reliable or most reliable.	0
 you know, it produces a number, either one, two, three, or four, in our situation, right?	1
+he looks at [MASK]	0
 say it's two, and then he just selects the uh	0
 @@  - Yeah, so that's  one  thing you can do, but the  other  - So, are you going to go on and  say  @@  -	0
 That's all there is to say, I guess about it.	0
 No it isn't. Because the  other  thing you can do is you - So this - in this case, a mixture of experts just picks one.	0
 Right, so you can have a mixture that	0
 A  weighted  one. So what you can  do,  if you - if you  need  it is to say that - I mean  here  there's a  fourth  parameter. There's a  fifth  parameter.	0
+O_K? which is [MASK]	0
 So let's suppose [MASK] says in situ-  @@  different uh,	0
 So you still combine these with weight, but the weights aren't always the same.	0
 That this guy uh detects for you that this is a situation in which you should weight this  more  or  less.	0
@@ -790,6 +807,7 @@ Yeah. Or in  @@  definitely could have - have other - it  absolutely  could have
 And it's s- it actually often does. So it is -	0
 It - it just seems that like without that - that outside input that you've got a situation where, you know, like if - if uh [MASK]	0
 says no, you know, a low value coming out of X_on- or i- if [MASK] says no then ign	0
+Yeah, well could be things like if [MASK] say yes then i- ignore __JARGON__X_one__/JARGON__ also.	0
 Yeah, well could be things like if [MASK] say yes then i- ignore [MASK] also.	0
 Or if [MASK] is greater th	0
 And  so these - so this is - this is one collection of technology that we could bring to bear. Yeah.	0
@@ -803,6 +821,7 @@ But, I still think it's a nice idea if the architecture  supports  it.	0
 So that, you know, you say, "here's the  design  and if enough data comes along uh, you co- you could use it - use the technology to - to  do  that."	0
 I still have trouble understanding the  very  first step, maybe just because I'm approaching it from the very wrong end. I don't know.	0
 So, this is true for the case that [MASK] voted	0
+Now, [MASK] could potentially also vote  __JARGON__E___/JARGON__ .	0
 Now, [MASK] could potentially also vote  [MASK] .	0
 That wo- that would be another sort of i-  Absolutely.	0
 So you specify one of these things for every one of those possi-	0
@@ -811,6 +830,7 @@ I mean we need data with people intentions, right?	1
 But what's the data about like, are we able to get these nodes from the data?	1
 Like how thrifty the user is, or do we have access to that?	0
 Yeah, but that's my question, like how do we - I mean, how do we have data about something like um	0
+or [MASK]	0
 Well, basically you would say, based on - in this dialogue that we have	0
 which one of the things that they said eh whether it was [MASK] or whatever	0
 was the thing that determined what mode it was, right?	0

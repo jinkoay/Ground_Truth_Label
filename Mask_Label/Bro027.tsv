@@ -200,7 +200,7 @@ This is what we get after -	0
 This - So, actually, we,  yeah,   here  the features are noise compensated and there is also the [MASK]	0
 Um, and then it's a pretty small neural network which use,	0
 um,  nine frames of -	0
-of six features from [MASK] plus the first derivatives.	0
+of six features from __JARGON__ C_zero to C_fives, __JARGON__ plus the first derivatives.	0
 And it has one hundred hidden units.	0
 Is that nine frames u- s- uh, centered around the current frame? Or -	0
 S- so, I'm - I'm sorry, there's - there's - there's how many - how many inputs?	0
@@ -252,6 +252,8 @@ At th-  At the  input.  I mean, that's at the input to the net.	0
 Delta at input to net?	0
 So it's like s- five, six cepstrum plus delta at nine - nine frames of -	0
 And then ten milliseconds for -	0
+Fi- There's [MASK]	0
+ten milliseconds for [MASK]	0
 and t- and ten -  another  ten  milliseconds   you said for the frame?	0
 For the frame I guess. I computed two-twenty - Yeah, well, it's -	0
 I guess it's for the fr - the -	0
@@ -262,6 +264,7 @@ um, delta and double-deltas, which is fifty milliseconds.	0
 Yeah. No, I mean, the - after the noise part, the forty - the - the other hundred and eighty -	0
 Wait a minute.  Some  of this is, uh - is, uh - is in  parallel,  isn't it? I mean, [MASK] -	0
 Oh, you have [MASK] as part of the V_D_- uh, V_A_D? Or -	0
+[MASK] use, uh,	0
 So in that case there isn't too much  in  parallel.	0
 Um, so [MASK] at the  end  is how much?	0
 But well, we could probably put the delta, um,	1
@@ -348,6 +351,7 @@ and sixty-two with the - the, you know, quote, unquote, cheating V_A_D. And fift
 Uh, yeah, the next thing is, I started to play -	0
 Well, I don't want to worry too much about the delay, no. Maybe it's better to wait	0
 Uh, but I started to play with the, um,	1
+uh, [MASK]	1
 I just did the configuration that's very similar to	1
 what we did for the February proposal.	1
 Um. So. There is a f- a first feature stream that use uh straight	1
@@ -365,6 +369,7 @@ Well, it improves on the well-matched and the mismatched conditions, but it	1
 get worse on the highly mismatched.	1
 Compared to these numbers, yeah.	0
 Um, like, on the well-match and medium mismatch, the gain is around five percent relative,	0
+fifteen percent on [MASK]	0
 You're just using the full ninety features?	1
 Y- you have ninety features?	0
 From the networks, it's twenty-eight. So -	1
@@ -409,6 +414,7 @@ when there is more mismatch, as	1
 it was the case for the -	1
 So, was the training set same as the p- the February proposal?	0
 Yeah, it's the same training set, so it's [MASK] with	0
+[MASK] uh, noises,	0
 Well, we might - uh, we might have to experiment with, uh	1
 better training sets. Again. But, I - The  other  thing is, I mean,  before  you found that was the best configuration, but you might have to retest those things now that we have different -	1
 The rest of it is different, right? So, um,	1
@@ -423,6 +429,7 @@ Instead of just on the -	0
 Yeah. I g- I  guess.  Um. The reason I did it this ways is that	0
 in February, it - we - we tested different things like that,	0
 so, having two [MASK] having ju	0
+or having [MASK]	0
 So you  tried  [MASK] before and it didn't really -	0
 Yeah. And, uh, th- Yeah. The differences between these configurations were not huge, but -	0
 But, yeah, that's obviously another thing to try,	0
@@ -469,6 +476,7 @@ to  match  anything. So we're only improving the training of our feature set, bu
 So you're saying, add [MASK]	0
 Yeah, that's the only place that we can  train.  We can't train the other stuff with anything other than the standard amount, so.	0
 What -  what  was it trained on again? The one that you used?	0
+It's [MASK] with noise.	0
 So, yeah, it's rather a small -	0
 How  big  is the  net,  by the way?	0
 Uh, it's, uh, five hundred hidden units. And -	0
@@ -498,6 +506,7 @@ but, uh, you're saying - Yeah, the noisier	0
 ones are  still  going to be,	0
 even after our noise compensation, are still gonna be pretty noisy.	0
 Yeah, so now [MASK] is seeing a different set	0
+Of [MASK] Because in __JARGON__ the TIMIT __/JARGON__ it was zero to some clean.	0
 Of [MASK] Because in [MASK] it was zero to some clean.	0
 So the net saw all [MASK]  @@	0
 conditions. Now after cleaning up it's a different set of [MASK]	0
@@ -513,6 +522,7 @@ there would  not  be a mismatch.	0
 So, I mean, this may be -	0
 noise compensation process may be  imperfect,	0
 but.  Uh, so maybe it's treating some things differently.	0
+I don't know. I - I just - that could be seen from [MASK] uh, testing condition because, um, the noises are from [MASK] right? Noise -	0
 I don't know. I - I just - that could be seen from [MASK] uh, testing condition because, um, the noises are from [MASK] right? Noise -	0
 So cleaning up [MASK] and if the performance	0
 goes  down   in  [MASK] mismatch -  high  mismatch like this -	0
@@ -571,6 +581,7 @@ b- a little bit worse.	1
 Than just the features, yeah.	0
 until you put the second path in with the pure features, the neural net wasn't helping at all.	1
 uh, if the features are b-	1
+Just plain [MASK]	0
 as soon as we added [MASK] and	1
 all these things, then -	1
 They were doing similar enough things.	1
@@ -604,6 +615,7 @@ and - and they, um -	1
 They run [MASK] on the features right before they train the models.	1
 So there's the - [MASK] is - is right there b	0
 So, you guys are using [MASK] but it seems like it's pretty far back in the process.	0
+Uh, [MASK] is different from __JARGON__ the L_D_A __/JARGON__ that you are talking abou	1
 Uh, [MASK] is different from [MASK] that you are talking abou	1
 saying is, like, you take a block of features, like nine frames or something,	1
 and then do [MASK] on it, and then redu	1
@@ -621,7 +633,9 @@ Mm-hmm. No, actually, I think - i- Well. What do we do with [MASK] is -	0
 is something like that except that it's not linear. But	1
 it's - it's like [MASK] But.	1
 Right, it's the - It's - Right. The - So - Yeah, so it's sort of like - The  tandem  stuff is kind of like i-	1
+[MASK]  I g-  Yeah.	1
 But I mean, w- but the  other  features that you have, um,	1
+th- [MASK]	1
 Yeah, I know. That - that - Yeah. Well, in the proposal, they were	1
 transformed u- using [MASK] but -	1
 Yeah, it might be [MASK]	1
@@ -649,6 +663,7 @@ But by having  them    both  there - The fact is  some  of the time,	0
 the discriminative stuff is gonna  help  you.	0
 And  some  of the time it's going to  hurt  you, and by combining two information sources if, you know - if - if -	0
 So you wouldn't necessarily then want to do [MASK] on	0
+[MASK] because	0
 now you're doing something to them that -	0
 I think that's counter to that idea. Now, again, it's - we're just trying these different things. We don't really know what's gonna work best. But	0
 if that's the hypothesis, at least it would be counter to that hypothesis to do that.	0
@@ -660,6 +675,7 @@ the idea w- the  thought  was, "Well,	0
 uh, yeah, that i- you know - th- [MASK] should be  better,  but we should at least have	0
 uh, a  number,  you know, to show that we did try [MASK]	0
 in  place  of [MASK] so that we can	0
+you know, show a clear  path.  You know, that you have it  without  it, then you have [MASK] then you have __JARGON__ the neural net, __/JARGON__ and you can see,	0
 you know, show a clear  path.  You know, that you have it  without  it, then you have [MASK] then you have [MASK] and you can see,	0
 I was just wondering - I - I -	0
 Well, I think that's a good idea.	0
@@ -693,6 +709,7 @@ I think you r- I mean, this is - it doesn't have the	0
 orthogonalizing transformation, you were trying  that  at one point, right?	0
 Does  something.  It doesn't work as well.	0
 So, yeah, I've been exploring [MASK] withou	0
+less latency using [MASK]	0
 um, after the cleaning up.	0
 So what I'd been trying was, um,	0
 After the b- after the noise compensation,	0
@@ -815,6 +832,7 @@ Yeah, like the entropy of the - the output, or -	0
 It - it seems that [MASK] doesn't - Well,	0
 uh, too many frames because the dele- the number of deletion is reasonable.	0
 But it's just when we add [MASK]	0
+[MASK] and then -	0
 Yeah. Now the  only  problem is you  don't  want to ta- I guess  wait  for the  output  of the V_A_D	0
 before you can put something  into  the other  system,  cuz that'll shoot up the latency a  lot,  right? Am I  missing  something here?	0
 Yeah. So that's maybe a  problem  with what I was just saying. But -	0
@@ -833,6 +851,7 @@ is that in the highly mismatched condition,	0
 it's, um, causing deletions by having this silence probability up - up too high,	0
 at some point where [MASK] is saying it's actually speech.	0
 Cuz - Well, the V_A_- if [MASK] said - since [MASK] is - is - is  right  a lot,  uh -	0
+Cuz - Well, the V_A_- if [MASK] said - since [MASK] is - is - is  right  a lot,  uh -	0
 Yeah. Well, we just started working with it. But these are - these are some good ideas I think.	0
 Yeah, and the other thing - Well, there are other issues maybe for the tandem, like,	0
 uh, well, do we want to, w- uh n-	0
@@ -846,6 +865,7 @@ Problem  is, if you are	0
 going to run this on different	0
 test sets, including large vocabulary,	0
 Mmm. I was just thinking maybe about,	0
+like, [MASK] and -	0
 come up with a -	0
 not too large, [MASK] and -	0
 And then anyway we would have to reduce this with [MASK] So. But -  I don't know.	0
@@ -878,6 +898,7 @@ And the week after that I won't.	0
 By that time  you'll  be -	1
 Uh, you'll  both  be gone  from  here.	1
 So there'll be no - definitely no meeting on - on September sixth.	0
+Uh, that's during  [MASK]	0
 So, uh, Sunil will be in Oregon. Uh, Stephane and I will be in Denmark.	0
 So it'll be a few weeks, really, before we have a meeting of the same	1
 I mean, you guys should probably meet. And maybe Barry - Barry will be around. And -	0

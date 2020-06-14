@@ -44,6 +44,7 @@ And, uh, I have some web pages on	0
 So, naming conventions and things like that, that I've been trying to keep actually up to date.	1
 And I've been  sharing   them with U_d- [MASK] also.	1
 I'm sorry, you've been what? Showing them?  Sharing  them. O_K.	0
+Sharing  them with [MASK]	0
 since that - that was a pretty short one, maybe we should talk about the I_B_M transcription status. Someone can	1
 fill in Liz and Andreas later. Uh	0
 O_K. So, we, uh -	1
@@ -631,6 +632,7 @@ So, I mean I'm just playing with, um,	1
 the number of [MASK] that we use in the - the recognizer, and -	1
 Well, you have to sa- you have to  tell people that you're - you're doing - you're trying the  tandem  features.	1
 Yes, I'm using tandem features.	0
+tinkering with the [MASK]	1
 Yeah, I got confused by the results. It sai- because - uh, the  meeting before,	0
 you said "O_K, we got it down to where they're - they're within a tenth of a percent".	0
 That was - that was before I tried it on the females.	1
@@ -655,6 +657,7 @@ Oh, sorry. O_K. This is on - Oh, O_K.	0
 Um, and the test data is [MASK]	1
 uh - so then  um -	1
 Oh, and plus the -	1
+[MASK]	1
 So something's really seriously wrong. So -	1
 So - but you see, now, between - between the males	1
 and the females, there's certainly a much bigger	1
@@ -844,6 +847,7 @@ if any conclusions we come to holds	0
 And, uh, with  this,  I have to leave.	0
 So, is there something quick about [MASK]  that you - ?	1
 Uh. Just what we were talking about before, which is that I	0
+ported a [MASK]	0
 got it working with fast-forward,	0
 a speedup roughly proportional to the number of processors times the clock cycle. So, that's pretty good.	1
 Um, I'm in the process of doing it for [MASK] but there's something going wrong and it's about half the speed that	0

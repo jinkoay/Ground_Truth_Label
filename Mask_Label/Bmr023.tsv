@@ -70,6 +70,7 @@ Just with - with age, kind of.	0
 that's not d- directly related to me. Doesn't mean we can't  talk  about it.	0
 it seems - It looks l- I haven't -	0
 The experiment is still not complete, but,	0
+[MASK] is working  beautifully,	1
 w- using the warp factors that we computed for [MASK] and just applying them t	0
 So you just need to  copy over to this one.	0
 Just had to take the  reciprocal  of the number because	0
@@ -360,6 +361,7 @@ boundaries  from  peaks  in the utterance and	1
 range - pitch range effects, like how close people are to their floor,  are  showing up in these classifiers,	1
 which are also being given some  [MASK] that are cheating, cuz they're  true  words.	1
 Um, so these are based on [MASK]	1
+[MASK]	0
 and whether or not something's a [MASK] and so forth.	0
 So, we're  starting  to see, I think, some	0
 So the  dominant  features, including everything, were those - those quasi-cheating things. Right? Where these are -	0
@@ -385,6 +387,7 @@ I guess  you  reported on some te- punctuation type - finding sentence boundarie
 [MASK] and then I had done some work on	1
 finding from the  foreground  speech  whether  or not someone was likely to  interrupt,  so where -	1
 you know, if I'm talking  now  and someone - and - and Andreas is about to interrupt me, is he gonna choose a certain  place  in my speech, either prosodically or  word-based.	1
+And  there  [MASK]	1
 a  neat  thing - even though the word features were  available.	1
 And a  neat  thing there  too  is I tried some -	1
 putting the  speaker  - So, I gave everybody	1
@@ -531,12 +534,15 @@ ea- everybody else who was doing Wall Street Journal  knew  that there were [MAS
 like,  really  terrible results, like two, three times the error everybody else was getting.	0
 And then in casual conversation someone ment- mentioned "uh, well, I guess, you know, of course you're taking care of the  offsets. " I said " what  offsets?"	0
 And at  that  point, you know, we were pretty new to the data and we'd never really, like,  looked  at it on a  screen  and then when we just put it on the screen  and wroop!	0
+there's this [MASK]	0
 There was a - like a  hum  or some- or - when they  recorded  it? Or just - ?	0
 No. It's just, it - it's - it's not at all uncommon for - for recorded electronics to have different, um, [MASK]	0
 It's - it's, you know, no big  deal.  It's - you know, you could have ten, twenty, maybe thirty millivolts,  whatever,  and it's consistently  in  there.	0
 The  thing  is,  most  people's front-ends have pre- emphasis  with it, with zero  at  zero  frequency,	0
+Uh, but with [MASK]	0
 we didn't actually  have  that. We had - we had	0
 the  equivalent  of pre-emphasis in a - a, uh,	0
+[MASK] weighting that occurs in the middle of __JARGON__P_L_ P,__/JARGON__	0
 [MASK] weighting that occurs in the middle of [MASK]	0
 but it doesn't actually have a  zero  at zero frequency, like, eh, uh, typical simple fr- pre- emphasis  does.	0
 We had something more  fancy.  It was later on it didn't  have  that.	0
@@ -600,6 +606,7 @@ So, Morgan, an-  another  thing that Andreas and I were talking about was, so  @
 we just took the whole	0
 fifty-six, uh, outputs and that's, um,	0
 basically compared to a thirty-nine input feature vector	0
+from either [MASK]	0
 But one thing we  could  do is -	0
 Let - let me - let me just ask you something. When you say take the fifty-six  outputs,   these are the pre-	0
 final nonlinearity  outputs and they're - and -	0
@@ -643,6 +650,7 @@ I u- I do -	0
 Oh, we actually don't  do  that normalization for [MASK]  do  we?	0
 For the st- just the straight [MASK]	0
 No. The - [MASK] does it.	0
+[MASK] does that. Right.	0
 Well, you might e- e-	0
 So that's - that's another -	0
 So, there's - there is - there is room for bugs that we might not have	0

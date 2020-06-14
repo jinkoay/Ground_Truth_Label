@@ -34,6 +34,7 @@ that we have a system that does all that understanding	1
 that we want it to do	1
 to make that system  produce	1
 So if you have the knowledge of how to interpret "where is X_?"	1
+situational, user, [MASK]	1
 you should also be able to make that same system  ask	1
 in a sper- certain way,	0
 So in- instead of just being able to	0
@@ -107,13 +108,16 @@ Well you're not gonna - are you gonna get a  variety  of intentions out of that 
 what's the th- what is it - what is that user most likely to want to do?	0
 And, have it talk about -	0
 Well you can observe some user and  context  stuff and ask, what's the	1
+[MASK]	1
 You could even say, "let's take  [MASK] let's observe  nothing ", and query	0
 It- it's gonna tell us  something.	0
 assign  values  to all the nodes. Yes.	1
 Yes. And come up with	0
+__JARGON__posterior probabilities for all the values of the  decision  nodes.__JARGON__	0
 Which, if we have an algorithm that filters out whatever the - the best or the most consistent	0
 And that is exactly what would  happen  if we ask it to  produce  an utterance, it would be b- based on that extension,   ex nihilo,   which we don't know what it  is,  but it's  there.	0
 So we wouldn't even have to - t- to  kick  start it by  giving  it a certain intention or	0
+observing  anything on [MASK]	0
 maybe that would lead to "what is the castle?", or "what is  that  whatever".	0
 I  guess  what I'm  afraid  of is if we don't,	0
 you know, set up a  situation,	0
@@ -161,6 +165,7 @@ so this is just an idea that's floating around and we'll see what happens.	0
 what other news do  I  have?	0
 Well we fixed some more things from [MASK] but that's not really of general interest,	1
 Oh!  Questions,  yeah. I'll ask Eva about [MASK] and she's working on that.	1
+How is [MASK]	1
 I'm gonna work on that today and tomorrow.	0
 O_K. No need to do it today or  tomorrow  even. Do it  next  week or -	0
 I'm gonna finish it today, uh hopefully.	1
@@ -452,6 +457,7 @@ we  don't  want a  hard  code,	0
 you know, sort of filter, or uh search [MASK]	0
 So what would be kind of  cool  is	1
 that if we  encounter  concepts that are castle, tower, bank, hotel,	1
+we run it through [MASK] and __JARGON__the ontology__/JARGON__ tells us it has	1
 we run it through [MASK] and [MASK] tells us it has	1
 um, admission, opening times, it has admission fees, it has this, it has that,	1
 and then we - we - we make [MASK] look up, and then search dynamically through the uh,	1
@@ -505,6 +511,7 @@ or "where is the zoo",	0
 um, what - what we think the - the output	1
 uh, observe, out - i- input nodes for [MASK]	1
 So that - And I will - I will then	1
+come up with [MASK]	1
 uh, bits and pieces, so that we can say, O_K we - we  always  just look at this utterance.	1
 That's the  only  utterance we can do,	0
 it's hard coded, like Srini, sort of hand parsed,	0
@@ -559,6 +566,7 @@ And, what other discourse information from the discourse history could we hope t
 squeeze  out of that  utterance?	1
 So define the - the  input  into [MASK]	1
 based on what the utterance, "where is X_", gives us.	1
+have [MASK] here	0
 which is activated via [MASK] so	0
 "where is X_" produces something that is s- stands for  X_ , whether it's castle, bank, restroom, toilet, whatever. And then [MASK] will tell us -	0
 That it has a  location  or something like that? - or th- [MASK] will tell us where actually it is located?	0
@@ -592,12 +600,14 @@ And, in this cas- and since - since it can mean either of those things, it would
 I'm thinking about it. Um -	0
 It  will  be the same. So I think	0
 r- in here we have "I'll go there", right?	0
+And we have [MASK]	0
 So in my c- my case, this would	0
 sort of make  this   happy, and this would make [MASK]  happy.	0
 What  you're  saying is we have [MASK]	0
 Right? That's what you're proposing, which is, in my mind  just  as fine.	0
 So w- if we have [MASK] "where is X_",	1
 po- [MASK] that - it'	1
+[MASK]  and th	1
 Which would be exactly analogous to what I'm proposing is,	1
 makes something  here  true, and this makes something -  also  something here true, and this makes  this  True-up, and this makes this [MASK] as well.	1
 I kinda like it better  without that  extra level of indirection too. You know with - with this points to this points to that, and so on because  I don't know, it -	1
@@ -673,6 +683,7 @@ with context and enough user information, yeah.	0
 happens, based on what we know about that entity, about the user, about his  various  beliefs, goals, desires, blah-blah-blah.	0
 But this is the sort of thing, I - I  propose  that we  think  about,	0
 so that we actually end up with um,	1
+[MASK]	1
 so that we can put  them   into [MASK]	1
 so we - all there is is "where is X_",	0
 and, Eva can play around with the observed things, and we can run our better [MASK] and have it produce some  output.  And for the first time in th- in -	1
@@ -691,6 +702,7 @@ I suggest there it  is.	0
 So th- this might be a nice opening  paragraph  for the paper as saying,	1
 "you know people look at kinds of -  at ambiguities", and	1
 in the literature there's "bank"	0
+whatever kinds of [MASK]	0
 And we can say, well, that's all nonsense.	0
 A_, uh these things are  never   really  ambiguous in discourse,	1
 B_, don't ever  occur  really in discourse, but	1

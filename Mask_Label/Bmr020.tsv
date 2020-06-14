@@ -122,8 +122,10 @@ I bet there's a  weak  dependence. I'm sure it's - it's not a real strong one.	1
 Cuz not everybody  talks.  Yeah.	0
 You have a lot of - a lot of  two-party,	1
 subsets  within the meeting. Well regardless - it's an interesting result  regardless.	1
+Right. And - and - and then - and we also d- computed this both with and without [MASK] so you might think that __JARGON__backchannels__/JARGON__ have a special  status  because they're essentially just -	0
 Right. And - and - and then - and we also d- computed this both with and without [MASK] so you might think that [MASK] have a special  status  because they're essentially just -	0
 So, did - we all said "uh-huh" and nodded at the same time, so.	0
+But, even if you take out all [MASK]  - so basically you treat __JARGON__backchannels__/JARGON__ l- as  nonspeech,  as pauses,  you  still  have significant overlap. You know, it goes down from maybe -	1
 But, even if you take out all [MASK]  - so basically you treat [MASK] l- as  nonspeech,  as pauses,  you  still  have significant overlap. You know, it goes down from maybe -	1
 For  [MASK]  it goes down from - I don't know -  f-	0
 I don't know - f- fourteen percent of the words to maybe	0
@@ -220,6 +222,7 @@ And then we looked at the - the locatio- the,	0
 you know, the  features  that - the  tags  because we had  tagged  these word strings,   um, that - that occurred  right  before these - these uh,  interrupt  locations.	1
 And the tags we looked at are	1
 [MASK] which basically says -	1
+[MASK] So -	1
 there was a  pause  essentially here, because [MASK] are a - defined as being you know, five hundred milliseconds or longer pauses,	1
 and then we had things like [MASK]	1
 uh, [MASK] -  So disfluen- the D_'s are for,	1
@@ -235,6 +238,7 @@ And of course the d- [MASK] we got from the original transcripts.	0
 So, and then we looked at the disti- so we looked at the  distribution of these different kinds of tags,  overall  uh, and - and - and particularly at [MASK]	0
 And uh, we found that there  is  a marked  difference  so	0
 that for instance  after  -	1
+so at the end  after  [MASK] or  after  __JARGON__backchannel__/JARGON__ or	1
 so at the end  after  [MASK] or  after  [MASK] or	1
 O_K?  And also of course after  [MASK] which means basically in p-	1
 So we have this little histogram which shows these distributions and,  um,	0
@@ -303,6 +307,7 @@ I made a n- new directory	1
 after  Chuck  said that would c- that was gonna be	0
 Uh, so it's "F_T_P   pub  real" - Exactly.	0
 What is it again? [MASK] -	0
+u- [MASK] yeah.	0
 Or - Yeah. Right? The same - the same as the mailing list, and - Yeah.	0
 Yeah, the -  No vowels. Yeah	0
 Um,  and then under there -	1
@@ -558,6 +563,7 @@ both  of these guys' channels,  determining if there're any cases of misclassifi
 and  a- and adding a tag if that happens.	0
 So she does the adjustments on those guys?	0
 But you know, I wanted to say, his segmentation is so good, that  um, the part that I listened to with her yesterday	1
+didn't  need  any [MASK]	1
 So this is not gonna be a major part of the process,	0
 at least - least not in - not on ones that - that really -	0
 So if you don't have to adjust the  bins,	0
@@ -624,6 +630,7 @@ Doing the gain? It's no problem.	0
 O_K. So we just run that one -	0
 There are  lots  of ways to do it.  I  have  one  program that'll do it. You can  find   other  programs.	0
 I - I used it, so.	0
+We just run [MASK]	0
 Minus  D_ , capital  D_ .	0
 but - but I -	1
 I - I have  another suggestion on that, which is,	1

@@ -29,6 +29,8 @@ doing it the easy way,	1
 or we simply adopt the ah um	1
 um style that is implemented in the German system	1
 are then able not only to produce	0
+strings but also [MASK]	0
+[MASK] that is underneath	0
 which is the way we decided we were gonna go because A_, it's easier in the beginning	0
 and um it does require some - some knowledge of - of those grammars and - and - and	0
 But um it shouldn't be a problem for anyone.	0
@@ -73,6 +75,7 @@ Right. This is then out of deference to our	0
 And actually we can invite um	0
 Uh he will be in Washington, though.	0
 Oh that's true. He's off - off on his trip already.	0
+knows everything about [MASK]	0
 O_K well yeah maybe we'll see if David could make it. That would be good.	0
 facing to - to what we've sort of been doing here	0
 well for one thing we're also using this room to collect data.	1
@@ -116,6 +119,7 @@ person  more   likely to want to walk there?	0
 and so forth. There are all kinds of decisions that we have identified	0
 in terms of getting to places and in terms of finding information about things.	0
 And we are constructing - and then we've identified more or less the	0
+[MASK] that may f-	0
 play a role. Information related to the user and information related to the situation.	0
 And we also want to look closely on the linguistic information that	0
 what we can get from the utterance. That's part of why we implant	0
@@ -133,6 +137,7 @@ cuz he just bought film, or "that person wants to enter because he discussed the
 Or "that person wants to enter because he wants to buy something and that you usually do inside of buildings" and so forth.	1
 These ah these types of uh	1
 these bits of additional information are going to be	1
+embedded into [MASK]	1
 in an - sort of [MASK] that we have reserved.	1
 And if the action planner does something with it, great. If not	0
 you know, then that's also something	0
@@ -284,6 +289,7 @@ because um again in- in [MASK] we have faced and implemented those problems once
 You don't know - O_K th-	0
 I'll - I'll talk to Michael	0
 it's what I do anyway. Who - How far is the uh	0
+the - [MASK]	0
 for - for [MASK] gone on the - the uh I haven't seen anything	0
 for the uh tourist path domain.	0
 Yeah, it's - it's not defined  yet .	0
@@ -451,6 +457,7 @@ S- so uh y- we - we looked at the e- current pattern matching thing.	0
 And as you say it's just [MASK]	0
 Uh, So what are - what are the  plans  roughly?	1
 it's to - to integrate and [MASK]	1
+add some more [MASK]	0
 So then an utter- more than one utterance is -	0
 So the idea is to uh - have a pa- y- y- a particular - Do you have a particular parser in mind? Is it	0
 uh - partic- d- I mean have you thought through - ?	0
@@ -459,7 +466,7 @@ No - no it's - uh I think it's	0
 it's just one - one person and so	0
 I have to keep the -	0
 Oh,  you  have to do it.  You  have to do it, yeah.	0
-but uh,  Miel  [MASK] with u	0
+but uh,  Miel  __JARGON__syntactic analysis__JARGON__ with u	0
 But the people at D_F_-	0
 People at [MASK] have  written  a fair number of  parsers.	1
 Other - you know,  people  over the  years.	0
@@ -487,6 +494,7 @@ Oh from - from Stuttgart, yeah, also	0
 kind of  trying  to  fit  them  together  that	0
 h- used more  context.  Right?	0
 and - and especially you	0
+was [MASK] which	0
 learned from a big corpus of - of trees.	0
 And yes the - it - [MASK] w	0
 um Mark  Light  originally w-	0
@@ -509,6 +517,7 @@ I - I can give you the names of the people who do it there.	0
 Then there is of course  more  ways of parsing things.	0
 Of  course.  But - But	1
 constraints,  that you want it to be  small  and  fast  and  so   forth,	1
+probably  into [MASK]	1
 I'm  not  a big believer in this um	0
 That seems to me kind of a last resort if uh	0
 do it any other way.	0
@@ -616,6 +625,7 @@ uh from  our  point of view this is also a research project	0
 and there are a couple of people  not  here	0
 for various reasons who are doing  doctoral  dissertations on this,	1
 the idea that we're  really  after	1
+is [MASK] based	1
 of  [MASK]  that  characterize  a lot of  activity.	1
 So a  typical  one in this  formulation  is a  container.	0
 So this is a  static  thing.	0
@@ -627,7 +637,9 @@ But also, importantly for Lakoff and these guys is all sorts of  metaphorical	0
 things are  also   characterized   this way. You get in  trouble  and you know et cetera  and so - s-	0
 So, what we're  really  trying to do	1
 is to map from the  discourse	1
+to [MASK]	1
 So  another  one of these primitive,	0
+what are called [MASK]	0
 So this a notion of a source,	0
 And the idea is this is [MASK]	0
 And that all  sorts  of things,  particularly  in the tourist domain, can be represented in  terms  of uh source, path and goal. So the idea would be could we build an  analyzer  that would take an  utterance	1
@@ -646,6 +658,7 @@ is going to be  not  about using this in applications, but about modeling how ch
 this kind of uh [MASK]	0
 And how do you envision	0
 um the - the um	0
+[MASK] to be	0
 worked with. Would it be highly ambiguous	0
 if and then there would be another module that takes that	0
 [MASK] and map it onto the current context to find out what the person	0
@@ -663,4 +676,5 @@ about "Is it raining?" I don't know. Whatever it is. And so that's [MASK] that w
 And so th- the  coupling  to the situation comes in this model from, at th- at th- at [MASK] combining evidence from the dialogue with	1
 But Nancy isn't gonna talk about  that,  just about the	0
 Yeah, oh yeah, I see, yeah yeah, really.	0
+Right. The - [MASK]	0
 Is it i- in, then,  your   place, in five -	0

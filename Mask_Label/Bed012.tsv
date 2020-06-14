@@ -35,6 +35,7 @@ That put it into the format that [MASK] or whatever wants?	0
 Yea- Are you talking - are you talking about the - the  structure?	0
 I mean when you  observe  a node.	0
 When you - when you say	0
+[MASK]	0
 it takes a certain format, right?	0
 Which I don't think is  this.	0
 No, it's  certainly  not this.	0
@@ -51,6 +52,7 @@ So, this is a -	0
 So this is just a specification of all the possible inputs?	1
 all the possible  outputs,   too.	0
 for example, the, uh, [MASK]	0
+and  not-going-there  and [MASK]	0
 because the output is always gonna be	0
 [MASK] and all the - the - a-	0
 And then we would just look at [MASK] that we wanna look at in terms of if - if we're only asking about one of the -	0
@@ -68,6 +70,7 @@ list  of - of, um,	0
 things, and the question is	1
 what to  do  with it,	1
 So y- you said if you - "I'm only interested in whether he wants to  go  there or not", then I just  look  at that  node,	0
+Look at [MASK] right?	0
 Look at [MASK] even though	0
 I wouldn't call it [MASK] But.	0
 Well i- well, it's an X_M_L Structure that's being res- returned, right?	0
@@ -138,12 +141,14 @@ But, why - why - why only those  three?  Why not the whol-	0
 Well, I mean, d- For [MASK]	0
 So we'd have a node for [MASK]	0
 Yeah. But we believe that [MASK] are - can be relevant	0
+and [MASK]	0
 Is food not allowed in here?	0
 You can come in if you want.	0
 As long as y- you're not wearing your h- your h-  headphones.	0
 Alright. Just a second. I'll be back.	0
 Well, I do- I - See, I don't know if this is a  good idea or not. I'm just throwing it out.	0
 But uh, it seems like we could have - I mea- or uh we could put all of the- all of the r- information that could also be relevant	0
+into [MASK]	0
 Let's not forget we're gonna get some very strong  input from  these sub- dis- from [MASK] right?	0
 "Tell me the location of X_."	0
 Or "Where is X_ located	0
@@ -188,6 +193,7 @@ has s- stronger beliefs that he wants to know where it is, than actually wants t
 That it - Doesn't this assume, though, that they're evenly weighted?	0
 I guess they  are  evenly weighted.	1
 The different decision nodes, you mean?	1
+Yeah, [MASK]	0
 Well, d-  yeah,  this is making the assumption.	0
 What do you  mean  by "differently weighted"? They don't feed into anything  really   anymore.	0
 But I mean, why do we -	0
@@ -200,6 +206,7 @@ Yeah, so, the final d- decision is the combination of these three. So again, it'
 O_K so, then, the question i- So then my question is t- to you then, would be -	0
 So is the only r- reason we can  make  [MASK] because we know we can only deal with	0
 Cuz oth- If we're just taking arbitrary language in, we couldn't have a node for every possible question, you know?	0
+[MASK] you mean?	0
 Well, I - like, in the case of - Yeah.	0
 In the ca- Any piece of language, we wouldn't be able to answer it with this system, b- if we just h-	0
 Cuz we wouldn't have the correct node. Basically, w- what you're s- proposing is [MASK] right?	0
@@ -258,6 +265,7 @@ Well, yeah, just out of the other three, though, that you had in the -	0
 those three nodes. The- d- They didn't seem like they were mutually exclusive.	0
 No, there's - No. But -	0
 So th- s- so, yeah, but some - So, some things would drop out, and some things would still be important.	0
+But I guess what's confusing me is, if we have [MASK] to deal w- __JARGON__another Bayes-net__/JARGON__ to deal with this stuff,	0
 But I guess what's confusing me is, if we have [MASK] to deal w- [MASK] to deal with this stuff,	0
 is the only reason - O_K, so,	0
 if we have a Ba- [MASK] to deal with this stuff, the only r- reason	0
@@ -285,16 +293,19 @@ Now, the e- But for some reason [MASK]	0
 gets a really high score,  too.	0
 We can't expect this to be sort of at [MASK]	0
 three, three, three, [MASK] three, three, three, [MASK] three, three, three. Right?	0
+three, three, three, [MASK] three, three, three, [MASK] three, three, three. Right?	0
 Somebody needs to  zap  that.	0
 There needs to be  some  knowledge that -	0
 Yeah, but, [MASK] that would merge -	0
 I  just   realized that I had my hand in between my mouth and my micr- er, my- and my microphone.	0
+[MASK] that would merge	1
 there, that would make [MASK]	1
 would have a node to tell you which one of those three you wanted, and based upon that node, then you would  look  at the other stuff.	1
 Yep. It's sort of one of those, that's - It's more like [MASK]	0
 if - if you want.	0
 You first look o- at the  lowball  ones, and then -	0
 Yeah, I didn't intend to say that every possible - O_K.	0
+There was  a  confusion there, k- I didn't intend to say every possible thing should go into [MASK] because some of the things aren't relevant in __JARGON__the Bayes-net__/JARGON__	0
 There was  a  confusion there, k- I didn't intend to say every possible thing should go into [MASK] because some of the things aren't relevant in [MASK]	0
 is not necessarily relevant in [MASK]  until after you've decided whether you wanna  go  there or not.	0
 Show us the way, Bhaskara.	0
@@ -309,6 +320,7 @@ Basically, things you ignore get marginalized over.	0
 Yeah, but that's - that's just shifting the problem.	1
 Then you would have to make a decision, "O_K, if it's [MASK] which	1
 Yeah. So you have to make -	0
+[MASK] do I query?"	1
 But I would think that's what you want to do. Right?	0
 Well, eventually, you still have to pick out which ones you look at. So it's pretty much the same problem, isn't it?	1
 Yeah - it's - it's - it's apples and oranges. Nuh?	0
@@ -321,8 +333,10 @@ estimate of what you think might be relevant and query those.	0
 So basically, you'd have [MASK]	1
 If k- if that's false, query this one. If that's true, query that one. And just basically do a binary search through the - ?	1
 I don't know if it would necessarily be that, uh, complicated. But, uh -	0
+Well, in the case of [MASK] it  would  be. In the case - Cuz if you needed an- If y- If __JARGON__Go-there__/JARGON__ was  true,  you'd wanna know what endpoint	0
 Well, in the case of [MASK] it  would  be. In the case - Cuz if you needed an- If y- If [MASK] was  true,  you'd wanna know what endpoint	0
 was. And if it was  false,  you'd wanna d- look at	0
+either Lo-  [MASK]	0
 That's true, I guess. Yeah,  so, in a way you  would  have that.	0
 Also, I'm somewhat boggled by [MASK]	1
 I can't figure out how to get the	1
@@ -415,7 +429,9 @@ Yeah, I can worry about the ontology interface and you can - Keith can worry abo
 these are just going to be uh  dummy  values, right?	0
 S- so - so if the  endpoint  - if [MASK]  is Yes and No, th	0
 Um, what do you mean?  If  [MASK] says No, then [MASK] is -	0
+Um, what do you mean?  If  [MASK] says No, then [MASK] is -	0
 Like, [MASK] depends on all those four things.	0
+But, what are [MASK]	0
 Well, it depends on the situation. If the discourse is  strongly  indicating that -	0
 Yeah, but, uh, we  have  no discourse input.	0
 Oh,  I  see. The d- See, uh, specifically in our situation, D_ and O_ are gonna be, uh - Yeah. Sure. So, whatever.	0
@@ -474,6 +490,7 @@ O_K, so it's like in the  thousands.	0
 Any - any form- meaning  pair, to my understanding, is a construction.	1
 And form u- starts at the level of noun - Or actually, maybe even  sounds.  Yeah.	0
 And then, of course, the c- I guess, maybe there can be the -	0
+Can there be [MASK]	0
 The "giving a speech" construction,	0
 you know, you can  probably  count -	1
 It's probab- Yeah, I would s- definitely say it's finite.	0

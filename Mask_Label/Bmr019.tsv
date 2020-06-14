@@ -60,6 +60,7 @@ yes, it's a digits task and that's a relatively small number of words and	1
 there's a bunch of digits that you train on,	1
 it's just  not  as  good	1
 as having a - a l- very large amount of data and training up a - a - a nice good big	1
+[MASK] Um, also you had the adaptation in __JARGON__the S_R_I system,__/JARGON__ which we didn't have in this.	1
 [MASK] Um, also you had the adaptation in [MASK] which we didn't have in this.	1
 Di- did I send you some results without adaptation?	0
 No. Or if you did, I didn't include them, cuz it was -	0
@@ -72,6 +73,7 @@ Uh, I - I don't remember, but there was -  there was a significant,	0
 loss or win  from adaptation - with - with adaptation.	0
 that was [MASK] And then there was a very small -	0
 like point one percent on the natives - uh, win from doing,	0
+you know, [MASK]	0
 And  I tried both means adaptation and means and variances, and the variances added another - or subtracted another point one percent. So,	0
 it's, um - that's the number there. Point six, I believe, is what you get with	0
 both, uh, means and [MASK]	0
@@ -91,6 +93,7 @@ Yeah, bu- although I'd be - I think it'd be interesting to just take this exact 
 Mm-hmm. Well, Adam knows how to run it, so you just	0
 Yeah. Yeah. Yeah. Cuz our sense from the other - from [MASK] uh, task is that - I mean, cuz we were getting sub one percent	0
 And try it with [MASK]	0
+[MASK] So,	0
 one - so there were a number of things we noted from this. One is, yeah, [MASK] -	1
 this, you know, very limited [MASK]	0
 Uh, but the other is that, um, the digits	1
@@ -108,9 +111,11 @@ So my expectations is [MASK] would, especially -	0
 I think [MASK] is all  American English. Right? So it would probably do even a little better still	0
 on [MASK] but we could give it a try.	0
 Well. But   remember,  we're using [MASK] here, uh, on this, uh -	1
+on [MASK] so,	1
 um, I was - I thought that maybe that's actually a good thing because it - it gets rid of some of the - uh, the noises,	0
 um, you know, in the -	0
 the - below and above the -	0
+you know, [MASK]  and,	0
 I suspect that to get sort of the last bit out of these higher-quality recordings you would have to in fact, uh,	1
 use models that, uh, were trained on [MASK]	1
 data. And of course we can't do that or -	1
@@ -123,6 +128,7 @@ one - one issue -	0
 one issue with - with that is that	0
 um, the system has this, uh, notion of a  speaker  to - which is used in adaptation, variance norm- uh, you know,	0
 both in, uh, mean and variance normalization and also in	0
+[MASK] So -	0
 Yeah, I noticed the script that extracted it.	0
 So does - so th- so does - does, um,	0
 [MASK] database have speakers that are known?	0
@@ -153,8 +159,10 @@ Or is that another one? I'm - I looked through a  bunch  of the digits t- corp- 
 Cuz one of them was literally people reading a single digit.	0
 And then others were [MASK]	0
 Yeah. Most of [MASK] I think. The - I mean, we h	0
+Maybe it's [MASK] .	0
 that's - that was [MASK]	0
 By the way, I think we can improve these numbers if we care to compr- improve them	1
+by, um,  not starting with [MASK] but by taking [MASK] and doing	1
 by, um,  not starting with [MASK] but by taking [MASK] and doing	1
 on a small amount of digit data collected	1
 Because that would adapt your models to the room acoustics and f- for [MASK] you know, to the noise.	0
@@ -242,6 +250,7 @@ But - but - but how did we get the - how did we determine	0
 which is, you know, a -	0
 uh, that we're testing on	0
 in the stuff we reported?	0
+In [MASK] we took	1
 and we took cases where the  transcribers  said there was only one person talking here, because no one else had time -	1
 any  words in that segment and called that [MASK]	1
 And that's what we were getting those numbers from. Right.	1
@@ -371,6 +380,7 @@ And you - and what we wanted to try with - you know, once we have this paper wri
 uh, t- [MASK] and then one copy of it would be adapted to the foreground speaker	1
 to [MASK] and the other copy would be adapted to the background speaker.	1
 Right. I mean, in general we actually -	0
+Right now [MASK]	0
 and you normally allow those to match to any word. But then the background speech was also [MASK]	0
 and so this constraint of [MASK] - you know, it needs to differentiate between the two. So just sort of working through a bunch of	1
 And  another  one is turns, like people starting with	0
@@ -422,7 +432,9 @@ Well, I th- I'm thinking just ch- e- e- incorporating it into the  representatio
 You mean like -  Yeah,  [MASK]	0
 if you have start points, if you have, like,  time  tags, which is what I  assume.  Isn't that what - what you - ? Well, see, Adam would be -	0
 Yeah, whatever you use. I mean, we convert it to this format	0
+that the, um, [MASK]	0
 [MASK] And - and then that's the - that's what the -	0
+I think [MASK]	0
 If it - ? O_K. So you would know this more than I would.	0
 Yeah.  So, I mean -	0
 It  seems  like she - if she's g- if she's moving  time  marks around, since [MASK] it seems like there should be  some  way of - of  using  that -  benefitting  from that.	1
@@ -540,8 +552,10 @@ But tha- that's good to know. Was thi- it's Chafe?	0
 Well, see, I know S- Sue wrote about [MASK]  But,  in any case, I think it's a good term, and, uh -	0
 So maybe we should talk -	0
 Maybe it was Sue - ? Y-	0
+So [MASK]	0
 And ma- maybe - maybe Chafe did. I know - I know Ch- Chafe dealt with -	0
 And then it's got all - it's a verb now.	0
+Chafe speaks about  [MASK]	0
 But maybe he  speaks  about [MASK] as well and I just don't know. Yeah, go ahead.	0
 So what we're doing - uh, this - this is just - maybe someone has s- some - some ideas about how to do it better, but we -	0
 So we're taking these, uh, [MASK]	0
@@ -618,6 +632,8 @@ And  good  ones,  good  ones, which sometimes means  a little extra time.	0
 And  good  submission- Right. Well -	0
 That's another issue, but -	0
 By th- by the way, this is  totally  unfair, you may - you may feel, but the - the, uh - the  morning  meeting folks actually have an - an extra month or so.	0
+Yep. [MASK] -	0
+There's [MASK]	0
 Well, then you can just -	0
 Oh, well maybe we'll submit to s-   Actually -	0
 Maybe you can submit the digits paper on e- for [MASK]	0
@@ -629,6 +645,7 @@ But - but the people - I mean,	0
 a - a paper that is  not  on [MASK] would probably be  more  interesting at that point because everybody's so sick and tired of the Aurora task.	0
 Oh, I thought you meant this was just the  digits  section. I didn't know you meant it was  [MASK]	0
 Well, no. If you - if you have - it's to - if you discuss some relation to [MASK] like if you use the same -	0
+This  is  not  [MASK]	0
 So they just do a little grep for -	0
 Do - uh, d- d-	0
 Do not - do not - we are not setting a good example. This is not a -	0
@@ -849,6 +866,7 @@ You mean that the - [MASK]	0
 That'd be good. We- we'll give everybody the same sheet but they say different -	0
 It's like a - like a Greek - like a Greek choir? You know? Like -  Yeah.	0
 Hey, what a good idea. We could do the same sheet for everyone. Have  them   all read  them   at once.	0
+Well, [MASK]	0
 Or - or just same digits. See if anyone notices.	0
 So they would all be - Yeah.	0
 Yeah. That'd be good. And then - then we can  sing  them next time.	0
